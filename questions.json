@@ -298,8 +298,482 @@
             "Forms helical chains for storage"
           ]
         }
+      ],
+      "1.1.5. - Lipids": [
+        {
+          "question": "Which elements are found in lipids?",
+          "correct": "Carbon, hydrogen, oxygen",
+          "options": ["Carbon, hydrogen, oxygen", "Carbon, hydrogen, nitrogen", "Carbon, hydrogen, sulfur", "Carbon, oxygen, phosphorus"]
+        },
+        {
+          "question": "Compared to carbohydrates, lipids have:",
+          "correct": "A lower proportion of oxygen",
+          "options": ["A lower proportion of oxygen", "More oxygen", "No hydrogen", "More nitrogen"]
+        },
+        {
+          "question": "What is the solubility of lipids?",
+          "correct": "Insoluble in water; soluble in organic solvents",
+          "options": [
+            "Insoluble in water; soluble in organic solvents",
+            "Soluble in water; insoluble in alcohol",
+            "Soluble in water and alcohol",
+            "Insoluble in all solvents"
+          ]
+        },
+        {
+          "question": "What are the two main groups of lipids?",
+          "correct": "Triglycerides and phospholipids",
+          "options": ["Triglycerides and phospholipids", "Monosaccharides and polysaccharides", "Proteins and enzymes", "Steroids and carbohydrates"]
+        },
+        {
+          "question": "Which role of lipids relates to cell membranes?",
+          "correct": "Phospholipids provide flexibility and allow movement of lipid-soluble substances",
+          "options": [
+            "Phospholipids provide flexibility and allow movement of lipid-soluble substances",
+            "Triglycerides store energy",
+            "Lipids form the cytoskeleton",
+            "Lipids catalyse reactions"
+          ]
+        },
+        {
+          "question": "When oxidised, lipids release:",
+          "correct": "Twice as much energy as carbohydrates",
+          "options": [
+            "Twice as much energy as carbohydrates",
+            "Less energy than carbohydrates",
+            "Same energy as carbohydrates",
+            "No energy, only water"
+          ]
+        },
+        {
+          "question": "Which structural feature forms triglycerides?",
+          "correct": "Glycerol + 3 fatty acids via ester bonds",
+          "options": [
+            "Glycerol + 3 fatty acids via ester bonds",
+            "Glycerol + phosphate group",
+            "Glucose + fatty acids",
+            "Amino acids + glycerol"
+          ]
+        },
+        {
+          "question": "Saturated fatty acids have:",
+          "correct": "No C=C double bonds",
+          "options": ["No C=C double bonds", "One C=C bond", "Multiple C=C bonds", "No hydrogen atoms"]
+        },
+        {
+          "question": "What is a key property of phospholipids?",
+          "correct": "They are polar with hydrophilic heads and hydrophobic tails",
+          "options": [
+            "They are polar with hydrophilic heads and hydrophobic tails",
+            "They are non-polar and hydrophobic throughout",
+            "They are entirely hydrophilic",
+            "They are ionic molecules"
+          ]
+        },
+        {
+          "question": "What is the positive result for the emulsion test for lipids?",
+          "correct": "Cloudy-white emulsion",
+          "options": ["Cloudy-white emulsion", "Blue-black colour", "Purple colour", "Clear solution"]
+        },
+        {
+          "question": "Why does the emulsion test produce cloudiness?",
+          "correct": "Lipid droplets disperse and refract light",
+          "options": [
+            "Lipid droplets disperse and refract light",
+            "Chemical reaction forms a red precipitate",
+            "Iodine binds to lipids",
+            "Lipids dissolve completely in water"
+          ]
+        },
+        {
+          "question": "Which property of lipids helps in insulation?",
+          "correct": "Fats reduce heat loss and act as electrical insulators",
+          "options": [
+            "Fats reduce heat loss and act as electrical insulators",
+            "They provide rapid energy release",
+            "They stabilize enzymes",
+            "They absorb water"
+          ]
+        },
+        {
+          "question": "Which property of lipids provides waterproofing?",
+          "correct": "Insolubility in water",
+          "options": [
+            "Insolubility in water",
+            "Solubility in alcohol",
+            "High energy content",
+            "Low mass to energy ratio"
+          ]
+        }
+      ],
+      "1.1.6. - Proteins": [
+        {
+          "question": "What are proteins primarily made of?",
+          "correct": "Amino acids",
+          "options": ["Amino acids", "Monosaccharides", "Fatty acids", "Nucleotides"]
+        },
+        {
+          "question": "How many naturally occurring amino acids are found in proteins?",
+          "correct": "20",
+          "options": ["20", "100", "50", "10"]
+        },
+        {
+          "question": "What evidence supports evolution based on amino acids?",
+          "correct": "Universal use of the same 20 amino acids",
+          "options": [
+            "Universal use of the same 20 amino acids",
+            "Variation in polysaccharides",
+            "Variation in lipids",
+            "Different DNA sequences"
+          ]
+        },
+        {
+          "question": "Which groups are attached to the central carbon in an amino acid?",
+          "correct": "Amino group, carboxyl group, hydrogen atom, R-group",
+          "options": [
+            "Amino group, carboxyl group, hydrogen atom, R-group",
+            "Hydroxyl group, phosphate group, hydrogen, R-group",
+            "Amino group, methyl group, hydrogen, phosphate group",
+            "Carboxyl group, hydroxyl group, nitrogen, R-group"
+          ]
+        },
+        {
+          "question": "What type of reaction forms a peptide bond between amino acids?",
+          "correct": "Condensation reaction",
+          "options": ["Condensation reaction", "Hydrolysis reaction", "Oxidation reaction", "Reduction reaction"]
+        },
+        {
+          "question": "What bond is formed between the carboxyl carbon and amino nitrogen in proteins?",
+          "correct": "Peptide bond",
+          "options": ["Peptide bond", "Glycosidic bond", "Hydrogen bond", "Ester bond"]
+        },
+        {
+          "question": "What determines the primary structure of a protein?",
+          "correct": "Sequence of amino acids",
+          "options": ["Sequence of amino acids", "Hydrogen bonds", "Disulfide bridges", "Polypeptide folding"]
+        },
+        {
+          "question": "Which type of bond stabilises the secondary structure of proteins?",
+          "correct": "Hydrogen bonds",
+          "options": ["Hydrogen bonds", "Peptide bonds", "Ionic bonds", "Disulfide bridges"]
+        },
+        {
+          "question": "Which bonds help stabilise the tertiary structure of proteins?",
+          "correct": "Disulfide bridges, ionic bonds, hydrogen bonds",
+          "options": [
+            "Disulfide bridges, ionic bonds, hydrogen bonds",
+            "Peptide bonds only",
+            "Glycosidic and hydrogen bonds",
+            "Ionic bonds only"
+          ]
+        },
+        {
+          "question": "What does quaternary protein structure involve?",
+          "correct": "Multiple polypeptide chains combined, may include prosthetic groups",
+          "options": [
+            "Multiple polypeptide chains combined, may include prosthetic groups",
+            "Sequence of amino acids only",
+            "Single polypeptide chain twisted into helix",
+            "Folding into α-helix or β-sheet"
+          ]
+        },
+        {
+          "question": "Which test detects proteins in a sample?",
+          "correct": "Biuret test",
+          "options": ["Biuret test", "Benedict’s test", "Emulsion test", "Iodine test"]
+        },
+        {
+          "question": "What indicates a positive Biuret test?",
+          "correct": "Purple colour",
+          "options": ["Purple colour", "Blue-black colour", "Cloudy-white emulsion", "Orange precipitate"]
+        },
+        {
+          "question": "Which protein type provides structural strength and has long, cross-linked chains?",
+          "correct": "Fibrous proteins",
+          "options": ["Fibrous proteins", "Globular proteins", "Enzymes", "Hemoglobin"]
+        },
+        {
+          "question": "Which protein type is compact, spherical, and often involved in metabolic functions?",
+          "correct": "Globular proteins",
+          "options": ["Globular proteins", "Fibrous proteins", "Collagen", "Keratin"]
+        },
+        {
+          "question": "Give an example of a fibrous protein.",
+          "correct": "Collagen",
+          "options": ["Collagen", "Hemoglobin", "Amylase", "Insulin"]
+        },
+        {
+          "question": "Give an example of a globular protein.",
+          "correct": "Enzymes or haemoglobin",
+          "options": ["Enzymes or haemoglobin", "Collagen", "Keratin", "Cellulose"]
+        }
+      ],
+      "1.1.7. - Enzyme Action": [
+        {
+          "question": "What type of protein acts as a biological catalyst?",
+          "correct": "Enzyme",
+          "options": ["Enzyme", "Fibrous protein", "Globular protein", "Hormone"]
+        },
+        {
+          "question": "What is a key property of a catalyst?",
+          "correct": "Increases reaction rate without being permanently changed",
+          "options": [
+            "Increases reaction rate without being permanently changed",
+            "Supplies energy for reactions",
+            "Changes permanently during the reaction",
+            "Stops reactions from occurring"
+          ]
+        },
+        {
+          "question": "How do enzymes affect activation energy?",
+          "correct": "They lower the activation energy",
+          "options": ["They lower the activation energy", "They increase the activation energy", "They remove activation energy", "They create reactions"]
+        },
+        {
+          "question": "Why are enzymes important for metabolic reactions in humans?",
+          "correct": "They allow reactions to occur quickly at body temperature",
+          "options": [
+            "They allow reactions to occur quickly at body temperature",
+            "They increase energy input needed",
+            "They make reactions irreversible",
+            "They change the products of reactions"
+          ]
+        },
+        {
+          "question": "What determines the 3D tertiary structure of an enzyme?",
+          "correct": "The primary amino acid sequence",
+          "options": [
+            "The primary amino acid sequence",
+            "The number of substrates",
+            "The temperature",
+            "The pH only"
+          ]
+        },
+        {
+          "question": "What is the functional region of an enzyme where the substrate binds?",
+          "correct": "Active site",
+          "options": ["Active site", "Binding site", "Peptide bond", "R-group"]
+        },
+        {
+          "question": "Which bonds temporarily hold the substrate in the active site?",
+          "correct": "Hydrogen bonds",
+          "options": ["Hydrogen bonds", "Peptide bonds", "Glycosidic bonds", "Ionic bonds only"]
+        },
+        {
+          "question": "What does the induced fit model propose about the enzyme active site?",
+          "correct": "It changes shape slightly to fit around the substrate",
+          "options": [
+            "It changes shape slightly to fit around the substrate",
+            "It is rigid and exactly matches the substrate",
+            "It does not interact with the substrate",
+            "It permanently alters the substrate"
+          ]
+        },
+        {
+          "question": "How does the induced fit model explain the lowering of activation energy?",
+          "correct": "By straining bonds within the substrate",
+          "options": [
+            "By straining bonds within the substrate",
+            "By increasing temperature",
+            "By adding energy",
+            "By removing enzymes"
+          ]
+        },
+        {
+          "question": "What is a limitation of the lock and key model?",
+          "correct": "It does not account for enzyme flexibility",
+          "options": [
+            "It does not account for enzyme flexibility",
+            "It does not explain substrate specificity",
+            "It assumes enzymes are inactive",
+            "It only applies to carbohydrates"
+          ]
+        }
+      ],
+      "1.1.8. - Factors Affecting Enzyme Action": [
+        {
+          "question": "What two conditions must be met for an enzyme to function?",
+          "correct": "Enzyme must contact substrate; active site must be complementary",
+          "options": [
+            "Enzyme must contact substrate; active site must be complementary",
+            "Enzyme must be denatured; substrate must be acidic",
+            "Substrate must be saturated; enzyme must be hydrophobic",
+            "Enzyme must be phosphorylated; substrate must be polar"
+          ]
+        },
+        {
+          "question": "How is progress of an enzyme-catalysed reaction commonly measured?",
+          "correct": "Formation of products or disappearance of substrate",
+          "options": [
+            "Formation of products or disappearance of substrate",
+            "Color change of enzyme only",
+            "Increase in temperature",
+            "Change in pH only"
+          ]
+        },
+        {
+          "question": "Why does the rate of reaction slow as substrate is used up?",
+          "correct": "Collisions between substrate and enzyme become less frequent",
+          "options": [
+            "Collisions between substrate and enzyme become less frequent",
+            "Enzyme is used up",
+            "Substrate becomes more reactive",
+            "Enzyme concentration increases"
+          ]
+        },
+        {
+          "question": "How do you calculate the rate of reaction from a graph?",
+          "correct": "Gradient of tangent to the curve",
+          "options": [
+            "Gradient of tangent to the curve",
+            "Slope of the x-axis",
+            "Average y-value",
+            "Area under the curve"
+          ]
+        },
+        {
+          "question": "When testing one variable in an experiment, what must be done with other variables?",
+          "correct": "Keep all other variables constant",
+          "options": [
+            "Keep all other variables constant",
+            "Change them randomly",
+            "Ignore them",
+            "Double their values"
+          ]
+        },
+        {
+          "question": "What effect does increasing temperature initially have on enzyme activity?",
+          "correct": "More collisions, more enzyme-substrate complexes, rate increases",
+          "options": [
+            "More collisions, more enzyme-substrate complexes, rate increases",
+            "Denaturation immediately occurs",
+            "Rate decreases",
+            "Substrate concentration drops"
+          ]
+        },
+        {
+          "question": "At approximately what temperature do human enzymes begin to denature?",
+          "correct": "~60°C",
+          "options": ["~60°C", "~37°C", "~45°C", "~80°C"]
+        },
+        {
+          "question": "Why do humans maintain body temperature at 37°C for enzymes?",
+          "correct": "To prevent denaturation and minimize energy costs",
+          "options": [
+            "To prevent denaturation and minimize energy costs",
+            "To maximize substrate concentration",
+            "To inactivate enzymes",
+            "Because enzymes require high temperature to function"
+          ]
+        },
+        {
+          "question": "How does pH affect enzyme activity?",
+          "correct": "Alters active site charges and can disrupt hydrogen and ionic bonds",
+          "options": [
+            "Alters active site charges and can disrupt hydrogen and ionic bonds",
+            "Changes substrate color",
+            "Removes substrate molecules",
+            "Increases enzyme concentration"
+          ]
+        },
+        {
+          "question": "What happens if enzyme concentration increases when substrate is in excess?",
+          "correct": "Rate of reaction increases",
+          "options": ["Rate of reaction increases", "Rate of reaction decreases", "Enzyme denatures", "No change occurs"]
+        },
+        {
+          "question": "What happens to reaction rate if substrate concentration increases beyond enzyme saturation (Vmax)?",
+          "correct": "Rate levels off",
+          "options": ["Rate levels off", "Rate decreases", "Rate increases indefinitely", "Enzyme denatures"]
+        },
+        {
+          "question": "At low substrate concentration, why is the reaction slower?",
+          "correct": "Not all active sites are occupied",
+          "options": [
+            "Not all active sites are occupied",
+            "Enzyme is denatured",
+            "Substrate is too reactive",
+            "Product inhibits reaction"
+          ]
+        }
+      ],
+      "1.1.9. - Enzyme Inhibition": [
+        {
+          "question": "What is the function of enzyme inhibitors?",
+          "correct": "Reduce or prevent enzyme activity",
+          "options": [
+            "Reduce or prevent enzyme activity",
+            "Increase enzyme activity",
+            "Change substrate structure",
+            "Provide energy for reactions"
+          ]
+        },
+        {
+          "question": "What are the two main types of enzyme inhibitors?",
+          "correct": "Competitive and non-competitive inhibitors",
+          "options": [
+            "Competitive and non-competitive inhibitors",
+            "Reversible and irreversible inhibitors",
+            "Covalent and ionic inhibitors",
+            "Allosteric and catalytic inhibitors"
+          ]
+        },
+        {
+          "question": "How does a competitive inhibitor work?",
+          "correct": "Binds to the active site, competing with the substrate",
+          "options": [
+            "Binds to the active site, competing with the substrate",
+            "Binds away from the active site, altering its shape",
+            "Denatures the enzyme permanently",
+            "Changes the substrate into a different molecule"
+          ]
+        },
+        {
+          "question": "How can the effect of a competitive inhibitor be reduced?",
+          "correct": "By increasing substrate concentration",
+          "options": [
+            "By increasing substrate concentration",
+            "By decreasing substrate concentration",
+            "By heating the enzyme",
+            "By changing pH to extreme values"
+          ]
+        },
+        {
+          "question": "Give an example of competitive inhibition in biology.",
+          "correct": "Malonate inhibiting a respiratory enzyme that binds succinate",
+          "options": [
+            "Malonate inhibiting a respiratory enzyme that binds succinate",
+            "Penicillin binding to an allosteric site",
+            "Substrate saturation at Vmax",
+            "Enzyme denaturation at high temperature"
+          ]
+        },
+        {
+          "question": "How does a non-competitive inhibitor work?",
+          "correct": "Binds away from the active site, altering its shape",
+          "options": [
+            "Binds away from the active site, altering its shape",
+            "Binds directly to the active site",
+            "Competes with substrate for binding",
+            "Increases substrate concentration"
+          ]
+        },
+        {
+          "question": "Can increasing substrate concentration reduce non-competitive inhibition?",
+          "correct": "No, the inhibitor does not compete for the active site",
+          "options": [
+            "No, the inhibitor does not compete for the active site",
+            "Yes, it always reduces inhibition",
+            "Only at very low temperatures",
+            "Only if enzyme concentration is doubled"
+          ]
+        },
+        {
+          "question": "Where does a non-competitive inhibitor bind?",
+          "correct": "At an allosteric site",
+          "options": ["At an allosteric site", "At the active site", "To the substrate", "To the product"]
+        }
       ]
-
     },
     "Cell Structure": {
       "Organelles": [
