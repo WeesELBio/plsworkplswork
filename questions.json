@@ -73,6 +73,63 @@
           ]
         }
       ]
+      "1.1.2. - Carbohydrates: Monosaccharides": [
+        {
+          "question": "What are carbohydrates primarily composed of?",
+          "correct": "Carbon and water",
+          "options": ["Carbon and water", "Carbon and nitrogen", "Hydrogen and oxygen", "Nitrogen and phosphorus"]
+        },
+        {
+          "question": "What is the general formula for simple sugars (monosaccharides)?",
+          "correct": "(CH2O)n",
+          "options": ["(CH2O)n", "C6H12O6", "C12H22O11", "CH4O"]
+        },
+        {
+          "question": "Which elements are mainly found in biological molecules?",
+          "correct": "C, H, O, N",
+          "options": ["C, H, O, N", "C, H, O, P", "H, O, N, S", "C, O, S, P"]
+        },
+        {
+          "question": "What is the monomer of carbohydrates?",
+          "correct": "Monosaccharide",
+          "options": ["Monosaccharide", "Amino acid", "Nucleotide", "Fatty acid"]
+        },
+        {
+          "question": "What type of sugar is glucose?",
+          "correct": "Hexose sugar",
+          "options": ["Hexose sugar", "Pentose sugar", "Triose sugar", "Disaccharide"]
+        },
+        {
+          "question": "Which of the following are examples of monosaccharides?",
+          "correct": "Glucose, fructose, galactose",
+          "options": ["Glucose, fructose, galactose", "Maltose, sucrose, lactose", "Starch, glycogen, cellulose", "Amino acids, peptides, proteins"]
+        },
+        {
+          "question": "What are the two isomers of glucose?",
+          "correct": "α-glucose and β-glucose",
+          "options": ["α-glucose and β-glucose", "Glucose and fructose", "D-glucose and L-glucose", "Hexose and pentose"]
+        },
+        {
+          "question": "What type of sugars are all monosaccharides?",
+          "correct": "Reducing sugars",
+          "options": ["Reducing sugars", "Non-reducing sugars", "Disaccharides", "Polysaccharides"]
+        },
+        {
+          "question": "Which reagent is used to test for reducing sugars?",
+          "correct": "Benedict’s reagent",
+          "options": ["Benedict’s reagent", "Biuret reagent", "Iodine solution", "Sudan III"]
+        },
+        {
+          "question": "What is the visible result when a reducing sugar reacts with Benedict’s reagent?",
+          "correct": "Red precipitate of copper(I) oxide",
+          "options": [
+            "Red precipitate of copper(I) oxide",
+            "Blue solution remains unchanged",
+            "Purple solution forms",
+            "Black precipitate forms"
+          ]
+        }
+      ]
 
     },
     "Cell Structure": {
