@@ -775,12 +775,493 @@
         }
       ]
     },
-    "Cell Structure": {
-      "Organelles": [
+    "1.2. - Nucleic Acids": {
+      "1.2.1. - Structure of DNA and RNA": [
         {
-          "question": "Which organelle is responsible for energy production?",
+          "question": "What are the two main types of nucleic acids?",
+          "correct": "DNA and RNA",
+          "options": ["DNA and RNA", "mRNA and tRNA", "Amino acids and proteins", "Polysaccharides and lipids"]
+        },
+        {
+          "question": "Which nucleic acid carries genetic information across generations?",
+          "correct": "DNA",
+          "options": ["DNA", "RNA", "mRNA", "tRNA"]
+        },
+        {
+          "question": "What three components make up a nucleotide?",
+          "correct": "Pentose sugar, phosphate group, nitrogen-containing base",
+          "options": [
+            "Pentose sugar, phosphate group, nitrogen-containing base",
+            "Amino acid, phosphate group, lipid",
+            "Ribose, fatty acid, protein",
+            "Glucose, phosphate, nucleotide"
+          ]
+        },
+        {
+          "question": "Which bond joins two nucleotides in a polynucleotide chain?",
+          "correct": "Phosphodiester bond",
+          "options": ["Phosphodiester bond", "Hydrogen bond", "Peptide bond", "Glycosidic bond"]
+        },
+        {
+          "question": "Which bases are found in DNA?",
+          "correct": "Adenine, Thymine, Cytosine, Guanine",
+          "options": ["Adenine, Thymine, Cytosine, Guanine", "Adenine, Uracil, Cytosine, Guanine", "Adenine, Uracil, Thymine, Guanine", "Cytosine, Guanine, Uracil, Thymine"]
+        },
+        {
+          "question": "Which bases are found in RNA?",
+          "correct": "Adenine, Uracil, Cytosine, Guanine",
+          "options": ["Adenine, Uracil, Cytosine, Guanine", "Adenine, Thymine, Cytosine, Guanine", "Adenine, Thymine, Uracil, Guanine", "Cytosine, Guanine, Thymine, Uracil"]
+        },
+        {
+          "question": "What type of sugar is found in RNA?",
+          "correct": "Ribose",
+          "options": ["Ribose", "Deoxyribose", "Glucose", "Fructose"]
+        },
+        {
+          "question": "What type of sugar is found in DNA?",
+          "correct": "Deoxyribose",
+          "options": ["Deoxyribose", "Ribose", "Glucose", "Fructose"]
+        },
+        {
+          "question": "How are DNA strands joined together?",
+          "correct": "Hydrogen bonds between complementary bases",
+          "options": [
+            "Hydrogen bonds between complementary bases",
+            "Phosphodiester bonds",
+            "Peptide bonds",
+            "Covalent bonds between sugars"
+          ]
+        },
+        {
+          "question": "Which DNA bases pair together?",
+          "correct": "A with T, G with C",
+          "options": ["A with T, G with C", "A with U, G with C", "A with G, T with C", "C with U, A with G"]
+        },
+        {
+          "question": "What feature of DNA allows it to act like a twisted ladder?",
+          "correct": "Sugar-phosphate backbone on the outside, base pairs forming the rungs",
+          "options": [
+            "Sugar-phosphate backbone on the outside, base pairs forming the rungs",
+            "Hydrogen bonds only",
+            "Double phosphodiester bonds",
+            "Alpha-helix of amino acids"
+          ]
+        },
+        {
+          "question": "In which direction are nucleic acids synthesised in vivo?",
+          "correct": "5’ to 3’",
+          "options": ["5’ to 3’", "3’ to 5’", "Both directions simultaneously", "Random"]
+        },
+        {
+          "question": "Which carbon in the pentose sugar attaches to the phosphate group?",
+          "correct": "5’ carbon",
+          "options": ["5’ carbon", "3’ carbon", "1’ carbon", "2’ carbon"]
+        },
+        {
+          "question": "Which carbon has the OH group for nucleotide addition during DNA synthesis?",
+          "correct": "3’ carbon",
+          "options": ["3’ carbon", "5’ carbon", "1’ carbon", "2’ carbon"]
+        },
+        {
+          "question": "Why is DNA stable?",
+          "correct": "Phosphodiester backbone protects bases and hydrogen bonds link complementary pairs",
+          "options": [
+            "Phosphodiester backbone protects bases and hydrogen bonds link complementary pairs",
+            "It contains Uracil instead of Thymine",
+            "It is single-stranded",
+            "It has free nucleotides only"
+          ]
+        },
+        {
+          "question": "How many hydrogen bonds form between G–C and A–T pairs respectively?",
+          "correct": "3 for G–C, 2 for A–T",
+          "options": ["3 for G–C, 2 for A–T", "2 for G–C, 3 for A–T", "1 for G–C, 1 for A–T", "4 for both"]
+        },
+        {
+          "question": "What was the key conclusion from the pneumonia bacteria experiment regarding hereditary material?",
+          "correct": "DNA from dead S bacteria transformed R bacteria into harmful form",
+          "options": [
+            "DNA from dead S bacteria transformed R bacteria into harmful form",
+            "Proteins from S bacteria transformed R bacteria",
+            "RNA alone caused transformation",
+            "Lipids were responsible for hereditary material"
+          ]
+        },
+        {
+          "question": "In the virus experiment, what indicated that DNA, not protein, carries genetic instructions?",
+          "correct": "Only bacteria infected with viruses containing radioactive DNA showed radioactivity",
+          "options": [
+            "Only bacteria infected with viruses containing radioactive DNA showed radioactivity",
+            "All bacteria became radioactive regardless of labeling",
+            "Only protein-labeled viruses infected bacteria",
+            "Neither DNA nor protein was incorporated"
+          ]
+        }
+      ],
+      "1.2.2. - DNA Replication": [
+        {
+          "question": "Why must DNA replicate before nuclear division?",
+          "correct": "To ensure each daughter cell receives a complete set of genetic information",
+          "options": [
+            "To ensure each daughter cell receives a complete set of genetic information",
+            "To create extra enzymes for the cell",
+            "To prevent mutation entirely",
+            "To produce RNA molecules"
+          ]
+        },
+        {
+          "question": "What are the two main stages of cell division?",
+          "correct": "Nuclear division and cytokinesis",
+          "options": ["Nuclear division and cytokinesis", "Mitosis and meiosis only", "DNA replication and transcription", "Translation and transcription"]
+        },
+        {
+          "question": "Which model of DNA replication is correct?",
+          "correct": "Semi-conservative",
+          "options": ["Semi-conservative", "Conservative", "Dispersive", "Random"]
+        },
+        {
+          "question": "What does semi-conservative DNA replication produce?",
+          "correct": "Two DNA molecules, each containing one original and one new strand",
+          "options": [
+            "Two DNA molecules, each containing one original and one new strand",
+            "Two DNA molecules, both completely new",
+            "One DNA molecule intact and one completely new",
+            "Two hybrid molecules with mixed fragments"
+          ]
+        },
+        {
+          "question": "Which enzyme separates DNA strands during replication?",
+          "correct": "DNA helicase",
+          "options": ["DNA helicase", "DNA polymerase", "RNA polymerase", "Ligase"]
+        },
+        {
+          "question": "Which enzyme catalyses formation of phosphodiester bonds in the new strand?",
+          "correct": "DNA polymerase",
+          "options": ["DNA polymerase", "DNA helicase", "Ligase", "Topoisomerase"]
+        },
+        {
+          "question": "Which process ensures complementary bases pair accurately during replication?",
+          "correct": "Specific base pairing: A–T, C–G",
+          "options": [
+            "Specific base pairing: A–T, C–G",
+            "Random pairing of bases",
+            "Hydrogen bond formation with sugar",
+            "Formation of peptide bonds"
+          ]
+        },
+        {
+          "question": "Which four types of free nucleotides are required for DNA replication?",
+          "correct": "Adenine, Thymine, Cytosine, Guanine",
+          "options": ["Adenine, Thymine, Cytosine, Guanine", "Adenine, Uracil, Cytosine, Guanine", "Adenine, Thymine, Uracil, Cytosine", "Guanine, Cytosine, Uracil, Thymine"]
+        },
+        {
+          "question": "What is the main difference between the conservative and semi-conservative replication models?",
+          "correct": "Conservative keeps the original DNA intact, semi-conservative splits strands for templates",
+          "options": [
+            "Conservative keeps the original DNA intact, semi-conservative splits strands for templates",
+            "Semi-conservative keeps the original DNA intact, conservative splits strands",
+            "Conservative produces RNA, semi-conservative produces DNA",
+            "Both produce identical molecules with no difference"
+          ]
+        },
+        {
+          "question": "What was the key isotope used in the Meselson–Stahl experiment to label heavy DNA?",
+          "correct": "15N",
+          "options": ["15N", "14N", "32P", "12C"]
+        },
+        {
+          "question": "After one generation in 14N medium, what type of DNA was observed in the Meselson–Stahl experiment?",
+          "correct": "Intermediate density DNA (one 15N strand, one 14N strand)",
+          "options": [
+            "Intermediate density DNA (one 15N strand, one 14N strand)",
+            "Only heavy DNA (15N–15N)",
+            "Only light DNA (14N–14N)",
+            "Random fragments of DNA"
+          ]
+        },
+        {
+          "question": "Which stage of DNA replication involves free nucleotides binding to the template strand?",
+          "correct": "Base pairing",
+          "options": ["Base pairing", "Strand separation", "Strand synthesis", "Formation of new DNA molecules"]
+        },
+        {
+          "question": "What type of reaction links nucleotides together during strand synthesis?",
+          "correct": "Condensation reaction forming phosphodiester bonds",
+          "options": [
+            "Condensation reaction forming phosphodiester bonds",
+            "Hydrolysis reaction forming hydrogen bonds",
+            "Oxidation reaction forming covalent bonds",
+            "Ionic bonding between nucleotides"
+          ]
+        },
+        {
+          "question": "How do the results after two generations in the Meselson–Stahl experiment support semi-conservative replication?",
+          "correct": "Hybrid DNA and light DNA appear, no fully heavy DNA",
+          "options": [
+            "Hybrid DNA and light DNA appear, no fully heavy DNA",
+            "All DNA remains heavy",
+            "All DNA becomes light immediately",
+            "DNA fragments are randomly mixed"
+          ]
+        },
+        {
+          "question": "Why is DNA replication highly accurate?",
+          "correct": "Complementary base pairing ensures correct nucleotides are added",
+          "options": [
+            "Complementary base pairing ensures correct nucleotides are added",
+            "DNA polymerase adds nucleotides randomly",
+            "Hydrogen bonds are weak",
+            "Replication occurs in multiple directions simultaneously"
+          ]
+        }
+      ],
+      "1.2.3. - Energy and ATP": [
+        {
+          "question": "Where does the energy used by all living organisms ultimately come from?",
+          "correct": "The Sun",
+          "options": ["The Sun", "ATP", "Glucose", "Mitochondria"]
+        },
+        {
+          "question": "What is the main energy currency used for cellular processes?",
+          "correct": "ATP",
+          "options": ["ATP", "Glucose", "ADP", "NADH"]
+        },
+        {
+          "question": "Which components make up an ATP molecule?",
+          "correct": "Adenine, ribose, three phosphate groups",
+          "options": [
+            "Adenine, ribose, three phosphate groups",
+            "Adenine, deoxyribose, two phosphate groups",
+            "Thymine, ribose, three phosphate groups",
+            "Uracil, ribose, two phosphate groups"
+          ]
+        },
+        {
+          "question": "Which bond in ATP stores energy?",
+          "correct": "Phosphate bonds",
+          "options": ["Phosphate bonds", "Hydrogen bonds", "Peptide bonds", "Glycosidic bonds"]
+        },
+        {
+          "question": "Which reaction releases energy from ATP?",
+          "correct": "ATP hydrolysis",
+          "options": ["ATP hydrolysis", "ATP condensation", "Photosynthesis", "Oxidation of glucose"]
+        },
+        {
+          "question": "What enzyme catalyses ATP hydrolysis?",
+          "correct": "ATP hydrolase (ATPase)",
+          "options": ["ATP hydrolase (ATPase)", "ATP synthase", "DNA polymerase", "Amylase"]
+        },
+        {
+          "question": "How is ATP re-formed from ADP?",
+          "correct": "By condensation reaction adding inorganic phosphate (Pi), catalysed by ATP synthase",
+          "options": [
+            "By condensation reaction adding inorganic phosphate (Pi), catalysed by ATP synthase",
+            "By hydrolysis of ADP",
+            "By substrate-level phosphorylation only",
+            "By oxidation of glucose directly"
+          ]
+        },
+        {
+          "question": "Which method of ATP synthesis occurs during photosynthesis?",
+          "correct": "Photophosphorylation",
+          "options": ["Photophosphorylation", "Oxidative phosphorylation", "Substrate-level phosphorylation", "Glycolysis"]
+        },
+        {
+          "question": "Which method of ATP synthesis occurs in mitochondria during respiration?",
+          "correct": "Oxidative phosphorylation",
+          "options": ["Oxidative phosphorylation", "Photophosphorylation", "Substrate-level phosphorylation", "Fermentation"]
+        },
+        {
+          "question": "Why is ATP not suitable as a long-term energy store?",
+          "correct": "Phosphate bonds are unstable and it can only supply a few seconds of energy",
+          "options": [
+            "Phosphate bonds are unstable and it can only supply a few seconds of energy",
+            "It is insoluble in water",
+            "It is stored in mitochondria permanently",
+            "It releases too much energy at once"
+          ]
+        },
+        {
+          "question": "What is the advantage of ATP over glucose as an energy source?",
+          "correct": "Releases small, manageable amounts of energy immediately",
+          "options": [
+            "Releases small, manageable amounts of energy immediately",
+            "Releases energy slowly over many reactions",
+            "Does not require water to release energy",
+            "Contains more carbon than glucose"
+          ]
+        },
+        {
+          "question": "Which organelle is the main site of ATP production in cells?",
           "correct": "Mitochondria",
-          "options": ["Nucleus","Mitochondria","Ribosome","Golgi Apparatus"]
+          "options": ["Mitochondria", "Chloroplast", "Ribosome", "Nucleus"]
+        },
+        {
+          "question": "Why do cells with high energy demands contain many mitochondria?",
+          "correct": "To continuously synthesise ATP to meet energy needs",
+          "options": [
+            "To continuously synthesise ATP to meet energy needs",
+            "To store large amounts of ATP permanently",
+            "To break down glucose only",
+            "To perform photosynthesis"
+          ]
+        },
+        {
+          "question": "Which cellular processes use energy from ATP?",
+          "correct": "Metabolism, movement, active transport, secretion, activation of molecules",
+          "options": [
+            "Metabolism, movement, active transport, secretion, activation of molecules",
+            "Only photosynthesis and respiration",
+            "DNA replication and transcription only",
+            "Glycolysis exclusively"
+          ]
+        },
+        {
+          "question": "How does ATP phosphorylation make molecules more reactive?",
+          "correct": "By transferring a phosphate group, lowering their activation energy",
+          "options": [
+            "By transferring a phosphate group, lowering their activation energy",
+            "By removing electrons from molecules",
+            "By breaking hydrogen bonds",
+            "By forming covalent bonds with enzymes"
+          ]
+        },
+        {
+          "question": "Which type of reaction converts ADP + Pi into ATP?",
+          "correct": "Condensation reaction",
+          "options": ["Condensation reaction", "Hydrolysis", "Oxidation", "Reduction"]
+        }
+      ],
+      "1.2.4. - Water and its Functions": [
+        {
+          "question": "Why is water considered a major biological molecule?",
+          "correct": "It is a major component of cells and has unusual properties due to its dipolar nature and hydrogen bonding",
+          "options": [
+            "It is a major component of cells and has unusual properties due to its dipolar nature and hydrogen bonding",
+            "It is a simple molecule that does not form hydrogen bonds",
+            "It is primarily a source of energy for cells",
+            "It is highly reactive and unstable"
+          ]
+        },
+        {
+          "question": "What makes water a dipolar molecule?",
+          "correct": "Oxygen has a slight negative charge, and hydrogen atoms have slight positive charges",
+          "options": [
+            "Oxygen has a slight negative charge, and hydrogen atoms have slight positive charges",
+            "All atoms have equal charges",
+            "Hydrogen atoms are negative and oxygen is positive",
+            "It has no charge at all"
+          ]
+        },
+        {
+          "question": "How are hydrogen bonds in water formed?",
+          "correct": "Oppositely charged poles of water molecules attract, with hydrogen of one molecule attracted to oxygen of another",
+          "options": [
+            "Oppositely charged poles of water molecules attract, with hydrogen of one molecule attracted to oxygen of another",
+            "Covalent bonds form between water molecules",
+            "Ionic bonds form between hydrogen and oxygen of different molecules",
+            "Hydrogen bonds occur within a single water molecule"
+          ]
+        },
+        {
+          "question": "Why does water have a high specific heat capacity?",
+          "correct": "Hydrogen bonds require extra energy to break, so water temperature changes slowly",
+          "options": [
+            "Hydrogen bonds require extra energy to break, so water temperature changes slowly",
+            "Water molecules are very small and light",
+            "Water can only absorb a little energy",
+            "Water has no hydrogen bonding"
+          ]
+        },
+        {
+          "question": "What is the biological significance of water's high latent heat of vaporisation?",
+          "correct": "Evaporation removes heat, allowing effective cooling such as sweating",
+          "options": [
+            "Evaporation removes heat, allowing effective cooling such as sweating",
+            "Water boils easily at low temperature",
+            "Water freezes quickly to maintain body temperature",
+            "Water stores energy for metabolism"
+          ]
+        },
+        {
+          "question": "What property of water allows continuous columns of water to be pulled up xylem vessels in plants?",
+          "correct": "Cohesion between water molecules due to hydrogen bonding",
+          "options": [
+            "Cohesion between water molecules due to hydrogen bonding",
+            "High specific heat capacity",
+            "Transparency",
+            "Low molecular mass"
+          ]
+        },
+        {
+          "question": "What creates surface tension in water?",
+          "correct": "Water molecules at the air–water interface are pulled inward by hydrogen bonding",
+          "options": [
+            "Water molecules at the air–water interface are pulled inward by hydrogen bonding",
+            "Water molecules repel each other",
+            "Ions in water create tension",
+            "Water evaporates rapidly"
+          ]
+        },
+        {
+          "question": "Why is water important in metabolic reactions?",
+          "correct": "Hydrolysis uses water to break bonds, and condensation reactions produce water",
+          "options": [
+            "Hydrolysis uses water to break bonds, and condensation reactions produce water",
+            "Water provides energy for reactions",
+            "Water replaces enzymes in reactions",
+            "Water is not involved in metabolism"
+          ]
+        },
+        {
+          "question": "Which substances can dissolve readily in water?",
+          "correct": "Gases, wastes, inorganic ions, small hydrophilic molecules like amino acids and monosaccharides",
+          "options": [
+            "Gases, wastes, inorganic ions, small hydrophilic molecules like amino acids and monosaccharides",
+            "Only lipids and hydrophobic molecules",
+            "Only proteins",
+            "None, water is a poor solvent"
+          ]
+        },
+        {
+          "question": "How does water support organisms physically?",
+          "correct": "It is incompressible, providing support via hydrostatic skeletons and turgor pressure",
+          "options": [
+            "It is incompressible, providing support via hydrostatic skeletons and turgor pressure",
+            "It forms covalent bonds with bones",
+            "It freezes to provide scaffolding",
+            "It stores energy for mechanical support"
+          ]
+        },
+        {
+          "question": "Why is water transparent biologically important?",
+          "correct": "Allows light penetration for photosynthesis and through eye fluids to the retina",
+          "options": [
+            "Allows light penetration for photosynthesis and through eye fluids to the retina",
+            "Allows water to absorb heat quickly",
+            "Prevents water from freezing",
+            "Supports hydrogen bonding"
+          ]
+        },
+        {
+          "question": "Which inorganic ion is essential for oxygen transport in haemoglobin?",
+          "correct": "Iron (Fe2+)",
+          "options": ["Iron (Fe2+)", "Sodium (Na+)", "Phosphate (PO43−)", "Hydrogen (H+)"]
+        },
+        {
+          "question": "Which ion has a structural role in DNA and is part of ATP?",
+          "correct": "Phosphate (PO43−)",
+          "options": ["Phosphate (PO43−)", "Sodium (Na+)", "Iron (Fe2+)", "Calcium (Ca2+)"]
+        },
+        {
+          "question": "Which ion determines pH and affects enzyme activity?",
+          "correct": "Hydrogen (H+)",
+          "options": ["Hydrogen (H+)", "Sodium (Na+)", "Potassium (K+)", "Chloride (Cl−)"]
+        },
+        {
+          "question": "Which ion is involved in glucose and amino acid transport across membranes?",
+          "correct": "Sodium (Na+)",
+          "options": ["Sodium (Na+)", "Hydrogen (H+)", "Phosphate (PO43−)", "Calcium (Ca2+)"]
         }
       ]
     }
