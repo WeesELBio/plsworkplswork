@@ -1,18 +1,79 @@
 {
-  "Biology": {
-    "Biological Molecules": {
-      "Carbohydrates - Monosaccharides": [
+  "1. - Biology": {
+    "1.1. - Biological Molecules": {
+      "1.1.1. - Biological Molecules": [
         {
-          "question": "Which element is not found in carbohydrates?",
-          "correct": "Nitrogen",
-          "options": ["Carbon","Hydrogen","Oxygen","Nitrogen"]
+          "question": "What is the study of biological molecules called?",
+          "correct": "Molecular biology",
+          "options": ["Molecular biology", "Biochemistry", "Organic chemistry", "Cell biology"]
         },
         {
-          "question": "What is the general formula of a monosaccharide?",
-          "correct": "Cn(H2O)n",
-          "options": ["CnH2n","Cn(H2O)n","C2H6O","CH4"]
+          "question": "Which type of bond involves the sharing of electrons between atoms?",
+          "correct": "Covalent bond",
+          "options": ["Covalent bond", "Ionic bond", "Hydrogen bond", "Metallic bond"]
+        },
+        {
+          "question": "Which type of bond is formed by the attraction of ions with opposite charges?",
+          "correct": "Ionic bond",
+          "options": ["Ionic bond", "Covalent bond", "Hydrogen bond", "Peptide bond"]
+        },
+        {
+          "question": "Why are hydrogen bonds important in water?",
+          "correct": "They collectively create strong influences despite being individually weak",
+          "options": [
+            "They collectively create strong influences despite being individually weak",
+            "They are stronger than covalent bonds",
+            "They involve sharing electrons",
+            "They form ions in water"
+          ]
+        },
+        {
+          "question": "What is a monomer?",
+          "correct": "A small, repeating unit",
+          "options": ["A small, repeating unit", "A long chain of molecules", "A type of polymer", "A type of atom"]
+        },
+        {
+          "question": "Which of the following is a polymer made from monosaccharides?",
+          "correct": "Polysaccharide",
+          "options": ["Polysaccharide", "Polypeptide", "Polynucleotide", "Lipid"]
+        },
+        {
+          "question": "What type of reaction joins monomers to form polymers?",
+          "correct": "Condensation reaction",
+          "options": ["Condensation reaction", "Hydrolysis reaction", "Oxidation reaction", "Reduction reaction"]
+        },
+        {
+          "question": "What type of reaction uses water to break polymers into monomers?",
+          "correct": "Hydrolysis reaction",
+          "options": ["Hydrolysis reaction", "Condensation reaction", "Dehydration reaction", "Saponification"]
+        },
+        {
+          "question": "What is the SI unit for the amount of substance?",
+          "correct": "Mole",
+          "options": ["Mole", "Gram", "Liter", "Avogadro"]
+        },
+        {
+          "question": "How many particles are in one mole of a substance?",
+          "correct": "6.022 × 10^23",
+          "options": ["6.022 × 10^23", "12", "1 × 10^6", "3.14 × 10^8"]
+        },
+        {
+          "question": "What is the molecular mass of NaCl?",
+          "correct": "58.5 g",
+          "options": ["58.5 g", "23 g", "35.5 g", "12 g"]
+        },
+        {
+          "question": "What does a 1 M solution represent?",
+          "correct": "1 mole of solute per litre of solution",
+          "options": [
+            "1 mole of solute per litre of solution",
+            "1 gram of solute per litre of solution",
+            "1 mole of solvent per litre",
+            "1 mole of solute per kilogram of solution"
+          ]
         }
       ]
+
     },
     "Cell Structure": {
       "Organelles": [
