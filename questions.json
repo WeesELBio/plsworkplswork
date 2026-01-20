@@ -72,8 +72,8 @@
             "1 mole of solute per kilogram of solution"
           ]
         }
-      ]
-      "1.1.2. - - Carbohydrates: Monosaccharides": [
+      ],
+      "1.1.2. - Carbohydrates: Monosaccharides": [
         {
           "question": "What are carbohydrates primarily composed of?",
           "correct": "Carbon and water",
@@ -130,7 +130,6 @@
           ]
         }
       ]
-
     },
     "Cell Structure": {
       "Organelles": [
