@@ -181,7 +181,125 @@
           "correct": "Blue-black",
           "options": ["Blue-black", "Red", "Orange", "Purple"]
         }
+      ],
+      "1.1.4. - Polysaccharides: Starch, Glycogen, Cellulose": [
+        {
+          "question": "What is the primary function of starch in plants?",
+          "correct": "Energy storage",
+          "options": ["Energy storage", "Structural support", "Enzyme production", "Photosynthesis"]
+        },
+        {
+          "question": "Where is starch mainly stored in plants?",
+          "correct": "Seeds and storage organs (e.g., potato tubers)",
+          "options": ["Seeds and storage organs (e.g., potato tubers)", "Cell walls", "Leaves", "Roots only"]
+        },
+        {
+          "question": "What type of glucose makes up starch?",
+          "correct": "α-glucose",
+          "options": ["α-glucose", "β-glucose", "Fructose", "Galactose"]
+        },
+        {
+          "question": "Why is starch compact in structure?",
+          "correct": "Unbranched chains form a tight helix",
+          "options": [
+            "Unbranched chains form a tight helix",
+            "Chains are highly branched",
+            "Chains are insoluble",
+            "Chains form hydrogen bonds"
+          ]
+        },
+        {
+          "question": "Which property of starch allows rapid glucose release from branched chains?",
+          "correct": "Many accessible ends for enzyme action",
+          "options": [
+            "Many accessible ends for enzyme action",
+            "Tight helical structure",
+            "Insolubility",
+            "Blue-black iodine stain"
+          ]
+        },
+        {
+          "question": "What is the equivalent storage polysaccharide in animals?",
+          "correct": "Glycogen",
+          "options": ["Glycogen", "Cellulose", "Starch", "Maltose"]
+        },
+        {
+          "question": "Where is glycogen mainly stored in animals?",
+          "correct": "Muscle and liver cells",
+          "options": ["Muscle and liver cells", "Blood", "Fat cells", "Brain"]
+        },
+        {
+          "question": "How does glycogen differ structurally from starch?",
+          "correct": "It has shorter, more highly branched chains",
+          "options": [
+            "It has shorter, more highly branched chains",
+            "It is made of β-glucose",
+            "It is unbranched",
+            "It is soluble in water"
+          ]
+        },
+        {
+          "question": "Why is glycogen important for animals?",
+          "correct": "Rapid glucose release meets high metabolic and respiratory demands",
+          "options": [
+            "Rapid glucose release meets high metabolic and respiratory demands",
+            "Provides structural support",
+            "Prevents cell bursting",
+            "Forms a helical compact structure"
+          ]
+        },
+        {
+          "question": "What is the function of cellulose in plants?",
+          "correct": "Structural support in cell walls",
+          "options": ["Structural support in cell walls", "Energy storage", "Enzyme production", "Transport of glucose"]
+        },
+        {
+          "question": "Which type of glucose forms cellulose?",
+          "correct": "β-glucose",
+          "options": ["β-glucose", "α-glucose", "Fructose", "Galactose"]
+        },
+        {
+          "question": "How are cellulose chains strengthened?",
+          "correct": "Hydrogen bonds form between parallel chains",
+          "options": [
+            "Hydrogen bonds form between parallel chains",
+            "Glycosidic bonds create cross-links",
+            "Chains are branched",
+            "Chains form tight helices"
+          ]
+        },
+        {
+          "question": "What structure do cellulose chains form in plant cells?",
+          "correct": "Microfibrils grouped into fibres",
+          "options": [
+            "Microfibrils grouped into fibres",
+            "Helical coils",
+            "Granules in chloroplasts",
+            "Enzyme-linked networks"
+          ]
+        },
+        {
+          "question": "How does cellulose prevent plant cells from bursting?",
+          "correct": "Exerts inward pressure, maintaining turgidity",
+          "options": [
+            "Exerts inward pressure, maintaining turgidity",
+            "Stores water in vacuoles",
+            "Rapid glucose release",
+            "Forms compact granules"
+          ]
+        },
+        {
+          "question": "Why are plant stems and leaves supported by cellulose?",
+          "correct": "Maintains turgid cells for maximum photosynthesis",
+          "options": [
+            "Maintains turgid cells for maximum photosynthesis",
+            "Stores energy",
+            "Prevents glucose diffusion",
+            "Forms helical chains for storage"
+          ]
+        }
       ]
+
     },
     "Cell Structure": {
       "Organelles": [
