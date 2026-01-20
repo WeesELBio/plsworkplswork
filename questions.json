@@ -3,11 +3,6 @@
     "Biological Molecules": {
       "Carbohydrates - Monosaccharides": [
         {
-          "question": "What are biological molecules?",
-          "correct": "Chemical groups found in living organisms.",
-          "options": ["Chemical groups found in living organisms.","Large inorganic compounds found in cells.","Substances only found in plants.","Molecules that do not contain carbon."]
-        },
-        {
           "question": "Which element is not found in carbohydrates?",
           "correct": "Nitrogen",
           "options": ["Carbon","Hydrogen","Oxygen","Nitrogen"]
@@ -16,6 +11,26 @@
           "question": "What is the general formula of a monosaccharide?",
           "correct": "Cn(H2O)n",
           "options": ["CnH2n","Cn(H2O)n","C2H6O","CH4"]
+        }
+      ]
+    },
+    "Cell Structure": {
+      "Organelles": [
+        {
+          "question": "Which organelle is responsible for energy production?",
+          "correct": "Mitochondria",
+          "options": ["Nucleus","Mitochondria","Ribosome","Golgi Apparatus"]
+        }
+      ]
+    }
+  },
+  "Chemistry": {
+    "Atoms and Bonding": {
+      "Ionic Bonds": [
+        {
+          "question": "What type of elements form ionic bonds?",
+          "correct": "Metal + Non-metal",
+          "options": ["Non-metal + Non-metal","Metal + Metal","Metal + Non-metal","Noble gases"]
         }
       ]
     }
