@@ -129,6 +129,58 @@
             "Black precipitate forms"
           ]
         }
+      ],
+      "1.1.3. - Carbohydrates: Disaccharides and Polysaccharides": [
+        {
+          "question": "What type of bond joins two monosaccharides to form a disaccharide?",
+          "correct": "Glycosidic bond",
+          "options": ["Glycosidic bond", "Peptide bond", "Hydrogen bond", "Ionic bond"]
+        },
+        {
+          "question": "Which reaction forms a disaccharide from two monosaccharides?",
+          "correct": "Condensation reaction",
+          "options": ["Condensation reaction", "Hydrolysis reaction", "Oxidation reaction", "Reduction reaction"]
+        },
+        {
+          "question": "Which of the following is a disaccharide formed from glucose + fructose?",
+          "correct": "Sucrose",
+          "options": ["Sucrose", "Maltose", "Lactose", "Glucose"]
+        },
+        {
+          "question": "Which disaccharide is non-reducing unless hydrolysed first?",
+          "correct": "Sucrose",
+          "options": ["Sucrose", "Maltose", "Lactose", "Glucose"]
+        },
+        {
+          "question": "What is used to hydrolyse non-reducing sugars before testing with Benedict’s reagent?",
+          "correct": "Dilute HCl",
+          "options": ["Dilute HCl", "Sodium hydroxide", "Benedict’s reagent", "Iodine solution"]
+        },
+        {
+          "question": "Polysaccharides are polymers formed from which type of monomer?",
+          "correct": "Monosaccharides",
+          "options": ["Monosaccharides", "Amino acids", "Nucleotides", "Fatty acids"]
+        },
+        {
+          "question": "Why are polysaccharides suitable for storage?",
+          "correct": "They are large and insoluble",
+          "options": ["They are large and insoluble", "They are sweet-tasting", "They are soluble in water", "They are highly reactive"]
+        },
+        {
+          "question": "What polysaccharide provides structural support instead of storage?",
+          "correct": "Cellulose",
+          "options": ["Cellulose", "Starch", "Glycogen", "Maltose"]
+        },
+        {
+          "question": "Where is starch stored in plants?",
+          "correct": "Chloroplasts",
+          "options": ["Chloroplasts", "Mitochondria", "Cell wall", "Nucleus"]
+        },
+        {
+          "question": "What colour indicates the presence of starch when using iodine solution?",
+          "correct": "Blue-black",
+          "options": ["Blue-black", "Red", "Orange", "Purple"]
+        }
       ]
     },
     "Cell Structure": {
