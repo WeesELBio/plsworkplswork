@@ -1614,7 +1614,7 @@
       "1.1.6. - Proteins": [
         {
           "question": "What type of biological molecule are proteins?",
-          "choices": [
+          "options":[
             "Small and simple molecules",
             "Large and varied biological molecules",
             "Insoluble storage molecules",
@@ -1624,7 +1624,7 @@
         },
         {
           "question": "What determines the function of a protein?",
-          "choices": [
+          "options":[
             "Its size",
             "Its solubility",
             "Its shape",
@@ -1634,7 +1634,7 @@
         },
         {
           "question": "What type of biological molecule are enzymes?",
-          "choices": [
+          "options":[
             "Lipids",
             "Carbohydrates",
             "Proteins",
@@ -1644,7 +1644,7 @@
         },
         {
           "question": "What are the monomers that make up proteins?",
-          "choices": [
+          "options":[
             "Nucleotides",
             "Fatty acids",
             "Monosaccharides",
@@ -1654,7 +1654,7 @@
         },
         {
           "question": "How many different amino acids are naturally found in proteins?",
-          "choices": [
+          "options":[
             "10",
             "20",
             "50",
@@ -1664,7 +1664,7 @@
         },
         {
           "question": "What part of the amino acid differs between different amino acids?",
-          "choices": [
+          "options":[
             "Amino group",
             "Carboxyl group",
             "Hydrogen atom",
@@ -1674,7 +1674,7 @@
         },
         {
           "question": "Which groups are attached to the central carbon of an amino acid?",
-          "choices": [
+          "options":[
             "Only an amino group and R-group",
             "Amino group, carboxyl group, hydrogen, and R-group",
             "Two amino groups and one hydrogen",
@@ -1684,7 +1684,7 @@
         },
         {
           "question": "What type of reaction joins amino acids together?",
-          "choices": [
+          "options":[
             "Hydrolysis",
             "Oxidation",
             "Condensation",
@@ -1694,7 +1694,7 @@
         },
         {
           "question": "What bond forms between amino acids?",
-          "choices": [
+          "options":[
             "Hydrogen bond",
             "Ionic bond",
             "Glycosidic bond",
@@ -1704,7 +1704,7 @@
         },
         {
           "question": "What reaction breaks peptide bonds?",
-          "choices": [
+          "options":[
             "Condensation",
             "Oxidation",
             "Hydrolysis",
@@ -1714,7 +1714,7 @@
         },
         {
           "question": "What does the primary structure of a protein describe?",
-          "choices": [
+          "options":[
             "Its 3D shape",
             "The number of polypeptide chains",
             "The sequence of amino acids",
@@ -1724,7 +1724,7 @@
         },
         {
           "question": "What determines the primary structure of a protein?",
-          "choices": [
+          "options":[
             "RNA",
             "Enzymes",
             "DNA",
@@ -1734,7 +1734,7 @@
         },
         {
           "question": "What type of bonding stabilises secondary protein structure?",
-          "choices": [
+          "options":[
             "Disulfide bridges",
             "Hydrogen bonds",
             "Ionic bonds",
@@ -1744,7 +1744,7 @@
         },
         {
           "question": "Which structure involves the formation of an alpha-helix?",
-          "choices": [
+          "options":[
             "Primary",
             "Secondary",
             "Tertiary",
@@ -1754,7 +1754,7 @@
         },
         {
           "question": "Which bonds help stabilise tertiary protein structure?",
-          "choices": [
+          "options":[
             "Only peptide bonds",
             "Hydrogen bonds only",
             "Disulfide, ionic, and hydrogen bonds",
@@ -1764,7 +1764,7 @@
         },
         {
           "question": "Which bond in tertiary structure is strongest?",
-          "choices": [
+          "options":[
             "Hydrogen bond",
             "Ionic bond",
             "Disulfide bridge",
@@ -1774,7 +1774,7 @@
         },
         {
           "question": "Which protein structure involves more than one polypeptide chain?",
-          "choices": [
+          "options":[
             "Primary",
             "Secondary",
             "Tertiary",
@@ -1784,7 +1784,7 @@
         },
         {
           "question": "What is a prosthetic group?",
-          "choices": [
+          "options":[
             "A carbohydrate chain",
             "A non-protein component of a protein",
             "A type of amino acid",
@@ -1794,7 +1794,7 @@
         },
         {
           "question": "Which protein contains a haem prosthetic group?",
-          "choices": [
+          "options":[
             "Collagen",
             "Keratin",
             "Haemoglobin",
@@ -1804,7 +1804,7 @@
         },
         {
           "question": "What colour indicates a positive Biuret test?",
-          "choices": [
+          "options":[
             "Blue",
             "Red",
             "Purple",
@@ -1814,7 +1814,7 @@
         },
         {
           "question": "What does the Biuret test detect?",
-          "choices": [
+          "options":[
             "Amino acids",
             "R-groups",
             "Peptide bonds",
@@ -1824,7 +1824,7 @@
         },
         {
           "question": "Which type of protein is mainly structural?",
-          "choices": [
+          "options":[
             "Globular",
             "Fibrous",
             "Enzymatic",
@@ -1834,7 +1834,7 @@
         },
         {
           "question": "Which is an example of a fibrous protein?",
-          "choices": [
+          "options":[
             "Haemoglobin",
             "Amylase",
             "Collagen",
@@ -1844,7 +1844,7 @@
         },
         {
           "question": "Which type of protein is compact and spherical?",
-          "choices": [
+          "options":[
             "Fibrous",
             "Structural",
             "Globular",
@@ -1854,7 +1854,7 @@
         },
         {
           "question": "What is the main function of globular proteins?",
-          "choices": [
+          "options":[
             "Structural support",
             "Waterproofing",
             "Metabolic reactions",
@@ -1866,7 +1866,7 @@
       "1.1.7. - Enzyme Action": [
         {
           "question": "What type of biological molecule are enzymes?",
-          "choices": [
+          "options":[
             "Fibrous proteins",
             "Globular proteins",
             "Lipids",
@@ -1876,7 +1876,7 @@
         },
         {
           "question": "What is the role of an enzyme?",
-          "choices": [
+          "options":[
             "To start chemical reactions",
             "To stop reactions",
             "To increase the rate of reaction",
@@ -1886,7 +1886,7 @@
         },
         {
           "question": "What is a catalyst?",
-          "choices": [
+          "options":[
             "A substance that is used up in reactions",
             "A substance that slows reactions",
             "A substance that increases reaction rate without being permanently changed",
@@ -1896,7 +1896,7 @@
         },
         {
           "question": "Why can enzymes be reused?",
-          "choices": [
+          "options":[
             "They are soluble",
             "They are not permanently changed in reactions",
             "They dissolve substrates",
@@ -1906,7 +1906,7 @@
         },
         {
           "question": "Do enzymes create reactions that would not normally occur?",
-          "choices": [
+          "options":[
             "Yes, they create new reactions",
             "Yes, but only at high temperature",
             "No, they only speed up existing reactions",
@@ -1916,7 +1916,7 @@
         },
         {
           "question": "What is activation energy?",
-          "choices": [
+          "options":[
             "Energy released during a reaction",
             "Energy stored in bonds",
             "The minimum energy needed to start a reaction",
@@ -1926,7 +1926,7 @@
         },
         {
           "question": "How do enzymes increase reaction rate?",
-          "choices": [
+          "options":[
             "By increasing temperature",
             "By providing energy",
             "By lowering activation energy",
@@ -1936,7 +1936,7 @@
         },
         {
           "question": "Why are enzymes essential for life?",
-          "choices": [
+          "options":[
             "They make reactions reversible",
             "They allow reactions to occur fast enough at normal body temperature",
             "They increase energy yield",
@@ -1946,7 +1946,7 @@
         },
         {
           "question": "At what approximate temperature do human enzymes work efficiently?",
-          "choices": [
+          "options":[
             "0°C",
             "25°C",
             "37°C",
@@ -1956,7 +1956,7 @@
         },
         {
           "question": "What determines the 3D shape of an enzyme?",
-          "choices": [
+          "options":[
             "Its tertiary structure only",
             "Its environment",
             "Its amino acid sequence",
@@ -1966,7 +1966,7 @@
         },
         {
           "question": "What is the active site?",
-          "choices": [
+          "options":[
             "The whole enzyme molecule",
             "The region where energy is released",
             "The part of the enzyme that binds the substrate",
@@ -1976,7 +1976,7 @@
         },
         {
           "question": "What forms when a substrate binds to an enzyme?",
-          "choices": [
+          "options":[
             "A protein complex",
             "A reaction intermediate",
             "An enzyme–substrate complex",
@@ -1986,7 +1986,7 @@
         },
         {
           "question": "What type of bonds temporarily hold the substrate in the active site?",
-          "choices": [
+          "options":[
             "Peptide bonds",
             "Covalent bonds",
             "Hydrogen bonds",
@@ -1996,7 +1996,7 @@
         },
         {
           "question": "Which model explains enzyme flexibility?",
-          "choices": [
+          "options":[
             "Lock and key model",
             "Collision theory",
             "Induced fit model",
@@ -2006,7 +2006,7 @@
         },
         {
           "question": "What happens to the enzyme during induced fit?",
-          "choices": [
+          "options":[
             "It becomes denatured",
             "It changes shape slightly",
             "It breaks apart",
@@ -2016,7 +2016,7 @@
         },
         {
           "question": "How does induced fit help lower activation energy?",
-          "choices": [
+          "options":[
             "By increasing substrate concentration",
             "By breaking peptide bonds",
             "By straining bonds in the substrate",
@@ -2026,7 +2026,7 @@
         },
         {
           "question": "Which model suggests the active site is rigid?",
-          "choices": [
+          "options":[
             "Induced fit model",
             "Modern enzyme model",
             "Lock and key model",
@@ -2036,7 +2036,7 @@
         },
         {
           "question": "What does the lock and key model explain well?",
-          "choices": [
+          "options":[
             "Enzyme flexibility",
             "Substrate specificity",
             "Temperature effects",
@@ -2046,7 +2046,7 @@
         },
         {
           "question": "Why is the lock and key model considered less accurate?",
-          "choices": [
+          "options":[
             "It ignores enzymes completely",
             "It does not explain enzyme reuse",
             "It does not account for enzyme flexibility",
@@ -2058,7 +2058,7 @@
       "1.1.8. - Factors Affecting Enzyme Action": [
         {
           "question": "What must occur for an enzyme to function?",
-          "choices": [
+          "options":[
             "The enzyme must dissolve in the substrate",
             "The enzyme must physically contact its substrate",
             "The enzyme must be heated",
@@ -2068,7 +2068,7 @@
         },
         {
           "question": "What must be true about the enzyme active site for a reaction to occur?",
-          "choices": [
+          "options":[
             "It must be rigid",
             "It must be larger than the substrate",
             "It must be complementary to the substrate",
@@ -2078,7 +2078,7 @@
         },
         {
           "question": "What do factors affecting enzyme activity influence?",
-          "choices": [
+          "options":[
             "Only the enzyme concentration",
             "Only the substrate concentration",
             "Contact between enzyme and substrate or active site shape",
@@ -2088,7 +2088,7 @@
         },
         {
           "question": "How is the progress of an enzyme-catalysed reaction usually measured?",
-          "choices": [
+          "options":[
             "By temperature change",
             "By colour intensity only",
             "By time-course of the reaction",
@@ -2098,7 +2098,7 @@
         },
         {
           "question": "Which method can be used to measure enzyme activity?",
-          "choices": [
+          "options":[
             "Measuring enzyme breakdown",
             "Measuring product formation",
             "Measuring water loss",
@@ -2108,7 +2108,7 @@
         },
         {
           "question": "Which example shows measuring disappearance of substrate?",
-          "choices": [
+          "options":[
             "Oxygen release from catalase",
             "Carbon dioxide production",
             "Starch breakdown by amylase",
@@ -2118,7 +2118,7 @@
         },
         {
           "question": "Why is the initial rate of an enzyme reaction high?",
-          "choices": [
+          "options":[
             "Product concentration is high",
             "Substrate concentration is high and collisions are frequent",
             "Enzymes are denatured",
@@ -2128,7 +2128,7 @@
         },
         {
           "question": "Why does the rate of reaction slow over time?",
-          "choices": [
+          "options":[
             "Enzymes are used up",
             "Substrate concentration decreases",
             "Temperature decreases",
@@ -2138,7 +2138,7 @@
         },
         {
           "question": "Why does an enzyme reaction graph eventually level off?",
-          "choices": [
+          "options":[
             "Enzyme concentration increases",
             "Product inhibits all enzymes",
             "Substrate has been used up",
@@ -2148,7 +2148,7 @@
         },
         {
           "question": "How is rate at a specific point on a reaction graph calculated?",
-          "choices": [
+          "options":[
             "Using the total curve",
             "By drawing a straight line between two points",
             "By calculating the gradient of a tangent",
@@ -2158,7 +2158,7 @@
         },
         {
           "question": "What is a tangent?",
-          "choices": [
+          "options":[
             "A line that crosses the curve twice",
             "A line that touches the curve without cutting through it",
             "A vertical line on the graph",
@@ -2168,7 +2168,7 @@
         },
         {
           "question": "How is gradient calculated?",
-          "choices": [
+          "options":[
             "x ÷ y",
             "change in x ÷ change in y",
             "change in y ÷ change in x",
@@ -2178,7 +2178,7 @@
         },
         {
           "question": "Why must variables be controlled in enzyme experiments?",
-          "choices": [
+          "options":[
             "To increase reaction rate",
             "To reduce enzyme denaturation",
             "To ensure only one variable affects the results",
@@ -2188,7 +2188,7 @@
         },
         {
           "question": "Which variables should be controlled when investigating temperature?",
-          "choices": [
+          "options":[
             "Only substrate concentration",
             "pH, substrate concentration, enzyme concentration, inhibitors",
             "Only enzyme concentration",
@@ -2198,7 +2198,7 @@
         },
         {
           "question": "Why does increasing temperature initially increase enzyme activity?",
-          "choices": [
+          "options":[
             "Active sites change shape",
             "More enzymes are produced",
             "Molecules gain kinetic energy and collide more often",
@@ -2208,7 +2208,7 @@
         },
         {
           "question": "What happens to enzyme activity above the optimum temperature?",
-          "choices": [
+          "options":[
             "It continues increasing",
             "It remains constant",
             "It decreases sharply",
@@ -2218,7 +2218,7 @@
         },
         {
           "question": "At approximately what temperature do human enzymes begin to lose activity rapidly?",
-          "choices": [
+          "options":[
             "25°C",
             "37°C",
             "45°C",
@@ -2228,7 +2228,7 @@
         },
         {
           "question": "What happens to enzymes at around 60°C?",
-          "choices": [
+          "options":[
             "They work at maximum rate",
             "They become more flexible",
             "They denature permanently",
@@ -2238,7 +2238,7 @@
         },
         {
           "question": "What does denaturation involve?",
-          "choices": [
+          "options":[
             "Breaking peptide bonds",
             "Loss of tertiary structure and active site shape",
             "Increase in enzyme concentration",
@@ -2248,7 +2248,7 @@
         },
         {
           "question": "What is meant by optimum temperature?",
-          "choices": [
+          "options":[
             "The temperature enzymes stop working",
             "The temperature where enzymes denature",
             "The temperature at which enzyme activity is highest",
@@ -2258,7 +2258,7 @@
         },
         {
           "question": "Why do humans maintain a body temperature of 37°C?",
-          "choices": [
+          "options":[
             "It maximises enzyme denaturation",
             "It prevents respiration",
             "It allows efficient enzyme activity without damaging proteins",
@@ -2268,7 +2268,7 @@
         },
         {
           "question": "What does pH measure?",
-          "choices": [
+          "options":[
             "Oxygen concentration",
             "Hydrogen ion concentration",
             "Enzyme concentration",
@@ -2278,7 +2278,7 @@
         },
         {
           "question": "What is the formula for pH?",
-          "choices": [
+          "options":[
             "pH = log [H+]",
             "pH = -log [H+]",
             "pH = 1 / [H+]",
@@ -2288,7 +2288,7 @@
         },
         {
           "question": "What effect does pH have on enzyme activity?",
-          "choices": [
+          "options":[
             "No effect",
             "Only affects substrate concentration",
             "Changes charges on amino acids in the active site",
@@ -2298,7 +2298,7 @@
         },
         {
           "question": "How can extreme pH values affect enzymes?",
-          "choices": [
+          "options":[
             "Increase activity permanently",
             "Cause denaturation",
             "Increase substrate binding",
@@ -2308,7 +2308,7 @@
         },
         {
           "question": "Why do small pH changes usually reduce activity rather than fully denature enzymes?",
-          "choices": [
+          "options":[
             "pH has little effect",
             "Cells experience only small pH changes",
             "Enzymes are resistant to acids",
@@ -2318,7 +2318,7 @@
         },
         {
           "question": "Why can enzymes catalyse many reactions?",
-          "choices": [
+          "options":[
             "They are soluble",
             "They are not used up",
             "They increase temperature",
@@ -2328,7 +2328,7 @@
         },
         {
           "question": "What happens when enzyme concentration increases while substrate is in excess?",
-          "choices": [
+          "options":[
             "Rate decreases",
             "Rate remains constant",
             "Rate increases",
@@ -2338,7 +2338,7 @@
         },
         {
           "question": "Why does increasing enzyme concentration eventually have no effect?",
-          "choices": [
+          "options":[
             "Enzymes become denatured",
             "Substrate becomes limiting",
             "pH changes",
@@ -2348,7 +2348,7 @@
         },
         {
           "question": "What happens when substrate concentration increases with fixed enzyme concentration?",
-          "choices": [
+          "options":[
             "Rate decreases continuously",
             "Rate increases then levels off",
             "Rate remains constant",
@@ -2358,7 +2358,7 @@
         },
         {
           "question": "What does Vmax represent?",
-          "choices": [
+          "options":[
             "Minimum enzyme activity",
             "Maximum temperature",
             "Maximum reaction rate when all active sites are occupied",
@@ -2368,7 +2368,7 @@
         },
         {
           "question": "Why is the reaction slow at low substrate concentration?",
-          "choices": [
+          "options":[
             "Enzymes are denatured",
             "Not all active sites are occupied",
             "Temperature is low",
@@ -2380,7 +2380,7 @@
       "1.1.9. - Enzyme Inhibition": [
         {
           "question": "What is an enzyme inhibitor?",
-          "choices": [
+          "options":[
             "A substance that increases enzyme activity",
             "A substance that permanently destroys enzymes",
             "A substance that reduces or prevents enzyme activity",
@@ -2390,7 +2390,7 @@
         },
         {
           "question": "How do enzyme inhibitors reduce enzyme activity?",
-          "choices": [
+          "options":[
             "By increasing temperature",
             "By breaking peptide bonds",
             "By interfering with the functioning of the active site",
@@ -2400,7 +2400,7 @@
         },
         {
           "question": "What are the two main types of enzyme inhibitor?",
-          "choices": [
+          "options":[
             "Reversible and irreversible",
             "Temporary and permanent",
             "Competitive and non-competitive",
@@ -2410,7 +2410,7 @@
         },
         {
           "question": "What feature allows a competitive inhibitor to bind to an enzyme?",
-          "choices": [
+          "options":[
             "It has a high energy content",
             "It has a similar molecular shape to the substrate",
             "It binds strongly to the enzyme surface",
@@ -2420,7 +2420,7 @@
         },
         {
           "question": "Where does a competitive inhibitor bind?",
-          "choices": [
+          "options":[
             "Allosteric site",
             "Outside the enzyme",
             "Active site",
@@ -2430,7 +2430,7 @@
         },
         {
           "question": "How does a competitive inhibitor affect substrate binding?",
-          "choices": [
+          "options":[
             "It increases substrate binding",
             "It permanently blocks the active site",
             "It prevents substrate binding while it is bound",
@@ -2440,7 +2440,7 @@
         },
         {
           "question": "Why does increasing substrate concentration reduce competitive inhibition?",
-          "choices": [
+          "options":[
             "Substrate removes the inhibitor",
             "Substrate changes enzyme shape",
             "Substrate is more likely to bind than the inhibitor",
@@ -2450,7 +2450,7 @@
         },
         {
           "question": "At what substrate concentration does competitive inhibition have the greatest effect?",
-          "choices": [
+          "options":[
             "High substrate concentration",
             "Optimum substrate concentration",
             "Low substrate concentration",
@@ -2460,7 +2460,7 @@
         },
         {
           "question": "Which statement correctly describes competitive inhibitors?",
-          "choices": [
+          "options":[
             "They bind away from the active site",
             "They alter enzyme shape permanently",
             "Their effect is reduced by increasing substrate concentration",
@@ -2470,7 +2470,7 @@
         },
         {
           "question": "Which substance is an example of a competitive inhibitor?",
-          "choices": [
+          "options":[
             "Oxygen",
             "Malonate",
             "Glucose",
@@ -2480,7 +2480,7 @@
         },
         {
           "question": "Which enzyme is inhibited by penicillin?",
-          "choices": [
+          "options":[
             "Amylase",
             "Catalase",
             "Transpeptidase",
@@ -2490,7 +2490,7 @@
         },
         {
           "question": "Where does a non-competitive inhibitor bind?",
-          "choices": [
+          "options":[
             "Active site",
             "Substrate",
             "Allosteric site",
@@ -2500,7 +2500,7 @@
         },
         {
           "question": "What is the effect of a non-competitive inhibitor on enzyme shape?",
-          "choices": [
+          "options":[
             "No effect",
             "Improves active site fit",
             "Changes the shape of the active site",
@@ -2510,7 +2510,7 @@
         },
         {
           "question": "Why does increasing substrate concentration not reduce non-competitive inhibition?",
-          "choices": [
+          "options":[
             "The substrate is destroyed",
             "The inhibitor binds more strongly",
             "The inhibitor does not compete for the active site",
@@ -2520,7 +2520,7 @@
         },
         {
           "question": "Which statement describes non-competitive inhibitors?",
-          "choices": [
+          "options":[
             "They bind to the active site",
             "They compete directly with the substrate",
             "They alter the active site shape",
@@ -2530,7 +2530,7 @@
         },
         {
           "question": "How long does the effect of a non-competitive inhibitor usually last?",
-          "choices": [
+          "options":[
             "Only while substrate is present",
             "Until substrate concentration increases",
             "Permanently or semi-permanently",
@@ -2540,7 +2540,7 @@
         },
         {
           "question": "Which comparison between competitive and non-competitive inhibitors is correct?",
-          "choices": [
+          "options":[
             "Both bind to the active site",
             "Only competitive inhibitors change enzyme shape",
             "Only non-competitive inhibitors bind away from the active site",
@@ -2550,7 +2550,7 @@
         },
         {
           "question": "Which type of inhibitor reduces the maximum rate of reaction (Vmax)?",
-          "choices": [
+          "options":[
             "Competitive inhibitor",
             "Non-competitive inhibitor",
             "Substrate analogue",
