@@ -167,14 +167,52 @@ function buildMenu() {
         subjectDetails.open = true;
 
         const subjectSummary = document.createElement("summary");
-        subjectSummary.textContent = subject;
+
+        // Subject checkbox
+        const subjectCb = document.createElement("input");
+        subjectCb.type = "checkbox";
+        subjectCb.checked = true;
+        subjectCb.id = `subject-${subject}`;
+
+        subjectCb.addEventListener("change", () => {
+            // Check/uncheck all topic and subtopic checkboxes under this subject
+            subjectDetails.querySelectorAll("input[type=checkbox]").forEach(cb => {
+                cb.checked = subjectCb.checked;
+            });
+        });
+
+        const subjectLabel = document.createElement("label");
+        subjectLabel.htmlFor = subjectCb.id;
+        subjectLabel.textContent = " " + subject;
+
+        subjectSummary.appendChild(subjectCb);
+        subjectSummary.appendChild(subjectLabel);
         subjectDetails.appendChild(subjectSummary);
 
         for (let topic in questions[subject]) {
             const topicDetails = document.createElement("details");
 
             const topicSummary = document.createElement("summary");
-            topicSummary.textContent = topic;
+
+            // Topic checkbox
+            const topicCb = document.createElement("input");
+            topicCb.type = "checkbox";
+            topicCb.checked = true;
+            topicCb.id = `topic-${subject}-${topic}`;
+
+            topicCb.addEventListener("change", () => {
+                // Check/uncheck all subtopic checkboxes under this topic
+                topicDetails.querySelectorAll("input[type=checkbox]").forEach(cb => {
+                    cb.checked = topicCb.checked;
+                });
+            });
+
+            const topicLabel = document.createElement("label");
+            topicLabel.htmlFor = topicCb.id;
+            topicLabel.textContent = " " + topic;
+
+            topicSummary.appendChild(topicCb);
+            topicSummary.appendChild(topicLabel);
             topicDetails.appendChild(topicSummary);
 
             for (let sub in questions[subject][topic]) {
