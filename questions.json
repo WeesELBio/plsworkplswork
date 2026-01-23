@@ -4,7 +4,7 @@
       "1.1.1. - Biological Molecules": [
         {
           "question": "What are biological molecules?",
-          "answer": "Chemical groups found in living organisms",
+          "correct": "Chemical groups found in living organisms",
           "options": [
             "Chemical groups found in living organisms",
             "All substances found on Earth",
@@ -14,7 +14,7 @@
         },
         {
           "question": "What is the study of biological molecules called?",
-          "answer": "Molecular biology",
+          "correct": "Molecular biology",
           "options": [
             "Cell biology",
             "Biochemistry",
@@ -24,7 +24,7 @@
         },
         {
           "question": "What are all molecules made of?",
-          "answer": "Atoms",
+          "correct": "Atoms",
           "options": [
             "Cells",
             "Elements",
@@ -34,7 +34,7 @@
         },
         {
           "question": "What happens during covalent bonding?",
-          "answer": "Atoms share a pair of electrons in their outer shells",
+          "correct": "Atoms share a pair of electrons in their outer shells",
           "options": [
             "Atoms lose electrons to become ions",
             "Atoms share a pair of electrons in their outer shells",
@@ -44,7 +44,7 @@
         },
         {
           "question": "Why does covalent bonding form stable molecules?",
-          "answer": "Because both atoms fill their outer electron shells",
+          "correct": "Because both atoms fill their outer electron shells",
           "options": [
             "Because electrons are lost",
             "Because ions are produced",
@@ -54,7 +54,7 @@
         },
         {
           "question": "What causes ionic bonding?",
-          "answer": "Electrostatic attraction between oppositely charged ions",
+          "correct": "Electrostatic attraction between oppositely charged ions",
           "options": [
             "Sharing of electrons",
             "Hydrogen attraction",
@@ -64,7 +64,7 @@
         },
         {
           "question": "How do ionic bonds compare in strength to covalent bonds?",
-          "answer": "They are weaker than covalent bonds",
+          "correct": "They are weaker than covalent bonds",
           "options": [
             "They are stronger than covalent bonds",
             "They are equal in strength",
@@ -74,7 +74,7 @@
         },
         {
           "question": "Why do hydrogen bonds form between molecules?",
-          "answer": "Because electrons are unevenly distributed, making molecules polar",
+          "correct": "Because electrons are unevenly distributed, making molecules polar",
           "options": [
             "Because atoms fully share electrons",
             "Because electrons are unevenly distributed, making molecules polar",
@@ -84,7 +84,7 @@
         },
         {
           "question": "What causes hydrogen bonding between polar molecules?",
-          "answer": "Attraction between opposite partial charges",
+          "correct": "Attraction between opposite partial charges",
           "options": [
             "Sharing of electrons",
             "Attraction between opposite partial charges",
@@ -94,7 +94,7 @@
         },
         {
           "question": "What is true about individual hydrogen bonds?",
-          "answer": "They are weak",
+          "correct": "They are weak",
           "options": [
             "They are very strong",
             "They are covalent",
@@ -104,7 +104,7 @@
         },
         {
           "question": "Why are hydrogen bonds important in biology?",
-          "answer": "They have strong effects when many act together",
+          "correct": "They have strong effects when many act together",
           "options": [
             "They form permanent bonds",
             "They replace covalent bonds",
@@ -114,7 +114,7 @@
         },
         {
           "question": "What is a monomer?",
-          "answer": "A small repeating unit that can join to form polymers",
+          "correct": "A small repeating unit that can join to form polymers",
           "options": [
             "A large biological molecule",
             "A small repeating unit that can join to form polymers",
@@ -124,7 +124,7 @@
         },
         {
           "question": "What is a polymer?",
-          "answer": "A long chain made from many monomers",
+          "correct": "A long chain made from many monomers",
           "options": [
             "A single small molecule",
             "A long chain made from many monomers",
@@ -134,7 +134,7 @@
         },
         {
           "question": "What is polymerisation?",
-          "answer": "The process of joining monomers to form polymers",
+          "correct": "The process of joining monomers to form polymers",
           "options": [
             "Breaking polymers into monomers",
             "The movement of electrons",
@@ -144,7 +144,7 @@
         },
         {
           "question": "What element are many biological polymers based on?",
-          "answer": "Carbon",
+          "correct": "Carbon",
           "options": [
             "Oxygen",
             "Nitrogen",
@@ -154,7 +154,7 @@
         },
         {
           "question": "What are polysaccharides made from?",
-          "answer": "Monosaccharides",
+          "correct": "Monosaccharides",
           "options": [
             "Amino acids",
             "Nucleotides",
@@ -164,7 +164,7 @@
         },
         {
           "question": "What are polypeptides made from?",
-          "answer": "Amino acids",
+          "correct": "Amino acids",
           "options": [
             "Glucose molecules",
             "Fatty acids",
@@ -174,7 +174,7 @@
         },
         {
           "question": "What are polynucleotides made from?",
-          "answer": "Nucleotides",
+          "correct": "Nucleotides",
           "options": [
             "Amino acids",
             "Monosaccharides",
@@ -184,7 +184,7 @@
         },
         {
           "question": "What happens in a condensation reaction?",
-          "answer": "Monomers join together and a molecule of water is released",
+          "correct": "Monomers join together and a molecule of water is released",
           "options": [
             "Polymers are broken apart using water",
             "Monomers join together and a molecule of water is released",
@@ -194,7 +194,7 @@
         },
         {
           "question": "Which substance is released during a condensation reaction?",
-          "answer": "Water",
+          "correct": "Water",
           "options": [
             "Oxygen",
             "Hydrogen",
@@ -204,7 +204,7 @@
         },
         {
           "question": "Which process forms starch from glucose?",
-          "answer": "Condensation",
+          "correct": "Condensation",
           "options": [
             "Hydrolysis",
             "Diffusion",
@@ -214,7 +214,7 @@
         },
         {
           "question": "What happens in a hydrolysis reaction?",
-          "answer": "Polymers are broken into monomers using water",
+          "correct": "Polymers are broken into monomers using water",
           "options": [
             "Monomers are joined together",
             "Water is released",
@@ -224,7 +224,7 @@
         },
         {
           "question": "What is required to break bonds in hydrolysis?",
-          "answer": "Water",
+          "correct": "Water",
           "options": [
             "Energy only",
             "Enzymes only",
@@ -234,7 +234,7 @@
         },
         {
           "question": "What does hydrolysis of a polypeptide produce?",
-          "answer": "Amino acids",
+          "correct": "Amino acids",
           "options": [
             "Glucose",
             "Fatty acids",
@@ -244,7 +244,7 @@
         },
         {
           "question": "What is metabolism?",
-          "answer": "All chemical reactions occurring in a living organism",
+          "correct": "All chemical reactions occurring in a living organism",
           "options": [
             "Only reactions that release energy",
             "Only digestive reactions",
@@ -254,7 +254,7 @@
         },
         {
           "question": "What is the mole?",
-          "answer": "The SI unit for amount of substance",
+          "correct": "The SI unit for amount of substance",
           "options": [
             "A unit of mass",
             "A unit of volume",
@@ -264,7 +264,7 @@
         },
         {
           "question": "One mole contains the same number of particles as how much carbon-12?",
-          "answer": "12 grams",
+          "correct": "12 grams",
           "options": [
             "1 gram",
             "6 grams",
@@ -274,7 +274,7 @@
         },
         {
           "question": "What is the Avogadro constant?",
-          "answer": "6.022 × 10^23 particles per mole",
+          "correct": "6.022 × 10^23 particles per mole",
           "options": [
             "1.0 × 10^6",
             "6.022 × 10^23",
@@ -284,7 +284,7 @@
         },
         {
           "question": "What does a 1 molar (1 M) solution contain?",
-          "answer": "1 mole of solute per litre of solution",
+          "correct": "1 mole of solute per litre of solution",
           "options": [
             "1 gram of solute per litre",
             "1 mole of solute per litre of solution",
@@ -294,7 +294,7 @@
         },
         {
           "question": "What does molecular mass in grams represent?",
-          "answer": "The mass needed for one mole of a substance",
+          "correct": "The mass needed for one mole of a substance",
           "options": [
             "The mass of one atom",
             "The mass of one molecule",
@@ -306,7 +306,7 @@
       "1.1.2. - Carbohydrates: Monosaccharides": [
         {
           "question": "What are carbohydrates?",
-          "answer": "Carbon-containing molecules combined with water",
+          "correct": "Carbon-containing molecules combined with water",
           "options": [
             "Molecules made only of carbon and oxygen",
             "Carbon-containing molecules combined with water",
@@ -316,7 +316,7 @@
         },
         {
           "question": "What is the general formula for simple sugars (monosaccharides)?",
-          "answer": "(CH2O)n",
+          "correct": "(CH2O)n",
           "options": [
             "C6H12O6",
             "(CH2O)n",
@@ -326,7 +326,7 @@
         },
         {
           "question": "Why is carbon important for life?",
-          "answer": "It forms strong bonds with other carbon atoms to create long molecular chains",
+          "correct": "It forms strong bonds with other carbon atoms to create long molecular chains",
           "options": [
             "It easily loses electrons",
             "It forms strong bonds with other carbon atoms to create long molecular chains",
@@ -336,7 +336,7 @@
         },
         {
           "question": "What do carbon atoms form when bonded together?",
-          "answer": "Long chains that act as molecular backbones",
+          "correct": "Long chains that act as molecular backbones",
           "options": [
             "Ions",
             "Rings only",
@@ -346,7 +346,7 @@
         },
         {
           "question": "What type of molecules form the basis of life?",
-          "answer": "Organic (carbon-based) molecules",
+          "correct": "Organic (carbon-based) molecules",
           "options": [
             "Inorganic molecules",
             "Ionic compounds",
@@ -356,7 +356,7 @@
         },
         {
           "question": "Which elements are mainly found in biological molecules?",
-          "answer": "Carbon, hydrogen, oxygen, and nitrogen",
+          "correct": "Carbon, hydrogen, oxygen, and nitrogen",
           "options": [
             "Carbon, calcium, iron, sodium",
             "Hydrogen, oxygen, sulfur, phosphorus",
@@ -366,7 +366,7 @@
         },
         {
           "question": "What is a monomer?",
-          "answer": "A small repeating unit that can join to form polymers",
+          "correct": "A small repeating unit that can join to form polymers",
           "options": [
             "A large biological molecule",
             "A small repeating unit that can join to form polymers",
@@ -376,7 +376,7 @@
         },
         {
           "question": "Which of the following is an example of a monomer?",
-          "answer": "Monosaccharide",
+          "correct": "Monosaccharide",
           "options": [
             "Polysaccharide",
             "Protein",
@@ -386,7 +386,7 @@
         },
         {
           "question": "What is a polymer?",
-          "answer": "A long chain of monomers joined together",
+          "correct": "A long chain of monomers joined together",
           "options": [
             "A single sugar molecule",
             "A long chain of monomers joined together",
@@ -396,7 +396,7 @@
         },
         {
           "question": "Which biological molecules are polymers?",
-          "answer": "Carbohydrates and proteins",
+          "correct": "Carbohydrates and proteins",
           "options": [
             "Lipids and water",
             "Vitamins and minerals",
@@ -406,7 +406,7 @@
         },
         {
           "question": "What is the monomer of carbohydrates?",
-          "answer": "Monosaccharide",
+          "correct": "Monosaccharide",
           "options": [
             "Amino acid",
             "Monosaccharide",
@@ -416,7 +416,7 @@
         },
         {
           "question": "What is formed when two monosaccharides join together?",
-          "answer": "A disaccharide",
+          "correct": "A disaccharide",
           "options": [
             "A polysaccharide",
             "A monosaccharide",
@@ -426,7 +426,7 @@
         },
         {
           "question": "What is formed when many monosaccharides join together?",
-          "answer": "A polysaccharide",
+          "correct": "A polysaccharide",
           "options": [
             "A disaccharide",
             "A lipid",
@@ -436,7 +436,7 @@
         },
         {
           "question": "What are monosaccharides?",
-          "answer": "Sweet-tasting, soluble, single sugar units",
+          "correct": "Sweet-tasting, soluble, single sugar units",
           "options": [
             "Insoluble complex carbohydrates",
             "Sweet-tasting, soluble, single sugar units",
@@ -446,7 +446,7 @@
         },
         {
           "question": "What range of carbon atoms do monosaccharides contain?",
-          "answer": "3 to 7 carbon atoms",
+          "correct": "3 to 7 carbon atoms",
           "options": [
             "1 to 2",
             "3 to 7",
@@ -456,7 +456,7 @@
         },
         {
           "question": "Which of the following is an example of a monosaccharide?",
-          "answer": "Glucose",
+          "correct": "Glucose",
           "options": [
             "Starch",
             "Sucrose",
@@ -466,7 +466,7 @@
         },
         {
           "question": "Which sugars are monosaccharides?",
-          "answer": "Glucose, fructose, and galactose",
+          "correct": "Glucose, fructose, and galactose",
           "options": [
             "Sucrose, lactose, maltose",
             "Glucose, fructose, and galactose",
@@ -476,7 +476,7 @@
         },
         {
           "question": "What type of sugar is glucose?",
-          "answer": "A hexose sugar",
+          "correct": "A hexose sugar",
           "options": [
             "Pentose sugar",
             "Triose sugar",
@@ -486,7 +486,7 @@
         },
         {
           "question": "How many carbon atoms does glucose contain?",
-          "answer": "6",
+          "correct": "6",
           "options": [
             "3",
             "5",
@@ -496,7 +496,7 @@
         },
         {
           "question": "What is the molecular formula of glucose?",
-          "answer": "C6H12O6",
+          "correct": "C6H12O6",
           "options": [
             "C12H22O11",
             "C6H12O6",
@@ -506,7 +506,7 @@
         },
         {
           "question": "What are the two isomers of glucose?",
-          "answer": "Alpha-glucose and beta-glucose",
+          "correct": "Alpha-glucose and beta-glucose",
           "options": [
             "D-glucose and L-glucose",
             "Alpha-glucose and beta-glucose",
@@ -516,7 +516,7 @@
         },
         {
           "question": "What are reducing sugars?",
-          "answer": "Sugars that donate electrons to reduce other chemicals",
+          "correct": "Sugars that donate electrons to reduce other chemicals",
           "options": [
             "Sugars that gain electrons",
             "Sugars that store energy",
@@ -526,7 +526,7 @@
         },
         {
           "question": "Which carbohydrates are reducing sugars?",
-          "answer": "All monosaccharides and some disaccharides",
+          "correct": "All monosaccharides and some disaccharides",
           "options": [
             "Only polysaccharides",
             "Only non-sugars",
@@ -536,7 +536,7 @@
         },
         {
           "question": "Which disaccharide is a reducing sugar?",
-          "answer": "Maltose",
+          "correct": "Maltose",
           "options": [
             "Sucrose",
             "Cellulose",
@@ -546,7 +546,7 @@
         },
         {
           "question": "What reagent is used to test for reducing sugars?",
-          "answer": "Benedict’s reagent",
+          "correct": "Benedict’s reagent",
           "options": [
             "Biuret reagent",
             "Benedict’s reagent",
@@ -556,7 +556,7 @@
         },
         {
           "question": "What is Benedict’s reagent made from?",
-          "answer": "Alkaline copper(II) sulfate",
+          "correct": "Alkaline copper(II) sulfate",
           "options": [
             "Copper(I) oxide",
             "Hydrochloric acid",
@@ -566,7 +566,7 @@
         },
         {
           "question": "Why must the sample be heated in Benedict’s test?",
-          "answer": "To provide energy for the reaction to occur",
+          "correct": "To provide energy for the reaction to occur",
           "options": [
             "To evaporate the water",
             "To sterilise the sample",
@@ -576,7 +576,7 @@
         },
         {
           "question": "What happens to copper ions in a positive Benedict’s test?",
-          "answer": "Copper(II) ions are reduced to copper(I) oxide",
+          "correct": "Copper(II) ions are reduced to copper(I) oxide",
           "options": [
             "Copper(I) ions are oxidised",
             "Copper(II) ions are reduced to copper(I) oxide",
@@ -586,7 +586,7 @@
         },
         {
           "question": "What colour change indicates a positive Benedict’s test?",
-          "answer": "Formation of a red precipitate",
+          "correct": "Formation of a red precipitate",
           "options": [
             "Blue to green",
             "Clear to white",
@@ -596,7 +596,7 @@
         },
         {
           "question": "What substance forms the red precipitate in Benedict’s test?",
-          "answer": "Copper(I) oxide",
+          "correct": "Copper(I) oxide",
           "options": [
             "Copper(II) sulfate",
             "Copper hydroxide",
