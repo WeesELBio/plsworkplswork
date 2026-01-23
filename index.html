@@ -147,18 +147,18 @@
 let questions = {};
 let currentQuestion = null;
 let selectedAnswer = null;
-let shownQuestions = []; // Track questions already shown
+let shownQuestions = [];
+let answered = false;
 
-// Load JSON questions
+// Load questions
 fetch("questions.json")
     .then(r => r.json())
     .then(data => {
         questions = data;
         buildMenu();
-        nextQuestion(); // Auto-load first question
+        nextQuestion();
     });
 
-// Build collapsible topic menu with checkboxes
 function buildMenu() {
     const menu = document.getElementById("menu");
 
@@ -201,7 +201,6 @@ function buildMenu() {
     }
 }
 
-// Get all selected questions
 function getPool() {
     let pool = [];
 
@@ -216,16 +215,15 @@ function getPool() {
             }
         }
     }
-
     return pool;
 }
 
-// Pick next question
 function nextQuestion() {
     answered = false;
+    selectedAnswer = null;
+
     document.getElementById("feedback").textContent = "";
     document.getElementById("answers").innerHTML = "";
-    selectedAnswer = null;
 
     const pool = getPool();
     if (pool.length === 0) {
@@ -234,13 +232,11 @@ function nextQuestion() {
         return;
     }
 
-    // Reset shown questions if all have been shown
     if (shownQuestions.length >= pool.length) {
         shownQuestions = [];
     }
 
-    // Pick a question that hasn't been shown yet
-    let remaining = pool.filter(q => !shownQuestions.includes(q));
+    const remaining = pool.filter(q => !shownQuestions.includes(q));
     currentQuestion = remaining[Math.floor(Math.random() * remaining.length)];
     shownQuestions.push(currentQuestion);
 
@@ -249,25 +245,22 @@ function nextQuestion() {
 
     const mode = document.querySelector('input[name="mode"]:checked').value;
 
-    if (mode === "normal") {
-        showNormal();
-    } else {
-        showHard();
-    }
+    mode === "normal" ? showNormal() : showHard();
 }
 
-// Display multiple choice buttons
 function showNormal() {
+    const area = document.getElementById("answers");
     let opts = [...currentQuestion.options];
     opts.sort(() => Math.random() - 0.5);
-
-    const area = document.getElementById("answers");
 
     opts.forEach(opt => {
         const btn = document.createElement("button");
         btn.textContent = opt;
+        btn.dataset.answer = opt;
 
         btn.onclick = () => {
+            if (answered) return;
+
             selectedAnswer = opt;
             document.querySelectorAll("#answers button")
                 .forEach(b => b.style.border = "");
@@ -278,51 +271,63 @@ function showNormal() {
     });
 }
 
-// Display text input for hard mode
 function showHard() {
     const input = document.createElement("input");
     input.type = "text";
     input.id = "hardInput";
-    input.style.width = "100%";
     document.getElementById("answers").appendChild(input);
 }
-
-// Check answer and give feedback
-let answered = false;
 
 function checkAnswer() {
     if (!currentQuestion || answered) return;
 
     const mode = document.querySelector('input[name="mode"]:checked').value;
-    let userAnswer;
+    const feedback = document.getElementById("feedback");
 
     if (mode === "normal") {
         if (!selectedAnswer) {
-            document.getElementById("feedback").textContent =
-                "Please select an answer first.";
+            feedback.textContent = "Please select an answer first.";
             return;
         }
-        userAnswer = selectedAnswer;
+
+        const buttons = document.querySelectorAll("#answers button");
+
+        buttons.forEach(btn => {
+            const value = btn.dataset.answer;
+
+            if (value.toLowerCase() === currentQuestion.correct.toLowerCase()) {
+                btn.classList.add("correct");
+            }
+
+            if (
+                value.toLowerCase() === selectedAnswer.toLowerCase() &&
+                value.toLowerCase() !== currentQuestion.correct.toLowerCase()
+            ) {
+                btn.classList.add("wrong");
+            }
+        });
+
+        feedback.textContent =
+            selectedAnswer.toLowerCase() === currentQuestion.correct.toLowerCase()
+                ? "Correct."
+                : "Incorrect.";
+
     } else {
         const input = document.getElementById("hardInput");
         if (!input || input.value.trim() === "") {
-            document.getElementById("feedback").textContent =
-                "Please type an answer first.";
+            feedback.textContent = "Please type an answer first.";
             return;
         }
-        userAnswer = input.value.trim();
+
+        const userAnswer = input.value.trim();
+
+        feedback.textContent =
+            userAnswer.toLowerCase() === currentQuestion.correct.toLowerCase()
+                ? "Correct."
+                : "Incorrect. Correct answer: " + currentQuestion.correct;
     }
 
     answered = true;
-
-    const feedback = document.getElementById("feedback");
-
-    if (userAnswer.toLowerCase() === currentQuestion.correct.toLowerCase()) {
-        feedback.textContent = "Correct.";
-    } else {
-        feedback.textContent =
-            "Incorrect. Correct answer: " + currentQuestion.correct;
-    }
 }
 </script>
 
