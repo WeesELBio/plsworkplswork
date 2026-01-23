@@ -607,646 +607,1956 @@
       ],
       "1.1.3. - Carbohydrates: Disaccharides and Polysaccharides": [
         {
-          "question": "What type of bond joins two monosaccharides to form a disaccharide?",
+          "question": "What is a disaccharide?",
+          "correct": "A carbohydrate formed when two monosaccharides join together",
+          "options": [
+            "A single sugar molecule",
+            "A carbohydrate formed when two monosaccharides join together",
+            "A long chain of sugars",
+            "A structural carbohydrate"
+          ]
+        },
+        {
+          "question": "How are disaccharides formed?",
+          "correct": "By condensation between two monosaccharides with removal of water",
+          "options": [
+            "By hydrolysis using water",
+            "By condensation between two monosaccharides with removal of water",
+            "By breaking glycosidic bonds",
+            "By oxidation reactions"
+          ]
+        },
+        {
+          "question": "What type of bond joins monosaccharides together?",
           "correct": "Glycosidic bond",
-          "options": ["Glycosidic bond", "Peptide bond", "Hydrogen bond", "Ionic bond"]
+          "options": [
+            "Peptide bond",
+            "Hydrogen bond",
+            "Glycosidic bond",
+            "Ionic bond"
+          ]
         },
         {
-          "question": "Which reaction forms a disaccharide from two monosaccharides?",
-          "correct": "Condensation reaction",
-          "options": ["Condensation reaction", "Hydrolysis reaction", "Oxidation reaction", "Reduction reaction"]
+          "question": "What disaccharide is formed from glucose and glucose?",
+          "correct": "Maltose",
+          "options": [
+            "Sucrose",
+            "Lactose",
+            "Maltose",
+            "Cellulose"
+          ]
         },
         {
-          "question": "Which of the following is a disaccharide formed from glucose + fructose?",
+          "question": "What disaccharide is formed from glucose and fructose?",
           "correct": "Sucrose",
-          "options": ["Sucrose", "Maltose", "Lactose", "Glucose"]
+          "options": [
+            "Maltose",
+            "Lactose",
+            "Sucrose",
+            "Starch"
+          ]
         },
         {
-          "question": "Which disaccharide is non-reducing unless hydrolysed first?",
+          "question": "What disaccharide is formed from glucose and galactose?",
+          "correct": "Lactose",
+          "options": [
+            "Sucrose",
+            "Maltose",
+            "Cellulose",
+            "Lactose"
+          ]
+        },
+        {
+          "question": "What reaction breaks glycosidic bonds?",
+          "correct": "Hydrolysis",
+          "options": [
+            "Condensation",
+            "Oxidation",
+            "Hydrolysis",
+            "Reduction"
+          ]
+        },
+        {
+          "question": "What does hydrolysis of a disaccharide produce?",
+          "correct": "The original monosaccharides",
+          "options": [
+            "A polysaccharide",
+            "A single sugar",
+            "The original monosaccharides",
+            "Energy only"
+          ]
+        },
+        {
+          "question": "What is a non-reducing sugar?",
+          "correct": "A sugar that does not react with Benedict’s reagent unless hydrolysed",
+          "options": [
+            "A sugar that always gives a positive Benedict’s test",
+            "A sugar that does not react with Benedict’s reagent unless hydrolysed",
+            "A sugar that cannot be digested",
+            "A sugar that is insoluble"
+          ]
+        },
+        {
+          "question": "Which disaccharide is a non-reducing sugar?",
           "correct": "Sucrose",
-          "options": ["Sucrose", "Maltose", "Lactose", "Glucose"]
+          "options": [
+            "Maltose",
+            "Glucose",
+            "Sucrose",
+            "Galactose"
+          ]
         },
         {
-          "question": "What is used to hydrolyse non-reducing sugars before testing with Benedict’s reagent?",
-          "correct": "Dilute HCl",
-          "options": ["Dilute HCl", "Sodium hydroxide", "Benedict’s reagent", "Iodine solution"]
+          "question": "What colour indicates no reducing sugar present in Benedict’s test?",
+          "correct": "Blue",
+          "options": [
+            "Green",
+            "Orange",
+            "Red",
+            "Blue"
+          ]
         },
         {
-          "question": "Polysaccharides are polymers formed from which type of monomer?",
-          "correct": "Monosaccharides",
-          "options": ["Monosaccharides", "Amino acids", "Nucleotides", "Fatty acids"]
+          "question": "Why is hydrochloric acid added in the non-reducing sugar test?",
+          "correct": "To hydrolyse the disaccharide into monosaccharides",
+          "options": [
+            "To neutralise the solution",
+            "To hydrolyse the disaccharide into monosaccharides",
+            "To make the solution alkaline",
+            "To form a precipitate"
+          ]
+        },
+        {
+          "question": "Why must the solution be neutralised after adding hydrochloric acid?",
+          "correct": "Because Benedict’s reagent only works in alkaline conditions",
+          "options": [
+            "To stop hydrolysis",
+            "To cool the solution",
+            "Because Benedict’s reagent only works in alkaline conditions",
+            "To remove copper ions"
+          ]
+        },
+        {
+          "question": "What substance is used to neutralise the acid in the non-reducing sugar test?",
+          "correct": "Sodium hydrogencarbonate",
+          "options": [
+            "Sodium chloride",
+            "Sodium hydroxide",
+            "Sodium hydrogencarbonate",
+            "Potassium iodide"
+          ]
+        },
+        {
+          "question": "What result indicates a non-reducing sugar was present after hydrolysis?",
+          "correct": "The solution turns orange-brown",
+          "options": [
+            "The solution stays blue",
+            "The solution turns green",
+            "The solution turns orange-brown",
+            "A blue-black colour forms"
+          ]
+        },
+        {
+          "question": "What are polysaccharides?",
+          "correct": "Polymers made from many monosaccharides joined by glycosidic bonds",
+          "options": [
+            "Two monosaccharides joined together",
+            "Polymers made from many monosaccharides joined by glycosidic bonds",
+            "Single sugar units",
+            "Sugars that dissolve easily"
+          ]
         },
         {
           "question": "Why are polysaccharides suitable for storage?",
           "correct": "They are large and insoluble",
-          "options": ["They are large and insoluble", "They are sweet-tasting", "They are soluble in water", "They are highly reactive"]
+          "options": [
+            "They are sweet-tasting",
+            "They are soluble in water",
+            "They are large and insoluble",
+            "They react easily"
+          ]
         },
         {
-          "question": "What polysaccharide provides structural support instead of storage?",
+          "question": "What reaction breaks polysaccharides into smaller sugars?",
+          "correct": "Hydrolysis",
+          "options": [
+            "Condensation",
+            "Oxidation",
+            "Hydrolysis",
+            "Reduction"
+          ]
+        },
+        {
+          "question": "What can polysaccharides be broken down into?",
+          "correct": "Monosaccharides or disaccharides",
+          "options": [
+            "Only monosaccharides",
+            "Only glucose",
+            "Monosaccharides or disaccharides",
+            "Amino acids"
+          ]
+        },
+        {
+          "question": "Which polysaccharide provides structural support rather than storage?",
           "correct": "Cellulose",
-          "options": ["Cellulose", "Starch", "Glycogen", "Maltose"]
+          "options": [
+            "Starch",
+            "Glycogen",
+            "Cellulose",
+            "Maltose"
+          ]
+        },
+        {
+          "question": "What is starch?",
+          "correct": "A storage polysaccharide found in plants",
+          "options": [
+            "A structural polysaccharide in animals",
+            "A reducing sugar",
+            "A storage polysaccharide found in plants",
+            "A disaccharide"
+          ]
         },
         {
           "question": "Where is starch stored in plants?",
-          "correct": "Chloroplasts",
-          "options": ["Chloroplasts", "Mitochondria", "Cell wall", "Nucleus"]
+          "correct": "As grains, for example in chloroplasts",
+          "options": [
+            "In mitochondria",
+            "In nuclei",
+            "As grains, for example in chloroplasts",
+            "In cell membranes"
+          ]
         },
         {
-          "question": "What colour indicates the presence of starch when using iodine solution?",
+          "question": "What type of glucose forms starch?",
+          "correct": "Alpha-glucose",
+          "options": [
+            "Beta-glucose",
+            "Alpha-glucose",
+            "Fructose",
+            "Galactose"
+          ]
+        },
+        {
+          "question": "Approximately how many alpha-glucose molecules form starch?",
+          "correct": "Between 200 and 100,000",
+          "options": [
+            "2 to 10",
+            "20 to 50",
+            "Between 200 and 100,000",
+            "Over 1 million"
+          ]
+        },
+        {
+          "question": "What reagent is used to test for starch?",
+          "correct": "Iodine in potassium iodide solution",
+          "options": [
+            "Benedict’s reagent",
+            "Biuret reagent",
+            "Iodine in potassium iodide solution",
+            "Ethanol"
+          ]
+        },
+        {
+          "question": "What colour change indicates the presence of starch?",
           "correct": "Blue-black",
-          "options": ["Blue-black", "Red", "Orange", "Purple"]
+          "options": [
+            "Orange-brown",
+            "Blue-black",
+            "Green",
+            "Red precipitate"
+          ]
         }
       ],
       "1.1.4. - Polysaccharides: Starch, Glycogen, Cellulose": [
         {
-          "question": "What is the primary function of starch in plants?",
+          "question": "What is the main function of starch in plants?",
           "correct": "Energy storage",
-          "options": ["Energy storage", "Structural support", "Enzyme production", "Photosynthesis"]
-        },
-        {
-          "question": "Where is starch mainly stored in plants?",
-          "correct": "Seeds and storage organs (e.g., potato tubers)",
-          "options": ["Seeds and storage organs (e.g., potato tubers)", "Cell walls", "Leaves", "Roots only"]
-        },
-        {
-          "question": "What type of glucose makes up starch?",
-          "correct": "α-glucose",
-          "options": ["α-glucose", "β-glucose", "Fructose", "Galactose"]
-        },
-        {
-          "question": "Why is starch compact in structure?",
-          "correct": "Unbranched chains form a tight helix",
           "options": [
-            "Unbranched chains form a tight helix",
-            "Chains are highly branched",
-            "Chains are insoluble",
-            "Chains form hydrogen bonds"
+            "Structural support",
+            "Energy storage",
+            "Cell signalling",
+            "Insulation"
           ]
         },
         {
-          "question": "Which property of starch allows rapid glucose release from branched chains?",
-          "correct": "Many accessible ends for enzyme action",
+          "question": "Where is starch stored in plants?",
+          "correct": "Seeds and storage organs such as potato tubers",
           "options": [
-            "Many accessible ends for enzyme action",
-            "Tight helical structure",
-            "Insolubility",
-            "Blue-black iodine stain"
+            "Leaves only",
+            "Muscle cells",
+            "Seeds and storage organs such as potato tubers",
+            "Cell walls"
           ]
         },
         {
-          "question": "What is the equivalent storage polysaccharide in animals?",
-          "correct": "Glycogen",
-          "options": ["Glycogen", "Cellulose", "Starch", "Maltose"]
+          "question": "What monomer is starch made from?",
+          "correct": "Alpha-glucose",
+          "options": [
+            "Beta-glucose",
+            "Fructose",
+            "Alpha-glucose",
+            "Galactose"
+          ]
+        },
+        {
+          "question": "What type of bonds join glucose molecules in starch?",
+          "correct": "Glycosidic bonds",
+          "options": [
+            "Peptide bonds",
+            "Hydrogen bonds",
+            "Glycosidic bonds",
+            "Ionic bonds"
+          ]
+        },
+        {
+          "question": "What types of chains does starch contain?",
+          "correct": "Both branched and unbranched chains",
+          "options": [
+            "Only branched chains",
+            "Only unbranched chains",
+            "Both branched and unbranched chains",
+            "Only straight chains"
+          ]
+        },
+        {
+          "question": "Why is starch a compact molecule?",
+          "correct": "Unbranched chains form a tight helical structure",
+          "options": [
+            "It is highly soluble",
+            "Unbranched chains form a tight helical structure",
+            "It contains hydrogen bonds between chains",
+            "It diffuses easily"
+          ]
+        },
+        {
+          "question": "Why is starch insoluble in water?",
+          "correct": "So it has no osmotic effect and does not diffuse out of cells",
+          "options": [
+            "So it can be transported easily",
+            "So it reacts quickly",
+            "So it has no osmotic effect and does not diffuse out of cells",
+            "So it can form fibres"
+          ]
+        },
+        {
+          "question": "Why is starch suitable for energy storage?",
+          "correct": "It is compact, insoluble, and can be hydrolysed to glucose",
+          "options": [
+            "It is soluble and reactive",
+            "It forms rigid fibres",
+            "It is compact, insoluble, and can be hydrolysed to glucose",
+            "It contains beta-glucose"
+          ]
+        },
+        {
+          "question": "Why do branched starch chains allow rapid glucose release?",
+          "correct": "They have many ends where enzymes can act",
+          "options": [
+            "They are longer",
+            "They dissolve faster",
+            "They have many ends where enzymes can act",
+            "They form hydrogen bonds"
+          ]
+        },
+        {
+          "question": "What colour does starch turn when tested with iodine?",
+          "correct": "Blue-black",
+          "options": [
+            "Orange-brown",
+            "Blue-black",
+            "Green",
+            "Red"
+          ]
+        },
+        {
+          "question": "Why is starch absent in animals?",
+          "correct": "It is replaced by glycogen",
+          "options": [
+            "Animals cannot digest starch",
+            "It is insoluble",
+            "It is replaced by glycogen",
+            "Animals do not store carbohydrates"
+          ]
+        },
+        {
+          "question": "What is the main function of glycogen?",
+          "correct": "Carbohydrate storage in animals and bacteria",
+          "options": [
+            "Structural support",
+            "Carbohydrate storage in animals and bacteria",
+            "Energy transfer",
+            "Cell protection"
+          ]
         },
         {
           "question": "Where is glycogen mainly stored in animals?",
           "correct": "Muscle and liver cells",
-          "options": ["Muscle and liver cells", "Blood", "Fat cells", "Brain"]
+          "options": [
+            "Brain and heart cells",
+            "Blood plasma",
+            "Muscle and liver cells",
+            "Plant tissues"
+          ]
+        },
+        {
+          "question": "How is glycogen stored within cells?",
+          "correct": "As granules",
+          "options": [
+            "As fibres",
+            "As granules",
+            "As helices",
+            "As membranes"
+          ]
+        },
+        {
+          "question": "What monomer is glycogen made from?",
+          "correct": "Alpha-glucose",
+          "options": [
+            "Beta-glucose",
+            "Alpha-glucose",
+            "Fructose",
+            "Ribose"
+          ]
         },
         {
           "question": "How does glycogen differ structurally from starch?",
-          "correct": "It has shorter, more highly branched chains",
+          "correct": "It has shorter chains and is more highly branched",
           "options": [
-            "It has shorter, more highly branched chains",
-            "It is made of β-glucose",
             "It is unbranched",
-            "It is soluble in water"
+            "It is made of beta-glucose",
+            "It has shorter chains and is more highly branched",
+            "It forms microfibrils"
           ]
         },
         {
-          "question": "Why is glycogen important for animals?",
-          "correct": "Rapid glucose release meets high metabolic and respiratory demands",
+          "question": "Why is glycogen insoluble?",
+          "correct": "So it has no osmotic effect and does not diffuse out of cells",
           "options": [
-            "Rapid glucose release meets high metabolic and respiratory demands",
-            "Provides structural support",
-            "Prevents cell bursting",
-            "Forms a helical compact structure"
+            "So it can be transported easily",
+            "So it forms fibres",
+            "So it has no osmotic effect and does not diffuse out of cells",
+            "So it can react with iodine"
           ]
         },
         {
-          "question": "What is the function of cellulose in plants?",
-          "correct": "Structural support in cell walls",
-          "options": ["Structural support in cell walls", "Energy storage", "Enzyme production", "Transport of glucose"]
-        },
-        {
-          "question": "Which type of glucose forms cellulose?",
-          "correct": "β-glucose",
-          "options": ["β-glucose", "α-glucose", "Fructose", "Galactose"]
-        },
-        {
-          "question": "How are cellulose chains strengthened?",
-          "correct": "Hydrogen bonds form between parallel chains",
+          "question": "Why is glycogen highly branched?",
+          "correct": "To provide many ends for enzymes and allow rapid glucose release",
           "options": [
-            "Hydrogen bonds form between parallel chains",
-            "Glycosidic bonds create cross-links",
-            "Chains are branched",
-            "Chains form tight helices"
+            "To increase rigidity",
+            "To make it soluble",
+            "To provide many ends for enzymes and allow rapid glucose release",
+            "To reduce energy content"
           ]
         },
         {
-          "question": "What structure do cellulose chains form in plant cells?",
-          "correct": "Microfibrils grouped into fibres",
+          "question": "Why is glycogen particularly important in animals?",
+          "correct": "Animals have a high metabolic and respiratory rate",
           "options": [
-            "Microfibrils grouped into fibres",
-            "Helical coils",
-            "Granules in chloroplasts",
-            "Enzyme-linked networks"
+            "Animals rely on photosynthesis",
+            "Animals have a high metabolic and respiratory rate",
+            "Animals store little energy",
+            "Animals require structural carbohydrates"
           ]
         },
         {
-          "question": "How does cellulose prevent plant cells from bursting?",
-          "correct": "Exerts inward pressure, maintaining turgidity",
+          "question": "What is the main function of cellulose?",
+          "correct": "Structural support in plant cell walls",
           "options": [
-            "Exerts inward pressure, maintaining turgidity",
-            "Stores water in vacuoles",
-            "Rapid glucose release",
-            "Forms compact granules"
+            "Energy storage",
+            "Transport of glucose",
+            "Structural support in plant cell walls",
+            "Cell signalling"
           ]
         },
         {
-          "question": "Why are plant stems and leaves supported by cellulose?",
-          "correct": "Maintains turgid cells for maximum photosynthesis",
+          "question": "What monomer is cellulose made from?",
+          "correct": "Beta-glucose",
           "options": [
-            "Maintains turgid cells for maximum photosynthesis",
-            "Stores energy",
-            "Prevents glucose diffusion",
-            "Forms helical chains for storage"
+            "Alpha-glucose",
+            "Beta-glucose",
+            "Fructose",
+            "Galactose"
+          ]
+        },
+        {
+          "question": "What is the structure of cellulose chains?",
+          "correct": "Long, straight, unbranched chains",
+          "options": [
+            "Short and branched",
+            "Helical chains",
+            "Long, straight, unbranched chains",
+            "Coiled chains"
+          ]
+        },
+        {
+          "question": "How are cellulose chains held together?",
+          "correct": "By hydrogen bonds between parallel chains",
+          "options": [
+            "By glycosidic bonds between chains",
+            "By ionic bonds",
+            "By hydrogen bonds between parallel chains",
+            "By covalent cross-links"
+          ]
+        },
+        {
+          "question": "What structures do cellulose chains form?",
+          "correct": "Microfibrils that group into fibres",
+          "options": [
+            "Granules",
+            "Helices",
+            "Microfibrils that group into fibres",
+            "Vesicles"
+          ]
+        },
+        {
+          "question": "Why is cellulose very strong?",
+          "correct": "Many hydrogen bonds collectively provide great strength",
+          "options": [
+            "It is highly branched",
+            "It is soluble",
+            "Many hydrogen bonds collectively provide great strength",
+            "It contains alpha-glucose"
+          ]
+        },
+        {
+          "question": "What effect does cellulose have on plant cells?",
+          "correct": "It provides rigidity and prevents cells from bursting",
+          "options": [
+            "It allows rapid diffusion",
+            "It stores energy",
+            "It provides rigidity and prevents cells from bursting",
+            "It increases osmotic intake"
+          ]
+        },
+        {
+          "question": "How does cellulose help maintain turgidity in plant cells?",
+          "correct": "By exerting inward pressure against the cell contents",
+          "options": [
+            "By absorbing water",
+            "By exerting inward pressure against the cell contents",
+            "By pumping ions out",
+            "By increasing permeability"
+          ]
+        },
+        {
+          "question": "Why is turgidity important for plants?",
+          "correct": "It supports stems and leaves for maximum photosynthesis",
+          "options": [
+            "It allows respiration",
+            "It prevents enzyme activity",
+            "It supports stems and leaves for maximum photosynthesis",
+            "It increases transpiration"
           ]
         }
       ],
       "1.1.5. - Lipids": [
         {
           "question": "Which elements are found in lipids?",
-          "correct": "Carbon, hydrogen, oxygen",
-          "options": ["Carbon, hydrogen, oxygen", "Carbon, hydrogen, nitrogen", "Carbon, hydrogen, sulfur", "Carbon, oxygen, phosphorus"]
+          "correct": "Carbon, hydrogen and oxygen",
+          "options": [
+            "Carbon, hydrogen, oxygen and nitrogen",
+            "Carbon, hydrogen and oxygen",
+            "Carbon and oxygen only",
+            "Hydrogen and nitrogen only"
+          ]
         },
         {
-          "question": "Compared to carbohydrates, lipids have:",
-          "correct": "A lower proportion of oxygen",
-          "options": ["A lower proportion of oxygen", "More oxygen", "No hydrogen", "More nitrogen"]
+          "question": "How does the oxygen content of lipids compare to carbohydrates?",
+          "correct": "Lipids contain a lower proportion of oxygen",
+          "options": [
+            "Lipids contain more oxygen",
+            "Lipids contain the same amount of oxygen",
+            "Lipids contain a lower proportion of oxygen",
+            "Lipids contain no oxygen"
+          ]
         },
         {
           "question": "What is the solubility of lipids?",
-          "correct": "Insoluble in water; soluble in organic solvents",
+          "correct": "Insoluble in water but soluble in organic solvents",
           "options": [
-            "Insoluble in water; soluble in organic solvents",
-            "Soluble in water; insoluble in alcohol",
-            "Soluble in water and alcohol",
+            "Soluble in water only",
+            "Soluble in water and ethanol",
+            "Insoluble in water but soluble in organic solvents",
             "Insoluble in all solvents"
+          ]
+        },
+        {
+          "question": "Which solvents dissolve lipids?",
+          "correct": "Organic solvents such as alcohols and acetone",
+          "options": [
+            "Water and salt solutions",
+            "Organic solvents such as alcohols and acetone",
+            "Acids only",
+            "Alkaline solutions"
           ]
         },
         {
           "question": "What are the two main groups of lipids?",
           "correct": "Triglycerides and phospholipids",
-          "options": ["Triglycerides and phospholipids", "Monosaccharides and polysaccharides", "Proteins and enzymes", "Steroids and carbohydrates"]
-        },
-        {
-          "question": "Which role of lipids relates to cell membranes?",
-          "correct": "Phospholipids provide flexibility and allow movement of lipid-soluble substances",
           "options": [
-            "Phospholipids provide flexibility and allow movement of lipid-soluble substances",
-            "Triglycerides store energy",
-            "Lipids form the cytoskeleton",
-            "Lipids catalyse reactions"
+            "Starch and cellulose",
+            "Triglycerides and phospholipids",
+            "Proteins and lipids",
+            "Glycolipids and steroids"
           ]
         },
         {
-          "question": "When oxidised, lipids release:",
-          "correct": "Twice as much energy as carbohydrates",
+          "question": "What role do phospholipids play in cells?",
+          "correct": "They form cell membranes",
           "options": [
-            "Twice as much energy as carbohydrates",
-            "Less energy than carbohydrates",
-            "Same energy as carbohydrates",
-            "No energy, only water"
+            "Energy storage",
+            "Structural support in plants",
+            "They form cell membranes",
+            "Hormone production"
           ]
         },
         {
-          "question": "Which structural feature forms triglycerides?",
-          "correct": "Glycerol + 3 fatty acids via ester bonds",
+          "question": "Why do phospholipids make membranes flexible?",
+          "correct": "They allow movement of lipid-soluble substances",
           "options": [
-            "Glycerol + 3 fatty acids via ester bonds",
-            "Glycerol + phosphate group",
-            "Glucose + fatty acids",
-            "Amino acids + glycerol"
+            "They are rigid molecules",
+            "They allow movement of lipid-soluble substances",
+            "They bind strongly to proteins",
+            "They prevent diffusion"
           ]
         },
         {
-          "question": "Saturated fatty acids have:",
-          "correct": "No C=C double bonds",
-          "options": ["No C=C double bonds", "One C=C bond", "Multiple C=C bonds", "No hydrogen atoms"]
-        },
-        {
-          "question": "What is a key property of phospholipids?",
-          "correct": "They are polar with hydrophilic heads and hydrophobic tails",
+          "question": "How much energy do lipids release compared to carbohydrates?",
+          "correct": "About twice as much energy",
           "options": [
-            "They are polar with hydrophilic heads and hydrophobic tails",
-            "They are non-polar and hydrophobic throughout",
-            "They are entirely hydrophilic",
-            "They are ionic molecules"
+            "The same amount",
+            "Half as much",
+            "About twice as much energy",
+            "No energy"
           ]
         },
         {
-          "question": "What is the positive result for the emulsion test for lipids?",
-          "correct": "Cloudy-white emulsion",
-          "options": ["Cloudy-white emulsion", "Blue-black colour", "Purple colour", "Clear solution"]
+          "question": "What additional product is formed when lipids are oxidised?",
+          "correct": "Water",
+          "options": [
+            "Carbon monoxide",
+            "ATP only",
+            "Water",
+            "Oxygen"
+          ]
         },
         {
-          "question": "Why does the emulsion test produce cloudiness?",
+          "question": "How do lipids provide waterproofing?",
+          "correct": "They are insoluble and form waxy or oily layers",
+          "options": [
+            "They dissolve in water",
+            "They absorb moisture",
+            "They are insoluble and form waxy or oily layers",
+            "They react with water"
+          ]
+        },
+        {
+          "question": "Where are waxy lipid layers found in organisms?",
+          "correct": "On plant surfaces and insect cuticles",
+          "options": [
+            "Inside nuclei",
+            "On plant surfaces and insect cuticles",
+            "In blood plasma",
+            "In mitochondria"
+          ]
+        },
+        {
+          "question": "How do mammals use lipids for waterproofing?",
+          "correct": "By secreting oily substances",
+          "options": [
+            "By producing cellulose",
+            "By secreting oily substances",
+            "By absorbing water",
+            "By forming glycogen"
+          ]
+        },
+        {
+          "question": "How do lipids reduce heat loss?",
+          "correct": "They act as thermal insulation",
+          "options": [
+            "They increase respiration",
+            "They dissolve heat",
+            "They act as thermal insulation",
+            "They release energy constantly"
+          ]
+        },
+        {
+          "question": "Where do lipids act as electrical insulators?",
+          "correct": "In the myelin sheath around nerve fibres",
+          "options": [
+            "In cell walls",
+            "In mitochondria",
+            "In the myelin sheath around nerve fibres",
+            "In chloroplasts"
+          ]
+        },
+        {
+          "question": "How do lipids protect organs?",
+          "correct": "By being stored around delicate organs",
+          "options": [
+            "By forming membranes",
+            "By being stored around delicate organs",
+            "By transporting oxygen",
+            "By strengthening bones"
+          ]
+        },
+        {
+          "question": "Which organs are commonly protected by fat deposits?",
+          "correct": "Kidneys",
+          "options": [
+            "Heart",
+            "Lungs",
+            "Kidneys",
+            "Liver"
+          ]
+        },
+        {
+          "question": "What is the difference between fats and oils?",
+          "correct": "Fats are solid at room temperature and oils are liquid",
+          "options": [
+            "Fats are liquid and oils are solid",
+            "Fats are solid at room temperature and oils are liquid",
+            "Fats are found in plants only",
+            "Oils are found in animals only"
+          ]
+        },
+        {
+          "question": "What molecules form a triglyceride?",
+          "correct": "One glycerol and three fatty acids",
+          "options": [
+            "Three glycerol and one fatty acid",
+            "One glycerol and three fatty acids",
+            "Two glycerol and two fatty acids",
+            "One glycerol and one fatty acid"
+          ]
+        },
+        {
+          "question": "What type of bond joins fatty acids to glycerol?",
+          "correct": "Ester bond",
+          "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Ester bond",
+            "Hydrogen bond"
+          ]
+        },
+        {
+          "question": "What type of reaction forms triglycerides?",
+          "correct": "Condensation",
+          "options": [
+            "Hydrolysis",
+            "Oxidation",
+            "Condensation",
+            "Reduction"
+          ]
+        },
+        {
+          "question": "What is a simple triglyceride?",
+          "correct": "A triglyceride with three identical fatty acids",
+          "options": [
+            "A triglyceride with three identical fatty acids",
+            "A triglyceride with no fatty acids",
+            "A triglyceride with two glycerol molecules",
+            "A triglyceride with phosphate groups"
+          ]
+        },
+        {
+          "question": "What is a mixed triglyceride?",
+          "correct": "A triglyceride containing different fatty acids",
+          "options": [
+            "A triglyceride containing different fatty acids",
+            "A triglyceride with no glycerol",
+            "A triglyceride made of one fatty acid",
+            "A triglyceride that is polar"
+          ]
+        },
+        {
+          "question": "What functional group is found in all fatty acids?",
+          "correct": "Carboxyl group (–COOH)",
+          "options": [
+            "Amino group",
+            "Phosphate group",
+            "Carboxyl group (–COOH)",
+            "Hydroxyl group"
+          ]
+        },
+        {
+          "question": "What does the hydrocarbon chain in a fatty acid consist mainly of?",
+          "correct": "Carbon and hydrogen atoms",
+          "options": [
+            "Carbon and oxygen atoms",
+            "Carbon and nitrogen atoms",
+            "Carbon and hydrogen atoms",
+            "Hydrogen and oxygen atoms"
+          ]
+        },
+        {
+          "question": "What defines a saturated fatty acid?",
+          "correct": "It contains no carbon–carbon double bonds",
+          "options": [
+            "It contains one double bond",
+            "It contains multiple double bonds",
+            "It contains no carbon–carbon double bonds",
+            "It contains a phosphate group"
+          ]
+        },
+        {
+          "question": "What defines a monounsaturated fatty acid?",
+          "correct": "It contains one carbon–carbon double bond",
+          "options": [
+            "It contains no double bonds",
+            "It contains one carbon–carbon double bond",
+            "It contains many double bonds",
+            "It contains only single bonds to oxygen"
+          ]
+        },
+        {
+          "question": "What defines a polyunsaturated fatty acid?",
+          "correct": "It contains multiple carbon–carbon double bonds",
+          "options": [
+            "It contains one double bond",
+            "It contains no double bonds",
+            "It contains multiple carbon–carbon double bonds",
+            "It contains phosphate groups"
+          ]
+        },
+        {
+          "question": "Why are triglycerides good energy stores?",
+          "correct": "They contain many carbon–hydrogen bonds",
+          "options": [
+            "They contain many oxygen atoms",
+            "They contain many carbon–hydrogen bonds",
+            "They are polar",
+            "They dissolve easily in water"
+          ]
+        },
+        {
+          "question": "Why are lipids efficient energy stores in animals?",
+          "correct": "They have a low mass-to-energy ratio",
+          "options": [
+            "They are heavy molecules",
+            "They release energy slowly",
+            "They have a low mass-to-energy ratio",
+            "They are soluble"
+          ]
+        },
+        {
+          "question": "Why do lipids have no effect on osmosis?",
+          "correct": "They are large and non-polar, making them insoluble",
+          "options": [
+            "They dissolve easily",
+            "They are charged molecules",
+            "They are large and non-polar, making them insoluble",
+            "They form ions"
+          ]
+        },
+        {
+          "question": "Why are lipids important for desert organisms?",
+          "correct": "They release water when oxidised",
+          "options": [
+            "They absorb water from the environment",
+            "They release water when oxidised",
+            "They prevent respiration",
+            "They reduce metabolism"
+          ]
+        },
+        {
+          "question": "What structural feature gives lipids a high hydrogen to oxygen ratio?",
+          "correct": "They contain very little oxygen",
+          "options": [
+            "They contain phosphate groups",
+            "They contain very little oxygen",
+            "They contain nitrogen",
+            "They contain double bonds"
+          ]
+        },
+        {
+          "question": "How do phospholipids differ from triglycerides?",
+          "correct": "One fatty acid is replaced by a phosphate group",
+          "options": [
+            "They contain no fatty acids",
+            "They contain three glycerols",
+            "One fatty acid is replaced by a phosphate group",
+            "They are non-polar"
+          ]
+        },
+        {
+          "question": "What property does the phosphate head of a phospholipid have?",
+          "correct": "It is hydrophilic",
+          "options": [
+            "It is hydrophobic",
+            "It is non-polar",
+            "It is hydrophilic",
+            "It repels water weakly"
+          ]
+        },
+        {
+          "question": "What property do the fatty acid tails of phospholipids have?",
+          "correct": "They are hydrophobic",
+          "options": [
+            "They are hydrophilic",
+            "They are charged",
+            "They are hydrophobic",
+            "They dissolve in water"
+          ]
+        },
+        {
+          "question": "Why are phospholipids described as polar molecules?",
+          "correct": "They have a hydrophilic head and hydrophobic tails",
+          "options": [
+            "They contain carbon",
+            "They contain double bonds",
+            "They have a hydrophilic head and hydrophobic tails",
+            "They are symmetrical"
+          ]
+        },
+        {
+          "question": "What structure do phospholipids form in water?",
+          "correct": "A bilayer",
+          "options": [
+            "A helix",
+            "A micelle only",
+            "A bilayer",
+            "A fibre"
+          ]
+        },
+        {
+          "question": "Why do phospholipids form a hydrophobic barrier in membranes?",
+          "correct": "The fatty acid tails face inward and repel water",
+          "options": [
+            "The heads repel water",
+            "The phosphate groups dissolve",
+            "The fatty acid tails face inward and repel water",
+            "The bilayer traps enzymes"
+          ]
+        },
+        {
+          "question": "How do hydrophilic heads help stabilise membranes?",
+          "correct": "They interact with the aqueous environments inside and outside the cell",
+          "options": [
+            "They repel water",
+            "They bind to DNA",
+            "They interact with the aqueous environments inside and outside the cell",
+            "They prevent diffusion completely"
+          ]
+        },
+        {
+          "question": "What are glycolipids?",
+          "correct": "Lipids combined with carbohydrates",
+          "options": [
+            "Proteins combined with lipids",
+            "Lipids combined with carbohydrates",
+            "Sugars combined with proteins",
+            "Triglycerides with phosphate groups"
+          ]
+        },
+        {
+          "question": "What is the function of glycolipids?",
+          "correct": "Cell recognition",
+          "options": [
+            "Energy storage",
+            "Structural support",
+            "Cell recognition",
+            "Insulation"
+          ]
+        },
+        {
+          "question": "What test is used to detect lipids?",
+          "correct": "The emulsion test",
+          "options": [
+            "Benedict’s test",
+            "Biuret test",
+            "Iodine test",
+            "The emulsion test"
+          ]
+        },
+        {
+          "question": "Which solvent is used to dissolve lipids in the emulsion test?",
+          "correct": "Ethanol",
+          "options": [
+            "Water",
+            "Ethanol",
+            "Hydrochloric acid",
+            "Sodium hydroxide"
+          ]
+        },
+        {
+          "question": "What indicates a positive emulsion test?",
+          "correct": "A cloudy-white emulsion",
+          "options": [
+            "Blue-black colour",
+            "Orange precipitate",
+            "A cloudy-white emulsion",
+            "Clear solution"
+          ]
+        },
+        {
+          "question": "Why does a white emulsion form in the lipid test?",
           "correct": "Lipid droplets disperse and refract light",
           "options": [
+            "Lipids react chemically with water",
             "Lipid droplets disperse and refract light",
-            "Chemical reaction forms a red precipitate",
-            "Iodine binds to lipids",
-            "Lipids dissolve completely in water"
+            "Ethanol changes colour",
+            "Water becomes alkaline"
           ]
         },
         {
-          "question": "Which property of lipids helps in insulation?",
-          "correct": "Fats reduce heat loss and act as electrical insulators",
+          "question": "Why is a control used in the emulsion test?",
+          "correct": "To show that cloudiness is due to lipids and not water",
           "options": [
-            "Fats reduce heat loss and act as electrical insulators",
-            "They provide rapid energy release",
-            "They stabilize enzymes",
-            "They absorb water"
-          ]
-        },
-        {
-          "question": "Which property of lipids provides waterproofing?",
-          "correct": "Insolubility in water",
-          "options": [
-            "Insolubility in water",
-            "Solubility in alcohol",
-            "High energy content",
-            "Low mass to energy ratio"
+            "To increase accuracy",
+            "To dissolve ethanol",
+            "To show that cloudiness is due to lipids and not water",
+            "To neutralise the solution"
           ]
         }
       ],
       "1.1.6. - Proteins": [
         {
-          "question": "What are proteins primarily made of?",
-          "correct": "Amino acids",
-          "options": ["Amino acids", "Monosaccharides", "Fatty acids", "Nucleotides"]
+          "question": "What type of biological molecule are proteins?",
+          "choices": [
+            "Small and simple molecules",
+            "Large and varied biological molecules",
+            "Insoluble storage molecules",
+            "Carbon-free compounds"
+          ],
+          "correct": "Large and varied biological molecules"
         },
         {
-          "question": "How many naturally occurring amino acids are found in proteins?",
-          "correct": "20",
-          "options": ["20", "100", "50", "10"]
+          "question": "What determines the function of a protein?",
+          "choices": [
+            "Its size",
+            "Its solubility",
+            "Its shape",
+            "Its location in the cell"
+          ],
+          "correct": "Its shape"
         },
         {
-          "question": "What evidence supports evolution based on amino acids?",
-          "correct": "Universal use of the same 20 amino acids",
-          "options": [
-            "Universal use of the same 20 amino acids",
-            "Variation in polysaccharides",
-            "Variation in lipids",
-            "Different DNA sequences"
-          ]
+          "question": "What type of biological molecule are enzymes?",
+          "choices": [
+            "Lipids",
+            "Carbohydrates",
+            "Proteins",
+            "Nucleic acids"
+          ],
+          "correct": "Proteins"
         },
         {
-          "question": "Which groups are attached to the central carbon in an amino acid?",
-          "correct": "Amino group, carboxyl group, hydrogen atom, R-group",
-          "options": [
-            "Amino group, carboxyl group, hydrogen atom, R-group",
-            "Hydroxyl group, phosphate group, hydrogen, R-group",
-            "Amino group, methyl group, hydrogen, phosphate group",
-            "Carboxyl group, hydroxyl group, nitrogen, R-group"
-          ]
+          "question": "What are the monomers that make up proteins?",
+          "choices": [
+            "Nucleotides",
+            "Fatty acids",
+            "Monosaccharides",
+            "Amino acids"
+          ],
+          "correct": "Amino acids"
         },
         {
-          "question": "What type of reaction forms a peptide bond between amino acids?",
-          "correct": "Condensation reaction",
-          "options": ["Condensation reaction", "Hydrolysis reaction", "Oxidation reaction", "Reduction reaction"]
+          "question": "How many different amino acids are naturally found in proteins?",
+          "choices": [
+            "10",
+            "20",
+            "50",
+            "100"
+          ],
+          "correct": "20"
         },
         {
-          "question": "What bond is formed between the carboxyl carbon and amino nitrogen in proteins?",
-          "correct": "Peptide bond",
-          "options": ["Peptide bond", "Glycosidic bond", "Hydrogen bond", "Ester bond"]
+          "question": "What part of the amino acid differs between different amino acids?",
+          "choices": [
+            "Amino group",
+            "Carboxyl group",
+            "Hydrogen atom",
+            "R-group"
+          ],
+          "correct": "R-group"
+        },
+        {
+          "question": "Which groups are attached to the central carbon of an amino acid?",
+          "choices": [
+            "Only an amino group and R-group",
+            "Amino group, carboxyl group, hydrogen, and R-group",
+            "Two amino groups and one hydrogen",
+            "Phosphate group and R-group"
+          ],
+          "correct": "Amino group, carboxyl group, hydrogen, and R-group"
+        },
+        {
+          "question": "What type of reaction joins amino acids together?",
+          "choices": [
+            "Hydrolysis",
+            "Oxidation",
+            "Condensation",
+            "Neutralisation"
+          ],
+          "correct": "Condensation"
+        },
+        {
+          "question": "What bond forms between amino acids?",
+          "choices": [
+            "Hydrogen bond",
+            "Ionic bond",
+            "Glycosidic bond",
+            "Peptide bond"
+          ],
+          "correct": "Peptide bond"
+        },
+        {
+          "question": "What reaction breaks peptide bonds?",
+          "choices": [
+            "Condensation",
+            "Oxidation",
+            "Hydrolysis",
+            "Reduction"
+          ],
+          "correct": "Hydrolysis"
+        },
+        {
+          "question": "What does the primary structure of a protein describe?",
+          "choices": [
+            "Its 3D shape",
+            "The number of polypeptide chains",
+            "The sequence of amino acids",
+            "The type of bonds present"
+          ],
+          "correct": "The sequence of amino acids"
         },
         {
           "question": "What determines the primary structure of a protein?",
-          "correct": "Sequence of amino acids",
-          "options": ["Sequence of amino acids", "Hydrogen bonds", "Disulfide bridges", "Polypeptide folding"]
+          "choices": [
+            "RNA",
+            "Enzymes",
+            "DNA",
+            "R-groups"
+          ],
+          "correct": "DNA"
         },
         {
-          "question": "Which type of bond stabilises the secondary structure of proteins?",
-          "correct": "Hydrogen bonds",
-          "options": ["Hydrogen bonds", "Peptide bonds", "Ionic bonds", "Disulfide bridges"]
+          "question": "What type of bonding stabilises secondary protein structure?",
+          "choices": [
+            "Disulfide bridges",
+            "Hydrogen bonds",
+            "Ionic bonds",
+            "Peptide bonds"
+          ],
+          "correct": "Hydrogen bonds"
         },
         {
-          "question": "Which bonds help stabilise the tertiary structure of proteins?",
-          "correct": "Disulfide bridges, ionic bonds, hydrogen bonds",
-          "options": [
-            "Disulfide bridges, ionic bonds, hydrogen bonds",
-            "Peptide bonds only",
-            "Glycosidic and hydrogen bonds",
-            "Ionic bonds only"
-          ]
+          "question": "Which structure involves the formation of an alpha-helix?",
+          "choices": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+          ],
+          "correct": "Secondary"
         },
         {
-          "question": "What does quaternary protein structure involve?",
-          "correct": "Multiple polypeptide chains combined, may include prosthetic groups",
-          "options": [
-            "Multiple polypeptide chains combined, may include prosthetic groups",
-            "Sequence of amino acids only",
-            "Single polypeptide chain twisted into helix",
-            "Folding into α-helix or β-sheet"
-          ]
+          "question": "Which bonds help stabilise tertiary protein structure?",
+          "choices": [
+            "Only peptide bonds",
+            "Hydrogen bonds only",
+            "Disulfide, ionic, and hydrogen bonds",
+            "Glycosidic bonds"
+          ],
+          "correct": "Disulfide, ionic, and hydrogen bonds"
         },
         {
-          "question": "Which test detects proteins in a sample?",
-          "correct": "Biuret test",
-          "options": ["Biuret test", "Benedict’s test", "Emulsion test", "Iodine test"]
+          "question": "Which bond in tertiary structure is strongest?",
+          "choices": [
+            "Hydrogen bond",
+            "Ionic bond",
+            "Disulfide bridge",
+            "Peptide bond"
+          ],
+          "correct": "Disulfide bridge"
         },
         {
-          "question": "What indicates a positive Biuret test?",
-          "correct": "Purple colour",
-          "options": ["Purple colour", "Blue-black colour", "Cloudy-white emulsion", "Orange precipitate"]
+          "question": "Which protein structure involves more than one polypeptide chain?",
+          "choices": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+          ],
+          "correct": "Quaternary"
         },
         {
-          "question": "Which protein type provides structural strength and has long, cross-linked chains?",
-          "correct": "Fibrous proteins",
-          "options": ["Fibrous proteins", "Globular proteins", "Enzymes", "Hemoglobin"]
+          "question": "What is a prosthetic group?",
+          "choices": [
+            "A carbohydrate chain",
+            "A non-protein component of a protein",
+            "A type of amino acid",
+            "A peptide bond"
+          ],
+          "correct": "A non-protein component of a protein"
         },
         {
-          "question": "Which protein type is compact, spherical, and often involved in metabolic functions?",
-          "correct": "Globular proteins",
-          "options": ["Globular proteins", "Fibrous proteins", "Collagen", "Keratin"]
+          "question": "Which protein contains a haem prosthetic group?",
+          "choices": [
+            "Collagen",
+            "Keratin",
+            "Haemoglobin",
+            "Insulin"
+          ],
+          "correct": "Haemoglobin"
         },
         {
-          "question": "Give an example of a fibrous protein.",
-          "correct": "Collagen",
-          "options": ["Collagen", "Hemoglobin", "Amylase", "Insulin"]
+          "question": "What colour indicates a positive Biuret test?",
+          "choices": [
+            "Blue",
+            "Red",
+            "Purple",
+            "Green"
+          ],
+          "correct": "Purple"
         },
         {
-          "question": "Give an example of a globular protein.",
-          "correct": "Enzymes or haemoglobin",
-          "options": ["Enzymes or haemoglobin", "Collagen", "Keratin", "Cellulose"]
+          "question": "What does the Biuret test detect?",
+          "choices": [
+            "Amino acids",
+            "R-groups",
+            "Peptide bonds",
+            "Carbohydrate chains"
+          ],
+          "correct": "Peptide bonds"
+        },
+        {
+          "question": "Which type of protein is mainly structural?",
+          "choices": [
+            "Globular",
+            "Fibrous",
+            "Enzymatic",
+            "Transport"
+          ],
+          "correct": "Fibrous"
+        },
+        {
+          "question": "Which is an example of a fibrous protein?",
+          "choices": [
+            "Haemoglobin",
+            "Amylase",
+            "Collagen",
+            "Insulin"
+          ],
+          "correct": "Collagen"
+        },
+        {
+          "question": "Which type of protein is compact and spherical?",
+          "choices": [
+            "Fibrous",
+            "Structural",
+            "Globular",
+            "Insoluble"
+          ],
+          "correct": "Globular"
+        },
+        {
+          "question": "What is the main function of globular proteins?",
+          "choices": [
+            "Structural support",
+            "Waterproofing",
+            "Metabolic reactions",
+            "Energy storage"
+          ],
+          "correct": "Metabolic reactions"
         }
       ],
       "1.1.7. - Enzyme Action": [
         {
-          "question": "What type of protein acts as a biological catalyst?",
-          "correct": "Enzyme",
-          "options": ["Enzyme", "Fibrous protein", "Globular protein", "Hormone"]
+          "question": "What type of biological molecule are enzymes?",
+          "choices": [
+            "Fibrous proteins",
+            "Globular proteins",
+            "Lipids",
+            "Carbohydrates"
+          ],
+          "correct": "Globular proteins"
         },
         {
-          "question": "What is a key property of a catalyst?",
-          "correct": "Increases reaction rate without being permanently changed",
-          "options": [
-            "Increases reaction rate without being permanently changed",
-            "Supplies energy for reactions",
-            "Changes permanently during the reaction",
-            "Stops reactions from occurring"
-          ]
+          "question": "What is the role of an enzyme?",
+          "choices": [
+            "To start chemical reactions",
+            "To stop reactions",
+            "To increase the rate of reaction",
+            "To provide energy for reactions"
+          ],
+          "correct": "To increase the rate of reaction"
         },
         {
-          "question": "How do enzymes affect activation energy?",
-          "correct": "They lower the activation energy",
-          "options": ["They lower the activation energy", "They increase the activation energy", "They remove activation energy", "They create reactions"]
+          "question": "What is a catalyst?",
+          "choices": [
+            "A substance that is used up in reactions",
+            "A substance that slows reactions",
+            "A substance that increases reaction rate without being permanently changed",
+            "A substance that provides activation energy"
+          ],
+          "correct": "A substance that increases reaction rate without being permanently changed"
         },
         {
-          "question": "Why are enzymes important for metabolic reactions in humans?",
-          "correct": "They allow reactions to occur quickly at body temperature",
-          "options": [
-            "They allow reactions to occur quickly at body temperature",
-            "They increase energy input needed",
-            "They make reactions irreversible",
-            "They change the products of reactions"
-          ]
+          "question": "Why can enzymes be reused?",
+          "choices": [
+            "They are soluble",
+            "They are not permanently changed in reactions",
+            "They dissolve substrates",
+            "They release energy"
+          ],
+          "correct": "They are not permanently changed in reactions"
         },
         {
-          "question": "What determines the 3D tertiary structure of an enzyme?",
-          "correct": "The primary amino acid sequence",
-          "options": [
-            "The primary amino acid sequence",
-            "The number of substrates",
-            "The temperature",
-            "The pH only"
-          ]
+          "question": "Do enzymes create reactions that would not normally occur?",
+          "choices": [
+            "Yes, they create new reactions",
+            "Yes, but only at high temperature",
+            "No, they only speed up existing reactions",
+            "Only in living cells"
+          ],
+          "correct": "No, they only speed up existing reactions"
         },
         {
-          "question": "What is the functional region of an enzyme where the substrate binds?",
-          "correct": "Active site",
-          "options": ["Active site", "Binding site", "Peptide bond", "R-group"]
+          "question": "What is activation energy?",
+          "choices": [
+            "Energy released during a reaction",
+            "Energy stored in bonds",
+            "The minimum energy needed to start a reaction",
+            "Energy produced by enzymes"
+          ],
+          "correct": "The minimum energy needed to start a reaction"
         },
         {
-          "question": "Which bonds temporarily hold the substrate in the active site?",
-          "correct": "Hydrogen bonds",
-          "options": ["Hydrogen bonds", "Peptide bonds", "Glycosidic bonds", "Ionic bonds only"]
-        },
-        {
-          "question": "What does the induced fit model propose about the enzyme active site?",
-          "correct": "It changes shape slightly to fit around the substrate",
-          "options": [
-            "It changes shape slightly to fit around the substrate",
-            "It is rigid and exactly matches the substrate",
-            "It does not interact with the substrate",
-            "It permanently alters the substrate"
-          ]
-        },
-        {
-          "question": "How does the induced fit model explain the lowering of activation energy?",
-          "correct": "By straining bonds within the substrate",
-          "options": [
-            "By straining bonds within the substrate",
+          "question": "How do enzymes increase reaction rate?",
+          "choices": [
             "By increasing temperature",
-            "By adding energy",
-            "By removing enzymes"
-          ]
+            "By providing energy",
+            "By lowering activation energy",
+            "By increasing substrate concentration"
+          ],
+          "correct": "By lowering activation energy"
         },
         {
-          "question": "What is a limitation of the lock and key model?",
-          "correct": "It does not account for enzyme flexibility",
-          "options": [
+          "question": "Why are enzymes essential for life?",
+          "choices": [
+            "They make reactions reversible",
+            "They allow reactions to occur fast enough at normal body temperature",
+            "They increase energy yield",
+            "They prevent side reactions"
+          ],
+          "correct": "They allow reactions to occur fast enough at normal body temperature"
+        },
+        {
+          "question": "At what approximate temperature do human enzymes work efficiently?",
+          "choices": [
+            "0°C",
+            "25°C",
+            "37°C",
+            "100°C"
+          ],
+          "correct": "37°C"
+        },
+        {
+          "question": "What determines the 3D shape of an enzyme?",
+          "choices": [
+            "Its tertiary structure only",
+            "Its environment",
+            "Its amino acid sequence",
+            "Its substrate"
+          ],
+          "correct": "Its amino acid sequence"
+        },
+        {
+          "question": "What is the active site?",
+          "choices": [
+            "The whole enzyme molecule",
+            "The region where energy is released",
+            "The part of the enzyme that binds the substrate",
+            "The part that breaks down products"
+          ],
+          "correct": "The part of the enzyme that binds the substrate"
+        },
+        {
+          "question": "What forms when a substrate binds to an enzyme?",
+          "choices": [
+            "A protein complex",
+            "A reaction intermediate",
+            "An enzyme–substrate complex",
+            "A denatured enzyme"
+          ],
+          "correct": "An enzyme–substrate complex"
+        },
+        {
+          "question": "What type of bonds temporarily hold the substrate in the active site?",
+          "choices": [
+            "Peptide bonds",
+            "Covalent bonds",
+            "Hydrogen bonds",
+            "Disulfide bridges"
+          ],
+          "correct": "Hydrogen bonds"
+        },
+        {
+          "question": "Which model explains enzyme flexibility?",
+          "choices": [
+            "Lock and key model",
+            "Collision theory",
+            "Induced fit model",
+            "Activation model"
+          ],
+          "correct": "Induced fit model"
+        },
+        {
+          "question": "What happens to the enzyme during induced fit?",
+          "choices": [
+            "It becomes denatured",
+            "It changes shape slightly",
+            "It breaks apart",
+            "It becomes rigid"
+          ],
+          "correct": "It changes shape slightly"
+        },
+        {
+          "question": "How does induced fit help lower activation energy?",
+          "choices": [
+            "By increasing substrate concentration",
+            "By breaking peptide bonds",
+            "By straining bonds in the substrate",
+            "By increasing temperature"
+          ],
+          "correct": "By straining bonds in the substrate"
+        },
+        {
+          "question": "Which model suggests the active site is rigid?",
+          "choices": [
+            "Induced fit model",
+            "Modern enzyme model",
+            "Lock and key model",
+            "Catalyst model"
+          ],
+          "correct": "Lock and key model"
+        },
+        {
+          "question": "What does the lock and key model explain well?",
+          "choices": [
+            "Enzyme flexibility",
+            "Substrate specificity",
+            "Temperature effects",
+            "pH tolerance"
+          ],
+          "correct": "Substrate specificity"
+        },
+        {
+          "question": "Why is the lock and key model considered less accurate?",
+          "choices": [
+            "It ignores enzymes completely",
+            "It does not explain enzyme reuse",
             "It does not account for enzyme flexibility",
-            "It does not explain substrate specificity",
-            "It assumes enzymes are inactive",
-            "It only applies to carbohydrates"
-          ]
+            "It cannot explain activation energy"
+          ],
+          "correct": "It does not account for enzyme flexibility"
         }
       ],
       "1.1.8. - Factors Affecting Enzyme Action": [
         {
-          "question": "What two conditions must be met for an enzyme to function?",
-          "correct": "Enzyme must contact substrate; active site must be complementary",
-          "options": [
-            "Enzyme must contact substrate; active site must be complementary",
-            "Enzyme must be denatured; substrate must be acidic",
-            "Substrate must be saturated; enzyme must be hydrophobic",
-            "Enzyme must be phosphorylated; substrate must be polar"
-          ]
+          "question": "What must occur for an enzyme to function?",
+          "choices": [
+            "The enzyme must dissolve in the substrate",
+            "The enzyme must physically contact its substrate",
+            "The enzyme must be heated",
+            "The enzyme must change permanently"
+          ],
+          "correct": "The enzyme must physically contact its substrate"
         },
         {
-          "question": "How is progress of an enzyme-catalysed reaction commonly measured?",
-          "correct": "Formation of products or disappearance of substrate",
-          "options": [
-            "Formation of products or disappearance of substrate",
-            "Color change of enzyme only",
-            "Increase in temperature",
-            "Change in pH only"
-          ]
+          "question": "What must be true about the enzyme active site for a reaction to occur?",
+          "choices": [
+            "It must be rigid",
+            "It must be larger than the substrate",
+            "It must be complementary to the substrate",
+            "It must be hydrophobic"
+          ],
+          "correct": "It must be complementary to the substrate"
         },
         {
-          "question": "Why does the rate of reaction slow as substrate is used up?",
-          "correct": "Collisions between substrate and enzyme become less frequent",
-          "options": [
-            "Collisions between substrate and enzyme become less frequent",
-            "Enzyme is used up",
-            "Substrate becomes more reactive",
-            "Enzyme concentration increases"
-          ]
+          "question": "What do factors affecting enzyme activity influence?",
+          "choices": [
+            "Only the enzyme concentration",
+            "Only the substrate concentration",
+            "Contact between enzyme and substrate or active site shape",
+            "Energy released by reactions"
+          ],
+          "correct": "Contact between enzyme and substrate or active site shape"
         },
         {
-          "question": "How do you calculate the rate of reaction from a graph?",
-          "correct": "Gradient of tangent to the curve",
-          "options": [
-            "Gradient of tangent to the curve",
-            "Slope of the x-axis",
-            "Average y-value",
-            "Area under the curve"
-          ]
+          "question": "How is the progress of an enzyme-catalysed reaction usually measured?",
+          "choices": [
+            "By temperature change",
+            "By colour intensity only",
+            "By time-course of the reaction",
+            "By enzyme mass"
+          ],
+          "correct": "By time-course of the reaction"
         },
         {
-          "question": "When testing one variable in an experiment, what must be done with other variables?",
-          "correct": "Keep all other variables constant",
-          "options": [
-            "Keep all other variables constant",
-            "Change them randomly",
-            "Ignore them",
-            "Double their values"
-          ]
+          "question": "Which method can be used to measure enzyme activity?",
+          "choices": [
+            "Measuring enzyme breakdown",
+            "Measuring product formation",
+            "Measuring water loss",
+            "Measuring pH only"
+          ],
+          "correct": "Measuring product formation"
         },
         {
-          "question": "What effect does increasing temperature initially have on enzyme activity?",
-          "correct": "More collisions, more enzyme-substrate complexes, rate increases",
-          "options": [
-            "More collisions, more enzyme-substrate complexes, rate increases",
-            "Denaturation immediately occurs",
+          "question": "Which example shows measuring disappearance of substrate?",
+          "choices": [
+            "Oxygen release from catalase",
+            "Carbon dioxide production",
+            "Starch breakdown by amylase",
+            "Heat release from respiration"
+          ],
+          "correct": "Starch breakdown by amylase"
+        },
+        {
+          "question": "Why is the initial rate of an enzyme reaction high?",
+          "choices": [
+            "Product concentration is high",
+            "Substrate concentration is high and collisions are frequent",
+            "Enzymes are denatured",
+            "Temperature is increasing"
+          ],
+          "correct": "Substrate concentration is high and collisions are frequent"
+        },
+        {
+          "question": "Why does the rate of reaction slow over time?",
+          "choices": [
+            "Enzymes are used up",
+            "Substrate concentration decreases",
+            "Temperature decreases",
+            "pH increases"
+          ],
+          "correct": "Substrate concentration decreases"
+        },
+        {
+          "question": "Why does an enzyme reaction graph eventually level off?",
+          "choices": [
+            "Enzyme concentration increases",
+            "Product inhibits all enzymes",
+            "Substrate has been used up",
+            "Temperature reaches optimum"
+          ],
+          "correct": "Substrate has been used up"
+        },
+        {
+          "question": "How is rate at a specific point on a reaction graph calculated?",
+          "choices": [
+            "Using the total curve",
+            "By drawing a straight line between two points",
+            "By calculating the gradient of a tangent",
+            "By counting data points"
+          ],
+          "correct": "By calculating the gradient of a tangent"
+        },
+        {
+          "question": "What is a tangent?",
+          "choices": [
+            "A line that crosses the curve twice",
+            "A line that touches the curve without cutting through it",
+            "A vertical line on the graph",
+            "A line drawn at random"
+          ],
+          "correct": "A line that touches the curve without cutting through it"
+        },
+        {
+          "question": "How is gradient calculated?",
+          "choices": [
+            "x ÷ y",
+            "change in x ÷ change in y",
+            "change in y ÷ change in x",
+            "time ÷ product"
+          ],
+          "correct": "change in y ÷ change in x"
+        },
+        {
+          "question": "Why must variables be controlled in enzyme experiments?",
+          "choices": [
+            "To increase reaction rate",
+            "To reduce enzyme denaturation",
+            "To ensure only one variable affects the results",
+            "To stop the reaction"
+          ],
+          "correct": "To ensure only one variable affects the results"
+        },
+        {
+          "question": "Which variables should be controlled when investigating temperature?",
+          "choices": [
+            "Only substrate concentration",
+            "pH, substrate concentration, enzyme concentration, inhibitors",
+            "Only enzyme concentration",
+            "Only pH"
+          ],
+          "correct": "pH, substrate concentration, enzyme concentration, inhibitors"
+        },
+        {
+          "question": "Why does increasing temperature initially increase enzyme activity?",
+          "choices": [
+            "Active sites change shape",
+            "More enzymes are produced",
+            "Molecules gain kinetic energy and collide more often",
+            "Substrate concentration increases"
+          ],
+          "correct": "Molecules gain kinetic energy and collide more often"
+        },
+        {
+          "question": "What happens to enzyme activity above the optimum temperature?",
+          "choices": [
+            "It continues increasing",
+            "It remains constant",
+            "It decreases sharply",
+            "It becomes reversible"
+          ],
+          "correct": "It decreases sharply"
+        },
+        {
+          "question": "At approximately what temperature do human enzymes begin to lose activity rapidly?",
+          "choices": [
+            "25°C",
+            "37°C",
+            "45°C",
+            "80°C"
+          ],
+          "correct": "45°C"
+        },
+        {
+          "question": "What happens to enzymes at around 60°C?",
+          "choices": [
+            "They work at maximum rate",
+            "They become more flexible",
+            "They denature permanently",
+            "They bind substrate more tightly"
+          ],
+          "correct": "They denature permanently"
+        },
+        {
+          "question": "What does denaturation involve?",
+          "choices": [
+            "Breaking peptide bonds",
+            "Loss of tertiary structure and active site shape",
+            "Increase in enzyme concentration",
+            "Increased hydrogen bonding"
+          ],
+          "correct": "Loss of tertiary structure and active site shape"
+        },
+        {
+          "question": "What is meant by optimum temperature?",
+          "choices": [
+            "The temperature enzymes stop working",
+            "The temperature where enzymes denature",
+            "The temperature at which enzyme activity is highest",
+            "The temperature inside cells"
+          ],
+          "correct": "The temperature at which enzyme activity is highest"
+        },
+        {
+          "question": "Why do humans maintain a body temperature of 37°C?",
+          "choices": [
+            "It maximises enzyme denaturation",
+            "It prevents respiration",
+            "It allows efficient enzyme activity without damaging proteins",
+            "It increases energy loss"
+          ],
+          "correct": "It allows efficient enzyme activity without damaging proteins"
+        },
+        {
+          "question": "What does pH measure?",
+          "choices": [
+            "Oxygen concentration",
+            "Hydrogen ion concentration",
+            "Enzyme concentration",
+            "Temperature"
+          ],
+          "correct": "Hydrogen ion concentration"
+        },
+        {
+          "question": "What is the formula for pH?",
+          "choices": [
+            "pH = log [H+]",
+            "pH = -log [H+]",
+            "pH = 1 / [H+]",
+            "pH = [H+] × log"
+          ],
+          "correct": "pH = -log [H+]"
+        },
+        {
+          "question": "What effect does pH have on enzyme activity?",
+          "choices": [
+            "No effect",
+            "Only affects substrate concentration",
+            "Changes charges on amino acids in the active site",
+            "Only affects temperature"
+          ],
+          "correct": "Changes charges on amino acids in the active site"
+        },
+        {
+          "question": "How can extreme pH values affect enzymes?",
+          "choices": [
+            "Increase activity permanently",
+            "Cause denaturation",
+            "Increase substrate binding",
+            "Strengthen hydrogen bonds"
+          ],
+          "correct": "Cause denaturation"
+        },
+        {
+          "question": "Why do small pH changes usually reduce activity rather than fully denature enzymes?",
+          "choices": [
+            "pH has little effect",
+            "Cells experience only small pH changes",
+            "Enzymes are resistant to acids",
+            "Hydrogen ions are removed"
+          ],
+          "correct": "Cells experience only small pH changes"
+        },
+        {
+          "question": "Why can enzymes catalyse many reactions?",
+          "choices": [
+            "They are soluble",
+            "They are not used up",
+            "They increase temperature",
+            "They increase substrate concentration"
+          ],
+          "correct": "They are not used up"
+        },
+        {
+          "question": "What happens when enzyme concentration increases while substrate is in excess?",
+          "choices": [
             "Rate decreases",
-            "Substrate concentration drops"
-          ]
+            "Rate remains constant",
+            "Rate increases",
+            "Enzymes denature"
+          ],
+          "correct": "Rate increases"
         },
         {
-          "question": "At approximately what temperature do human enzymes begin to denature?",
-          "correct": "~60°C",
-          "options": ["~60°C", "~37°C", "~45°C", "~80°C"]
+          "question": "Why does increasing enzyme concentration eventually have no effect?",
+          "choices": [
+            "Enzymes become denatured",
+            "Substrate becomes limiting",
+            "pH changes",
+            "Temperature decreases"
+          ],
+          "correct": "Substrate becomes limiting"
         },
         {
-          "question": "Why do humans maintain body temperature at 37°C for enzymes?",
-          "correct": "To prevent denaturation and minimize energy costs",
-          "options": [
-            "To prevent denaturation and minimize energy costs",
-            "To maximize substrate concentration",
-            "To inactivate enzymes",
-            "Because enzymes require high temperature to function"
-          ]
+          "question": "What happens when substrate concentration increases with fixed enzyme concentration?",
+          "choices": [
+            "Rate decreases continuously",
+            "Rate increases then levels off",
+            "Rate remains constant",
+            "Rate drops to zero"
+          ],
+          "correct": "Rate increases then levels off"
         },
         {
-          "question": "How does pH affect enzyme activity?",
-          "correct": "Alters active site charges and can disrupt hydrogen and ionic bonds",
-          "options": [
-            "Alters active site charges and can disrupt hydrogen and ionic bonds",
-            "Changes substrate color",
-            "Removes substrate molecules",
-            "Increases enzyme concentration"
-          ]
+          "question": "What does Vmax represent?",
+          "choices": [
+            "Minimum enzyme activity",
+            "Maximum temperature",
+            "Maximum reaction rate when all active sites are occupied",
+            "Point of denaturation"
+          ],
+          "correct": "Maximum reaction rate when all active sites are occupied"
         },
         {
-          "question": "What happens if enzyme concentration increases when substrate is in excess?",
-          "correct": "Rate of reaction increases",
-          "options": ["Rate of reaction increases", "Rate of reaction decreases", "Enzyme denatures", "No change occurs"]
-        },
-        {
-          "question": "What happens to reaction rate if substrate concentration increases beyond enzyme saturation (Vmax)?",
-          "correct": "Rate levels off",
-          "options": ["Rate levels off", "Rate decreases", "Rate increases indefinitely", "Enzyme denatures"]
-        },
-        {
-          "question": "At low substrate concentration, why is the reaction slower?",
-          "correct": "Not all active sites are occupied",
-          "options": [
+          "question": "Why is the reaction slow at low substrate concentration?",
+          "choices": [
+            "Enzymes are denatured",
             "Not all active sites are occupied",
-            "Enzyme is denatured",
-            "Substrate is too reactive",
-            "Product inhibits reaction"
-          ]
+            "Temperature is low",
+            "pH is incorrect"
+          ],
+          "correct": "Not all active sites are occupied"
         }
       ],
       "1.1.9. - Enzyme Inhibition": [
         {
-          "question": "What is the function of enzyme inhibitors?",
-          "correct": "Reduce or prevent enzyme activity",
-          "options": [
-            "Reduce or prevent enzyme activity",
-            "Increase enzyme activity",
-            "Change substrate structure",
-            "Provide energy for reactions"
-          ]
+          "question": "What is an enzyme inhibitor?",
+          "choices": [
+            "A substance that increases enzyme activity",
+            "A substance that permanently destroys enzymes",
+            "A substance that reduces or prevents enzyme activity",
+            "A substance that replaces substrates"
+          ],
+          "correct": "A substance that reduces or prevents enzyme activity"
         },
         {
-          "question": "What are the two main types of enzyme inhibitors?",
-          "correct": "Competitive and non-competitive inhibitors",
-          "options": [
-            "Competitive and non-competitive inhibitors",
-            "Reversible and irreversible inhibitors",
-            "Covalent and ionic inhibitors",
-            "Allosteric and catalytic inhibitors"
-          ]
+          "question": "How do enzyme inhibitors reduce enzyme activity?",
+          "choices": [
+            "By increasing temperature",
+            "By breaking peptide bonds",
+            "By interfering with the functioning of the active site",
+            "By increasing substrate concentration"
+          ],
+          "correct": "By interfering with the functioning of the active site"
         },
         {
-          "question": "How does a competitive inhibitor work?",
-          "correct": "Binds to the active site, competing with the substrate",
-          "options": [
-            "Binds to the active site, competing with the substrate",
-            "Binds away from the active site, altering its shape",
-            "Denatures the enzyme permanently",
-            "Changes the substrate into a different molecule"
-          ]
+          "question": "What are the two main types of enzyme inhibitor?",
+          "choices": [
+            "Reversible and irreversible",
+            "Temporary and permanent",
+            "Competitive and non-competitive",
+            "Structural and metabolic"
+          ],
+          "correct": "Competitive and non-competitive"
         },
         {
-          "question": "How can the effect of a competitive inhibitor be reduced?",
-          "correct": "By increasing substrate concentration",
-          "options": [
-            "By increasing substrate concentration",
-            "By decreasing substrate concentration",
-            "By heating the enzyme",
-            "By changing pH to extreme values"
-          ]
+          "question": "What feature allows a competitive inhibitor to bind to an enzyme?",
+          "choices": [
+            "It has a high energy content",
+            "It has a similar molecular shape to the substrate",
+            "It binds strongly to the enzyme surface",
+            "It contains a phosphate group"
+          ],
+          "correct": "It has a similar molecular shape to the substrate"
         },
         {
-          "question": "Give an example of competitive inhibition in biology.",
-          "correct": "Malonate inhibiting a respiratory enzyme that binds succinate",
-          "options": [
-            "Malonate inhibiting a respiratory enzyme that binds succinate",
-            "Penicillin binding to an allosteric site",
-            "Substrate saturation at Vmax",
-            "Enzyme denaturation at high temperature"
-          ]
+          "question": "Where does a competitive inhibitor bind?",
+          "choices": [
+            "Allosteric site",
+            "Outside the enzyme",
+            "Active site",
+            "Substrate binding region on DNA"
+          ],
+          "correct": "Active site"
         },
         {
-          "question": "How does a non-competitive inhibitor work?",
-          "correct": "Binds away from the active site, altering its shape",
-          "options": [
-            "Binds away from the active site, altering its shape",
-            "Binds directly to the active site",
-            "Competes with substrate for binding",
-            "Increases substrate concentration"
-          ]
+          "question": "How does a competitive inhibitor affect substrate binding?",
+          "choices": [
+            "It increases substrate binding",
+            "It permanently blocks the active site",
+            "It prevents substrate binding while it is bound",
+            "It destroys the substrate"
+          ],
+          "correct": "It prevents substrate binding while it is bound"
         },
         {
-          "question": "Can increasing substrate concentration reduce non-competitive inhibition?",
-          "correct": "No, the inhibitor does not compete for the active site",
-          "options": [
-            "No, the inhibitor does not compete for the active site",
-            "Yes, it always reduces inhibition",
-            "Only at very low temperatures",
-            "Only if enzyme concentration is doubled"
-          ]
+          "question": "Why does increasing substrate concentration reduce competitive inhibition?",
+          "choices": [
+            "Substrate removes the inhibitor",
+            "Substrate changes enzyme shape",
+            "Substrate is more likely to bind than the inhibitor",
+            "Substrate destroys the inhibitor"
+          ],
+          "correct": "Substrate is more likely to bind than the inhibitor"
+        },
+        {
+          "question": "At what substrate concentration does competitive inhibition have the greatest effect?",
+          "choices": [
+            "High substrate concentration",
+            "Optimum substrate concentration",
+            "Low substrate concentration",
+            "Vmax"
+          ],
+          "correct": "Low substrate concentration"
+        },
+        {
+          "question": "Which statement correctly describes competitive inhibitors?",
+          "choices": [
+            "They bind away from the active site",
+            "They alter enzyme shape permanently",
+            "Their effect is reduced by increasing substrate concentration",
+            "They cannot be removed"
+          ],
+          "correct": "Their effect is reduced by increasing substrate concentration"
+        },
+        {
+          "question": "Which substance is an example of a competitive inhibitor?",
+          "choices": [
+            "Oxygen",
+            "Malonate",
+            "Glucose",
+            "Water"
+          ],
+          "correct": "Malonate"
+        },
+        {
+          "question": "Which enzyme is inhibited by penicillin?",
+          "choices": [
+            "Amylase",
+            "Catalase",
+            "Transpeptidase",
+            "ATP synthase"
+          ],
+          "correct": "Transpeptidase"
         },
         {
           "question": "Where does a non-competitive inhibitor bind?",
-          "correct": "At an allosteric site",
-          "options": ["At an allosteric site", "At the active site", "To the substrate", "To the product"]
+          "choices": [
+            "Active site",
+            "Substrate",
+            "Allosteric site",
+            "Peptide bond"
+          ],
+          "correct": "Allosteric site"
+        },
+        {
+          "question": "What is the effect of a non-competitive inhibitor on enzyme shape?",
+          "choices": [
+            "No effect",
+            "Improves active site fit",
+            "Changes the shape of the active site",
+            "Destroys the enzyme completely"
+          ],
+          "correct": "Changes the shape of the active site"
+        },
+        {
+          "question": "Why does increasing substrate concentration not reduce non-competitive inhibition?",
+          "choices": [
+            "The substrate is destroyed",
+            "The inhibitor binds more strongly",
+            "The inhibitor does not compete for the active site",
+            "The enzyme concentration decreases"
+          ],
+          "correct": "The inhibitor does not compete for the active site"
+        },
+        {
+          "question": "Which statement describes non-competitive inhibitors?",
+          "choices": [
+            "They bind to the active site",
+            "They compete directly with the substrate",
+            "They alter the active site shape",
+            "Their effect decreases with higher substrate concentration"
+          ],
+          "correct": "They alter the active site shape"
+        },
+        {
+          "question": "How long does the effect of a non-competitive inhibitor usually last?",
+          "choices": [
+            "Only while substrate is present",
+            "Until substrate concentration increases",
+            "Permanently or semi-permanently",
+            "For one reaction cycle only"
+          ],
+          "correct": "Permanently or semi-permanently"
+        },
+        {
+          "question": "Which comparison between competitive and non-competitive inhibitors is correct?",
+          "choices": [
+            "Both bind to the active site",
+            "Only competitive inhibitors change enzyme shape",
+            "Only non-competitive inhibitors bind away from the active site",
+            "Both are affected by substrate concentration"
+          ],
+          "correct": "Only non-competitive inhibitors bind away from the active site"
+        },
+        {
+          "question": "Which type of inhibitor reduces the maximum rate of reaction (Vmax)?",
+          "choices": [
+            "Competitive inhibitor",
+            "Non-competitive inhibitor",
+            "Substrate analogue",
+            "Cofactor"
+          ],
+          "correct": "Non-competitive inhibitor"
         }
       ]
     },
