@@ -2564,7 +2564,7 @@
       "1.2.1. - Structure of DNA and RNA": [
         {
           "question": "What type of biological molecules are DNA and RNA?",
-          "choices": [
+          "options": [
             "Proteins",
             "Lipids",
             "Nucleic acids",
@@ -2574,7 +2574,7 @@
         },
         {
           "question": "What does DNA stand for?",
-          "choices": [
+          "options": [
             "Deoxyribonucleotide acid",
             "Deoxyribonucleic acid",
             "Dideoxyribonucleic acid",
@@ -2584,7 +2584,7 @@
         },
         {
           "question": "What does RNA stand for?",
-          "choices": [
+          "options": [
             "Ribonucleic acid",
             "Ribosomal nucleotide acid",
             "Ribose nucleic acid",
@@ -2594,7 +2594,7 @@
         },
         {
           "question": "What is the main function of DNA?",
-          "choices": [
+          "options": [
             "Protein synthesis",
             "Energy storage",
             "Carrying and transmitting genetic information",
@@ -2604,7 +2604,7 @@
         },
         {
           "question": "What are DNA and RNA made from?",
-          "choices": [
+          "options": [
             "Amino acids",
             "Nucleotides",
             "Monosaccharides",
@@ -2614,7 +2614,7 @@
         },
         {
           "question": "What three components make up a nucleotide?",
-          "choices": [
+          "options": [
             "Sugar, base, hydrogen",
             "Sugar, phosphate, organic base",
             "Ribose, enzyme, base",
@@ -2624,7 +2624,7 @@
         },
         {
           "question": "What type of sugar is found in RNA?",
-          "choices": [
+          "options": [
             "Deoxyribose",
             "Ribulose",
             "Ribose",
@@ -2634,7 +2634,7 @@
         },
         {
           "question": "What type of sugar is found in DNA?",
-          "choices": [
+          "options": [
             "Ribose",
             "Deoxyribose",
             "Pentose",
@@ -2644,7 +2644,7 @@
         },
         {
           "question": "Which components are joined together during nucleotide formation?",
-          "choices": [
+          "options": [
             "Bases only",
             "Sugars only",
             "Sugar, phosphate and base via condensation",
@@ -2654,7 +2654,7 @@
         },
         {
           "question": "What bond joins two nucleotides together?",
-          "choices": [
+          "options": [
             "Hydrogen bond",
             "Glycosidic bond",
             "Peptide bond",
@@ -2664,7 +2664,7 @@
         },
         {
           "question": "What is formed when many nucleotides join together?",
-          "choices": [
+          "options": [
             "A polysaccharide",
             "A polypeptide",
             "A polynucleotide chain",
@@ -2674,7 +2674,7 @@
         },
         {
           "question": "Which nitrogenous base is found in DNA but not RNA?",
-          "choices": [
+          "options": [
             "Adenine",
             "Uracil",
             "Cytosine",
@@ -2684,7 +2684,7 @@
         },
         {
           "question": "Which nitrogenous base is found in RNA but not DNA?",
-          "choices": [
+          "options": [
             "Adenine",
             "Guanine",
             "Uracil",
@@ -2694,7 +2694,7 @@
         },
         {
           "question": "Which bases are present in DNA?",
-          "choices": [
+          "options": [
             "A, U, C, G",
             "A, T, C, G",
             "A, T, U, G",
@@ -2704,7 +2704,7 @@
         },
         {
           "question": "Which bases are present in RNA?",
-          "choices": [
+          "options": [
             "A, T, C, G",
             "A, U, C, G",
             "A, U, T, G",
@@ -2714,7 +2714,7 @@
         },
         {
           "question": "What is the structure of RNA?",
-          "choices": [
+          "options": [
             "Double stranded and long",
             "Double stranded and short",
             "Single stranded and relatively short",
@@ -2724,7 +2724,7 @@
         },
         {
           "question": "How many polynucleotide strands make up DNA?",
-          "choices": [
+          "options": [
             "One",
             "Two",
             "Three",
@@ -2734,7 +2734,7 @@
         },
         {
           "question": "What type of bond joins complementary bases in DNA?",
-          "choices": [
+          "options": [
             "Covalent bonds",
             "Ionic bonds",
             "Hydrogen bonds",
@@ -2744,7 +2744,7 @@
         },
         {
           "question": "Which base pairs with adenine in DNA?",
-          "choices": [
+          "options": [
             "Cytosine",
             "Guanine",
             "Uracil",
@@ -2754,7 +2754,7 @@
         },
         {
           "question": "Which base pairs with guanine in DNA?",
-          "choices": [
+          "options": [
             "Adenine",
             "Thymine",
             "Cytosine",
@@ -2764,7 +2764,7 @@
         },
         {
           "question": "What is meant by complementary base pairing?",
-          "choices": [
+          "options": [
             "Any base can pair with any other",
             "Bases pair randomly",
             "Specific bases pair together (A–T and G–C)",
@@ -2774,7 +2774,7 @@
         },
         {
           "question": "What structure is formed by DNA strands?",
-          "choices": [
+          "options": [
             "Single helix",
             "Triple helix",
             "Double helix",
@@ -2784,7 +2784,7 @@
         },
         {
           "question": "What forms the sides of the DNA molecule?",
-          "choices": [
+          "options": [
             "Paired bases",
             "Hydrogen bonds",
             "Sugar-phosphate backbone",
@@ -2794,7 +2794,7 @@
         },
         {
           "question": "What forms the rungs of the DNA ladder?",
-          "choices": [
+          "options": [
             "Sugars",
             "Phosphates",
             "Paired bases",
@@ -2804,7 +2804,7 @@
         },
         {
           "question": "What does antiparallel mean in DNA?",
-          "choices": [
+          "options": [
             "Both strands run in the same direction",
             "Strands run in opposite directions",
             "Strands are identical",
@@ -2814,7 +2814,7 @@
         },
         {
           "question": "In DNA, one strand runs 5’→3’. What direction does the other run?",
-          "choices": [
+          "options": [
             "5’→3’",
             "3’→5’",
             "1’→5’",
@@ -2824,7 +2824,7 @@
         },
         {
           "question": "Why does the amount of adenine equal the amount of thymine in DNA?",
-          "choices": [
+          "options": [
             "They have the same mass",
             "They form phosphodiester bonds",
             "They pair together complementarily",
@@ -2834,7 +2834,7 @@
         },
         {
           "question": "Why does DNA with more G–C base pairs have greater stability?",
-          "choices": [
+          "options": [
             "G–C pairs are larger",
             "G–C pairs form three hydrogen bonds",
             "G–C pairs form ionic bonds",
@@ -2844,7 +2844,7 @@
         },
         {
           "question": "How many hydrogen bonds form between A and T?",
-          "choices": [
+          "options": [
             "One",
             "Two",
             "Three",
@@ -2854,7 +2854,7 @@
         },
         {
           "question": "How many hydrogen bonds form between G and C?",
-          "choices": [
+          "options": [
             "One",
             "Two",
             "Three",
@@ -2864,7 +2864,7 @@
         },
         {
           "question": "What is the role of the phosphodiester backbone in DNA?",
-          "choices": [
+          "options": [
             "It stores genetic code",
             "It protects the bases inside the helix",
             "It allows base pairing",
@@ -2874,7 +2874,7 @@
         },
         {
           "question": "What additional interaction helps stabilise the DNA molecule?",
-          "choices": [
+          "options": [
             "Peptide bonding",
             "Base stacking interactions",
             "Ionic attraction",
@@ -2884,7 +2884,7 @@
         },
         {
           "question": "Why is DNA suitable for storing genetic information?",
-          "choices": [
+          "options": [
             "It is small and flexible",
             "It mutates frequently",
             "It has a stable structure and carries large amounts of information",
@@ -2894,7 +2894,7 @@
         },
         {
           "question": "Why can DNA strands separate easily?",
-          "choices": [
+          "options": [
             "They are held by ionic bonds",
             "They are weakly bonded by hydrogen bonds",
             "They share covalent bonds",
@@ -2904,7 +2904,7 @@
         },
         {
           "question": "Why is complementary base pairing important?",
-          "choices": [
+          "options": [
             "It strengthens the backbone",
             "It allows replication and transcription",
             "It increases mutation rate",
@@ -2914,7 +2914,7 @@
         },
         {
           "question": "How are the carbons in a pentose sugar numbered?",
-          "choices": [
+          "options": [
             "1 to 6",
             "1 to 4",
             "1’ to 5’",
@@ -2924,7 +2924,7 @@
         },
         {
           "question": "Which carbon of the sugar attaches to the phosphate group?",
-          "choices": [
+          "options": [
             "1’ carbon",
             "2’ carbon",
             "3’ carbon",
@@ -2934,7 +2934,7 @@
         },
         {
           "question": "Which carbon provides the OH group used for nucleotide addition?",
-          "choices": [
+          "options": [
             "1’",
             "2’",
             "3’",
@@ -2944,7 +2944,7 @@
         },
         {
           "question": "Why can DNA polymerase only add nucleotides to the 3’ end?",
-          "choices": [
+          "options": [
             "Because bases are exposed",
             "Because the 3’ carbon has a free OH group",
             "Because the phosphate is absent",
@@ -2954,7 +2954,7 @@
         },
         {
           "question": "In which direction are nucleic acids synthesised in cells?",
-          "choices": [
+          "options": [
             "3’ to 5’",
             "5’ to 3’",
             "Both directions",
@@ -2965,7 +2965,7 @@
       ],
       "1.2.2. - DNA Replication": [
         {
-          "questions": "What is the main purpose of DNA replication before cell division?",
+          "question": "What is the main purpose of DNA replication before cell division?",
           "correct": "To ensure each daughter cell receives a complete set of genetic information and instructions for cell function",
           "options": [
             "To increase the number of DNA molecules in the cell",
@@ -2975,7 +2975,7 @@
           ]
         },
         {
-          "questions": "Which two main stages does cell division involve?",
+          "question": "Which two main stages does cell division involve?",
           "correct": "Nuclear division and cytokinesis",
           "options": [
             "DNA replication and protein synthesis",
@@ -2985,7 +2985,7 @@
           ]
         },
         {
-          "questions": "What are the two types of nuclear division?",
+          "question": "What are the two types of nuclear division?",
           "correct": "Mitosis and meiosis",
           "options": [
             "Cytokinesis and mitosis",
@@ -2995,7 +2995,7 @@
           ]
         },
         {
-          "questions": "What does 'semi-conservative' DNA replication mean?",
+          "question": "What does 'semi-conservative' DNA replication mean?",
           "correct": "Each new DNA molecule contains one original strand and one newly synthesised strand",
           "options": [
             "The original DNA molecule remains completely intact",
@@ -3005,7 +3005,7 @@
           ]
         },
         {
-          "questions": "Which enzyme is essential for DNA replication?",
+          "question": "Which enzyme is essential for DNA replication?",
           "correct": "DNA polymerase",
           "options": [
             "DNA helicase",
@@ -3015,7 +3015,7 @@
           ]
         },
         {
-          "questions": "What is the role of DNA helicase in DNA replication?",
+          "question": "What is the role of DNA helicase in DNA replication?",
           "correct": "It breaks hydrogen bonds between complementary base pairs and unwinds the DNA double helix",
           "options": [
             "It catalyses the formation of phosphodiester bonds",
@@ -3025,7 +3025,7 @@
           ]
         },
         {
-          "questions": "Which bases pair together during DNA replication?",
+          "question": "Which bases pair together during DNA replication?",
           "correct": "Adenine pairs with Thymine, Cytosine pairs with Guanine",
           "options": [
             "Adenine pairs with Cytosine, Thymine pairs with Guanine",
@@ -3035,7 +3035,7 @@
           ]
         },
         {
-          "questions": "How are nucleotides joined during DNA replication?",
+          "question": "How are nucleotides joined during DNA replication?",
           "correct": "DNA polymerase links nucleotides via condensation reactions, forming phosphodiester bonds",
           "options": [
             "DNA ligase links nucleotides via hydrolysis",
@@ -3045,7 +3045,7 @@
           ]
         },
         {
-          "questions": "What is the main difference between conservative and semi-conservative DNA replication models?",
+          "question": "What is the main difference between conservative and semi-conservative DNA replication models?",
           "correct": "Conservative replication keeps the original DNA molecule intact; semi-conservative replication produces molecules with one original and one new strand",
           "options": [
             "Conservative replication uses RNA templates; semi-conservative uses DNA templates",
@@ -3055,7 +3055,7 @@
           ]
         },
         {
-          "questions": "What did Meselson and Stahl use to differentiate old and new DNA strands in their experiment?",
+          "question": "What did Meselson and Stahl use to differentiate old and new DNA strands in their experiment?",
           "correct": "Nitrogen isotopes 14N (light) and 15N (heavy)",
           "options": [
             "Carbon isotopes 12C and 13C",
@@ -3065,7 +3065,7 @@
           ]
         },
         {
-          "questions": "After one generation in the Meselson–Stahl experiment, what type of DNA was observed?",
+          "question": "After one generation in the Meselson–Stahl experiment, what type of DNA was observed?",
           "correct": "All DNA had intermediate density, containing one 15N strand and one 14N strand",
           "options": [
             "All DNA was heavy (15N only)",
@@ -3075,7 +3075,7 @@
           ]
         },
         {
-          "questions": "What conclusion did the Meselson–Stahl experiment support?",
+          "question": "What conclusion did the Meselson–Stahl experiment support?",
           "correct": "DNA replication is semi-conservative",
           "options": [
             "DNA replication is conservative",
@@ -3085,7 +3085,7 @@
           ]
         },
         {
-          "questions": "Which of the following is NOT required for DNA replication?",
+          "question": "Which of the following is NOT required for DNA replication?",
           "correct": "Ribosomes",
           "options": [
             "DNA polymerase",
@@ -3095,7 +3095,7 @@
           ]
         },
         {
-          "questions": "What ensures the high accuracy of DNA replication?",
+          "question": "What ensures the high accuracy of DNA replication?",
           "correct": "Complementary base pairing and DNA polymerase proofreading",
           "options": [
             "Random insertion of nucleotides",
@@ -3107,7 +3107,7 @@
       ],
       "1.2.3. - Energy and ATP": [
         {
-          "questions": "Where does the energy used by all living organisms ultimately originate?",
+          "question": "Where does the energy used by all living organisms ultimately originate?",
           "correct": "The Sun",
           "options": [
             "Glucose",
@@ -3117,7 +3117,7 @@
           ]
         },
         {
-          "questions": "What is the main energy currency used by cells?",
+          "question": "What is the main energy currency used by cells?",
           "correct": "ATP",
           "options": [
             "Glucose",
@@ -3127,7 +3127,7 @@
           ]
         },
         {
-          "questions": "What are the three main components of an ATP molecule?",
+          "question": "What are the three main components of an ATP molecule?",
           "correct": "Adenine, ribose, and three phosphate groups",
           "options": [
             "Adenine, deoxyribose, and two phosphate groups",
@@ -3137,7 +3137,7 @@
           ]
         },
         {
-          "questions": "How is energy stored in ATP?",
+          "question": "How is energy stored in ATP?",
           "correct": "In the unstable bonds between phosphate groups",
           "options": [
             "In the adenine base",
@@ -3147,7 +3147,7 @@
           ]
         },
         {
-          "questions": "Which reaction releases energy from ATP?",
+          "question": "Which reaction releases energy from ATP?",
           "correct": "ATP → ADP + Pi + energy",
           "options": [
             "ADP + Pi → ATP + energy",
@@ -3157,7 +3157,7 @@
           ]
         },
         {
-          "questions": "What enzyme catalyses the hydrolysis of ATP?",
+          "question": "What enzyme catalyses the hydrolysis of ATP?",
           "correct": "ATP hydrolase (ATPase)",
           "options": [
             "ATP synthase",
@@ -3167,7 +3167,7 @@
           ]
         },
         {
-          "questions": "What is the reaction called when ATP is reformed from ADP and inorganic phosphate?",
+          "question": "What is the reaction called when ATP is reformed from ADP and inorganic phosphate?",
           "correct": "A condensation reaction catalysed by ATP synthase",
           "options": [
             "A hydrolysis reaction catalysed by ATPase",
@@ -3177,7 +3177,7 @@
           ]
         },
         {
-          "questions": "Which of the following is NOT a method of ATP synthesis?",
+          "question": "Which of the following is NOT a method of ATP synthesis?",
           "correct": "Photohydrolysis",
           "options": [
             "Photophosphorylation",
@@ -3187,7 +3187,7 @@
           ]
         },
         {
-          "questions": "Why is ATP unsuitable for long-term energy storage?",
+          "question": "Why is ATP unsuitable for long-term energy storage?",
           "correct": "Its phosphate bonds are unstable",
           "options": [
             "It is too large to store",
@@ -3197,7 +3197,7 @@
           ]
         },
         {
-          "questions": "Why is ATP advantageous over glucose as an energy source?",
+          "question": "Why is ATP advantageous over glucose as an energy source?",
           "correct": "Each ATP molecule releases a small, manageable amount of energy immediately",
           "options": [
             "ATP releases more energy than glucose per molecule",
@@ -3207,7 +3207,7 @@
           ]
         },
         {
-          "questions": "Where is most ATP produced in cells?",
+          "question": "Where is most ATP produced in cells?",
           "correct": "Mitochondria",
           "options": [
             "Ribosomes",
@@ -3217,7 +3217,7 @@
           ]
         },
         {
-          "questions": "Which cells are likely to have many large mitochondria?",
+          "question": "Which cells are likely to have many large mitochondria?",
           "correct": "Cells with high energy demands such as muscle fibres and small intestine epithelium",
           "options": [
             "Cells that store fat",
@@ -3227,7 +3227,7 @@
           ]
         },
         {
-          "questions": "Which cellular process uses ATP to build macromolecules?",
+          "question": "Which cellular process uses ATP to build macromolecules?",
           "correct": "Anabolic reactions",
           "options": [
             "Catabolic reactions",
@@ -3237,7 +3237,7 @@
           ]
         },
         {
-          "questions": "How does ATP provide energy for active transport?",
+          "question": "How does ATP provide energy for active transport?",
           "correct": "By changing the shape of carrier proteins to move substances against a concentration gradient",
           "options": [
             "By breaking down molecules for fuel",
@@ -3247,7 +3247,7 @@
           ]
         },
         {
-          "questions": "How does phosphorylation make molecules more reactive?",
+          "question": "How does phosphorylation make molecules more reactive?",
           "correct": "By transferring a phosphate group from ATP, lowering activation energy",
           "options": [
             "By hydrolysing water molecules",
@@ -3257,7 +3257,7 @@
           ]
         },
         {
-          "questions": "Which type of reaction is ATP hydrolysis?",
+          "question": "Which type of reaction is ATP hydrolysis?",
           "correct": "A hydrolysis reaction",
           "options": [
             "A condensation reaction",
@@ -3267,7 +3267,7 @@
           ]
         },
         {
-          "questions": "Which process forms ATP during photosynthesis?",
+          "question": "Which process forms ATP during photosynthesis?",
           "correct": "Photophosphorylation",
           "options": [
             "Oxidative phosphorylation",
@@ -3277,7 +3277,7 @@
           ]
         },
         {
-          "questions": "Which process forms ATP during respiration in mitochondria?",
+          "question": "Which process forms ATP during respiration in mitochondria?",
           "correct": "Oxidative phosphorylation",
           "options": [
             "Substrate-level phosphorylation",
@@ -3287,7 +3287,7 @@
           ]
         },
         {
-          "questions": "Which reaction forms ATP directly from donor molecules without using an electron transport chain?",
+          "question": "Which reaction forms ATP directly from donor molecules without using an electron transport chain?",
           "correct": "Substrate-level phosphorylation",
           "options": [
             "Photophosphorylation",
@@ -3299,7 +3299,7 @@
       ],
       "1.2.4. - Water and its Functions": [
         {
-          "questions": "Why is water considered a major biological molecule?",
+          "question": "Why is water considered a major biological molecule?",
           "correct": "It is a major component of cells and has unusual properties due to its dipolar nature and hydrogen bonding",
           "options": [
             "It is a source of energy for cells",
@@ -3309,7 +3309,7 @@
           ]
         },
         {
-          "questions": "What atoms make up a water molecule?",
+          "question": "What atoms make up a water molecule?",
           "correct": "Two hydrogen atoms and one oxygen atom",
           "options": [
             "Two oxygen atoms and one hydrogen atom",
@@ -3319,7 +3319,7 @@
           ]
         },
         {
-          "questions": "What does it mean that water is dipolar?",
+          "question": "What does it mean that water is dipolar?",
           "correct": "Oxygen has a slight negative charge and hydrogen atoms have slight positive charges",
           "options": [
             "Water has no charge at all",
@@ -3329,7 +3329,7 @@
           ]
         },
         {
-          "questions": "How do hydrogen bonds form between water molecules?",
+          "question": "How do hydrogen bonds form between water molecules?",
           "correct": "The positive hydrogen of one molecule is attracted to the negative oxygen of another",
           "options": [
             "Hydrogen bonds form between oxygen atoms of different molecules",
@@ -3339,7 +3339,7 @@
           ]
         },
         {
-          "questions": "Why does water have a high specific heat capacity?",
+          "question": "Why does water have a high specific heat capacity?",
           "correct": "Hydrogen bonds require extra energy to break, slowing temperature changes",
           "options": [
             "It has a high molecular mass",
@@ -3349,7 +3349,7 @@
           ]
         },
         {
-          "questions": "What is the biological significance of water's high specific heat capacity?",
+          "question": "What is the biological significance of water's high specific heat capacity?",
           "correct": "It buffers organisms and environments against sudden temperature changes",
           "options": [
             "It allows water to dissolve many solutes",
@@ -3359,7 +3359,7 @@
           ]
         },
         {
-          "questions": "What is latent heat of vaporisation?",
+          "question": "What is latent heat of vaporisation?",
           "correct": "The energy required to evaporate 1 g of water",
           "options": [
             "The energy released when water freezes",
@@ -3369,7 +3369,7 @@
           ]
         },
         {
-          "questions": "How does evaporation of water help organisms?",
+          "question": "How does evaporation of water help organisms?",
           "correct": "It removes heat from surfaces, providing effective cooling",
           "options": [
             "It generates energy for metabolism",
@@ -3379,7 +3379,7 @@
           ]
         },
         {
-          "questions": "What is cohesion in water?",
+          "question": "What is cohesion in water?",
           "correct": "The tendency of water molecules to stick together due to hydrogen bonding",
           "options": [
             "The ability of water to dissolve ions",
@@ -3389,7 +3389,7 @@
           ]
         },
         {
-          "questions": "What biological role does cohesion play in plants?",
+          "question": "What biological role does cohesion play in plants?",
           "correct": "It allows continuous columns of water to be pulled up xylem vessels",
           "options": [
             "It dissolves minerals in soil",
@@ -3399,7 +3399,7 @@
           ]
         },
         {
-          "questions": "What is surface tension in water?",
+          "question": "What is surface tension in water?",
           "correct": "The inward pull of water molecules at the air–water interface, creating a stretched surface",
           "options": [
             "The energy required to break hydrogen bonds",
@@ -3409,7 +3409,7 @@
           ]
         },
         {
-          "questions": "Give an example of an organism supported by water's surface tension.",
+          "question": "Give an example of an organism supported by water's surface tension.",
           "correct": "Pond skaters",
           "options": [
             "Fish",
@@ -3419,7 +3419,7 @@
           ]
         },
         {
-          "questions": "Why is water essential for metabolism?",
+          "question": "Why is water essential for metabolism?",
           "correct": "It is involved directly in hydrolysis and condensation reactions and provides an aqueous medium",
           "options": [
             "It stores energy long-term",
@@ -3429,7 +3429,7 @@
           ]
         },
         {
-          "questions": "What types of substances dissolve readily in water?",
+          "question": "What types of substances dissolve readily in water?",
           "correct": "Gases, wastes, inorganic ions, small hydrophilic molecules, and enzymes",
           "options": [
             "Fats and oils only",
@@ -3439,7 +3439,7 @@
           ]
         },
         {
-          "questions": "How does water provide structural support to organisms?",
+          "question": "How does water provide structural support to organisms?",
           "correct": "It is incompressible, supporting hydrostatic skeletons and turgor pressure in plant cells",
           "options": [
             "By forming covalent bonds with proteins",
@@ -3449,7 +3449,7 @@
           ]
         },
         {
-          "questions": "Why is water transparency important for life?",
+          "question": "Why is water transparency important for life?",
           "correct": "It allows light penetration for photosynthesis and vision",
           "options": [
             "It prevents evaporation",
@@ -3459,7 +3459,7 @@
           ]
         },
         {
-          "questions": "Which ion is essential for oxygen transport in haemoglobin?",
+          "question": "Which ion is essential for oxygen transport in haemoglobin?",
           "correct": "Iron ions (Fe2+)",
           "options": [
             "Sodium ions (Na+)",
@@ -3469,7 +3469,7 @@
           ]
         },
         {
-          "questions": "Which ion has a structural role in DNA and energy storage in ATP?",
+          "question": "Which ion has a structural role in DNA and energy storage in ATP?",
           "correct": "Phosphate ions (PO43−)",
           "options": [
             "Sodium ions (Na+)",
@@ -3479,7 +3479,7 @@
           ]
         },
         {
-          "questions": "Which ion helps determine pH and affects enzyme activity?",
+          "question": "Which ion helps determine pH and affects enzyme activity?",
           "correct": "Hydrogen ions (H+)",
           "options": [
             "Sodium ions (Na+)",
@@ -3489,7 +3489,7 @@
           ]
         },
         {
-          "questions": "Which ion is involved in transport of glucose and amino acids across membranes?",
+          "question": "Which ion is involved in transport of glucose and amino acids across membranes?",
           "correct": "Sodium ions (Na+)",
           "options": [
             "Sodium ions (Na+)",
@@ -3503,7 +3503,7 @@
     "1.3. - Cell Structure": {
       "1.3.1. - Methods of Studying Cells": [
         {
-          "questions": "What is the main purpose of a microscope?",
+          "question": "What is the main purpose of a microscope?",
           "correct": "To produce magnified images of specimens too small to see with the naked eye",
           "options": [
             "To measure the weight of cells",
@@ -3513,7 +3513,7 @@
           ]
         },
         {
-          "questions": "What type of microscope uses two lenses to magnify a specimen?",
+          "question": "What type of microscope uses two lenses to magnify a specimen?",
           "correct": "Compound light microscope",
           "options": [
             "Electron microscope",
@@ -3523,7 +3523,7 @@
           ]
         },
         {
-          "questions": "What is the main limitation of light microscopes?",
+          "question": "What is the main limitation of light microscopes?",
           "correct": "Light has a relatively long wavelength, so objects closer than 0.2 μm cannot be resolved",
           "options": [
             "They are too expensive",
@@ -3533,7 +3533,7 @@
           ]
         },
         {
-          "questions": "How do electron microscopes achieve higher resolution than light microscopes?",
+          "question": "How do electron microscopes achieve higher resolution than light microscopes?",
           "correct": "They use a beam of electrons with a shorter wavelength, resolving objects ≥ 0.1 nm apart",
           "options": [
             "They use more powerful lenses",
@@ -3543,7 +3543,7 @@
           ]
         },
         {
-          "questions": "What is the formula for magnification?",
+          "question": "What is the formula for magnification?",
           "correct": "Magnification = size of image ÷ size of real object",
           "options": [
             "Magnification = size of real object ÷ size of image",
@@ -3553,7 +3553,7 @@
           ]
         },
         {
-          "questions": "What is the definition of resolution in microscopy?",
+          "question": "What is the definition of resolution in microscopy?",
           "correct": "The minimum distance at which two points appear separate",
           "options": [
             "The maximum magnification achievable",
@@ -3563,7 +3563,7 @@
           ]
         },
         {
-          "questions": "Why does increasing magnification not always improve resolution?",
+          "question": "Why does increasing magnification not always improve resolution?",
           "correct": "Beyond the resolution limit, images become larger but blurred",
           "options": [
             "The lenses cannot rotate fast enough",
@@ -3573,7 +3573,7 @@
           ]
         },
         {
-          "questions": "What is the purpose of cell fractionation?",
+          "question": "What is the purpose of cell fractionation?",
           "correct": "To isolate organelles so they can be studied separately",
           "options": [
             "To magnify cells",
@@ -3583,7 +3583,7 @@
           ]
         },
         {
-          "questions": "Why must tissue be placed in a cold, buffered solution with the same water potential before cell fractionation?",
+          "question": "Why must tissue be placed in a cold, buffered solution with the same water potential before cell fractionation?",
           "correct": "To reduce enzyme activity, maintain pH, and prevent organelles bursting or shrinking",
           "options": [
             "To increase enzyme activity",
@@ -3593,7 +3593,7 @@
           ]
         },
         {
-          "questions": "What happens during homogenisation in cell fractionation?",
+          "question": "What happens during homogenisation in cell fractionation?",
           "correct": "Tissue is broken up to release organelles, and the homogenate is filtered to remove debris",
           "options": [
             "Organelles are stained for microscopy",
@@ -3603,7 +3603,7 @@
           ]
         },
         {
-          "questions": "What is the principle behind ultracentrifugation in cell fractionation?",
+          "question": "What is the principle behind ultracentrifugation in cell fractionation?",
           "correct": "Centrifugal force separates organelles by mass, forming pellets at increasing speeds",
           "options": [
             "Organelles float to the top due to density",
@@ -3613,7 +3613,7 @@
           ]
         },
         {
-          "questions": "In animal cells, which organelle forms the first pellet at low centrifuge speeds?",
+          "question": "In animal cells, which organelle forms the first pellet at low centrifuge speeds?",
           "correct": "Nuclei",
           "options": [
             "Mitochondria",
@@ -3623,7 +3623,7 @@
           ]
         },
         {
-          "questions": "What is the approximate centrifuge speed for isolating mitochondria?",
+          "question": "What is the approximate centrifuge speed for isolating mitochondria?",
           "correct": "3,500 rev/min",
           "options": [
             "1,000 rev/min",
@@ -3633,7 +3633,7 @@
           ]
         },
         {
-          "questions": "Why have microscopy and cell fractionation been important in cell biology?",
+          "question": "Why have microscopy and cell fractionation been important in cell biology?",
           "correct": "They allowed detailed study of isolated organelles, leading to major advances",
           "options": [
             "They provide energy for cells",
