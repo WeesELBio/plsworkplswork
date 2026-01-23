@@ -222,6 +222,7 @@ function getPool() {
 
 // Pick next question
 function nextQuestion() {
+    answered = false;
     document.getElementById("feedback").textContent = "";
     document.getElementById("answers").innerHTML = "";
     selectedAnswer = null;
@@ -287,17 +288,32 @@ function showHard() {
 }
 
 // Check answer and give feedback
+let answered = false;
+
 function checkAnswer() {
-    if (!currentQuestion) return;
+    if (!currentQuestion || answered) return;
 
     const mode = document.querySelector('input[name="mode"]:checked').value;
+    let userAnswer;
 
-    let userAnswer =
-        mode === "normal"
-            ? selectedAnswer
-            : document.getElementById("hardInput").value.trim();
+    if (mode === "normal") {
+        if (!selectedAnswer) {
+            document.getElementById("feedback").textContent =
+                "Please select an answer first.";
+            return;
+        }
+        userAnswer = selectedAnswer;
+    } else {
+        const input = document.getElementById("hardInput");
+        if (!input || input.value.trim() === "") {
+            document.getElementById("feedback").textContent =
+                "Please type an answer first.";
+            return;
+        }
+        userAnswer = input.value.trim();
+    }
 
-    if (!userAnswer) return;
+    answered = true;
 
     const feedback = document.getElementById("feedback");
 
