@@ -3642,6 +3642,3146 @@
             "They sterilise tissue samples"
           ]
         }
+      ],
+      "1.3.2. - The Electron Microscope": [
+        {
+          "question": "Why do electron microscopes have better resolution than light microscopes?",
+          "correct": "Electrons have a much shorter wavelength than light, giving higher resolving power",
+          "options": [
+            "Electrons are heavier than light",
+            "Electrons have a much shorter wavelength than light, giving higher resolving power",
+            "Electron microscopes use larger lenses",
+            "Electron beams are visible to the human eye"
+          ]
+        },
+        {
+          "question": "Why must electron microscopes operate in a near-vacuum?",
+          "correct": "Electrons are absorbed or deflected by air",
+          "options": [
+            "Air causes heat damage",
+            "Electrons are absorbed or deflected by air",
+            "Air slows down magnification",
+            "To prevent water condensation on lenses"
+          ]
+        },
+        {
+          "question": "Which two main types of electron microscope exist?",
+          "correct": "Transmission Electron Microscope (TEM) and Scanning Electron Microscope (SEM)",
+          "options": [
+            "Phase-contrast and confocal",
+            "Transmission Electron Microscope (TEM) and Scanning Electron Microscope (SEM)",
+            "Light and compound microscopes",
+            "Optical and digital microscopes"
+          ]
+        },
+        {
+          "question": "How does a TEM produce an image?",
+          "correct": "Electrons pass through a very thin specimen; dense areas absorb electrons and appear dark, less dense areas appear bright",
+          "options": [
+            "Electrons scan the surface to produce a 3D image",
+            "Electrons pass through a very thin specimen; dense areas absorb electrons and appear dark, less dense areas appear bright",
+            "Light passes through lenses to magnify the image",
+            "Electrons reflect off the specimen to produce a flat image"
+          ]
+        },
+        {
+          "question": "What is the theoretical resolving power of a TEM?",
+          "correct": "0.1 nm",
+          "options": [
+            "2000 nm",
+            "0.1 μm",
+            "0.1 nm",
+            "20 nm"
+          ]
+        },
+        {
+          "question": "List one limitation of TEM.",
+          "correct": "Specimens must be in a vacuum, so living specimens cannot be observed",
+          "options": [
+            "It can only observe living specimens",
+            "Specimens must be in a vacuum, so living specimens cannot be observed",
+            "It produces coloured images",
+            "It cannot resolve small structures"
+          ]
+        },
+        {
+          "question": "How does a SEM produce an image?",
+          "correct": "Electrons scan the surface, scattering depends on contours, and a computer builds a 3D image",
+          "options": [
+            "Electrons pass through a thin specimen to produce a 2D image",
+            "Electrons scan the surface, scattering depends on contours, and a computer builds a 3D image",
+            "Light passes through lenses to magnify the image",
+            "Electrons are absorbed to produce a dark image only"
+          ]
+        },
+        {
+          "question": "What is the approximate resolving power of SEM?",
+          "correct": "20 nm",
+          "options": [
+            "0.1 nm",
+            "20 nm",
+            "0.2 μm",
+            "200 nm"
+          ]
+        },
+        {
+          "question": "What limitations are shared by both TEM and SEM?",
+          "correct": "Must operate in a vacuum, complex preparation, possible artefacts, and images not in colour",
+          "options": [
+            "Only magnify up to ×1000",
+            "Require living specimens to function",
+            "Must operate in a vacuum, complex preparation, possible artefacts, and images not in colour",
+            "Cannot produce high-resolution images"
+          ]
+        },
+        {
+          "question": "Why does SEM not require extremely thin specimens?",
+          "correct": "Because electrons do not need to pass through the specimen, they only scan the surface",
+          "options": [
+            "SEM uses light, not electrons",
+            "Because electrons do not need to pass through the specimen, they only scan the surface",
+            "SEM specimens are always compressed",
+            "SEM images are low resolution"
+          ]
+        }
+      ],
+      "1.3.3. - Microscope Measurements and Calculations": [
+        {
+          "question": "What is an eyepiece graticule?",
+          "correct": "A glass disc in the microscope eyepiece with a scale etched onto it, used to measure specimens",
+          "options": [
+            "A glass disc in the microscope eyepiece with a scale etched onto it, used to measure specimens",
+            "A lens that magnifies the specimen",
+            "A light source for illumination",
+            "A slide for holding specimens"
+          ]
+        },
+        {
+          "question": "Why can't an eyepiece graticule be used directly without calibration?",
+          "correct": "Because magnification varies with each objective lens",
+          "options": [
+            "Because it is made of glass",
+            "Because magnification varies with each objective lens",
+            "Because it measures in millimeters only",
+            "Because it only works with TEM"
+          ]
+        },
+        {
+          "question": "What is a stage micrometer used for?",
+          "correct": "Calibrating the eyepiece graticule",
+          "options": [
+            "Measuring cell volume",
+            "Calibrating the eyepiece graticule",
+            "Magnifying specimens",
+            "Counting cell divisions"
+          ]
+        },
+        {
+          "question": "What is the smallest division on a typical stage micrometer?",
+          "correct": "0.01 mm (10 μm)",
+          "options": [
+            "1 mm",
+            "0.1 mm",
+            "0.01 mm (10 μm)",
+            "0.001 mm"
+          ]
+        },
+        {
+          "question": "How do you calculate the size of one graticule unit during calibration?",
+          "correct": "Divide the stage micrometer unit by the number of graticule units it corresponds to",
+          "options": [
+            "Multiply the stage micrometer unit by the graticule units",
+            "Divide the stage micrometer unit by the number of graticule units it corresponds to",
+            "Add the stage micrometer units to graticule units",
+            "Subtract the stage micrometer units from graticule units"
+          ]
+        },
+        {
+          "question": "If 10 stage micrometer units correspond to 40 graticule units and 1 micrometer unit = 10 μm, what is the size of 1 graticule unit?",
+          "correct": "2.5 μm",
+          "options": [
+            "4 μm",
+            "2.5 μm",
+            "10 μm",
+            "1 μm"
+          ]
+        },
+        {
+          "question": "How does changing the objective lens affect graticule calibration?",
+          "correct": "Calibration changes with magnification; higher magnification reduces the μm per graticule unit",
+          "options": [
+            "Calibration remains the same",
+            "Calibration changes with magnification; higher magnification reduces the μm per graticule unit",
+            "Graticule units increase automatically",
+            "It only affects the stage micrometer"
+          ]
+        },
+        {
+          "question": "How do you measure a cell using a calibrated graticule?",
+          "correct": "Measure how many graticule units the cell spans, then multiply by the scale value",
+          "options": [
+            "Count the cell nuclei",
+            "Measure how many graticule units the cell spans, then multiply by the scale value",
+            "Use the microscope magnification only",
+            "Estimate visually without calibration"
+          ]
+        },
+        {
+          "question": "What is the general formula for calculating actual size of a specimen?",
+          "correct": "Actual size = measured length (in graticule units) × scale value (μm per graticule unit)",
+          "options": [
+            "Actual size = measured length ÷ magnification",
+            "Actual size = measured length (in graticule units) × scale value (μm per graticule unit)",
+            "Actual size = magnification × image size",
+            "Actual size = stage micrometer reading only"
+          ]
+        }
+      ],
+      "1.3.4. - Eukaryotic Cell Structure": [
+        {
+          "question": "What defines a eukaryotic cell?",
+          "correct": "A cell with a distinct nucleus and membrane-bound organelles",
+          "options": [
+            "A cell without a nucleus",
+            "A cell with a distinct nucleus and membrane-bound organelles",
+            "A cell with only a cell wall",
+            "A cell that can perform photosynthesis"
+          ]
+        },
+        {
+          "question": "What does ultrastructure refer to?",
+          "correct": "The detailed internal structure of a cell seen with an electron microscope",
+          "options": [
+            "The shape of the cell under a light microscope",
+            "The surface features of a cell",
+            "The detailed internal structure of a cell seen with an electron microscope",
+            "The DNA sequence of a cell"
+          ]
+        },
+        {
+          "question": "What is the size range of the nucleus?",
+          "correct": "10–20 μm",
+          "options": [
+            "1–5 μm",
+            "5–10 μm",
+            "10–20 μm",
+            "20–50 μm"
+          ]
+        },
+        {
+          "question": "What is the function of the nuclear envelope?",
+          "correct": "Controls movement of substances into and out of the nucleus",
+          "options": [
+            "Produces ribosomes",
+            "Controls movement of substances into and out of the nucleus",
+            "Stores ATP",
+            "Synthesises proteins"
+          ]
+        },
+        {
+          "question": "What is the function of nuclear pores?",
+          "correct": "Allow passage of large molecules such as mRNA",
+          "options": [
+            "Produce DNA",
+            "Allow passage of large molecules such as mRNA",
+            "Store pigments",
+            "Transport proteins only"
+          ]
+        },
+        {
+          "question": "What is contained in the nucleoplasm?",
+          "correct": "Granular fluid inside the nucleus",
+          "options": [
+            "Ribosomes only",
+            "Chromosomes only",
+            "Granular fluid inside the nucleus",
+            "Mitochondria"
+          ]
+        },
+        {
+          "question": "What is the role of the nucleolus?",
+          "correct": "Produces ribosomal RNA and manufactures ribosomes",
+          "options": [
+            "Stores sugars",
+            "Produces ribosomal RNA and manufactures ribosomes",
+            "Synthesises DNA",
+            "Produces ATP"
+          ]
+        },
+        {
+          "question": "What is the main function of mitochondria?",
+          "correct": "Site of aerobic respiration and ATP production",
+          "options": [
+            "Protein synthesis",
+            "Storage of sugars",
+            "Site of aerobic respiration and ATP production",
+            "Transport molecules"
+          ]
+        },
+        {
+          "question": "What are cristae in mitochondria?",
+          "correct": "Folds of the inner membrane that provide a large surface area for enzymes in respiration",
+          "options": [
+            "Vesicles storing ATP",
+            "Folds of the inner membrane that provide a large surface area for enzymes in respiration",
+            "Ribosomes attached to mitochondria",
+            "Channels for water transport"
+          ]
+        },
+        {
+          "question": "What does the mitochondrial matrix contain?",
+          "correct": "Enzymes, lipids, proteins, ribosomes, and DNA",
+          "options": [
+            "Only enzymes",
+            "Only DNA",
+            "Enzymes, lipids, proteins, ribosomes, and DNA",
+            "ATP and water only"
+          ]
+        },
+        {
+          "question": "What is the function of chloroplasts?",
+          "correct": "Site of photosynthesis, containing grana for light absorption and stroma for sugar synthesis",
+          "options": [
+            "ATP production only",
+            "Protein digestion",
+            "Site of photosynthesis, containing grana for light absorption and stroma for sugar synthesis",
+            "Transport molecules around the cell"
+          ]
+        },
+        {
+          "question": "What is the structure of grana?",
+          "correct": "Stacks of thylakoids containing chlorophyll",
+          "options": [
+            "Fluid-filled sacs in the cytoplasm",
+            "Stacks of thylakoids containing chlorophyll",
+            "Outer membrane of chloroplast",
+            "Matrix in mitochondria"
+          ]
+        },
+        {
+          "question": "What is the role of the stroma in chloroplasts?",
+          "correct": "Contains enzymes for sugar synthesis and DNA and ribosomes for protein production",
+          "options": [
+            "Transports water",
+            "Contains enzymes for sugar synthesis and DNA and ribosomes for protein production",
+            "Stores pigments only",
+            "Produces ATP"
+          ]
+        },
+        {
+          "question": "How does the chloroplast structure relate to function?",
+          "correct": "Large surface area of granal membranes for light absorption and stroma enzymes for photosynthesis",
+          "options": [
+            "Small surface area for storage",
+            "Large surface area of granal membranes for light absorption and stroma enzymes for photosynthesis",
+            "Stores DNA only",
+            "Allows cell division"
+          ]
+        },
+        {
+          "question": "What is the function of rough ER (RER)?",
+          "correct": "Protein and glycoprotein synthesis and transport",
+          "options": [
+            "Lipid synthesis only",
+            "Protein and glycoprotein synthesis and transport",
+            "Stores sugars",
+            "Produces ATP"
+          ]
+        },
+        {
+          "question": "What is the function of smooth ER (SER)?",
+          "correct": "Synthesises, stores, and transports lipids and carbohydrates",
+          "options": [
+            "Protein synthesis",
+            "Lipid storage only",
+            "Synthesises, stores, and transports lipids and carbohydrates",
+            "ATP production"
+          ]
+        },
+        {
+          "question": "What is the main function of the Golgi apparatus?",
+          "correct": "Modifies, sorts, and packages proteins and lipids, produces secretory enzymes and lysosomes",
+          "options": [
+            "Produces ATP",
+            "Stores water",
+            "Modifies, sorts, and packages proteins and lipids, produces secretory enzymes and lysosomes",
+            "Synthesises DNA"
+          ]
+        },
+        {
+          "question": "What are lysosomes and their function?",
+          "correct": "Vesicles containing hydrolytic enzymes that digest ingested material, worn-out organelles, or cells after death",
+          "options": [
+            "Energy-producing organelles",
+            "Vesicles containing hydrolytic enzymes that digest ingested material, worn-out organelles, or cells after death",
+            "Store sugars",
+            "Transport proteins"
+          ]
+        },
+        {
+          "question": "What are ribosomes and their function?",
+          "correct": "Granules of rRNA and protein; site of protein synthesis; 80S in eukaryotes",
+          "options": [
+            "Small vesicles containing enzymes",
+            "Granules of rRNA and protein; site of protein synthesis; 80S in eukaryotes",
+            "Large organelles for ATP production",
+            "Membrane-bound organelles storing lipids"
+          ]
+        },
+        {
+          "question": "What is the composition of the plant cell wall?",
+          "correct": "Cellulose microfibrils in a polysaccharide matrix, with middle lamella cementing cells together",
+          "options": [
+            "Only cellulose",
+            "Cellulose microfibrils in a polysaccharide matrix, with middle lamella cementing cells together",
+            "Chitin only",
+            "Protein filaments only"
+          ]
+        },
+        {
+          "question": "What is the function of the plant cell wall?",
+          "correct": "Prevents cell bursting under osmotic pressure, provides mechanical strength, allows water movement",
+          "options": [
+            "Synthesises proteins",
+            "Prevents cell bursting under osmotic pressure, provides mechanical strength, allows water movement",
+            "Stores ATP",
+            "Digest macromolecules"
+          ]
+        },
+        {
+          "question": "What is the structure of the large central vacuole in plant cells?",
+          "correct": "Surrounded by tonoplast and contains sugars, amino acids, mineral salts, pigments, and wastes",
+          "options": [
+            "Surrounded by a membrane and stores only water",
+            "Surrounded by tonoplast and contains sugars, amino acids, mineral salts, pigments, and wastes",
+            "Contains only enzymes",
+            "Contains ATP"
+          ]
+        },
+        {
+          "question": "What is the function of the plant vacuole?",
+          "correct": "Maintains turgidity, supports plant structure, stores food and pigments",
+          "options": [
+            "Produces ATP",
+            "Maintains turgidity, supports plant structure, stores food and pigments",
+            "Synthesises proteins",
+            "Digests bacteria"
+          ]
+        },
+        {
+          "question": "How does ultrastructure relate to cell function?",
+          "correct": "Organelle number and size reflect activity, e.g., many mitochondria and cristae indicate high ATP demand",
+          "options": [
+            "Ultrastructure only affects cell shape",
+            "Organelle number and size reflect activity, e.g., many mitochondria and cristae indicate high ATP demand",
+            "Ultrastructure does not affect function",
+            "Only relates to cell division speed"
+          ]
+        }
+      ],
+      "1.3.5. - Cell Specialisation and Organisation": [
+        {
+          "question": "What is cell specialisation?",
+          "correct": "Cells adapted to particular roles to improve efficiency",
+          "options": [
+            "All cells performing all functions equally",
+            "Cells adapted to particular roles to improve efficiency",
+            "Cells losing their organelles over time",
+            "Cells that cannot divide"
+          ]
+        },
+        {
+          "question": "How do specialised cells differ from early embryonic cells?",
+          "correct": "Specialised cells express only some genes, whereas embryonic cells are identical and unspecialised",
+          "options": [
+            "Specialised cells are larger",
+            "Specialised cells express only some genes, whereas embryonic cells are identical and unspecialised",
+            "Embryonic cells have fewer mitochondria",
+            "Specialised cells can perform all functions simultaneously"
+          ]
+        },
+        {
+          "question": "Why do muscle and sperm cells contain many mitochondria?",
+          "correct": "To provide energy for movement and high metabolic activity",
+          "options": [
+            "To store DNA",
+            "To provide energy for movement and high metabolic activity",
+            "To synthesise proteins rapidly",
+            "To prevent osmotic lysis"
+          ]
+        },
+        {
+          "question": "What is a tissue?",
+          "correct": "A group of similar cells that perform a specific function",
+          "options": [
+            "A single specialised cell",
+            "A group of similar cells that perform a specific function",
+            "A combination of organs",
+            "A group of organ systems"
+          ]
+        },
+        {
+          "question": "Which of the following is an example of animal epithelial tissue?",
+          "correct": "Ciliated epithelium in ducts that moves mucus",
+          "options": [
+            "Palisade mesophyll in leaves",
+            "Ciliated epithelium in ducts that moves mucus",
+            "Xylem tissue",
+            "Blood"
+          ]
+        },
+        {
+          "question": "What is the function of xylem tissue in plants?",
+          "correct": "Transports water and mineral ions and provides mechanical support",
+          "options": [
+            "Transports sugars only",
+            "Transports water and mineral ions and provides mechanical support",
+            "Stores energy as starch",
+            "Carries oxygen in plants"
+          ]
+        },
+        {
+          "question": "What defines an organ?",
+          "correct": "A structure made of multiple tissues with coordinated roles performing one or more functions",
+          "options": [
+            "A single specialised tissue",
+            "A structure made of multiple tissues with coordinated roles performing one or more functions",
+            "A group of cells with similar functions",
+            "Any plant or animal structure"
+          ]
+        },
+        {
+          "question": "Give an example of a plant organ and its tissues.",
+          "correct": "Leaf: palisade mesophyll (photosynthesis), spongy mesophyll (gas diffusion), epidermis (protection and gas exchange), phloem (transports organic substances), xylem (transports water and minerals)",
+          "options": [
+            "Root: epidermis only",
+            "Leaf: palisade mesophyll, spongy mesophyll, epidermis, phloem, xylem",
+            "Stem: xylem only",
+            "Capillary: multiple tissues performing one function"
+          ]
+        },
+        {
+          "question": "Are capillaries considered organs?",
+          "correct": "No, because they consist of only one tissue type",
+          "options": [
+            "Yes, because they transport blood",
+            "No, because they consist of only one tissue type",
+            "Yes, because they contain endothelial cells",
+            "No, because they are part of an organ system"
+          ]
+        },
+        {
+          "question": "What is an organ system?",
+          "correct": "A group of organs working together to carry out major functions",
+          "options": [
+            "A group of cells performing a function",
+            "A single organ performing multiple roles",
+            "A group of organs working together to carry out major functions",
+            "A group of tissues performing one function"
+          ]
+        },
+        {
+          "question": "Give an example of an organ system and its main function.",
+          "correct": "Digestive system: digests and processes food, includes stomach, pancreas, liver, etc.",
+          "options": [
+            "Respiratory system: digests food",
+            "Circulatory system: processes urine",
+            "Digestive system: digests and processes food, includes stomach, pancreas, liver",
+            "Nervous system: circulates blood"
+          ]
+        },
+        {
+          "question": "Which organ system is responsible for gas exchange?",
+          "correct": "Respiratory system",
+          "options": [
+            "Digestive system",
+            "Circulatory system",
+            "Respiratory system",
+            "Excretory system"
+          ]
+        },
+        {
+          "question": "Which organ system pumps and circulates blood?",
+          "correct": "Circulatory system",
+          "options": [
+            "Respiratory system",
+            "Digestive system",
+            "Circulatory system",
+            "Nervous system"
+          ]
+        }
+      ],
+      "1.3.6. - Prokaryotic Cells and Viruses": [
+        {
+          "question": "What are the two main cell types?",
+          "correct": "Eukaryotic and prokaryotic cells",
+          "options": [
+            "Plant and animal cells",
+            "Eukaryotic and prokaryotic cells",
+            "Bacterial and fungal cells",
+            "Animal and bacterial cells"
+          ]
+        },
+        {
+          "question": "Which feature distinguishes eukaryotic cells from prokaryotic cells?",
+          "correct": "Eukaryotic cells have a true nucleus enclosed by a nuclear membrane",
+          "options": [
+            "Eukaryotic cells are smaller",
+            "Eukaryotic cells have a true nucleus enclosed by a nuclear membrane",
+            "Prokaryotic cells have mitochondria",
+            "Prokaryotic cells contain 80S ribosomes"
+          ]
+        },
+        {
+          "question": "What is the typical size range of bacteria?",
+          "correct": "0.1–10 μm",
+          "options": [
+            "0.001–0.1 μm",
+            "0.1–10 μm",
+            "10–50 μm",
+            "50–100 μm"
+          ]
+        },
+        {
+          "question": "What is the bacterial cell wall made of?",
+          "correct": "Murein (peptidoglycan), a polysaccharide–peptide polymer",
+          "options": [
+            "Cellulose",
+            "Chitin",
+            "Murein (peptidoglycan), a polysaccharide–peptide polymer",
+            "Phospholipids"
+          ]
+        },
+        {
+          "question": "What is the function of the bacterial capsule?",
+          "correct": "Provides protection and helps cells stick together",
+          "options": [
+            "Controls movement of substances in/out of the cell",
+            "Provides protection and helps cells stick together",
+            "Stores DNA",
+            "Synthesises proteins"
+          ]
+        },
+        {
+          "question": "What is the role of the cell-surface membrane in bacteria?",
+          "correct": "Controls movement of substances in and out of the cell",
+          "options": [
+            "Produces energy",
+            "Controls movement of substances in and out of the cell",
+            "Stores glycogen",
+            "Protects against mechanical damage"
+          ]
+        },
+        {
+          "question": "What type of ribosomes do prokaryotic cells have?",
+          "correct": "70S ribosomes",
+          "options": [
+            "70S ribosomes",
+            "80S ribosomes",
+            "50S ribosomes only",
+            "60S ribosomes only"
+          ]
+        },
+        {
+          "question": "What form of DNA is found in prokaryotic cells?",
+          "correct": "Circular DNA not associated with histones; plasmids may be present",
+          "options": [
+            "Linear DNA associated with histones",
+            "Circular DNA not associated with histones; plasmids may be present",
+            "RNA only",
+            "Linear DNA without proteins"
+          ]
+        },
+        {
+          "question": "What is the function of plasmids in bacteria?",
+          "correct": "May contain genes for survival in adverse conditions and can replicate independently",
+          "options": [
+            "Produce ATP",
+            "Store water",
+            "May contain genes for survival in adverse conditions and can replicate independently",
+            "Synthesize proteins only"
+          ]
+        },
+        {
+          "question": "What is the function of the bacterial flagellum?",
+          "correct": "Used for movement",
+          "options": [
+            "Stores DNA",
+            "Synthesises proteins",
+            "Used for movement",
+            "Produces energy"
+          ]
+        },
+        {
+          "question": "Which of the following features is absent in prokaryotic cells?",
+          "correct": "Membrane-bound organelles",
+          "options": [
+            "70S ribosomes",
+            "Membrane-bound organelles",
+            "Circular DNA",
+            "Cell wall"
+          ]
+        },
+        {
+          "question": "Which ribosome type is larger?",
+          "correct": "80S ribosomes in eukaryotes",
+          "options": [
+            "70S ribosomes in prokaryotes",
+            "80S ribosomes in eukaryotes",
+            "Both are the same size",
+            "50S ribosomes in prokaryotes"
+          ]
+        },
+        {
+          "question": "What is a virus?",
+          "correct": "Acellular, non-living particle containing nucleic acid enclosed in a protein coat",
+          "options": [
+            "A small prokaryotic cell",
+            "Acellular, non-living particle containing nucleic acid enclosed in a protein coat",
+            "A eukaryotic organelle",
+            "A type of bacterium"
+          ]
+        },
+        {
+          "question": "What is the typical size range of viruses?",
+          "correct": "20–300 nm",
+          "options": [
+            "0.1–10 μm",
+            "20–300 nm",
+            "1–50 μm",
+            "500–1000 nm"
+          ]
+        },
+        {
+          "question": "How do viruses replicate?",
+          "correct": "Only inside a host cell",
+          "options": [
+            "Independently in the environment",
+            "Only inside a host cell",
+            "Using plasmids",
+            "In the nucleus of prokaryotes"
+          ]
+        },
+        {
+          "question": "What is a viral capsid?",
+          "correct": "Protein coat surrounding the nucleic acid",
+          "options": [
+            "Lipid envelope",
+            "Protein coat surrounding the nucleic acid",
+            "Circular DNA",
+            "Cell wall of viruses"
+          ]
+        },
+        {
+          "question": "What is the function of viral attachment proteins?",
+          "correct": "Allow viruses to attach to host cells",
+          "options": [
+            "Produce ATP",
+            "Allow viruses to attach to host cells",
+            "Digest host DNA",
+            "Store nucleic acids"
+          ]
+        },
+        {
+          "question": "Give an example of a virus that carries RNA and uses reverse transcriptase.",
+          "correct": "HIV",
+          "options": [
+            "Influenza virus",
+            "HIV",
+            "Bacteriophage T4",
+            "E. coli virus"
+          ]
+        }
+      ],
+      "1.3.7. - Mitosis": [
+        {
+          "question": "What is the main outcome of mitosis?",
+          "correct": "Two genetically identical daughter cells with the same number of chromosomes as the parent cell",
+          "options": [
+            "Four daughter cells with half the chromosome number",
+            "Two genetically identical daughter cells with the same number of chromosomes as the parent cell",
+            "One daughter cell with double the chromosomes",
+            "Production of gametes"
+          ]
+        },
+        {
+          "question": "How does meiosis differ from mitosis?",
+          "correct": "Meiosis produces four daughter cells each with half the chromosome number",
+          "options": [
+            "Meiosis produces two identical daughter cells",
+            "Meiosis occurs only in prokaryotes",
+            "Meiosis produces four daughter cells each with half the chromosome number",
+            "Meiosis does not involve DNA replication"
+          ]
+        },
+        {
+          "question": "When is DNA replicated in the cell cycle relative to mitosis?",
+          "correct": "During interphase before mitosis begins",
+          "options": [
+            "During prophase",
+            "During metaphase",
+            "During interphase before mitosis begins",
+            "During telophase"
+          ]
+        },
+        {
+          "question": "What are chromatids?",
+          "correct": "Two identical copies of DNA joined at the centromere",
+          "options": [
+            "Single strands of RNA",
+            "Two identical copies of DNA joined at the centromere",
+            "Proteins forming the spindle",
+            "Centrioles in the cytoplasm"
+          ]
+        },
+        {
+          "question": "What happens during prophase?",
+          "correct": "Chromosomes condense, spindle fibres form, nuclear envelope breaks down, spindle attaches to centromeres",
+          "options": [
+            "Chromosomes line up at the equator",
+            "Chromatids are pulled to opposite poles",
+            "Chromosomes condense, spindle fibres form, nuclear envelope breaks down, spindle attaches to centromeres",
+            "Cytoplasm divides"
+          ]
+        },
+        {
+          "question": "What is the main event of metaphase?",
+          "correct": "Chromosomes line up at the cell equator with spindle fibres attached to centromeres",
+          "options": [
+            "Chromosomes condense",
+            "Chromosomes line up at the cell equator with spindle fibres attached to centromeres",
+            "Chromatids move to opposite poles",
+            "Nuclear envelope reforms"
+          ]
+        },
+        {
+          "question": "What occurs during anaphase?",
+          "correct": "Centromeres split, spindle fibres pull sister chromatids to opposite poles, chromatids now called chromosomes",
+          "options": [
+            "Chromosomes condense",
+            "Chromosomes line up at the equator",
+            "Centromeres split, spindle fibres pull sister chromatids to opposite poles, chromatids now called chromosomes",
+            "Cytoplasm divides"
+          ]
+        },
+        {
+          "question": "Why do mitochondria supply energy during anaphase?",
+          "correct": "To provide ATP for spindle fibre contraction and chromatid movement",
+          "options": [
+            "To replicate DNA",
+            "To reform the nuclear envelope",
+            "To provide ATP for spindle fibre contraction and chromatid movement",
+            "To produce ribosomes"
+          ]
+        },
+        {
+          "question": "What happens during telophase and cytokinesis?",
+          "correct": "Chromosomes reach poles, nuclear envelope and nucleolus reform, spindle disintegrates, cytoplasm divides forming two identical daughter cells",
+          "options": [
+            "Chromosomes condense and spindle forms",
+            "Chromosomes line up at the equator",
+            "Chromosomes reach poles, nuclear envelope and nucleolus reform, spindle disintegrates, cytoplasm divides forming two identical daughter cells",
+            "DNA replicates"
+          ]
+        },
+        {
+          "question": "How do prokaryotes divide?",
+          "correct": "By binary fission: circular DNA replicates, plasmids replicate, cell membrane and wall grow, forming two identical daughter cells",
+          "options": [
+            "By mitosis",
+            "By meiosis",
+            "By binary fission: circular DNA replicates, plasmids replicate, cell membrane and wall grow, forming two identical daughter cells",
+            "By budding"
+          ]
+        },
+        {
+          "question": "How do viruses replicate?",
+          "correct": "Inside a host cell using host metabolism to produce viral nucleic acids, enzymes, and structural proteins",
+          "options": [
+            "By mitosis",
+            "By binary fission",
+            "Inside a host cell using host metabolism to produce viral nucleic acids, enzymes, and structural proteins",
+            "By meiosis"
+          ]
+        },
+        {
+          "question": "Why is mitosis important for growth?",
+          "correct": "It ensures all cells have identical genetic information",
+          "options": [
+            "It produces gametes",
+            "It reduces chromosome number",
+            "It ensures all cells have identical genetic information",
+            "It prevents mutation"
+          ]
+        },
+        {
+          "question": "How does mitosis help in repair?",
+          "correct": "Replaces damaged or dead cells with genetically identical cells",
+          "options": [
+            "By producing gametes",
+            "By reducing chromosome number",
+            "Replaces damaged or dead cells with genetically identical cells",
+            "By killing pathogens"
+          ]
+        },
+        {
+          "question": "What is the role of mitosis in asexual reproduction?",
+          "correct": "Allows single-celled organisms to produce genetically identical offspring",
+          "options": [
+            "It produces gametes",
+            "It creates genetic variation",
+            "Allows single-celled organisms to produce genetically identical offspring",
+            "It repairs tissues"
+          ]
+        }
+      ],
+      "1.3.8. - The Cell Cycle": [
+        {
+          "question": "What is the cell cycle?",
+          "correct": "The sequence of stages a dividing cell goes through, including interphase, nuclear division, and cytokinesis",
+          "options": [
+            "The process by which viruses replicate inside host cells",
+            "The sequence of stages a dividing cell goes through, including interphase, nuclear division, and cytokinesis",
+            "The process of protein synthesis",
+            "The breakdown of cells after death"
+          ]
+        },
+        {
+          "question": "What is the longest stage of the cell cycle?",
+          "correct": "Interphase",
+          "options": [
+            "Prophase",
+            "Metaphase",
+            "Interphase",
+            "Cytokinesis"
+          ]
+        },
+        {
+          "question": "What happens during interphase?",
+          "correct": "The cell grows and DNA replicates; no division occurs",
+          "options": [
+            "The nucleus divides",
+            "The cell grows and DNA replicates; no division occurs",
+            "Cytoplasm divides",
+            "Chromosomes are pulled to opposite poles"
+          ]
+        },
+        {
+          "question": "How long does a complete mammalian cell cycle take?",
+          "correct": "Around 24 hours, with most time spent in interphase",
+          "options": [
+            "1 hour",
+            "12 hours",
+            "Around 24 hours, with most time spent in interphase",
+            "48 hours"
+          ]
+        },
+        {
+          "question": "What is cancer caused by?",
+          "correct": "Uncontrolled cell division due to damage to genes regulating the cell cycle",
+          "options": [
+            "Viral infection",
+            "Uncontrolled cell division due to damage to genes regulating the cell cycle",
+            "Lack of oxygen",
+            "Excess ribosomes"
+          ]
+        },
+        {
+          "question": "What is the result of uncontrolled cell division?",
+          "correct": "Abnormal, rapidly growing tumours",
+          "options": [
+            "Cell differentiation",
+            "Abnormal, rapidly growing tumours",
+            "Cell death",
+            "Formation of chloroplasts"
+          ]
+        },
+        {
+          "question": "Which organs are commonly affected by tumours?",
+          "correct": "Lungs, prostate, breast, ovaries, large intestine, stomach, oesophagus, pancreas",
+          "options": [
+            "Brain and spinal cord only",
+            "Heart and kidneys only",
+            "Lungs, prostate, breast, ovaries, large intestine, stomach, oesophagus, pancreas",
+            "Skin and hair only"
+          ]
+        },
+        {
+          "question": "How do benign tumours differ from malignant tumours?",
+          "correct": "Benign grow slowly, are more compact, and less life-threatening; malignant grow rapidly, are less compact, and more likely to invade tissues",
+          "options": [
+            "Benign are always cancerous; malignant are harmless",
+            "Benign grow rapidly; malignant grow slowly",
+            "Benign grow slowly, are more compact, and less life-threatening; malignant grow rapidly, are less compact, and more likely to invade tissues",
+            "No difference"
+          ]
+        },
+        {
+          "question": "What factors control mitosis?",
+          "correct": "Both the cellular environment and growth factors, regulated by genes",
+          "options": [
+            "Only temperature",
+            "Only the nucleus",
+            "Both the cellular environment and growth factors, regulated by genes",
+            "Only the mitochondria"
+          ]
+        },
+        {
+          "question": "How can chemotherapy drugs treat cancer?",
+          "correct": "By blocking the cell cycle, preventing DNA replication or interfering with spindle formation",
+          "options": [
+            "By repairing DNA in healthy cells",
+            "By increasing cell division",
+            "By blocking the cell cycle, preventing DNA replication or interfering with spindle formation",
+            "By removing the nucleus"
+          ]
+        },
+        {
+          "question": "Why do chemotherapy drugs also affect normal cells?",
+          "correct": "They damage rapidly dividing healthy cells, such as hair follicle cells",
+          "options": [
+            "They only target cancer cells",
+            "They increase DNA replication in healthy cells",
+            "They damage rapidly dividing healthy cells, such as hair follicle cells",
+            "They stop all cellular metabolism"
+          ]
+        },
+        {
+          "question": "What is cytokinesis?",
+          "correct": "Division of the cytoplasm to form new cells",
+          "options": [
+            "Division of the nucleus",
+            "Replication of DNA",
+            "Division of the cytoplasm to form new cells",
+            "Condensation of chromosomes"
+          ]
+        }
+      ]
+    },
+    "1.4. - Transport Across Cell Membranes": {
+      "1.4.1. - Structure of the Cell-Surface Membrane": [
+        {
+          "question": "What is the cell-surface membrane?",
+          "correct": "A membrane that surrounds the cell, separating the cytoplasm from the external environment and controlling substance movement",
+          "options": [
+            "A type of organelle that produces ATP",
+            "A membrane that surrounds the cell, separating the cytoplasm from the external environment and controlling substance movement",
+            "The rigid structure giving the cell mechanical strength",
+            "A layer of polysaccharides protecting the cell"
+          ]
+        },
+        {
+          "question": "What is the basic structure shared by all cell membranes?",
+          "correct": "Phospholipid bilayer",
+          "options": [
+            "Peptidoglycan layer",
+            "Phospholipid bilayer",
+            "Polysaccharide chain",
+            "Protein filament network"
+          ]
+        },
+        {
+          "question": "Which part of a phospholipid is hydrophilic?",
+          "correct": "The head",
+          "options": [
+            "The tail",
+            "The head",
+            "Both head and tail",
+            "Neither head nor tail"
+          ]
+        },
+        {
+          "question": "Which part of a phospholipid is hydrophobic?",
+          "correct": "The tail",
+          "options": [
+            "The head",
+            "The tail",
+            "Both head and tail",
+            "Neither head nor tail"
+          ]
+        },
+        {
+          "question": "What is the function of phospholipids in membranes?",
+          "correct": "Allow lipid-soluble substances to pass, prevent water-soluble substances, and provide flexibility and self-sealing",
+          "options": [
+            "Only provide rigidity",
+            "Allow water-soluble substances to pass freely",
+            "Allow lipid-soluble substances to pass, prevent water-soluble substances, and provide flexibility and self-sealing",
+            "Act as enzymes in reactions"
+          ]
+        },
+        {
+          "question": "What are intrinsic (integral) proteins in the membrane?",
+          "correct": "Proteins that span the phospholipid bilayer, including channel and carrier proteins",
+          "options": [
+            "Proteins only on the membrane surface providing support",
+            "Proteins that span the phospholipid bilayer, including channel and carrier proteins",
+            "Proteins floating freely in the cytoplasm",
+            "Proteins embedded in the nucleus"
+          ]
+        },
+        {
+          "question": "What is the role of channel proteins?",
+          "correct": "Allow diffusion of water-soluble ions",
+          "options": [
+            "Transport lipid-soluble molecules",
+            "Allow diffusion of water-soluble ions",
+            "Repel ions from the cell",
+            "Produce energy for the cell"
+          ]
+        },
+        {
+          "question": "What is the role of carrier proteins?",
+          "correct": "Bind molecules like glucose or amino acids and transport them by changing shape",
+          "options": [
+            "Bind molecules like glucose or amino acids and transport them by changing shape",
+            "Form the cytoskeleton",
+            "Anchor ribosomes",
+            "Break down toxins"
+          ]
+        },
+        {
+          "question": "What is the function of cholesterol in the membrane?",
+          "correct": "Reduces movement of molecules, makes membrane less fluid at high temperatures, prevents water and ion loss",
+          "options": [
+            "Acts as a receptor for hormones",
+            "Reduces movement of molecules, makes membrane less fluid at high temperatures, prevents water and ion loss",
+            "Forms ribosomes",
+            "Transports oxygen"
+          ]
+        },
+        {
+          "question": "What are glycolipids?",
+          "correct": "Lipids with carbohydrate chains that act as recognition sites, stabilise the membrane, and aid cell attachment",
+          "options": [
+            "Proteins that span the membrane",
+            "Lipids with carbohydrate chains that act as recognition sites, stabilise the membrane, and aid cell attachment",
+            "Lipids storing energy inside the cell",
+            "Membrane-bound enzymes"
+          ]
+        },
+        {
+          "question": "What are glycoproteins?",
+          "correct": "Proteins with carbohydrate chains that act as receptors, help cell attachment, and enable recognition",
+          "options": [
+            "Lipids with carbohydrate chains",
+            "Proteins with carbohydrate chains that act as receptors, help cell attachment, and enable recognition",
+            "Enzymes in the cytoplasm",
+            "DNA-binding proteins"
+          ]
+        },
+        {
+          "question": "Why can most substances not freely diffuse through the membrane?",
+          "correct": "They may be not lipid-soluble, too large, repelled by charges, or polar/charged",
+          "options": [
+            "Because the membrane has no proteins",
+            "Because they are too small",
+            "They may be not lipid-soluble, too large, repelled by charges, or polar/charged",
+            "Because the cytoplasm blocks them"
+          ]
+        },
+        {
+          "question": "What does the 'fluid' in the fluid-mosaic model refer to?",
+          "correct": "Phospholipids moving freely, allowing flexibility of the membrane",
+          "options": [
+            "Proteins forming rigid structures",
+            "Phospholipids moving freely, allowing flexibility of the membrane",
+            "Cholesterol forming a solid matrix",
+            "Glycoproteins binding to the cytoskeleton"
+          ]
+        },
+        {
+          "question": "What does the 'mosaic' in the fluid-mosaic model refer to?",
+          "correct": "The proteins varying in shape, size, and arrangement in the membrane",
+          "options": [
+            "The arrangement of DNA in the nucleus",
+            "The pattern of lipids in the bilayer",
+            "The proteins varying in shape, size, and arrangement in the membrane",
+            "The water molecules outside the cell"
+          ]
+        }
+      ],
+      "1.4.2. - Diffusion": [
+        {
+          "question": "What is simple diffusion?",
+          "correct": "The net movement of molecules or ions from a region of higher concentration to a region of lower concentration until evenly distributed, without using ATP",
+          "options": [
+            "The active transport of molecules using ATP",
+            "The net movement of molecules or ions from a region of higher concentration to a region of lower concentration until evenly distributed, without using ATP",
+            "The movement of water molecules across a partially permeable membrane",
+            "The process of molecules moving randomly but not changing overall concentration"
+          ]
+        },
+        {
+          "question": "Which molecules can diffuse directly through the phospholipid bilayer in simple diffusion?",
+          "correct": "Small, non-polar molecules such as oxygen and carbon dioxide",
+          "options": [
+            "Large polar molecules like glucose",
+            "Ions like sodium and potassium",
+            "Small, non-polar molecules such as oxygen and carbon dioxide",
+            "Proteins and nucleic acids"
+          ]
+        },
+        {
+          "question": "Does simple diffusion require ATP from the cell?",
+          "correct": "No, it uses only the kinetic energy of the particles",
+          "options": [
+            "Yes, ATP is required to move molecules",
+            "No, it uses only the kinetic energy of the particles",
+            "Yes, but only for ions",
+            "No, but water is required"
+          ]
+        },
+        {
+          "question": "What is facilitated diffusion?",
+          "correct": "The passive movement of molecules that cannot diffuse directly through the membrane, using membrane proteins down a concentration gradient",
+          "options": [
+            "Active transport using ATP",
+            "The passive movement of molecules that cannot diffuse directly through the membrane, using membrane proteins down a concentration gradient",
+            "Osmosis of water across a membrane",
+            "Endocytosis of large particles"
+          ]
+        },
+        {
+          "question": "Which molecules typically use facilitated diffusion?",
+          "correct": "Charged ions and polar molecules",
+          "options": [
+            "Small non-polar molecules",
+            "Charged ions and polar molecules",
+            "Lipids and steroids",
+            "Proteins"
+          ]
+        },
+        {
+          "question": "Does facilitated diffusion require external energy?",
+          "correct": "No, it is a passive process using the molecules' kinetic energy",
+          "options": [
+            "Yes, it requires ATP",
+            "No, it is a passive process using the molecules' kinetic energy",
+            "Only in plant cells",
+            "Only for ions"
+          ]
+        },
+        {
+          "question": "What is the role of protein channels in facilitated diffusion?",
+          "correct": "To provide water-filled, hydrophilic channels that allow specific ions to pass through selectively",
+          "options": [
+            "To actively pump ions against a gradient",
+            "To provide water-filled, hydrophilic channels that allow specific ions to pass through selectively",
+            "To bind molecules and carry them through the membrane",
+            "To provide rigidity to the membrane"
+          ]
+        },
+        {
+          "question": "How do carrier proteins work in facilitated diffusion?",
+          "correct": "They bind specific molecules, change shape, and release them on the other side of the membrane without using ATP",
+          "options": [
+            "They pump molecules using ATP",
+            "They bind specific molecules, change shape, and release them on the other side of the membrane without using ATP",
+            "They create water channels",
+            "They break down molecules before transport"
+          ]
+        },
+        {
+          "question": "In which direction do molecules move in facilitated diffusion?",
+          "correct": "From a region of higher concentration to a region of lower concentration",
+          "options": [
+            "From lower to higher concentration",
+            "From higher to lower concentration",
+            "Randomly without net movement",
+            "Only into the nucleus"
+          ]
+        },
+        {
+          "question": "What energy source drives diffusion and facilitated diffusion?",
+          "correct": "The kinetic energy of the molecules themselves",
+          "options": [
+            "ATP from the cell",
+            "Light energy",
+            "The kinetic energy of the molecules themselves",
+            "Electrical energy from the membrane"
+          ]
+        }
+      ],
+      "1.4.3. - Osmosis": [
+        {
+          "question": "What is osmosis?",
+          "correct": "The passage of water from a region of higher water potential to a region of lower water potential through a selectively permeable membrane",
+          "options": [
+            "The movement of solutes from high to low concentration",
+            "The passage of water from a region of higher water potential to a region of lower water potential through a selectively permeable membrane",
+            "The random movement of all molecules in a solution",
+            "The active transport of water molecules using ATP"
+          ]
+        },
+        {
+          "question": "What type of molecules move during osmosis?",
+          "correct": "Only water molecules",
+          "options": [
+            "All molecules in solution",
+            "Only solute molecules",
+            "Only water molecules",
+            "Both solute and water molecules equally"
+          ]
+        },
+        {
+          "question": "What is water potential (Ψ)?",
+          "correct": "The pressure created by water molecules, measured in kPa",
+          "options": [
+            "The pressure created by solutes only",
+            "The movement of water molecules across a membrane",
+            "The pressure created by water molecules, measured in kPa",
+            "The rate at which osmosis occurs"
+          ]
+        },
+        {
+          "question": "What is the water potential of pure water?",
+          "correct": "0 kPa",
+          "options": [
+            "-100 kPa",
+            "0 kPa",
+            "100 kPa",
+            "Depends on temperature"
+          ]
+        },
+        {
+          "question": "How does adding solute affect water potential?",
+          "correct": "It lowers (makes more negative) the water potential",
+          "options": [
+            "It raises water potential",
+            "It has no effect",
+            "It lowers (makes more negative) the water potential",
+            "It reverses the water potential"
+          ]
+        },
+        {
+          "question": "Define a hypotonic solution relative to a cell.",
+          "correct": "A solution with higher water potential (less negative) than the cell, causing water to enter the cell",
+          "options": [
+            "A solution with lower water potential than the cell, causing water to leave",
+            "A solution with same water potential as the cell, causing no net movement",
+            "A solution with higher water potential (less negative) than the cell, causing water to enter the cell",
+            "A solution with solutes that cannot cross the membrane"
+          ]
+        },
+        {
+          "question": "What happens to an animal cell in a hypotonic solution?",
+          "correct": "Water enters the cell and it may burst (haemolysis)",
+          "options": [
+            "Water leaves the cell and it shrinks",
+            "No net movement occurs; cell remains normal",
+            "Water enters the cell and it may burst (haemolysis)",
+            "Cell wall prevents any change"
+          ]
+        },
+        {
+          "question": "What happens to an animal cell in a hypertonic solution?",
+          "correct": "Water leaves the cell and it shrinks, becoming shriveled",
+          "options": [
+            "Water enters the cell and it becomes turgid",
+            "No net movement occurs; cell remains normal",
+            "Water leaves the cell and it shrinks, becoming shriveled",
+            "Cell divides due to stress"
+          ]
+        },
+        {
+          "question": "How does a plant cell respond in a hypotonic solution?",
+          "correct": "Water enters, protoplast swells, cell becomes turgid due to the cell wall",
+          "options": [
+            "Water leaves the cell, protoplast shrinks, cell plasmolysed",
+            "No net movement occurs, protoplast begins to pull from wall",
+            "Water enters, protoplast swells, cell becomes turgid due to the cell wall",
+            "Cell bursts because of high water intake"
+          ]
+        },
+        {
+          "question": "What is plasmolysis in plant cells?",
+          "correct": "The protoplast shrinks and pulls away from the cell wall due to water loss in a hypertonic solution",
+          "options": [
+            "The swelling of the cell in hypotonic solution",
+            "No net movement of water",
+            "The protoplast shrinks and pulls away from the cell wall due to water loss in a hypertonic solution",
+            "Cell division triggered by water uptake"
+          ]
+        },
+        {
+          "question": "How can the water potential of a cell be measured experimentally?",
+          "correct": "By placing cells in solutions of known water potentials and finding where there is no net gain or loss of water",
+          "options": [
+            "By measuring solute concentration only",
+            "By observing whether the cell bursts",
+            "By placing cells in solutions of known water potentials and finding where there is no net gain or loss of water",
+            "By using a microscope to measure protoplast size"
+          ]
+        },
+        {
+          "question": "What is the water potential of a solution compared to pure water?",
+          "correct": "Always negative",
+          "options": [
+            "Always positive",
+            "Zero",
+            "Always negative",
+            "Depends on the solute type"
+          ]
+        },
+        {
+          "question": "What happens to a plant cell in an isotonic solution?",
+          "correct": "No net movement of water; protoplast just begins to pull from the wall (incipient plasmolysis)",
+          "options": [
+            "Water enters; cell becomes turgid",
+            "Water leaves; cell plasmolysed",
+            "No net movement of water; protoplast just begins to pull from the wall (incipient plasmolysis)",
+            "Cell bursts due to water intake"
+          ]
+        }
+      ],
+      "1.4.4. - Active Transport": [
+        {
+          "question": "What is active transport?",
+          "correct": "The movement of molecules or ions from a region of lower concentration to a region of higher concentration using ATP and carrier proteins",
+          "options": [
+            "The movement of molecules from high to low concentration without ATP",
+            "The movement of molecules or ions from a region of lower concentration to a region of higher concentration using ATP and carrier proteins",
+            "The random movement of molecules until equilibrium is reached",
+            "The movement of water only across a selectively permeable membrane"
+          ]
+        },
+        {
+          "question": "What energy source does active transport use?",
+          "correct": "Metabolic energy in the form of ATP",
+          "options": [
+            "Kinetic energy of particles",
+            "Light energy",
+            "Metabolic energy in the form of ATP",
+            "No energy is required"
+          ]
+        },
+        {
+          "question": "How does active transport differ from passive transport?",
+          "correct": "It requires ATP, moves substances from low to high concentration, and uses specific carrier proteins",
+          "options": [
+            "It moves substances from high to low concentration using diffusion",
+            "It occurs only in plant cells",
+            "It requires ATP, moves substances from low to high concentration, and uses specific carrier proteins",
+            "It uses any protein in the membrane and does not require ATP"
+          ]
+        },
+        {
+          "question": "Which direction do molecules move during active transport?",
+          "correct": "From a region of lower concentration to a region of higher concentration",
+          "options": [
+            "From a region of higher concentration to a region of lower concentration",
+            "Randomly without direction",
+            "From a region of lower concentration to a region of higher concentration",
+            "Only across animal cell membranes"
+          ]
+        },
+        {
+          "question": "What role do carrier proteins play in active transport?",
+          "correct": "They bind specific molecules and use energy from ATP to move them across the membrane",
+          "options": [
+            "They allow water to diffuse freely",
+            "They randomly transport molecules without energy",
+            "They bind specific molecules and use energy from ATP to move them across the membrane",
+            "They create holes in the membrane for solutes to passively diffuse"
+          ]
+        },
+        {
+          "question": "What happens when ATP binds to a carrier protein during active transport?",
+          "correct": "ATP is hydrolysed to ADP + phosphate, causing the carrier to change shape and release the molecule on the other side",
+          "options": [
+            "The carrier opens passively without energy",
+            "ATP is stored in the carrier for later use",
+            "ATP is hydrolysed to ADP + phosphate, causing the carrier to change shape and release the molecule on the other side",
+            "The molecule is destroyed by the ATP"
+          ]
+        },
+        {
+          "question": "How is active transport selective?",
+          "correct": "Carrier proteins have specific tertiary structures and transport only particular substances",
+          "options": [
+            "It transports all molecules equally",
+            "It depends on the size of the molecule only",
+            "Carrier proteins have specific tertiary structures and transport only particular substances",
+            "It is selective only in plant cells"
+          ]
+        },
+        {
+          "question": "What is the difference between a carrier used in facilitated diffusion and one used in active transport?",
+          "correct": "Facilitated diffusion carriers move substances down a concentration gradient without ATP, while active transport carriers move substances against a gradient using ATP",
+          "options": [
+            "Facilitated diffusion uses ATP, active transport does not",
+            "Both move substances against a gradient using ATP",
+            "Facilitated diffusion carriers move substances down a concentration gradient without ATP, while active transport carriers move substances against a gradient using ATP",
+            "There is no difference; both processes are identical"
+          ]
+        },
+        {
+          "question": "Why is ATP necessary for active transport?",
+          "correct": "It provides energy to change the shape of the carrier protein, allowing molecules to move against the concentration gradient",
+          "options": [
+            "It speeds up diffusion down a concentration gradient",
+            "It cools the membrane to prevent damage",
+            "It provides energy to change the shape of the carrier protein, allowing molecules to move against the concentration gradient",
+            "It attaches to solutes to make them smaller"
+          ]
+        }
+      ],
+      "1.4.5. - Co-Transport and Absorption of Glucose in the Ileum": [
+        {
+          "question": "How do microvilli increase absorption in the ileum?",
+          "correct": "By increasing surface area for carrier proteins and channels, enhancing diffusion, facilitated diffusion, and active transport",
+          "options": [
+            "By producing digestive enzymes",
+            "By increasing surface area for carrier proteins and channels, enhancing diffusion, facilitated diffusion, and active transport",
+            "By creating a thick barrier to slow absorption",
+            "By storing glucose inside epithelial cells"
+          ]
+        },
+        {
+          "question": "Why does diffusion alone not ensure complete glucose absorption?",
+          "correct": "Because diffusion reaches equilibrium and not all glucose would be absorbed",
+          "options": [
+            "Because diffusion is too fast",
+            "Because diffusion reaches equilibrium and not all glucose would be absorbed",
+            "Because glucose cannot diffuse at all",
+            "Because blood flow prevents diffusion"
+          ]
+        },
+        {
+          "question": "What is the role of the sodium-potassium pump in glucose co-transport?",
+          "correct": "It actively transports Na+ out of epithelial cells into the blood, creating a low Na+ concentration inside cells",
+          "options": [
+            "It transports glucose directly into blood",
+            "It actively transports Na+ out of epithelial cells into the blood, creating a low Na+ concentration inside cells",
+            "It pumps water into the lumen",
+            "It moves amino acids out of the epithelial cells"
+          ]
+        },
+        {
+          "question": "How does glucose enter epithelial cells from the ileum lumen?",
+          "correct": "Via a co-transport protein that carries glucose with Na+ diffusing down its gradient",
+          "options": [
+            "By simple diffusion through the membrane",
+            "Via a co-transport protein that carries glucose with Na+ diffusing down its gradient",
+            "Via active transport directly using ATP",
+            "By endocytosis"
+          ]
+        },
+        {
+          "question": "After glucose enters epithelial cells, how does it reach the blood?",
+          "correct": "By facilitated diffusion through carrier proteins",
+          "options": [
+            "By simple diffusion through the membrane",
+            "By exocytosis",
+            "By facilitated diffusion through carrier proteins",
+            "By endocytosis"
+          ]
+        },
+        {
+          "question": "Why is co-transport considered indirect active transport?",
+          "correct": "Because glucose/amino acids move against their gradient powered by Na+ moving down its gradient, which was created using ATP",
+          "options": [
+            "Because ATP directly moves glucose",
+            "Because diffusion powers Na+ movement",
+            "Because glucose/amino acids move against their gradient powered by Na+ moving down its gradient, which was created using ATP",
+            "Because it does not require carrier proteins"
+          ]
+        },
+        {
+          "question": "What maintains a steep concentration gradient for glucose between the ileum and blood?",
+          "correct": "Blood flow continually removing glucose from the blood",
+          "options": [
+            "The sodium-potassium pump moving glucose into the lumen",
+            "Blood flow continually removing glucose from the blood",
+            "Glucose being actively secreted into the ileum",
+            "Diffusion from the blood into the ileum"
+          ]
+        },
+        {
+          "question": "Which ions are essential for co-transport of glucose and amino acids?",
+          "correct": "Sodium ions (Na+)",
+          "options": [
+            "Potassium ions (K+)",
+            "Chloride ions (Cl-)",
+            "Sodium ions (Na+)",
+            "Calcium ions (Ca2+)"
+          ]
+        },
+        {
+          "question": "What is the first step in glucose co-transport in the ileum?",
+          "correct": "Na+ is actively pumped out of epithelial cells into the blood using ATP",
+          "options": [
+            "Glucose enters epithelial cells by diffusion",
+            "Na+ is actively pumped out of epithelial cells into the blood using ATP",
+            "Glucose binds to a co-transport protein in the blood",
+            "Na+ diffuses from blood into the lumen"
+          ]
+        },
+        {
+          "question": "How does increasing the density of carrier and channel proteins affect absorption?",
+          "correct": "It increases the rate of facilitated diffusion and active transport, improving overall absorption",
+          "options": [
+            "It decreases absorption by blocking the membrane",
+            "It increases the rate of facilitated diffusion and active transport, improving overall absorption",
+            "It has no effect on absorption",
+            "It only affects diffusion, not active transport"
+          ]
+        }
+      ]
+    },
+    "1.5. - Cell Recognition and the Immune System": {
+      "1.5.1. - Defence Mechanisms": [
+        {
+          "question": "What determines the outcome of an infection in the body?",
+          "correct": "The interaction between the pathogen and the body's defences",
+          "options": [
+            "The size of the pathogen",
+            "The interaction between the pathogen and the body's defences",
+            "The temperature of the environment",
+            "The age of the pathogen"
+          ]
+        },
+        {
+          "question": "Which groups are more vulnerable to infectious diseases?",
+          "correct": "The very young and the elderly",
+          "options": [
+            "Only adults",
+            "The very young and the elderly",
+            "Healthy adults",
+            "Middle-aged adults"
+          ]
+        },
+        {
+          "question": "What are non-specific defences?",
+          "correct": "Immediate defences that act the same for all pathogens",
+          "options": [
+            "Defences that target specific pathogens",
+            "Defences that act immediately and the same for all pathogens",
+            "Defences that take days to respond",
+            "Only involve lymphocytes"
+          ]
+        },
+        {
+          "question": "Which of the following is an example of a non-specific defence?",
+          "correct": "Phagocytosis",
+          "options": [
+            "Production of antibodies",
+            "Phagocytosis",
+            "Clonal selection of lymphocytes",
+            "Vaccination"
+          ]
+        },
+        {
+          "question": "Which cells are responsible for specific defences?",
+          "correct": "Lymphocytes",
+          "options": [
+            "Red blood cells",
+            "Platelets",
+            "Lymphocytes",
+            "Phagocytes"
+          ]
+        },
+        {
+          "question": "Which type of lymphocyte is involved in the humoral immune response?",
+          "correct": "B lymphocytes",
+          "options": [
+            "T lymphocytes",
+            "B lymphocytes",
+            "Phagocytes",
+            "Macrophages"
+          ]
+        },
+        {
+          "question": "Why must lymphocytes distinguish self from non-self?",
+          "correct": "To prevent the immune system from attacking the body's own cells",
+          "options": [
+            "To identify water-soluble molecules",
+            "To prevent the immune system from attacking the body's own cells",
+            "To increase the speed of diffusion",
+            "To produce ATP for metabolism"
+          ]
+        },
+        {
+          "question": "What happens during transplant rejection?",
+          "correct": "The immune system recognises the transplanted tissue as non-self and attacks it",
+          "options": [
+            "The body accepts the tissue immediately",
+            "The immune system recognises the transplanted tissue as non-self and attacks it",
+            "The tissue becomes invisible to the immune system",
+            "Lymphocytes ignore the transplant"
+          ]
+        },
+        {
+          "question": "How can transplant rejection be minimised?",
+          "correct": "By matching donor and recipient closely and using immunosuppressant drugs",
+          "options": [
+            "By increasing body temperature",
+            "By matching donor and recipient closely and using immunosuppressant drugs",
+            "By using antibiotics",
+            "By using vaccines"
+          ]
+        },
+        {
+          "question": "What is clonal selection?",
+          "correct": "The process where only lymphocytes with receptors complementary to a pathogen divide and produce clones",
+          "options": [
+            "The destruction of all lymphocytes",
+            "The process where only lymphocytes with receptors complementary to a pathogen divide and produce clones",
+            "The movement of lymphocytes into the lymph nodes",
+            "The process of antibody degradation"
+          ]
+        },
+        {
+          "question": "How do lymphocytes learn to recognise self in the fetus?",
+          "correct": "Lymphocytes that bind self-molecules are destroyed or suppressed",
+          "options": [
+            "They ignore all cells in the body",
+            "Lymphocytes that bind self-molecules are destroyed or suppressed",
+            "All lymphocytes are activated",
+            "They only bind to pathogens"
+          ]
+        },
+        {
+          "question": "What prevents anti-self lymphocytes from entering circulation in adults?",
+          "correct": "Apoptosis of lymphocytes that respond to self-antigens in the bone marrow",
+          "options": [
+            "Clonal selection",
+            "Apoptosis of lymphocytes that respond to self-antigens in the bone marrow",
+            "Phagocytosis by neutrophils",
+            "Production of antibodies"
+          ]
+        },
+        {
+          "question": "How many different lymphocytes does the body have at one time?",
+          "correct": "Around ten million",
+          "options": [
+            "Hundreds",
+            "Thousands",
+            "Around ten million",
+            "Over a billion"
+          ]
+        }
+      ],
+      "1.5.2. - Phagocytosis": [
+        {
+          "question": "What is the first line of defence against pathogens?",
+          "correct": "Physical and chemical barriers",
+          "options": [
+            "Phagocytosis",
+            "Lymphocytes",
+            "Physical and chemical barriers",
+            "Antibodies"
+          ]
+        },
+        {
+          "question": "Which type of white blood cell carries out phagocytosis?",
+          "correct": "Phagocytes",
+          "options": [
+            "Lymphocytes",
+            "Phagocytes",
+            "Erythrocytes",
+            "Platelets"
+          ]
+        },
+        {
+          "question": "What is the definition of phagocytosis?",
+          "correct": "Engulfing of large particles into vesicles formed from the cell-surface membrane",
+          "options": [
+            "Release of antibodies into the blood",
+            "Engulfing of large particles into vesicles formed from the cell-surface membrane",
+            "Movement of ions through a channel",
+            "Destruction of pathogens by lysosomes without engulfing"
+          ]
+        },
+        {
+          "question": "Which cells perform phagocytosis in the blood and tissues?",
+          "correct": "Phagocytes",
+          "options": [
+            "Lymphocytes",
+            "Phagocytes",
+            "Red blood cells",
+            "Neurons"
+          ]
+        },
+        {
+          "question": "What attracts phagocytes to a pathogen?",
+          "correct": "Chemicals from pathogens, dead or damaged cells",
+          "options": [
+            "Antibodies",
+            "Chemicals from pathogens, dead or damaged cells",
+            "Oxygen molecules",
+            "ATP"
+          ]
+        },
+        {
+          "question": "How do phagocytes recognise pathogens?",
+          "correct": "Receptors on the phagocyte bind to chemicals/antigens on the pathogen surface",
+          "options": [
+            "Phagocytes engulf any particle randomly",
+            "Receptors on the phagocyte bind to chemicals/antigens on the pathogen surface",
+            "By identifying water potential",
+            "Through diffusion"
+          ]
+        },
+        {
+          "question": "What is a phagosome?",
+          "correct": "A vesicle formed when a phagocyte engulfs a pathogen",
+          "options": [
+            "A lysosome",
+            "A vesicle formed when a phagocyte engulfs a pathogen",
+            "An antibody molecule",
+            "A type of pathogen"
+          ]
+        },
+        {
+          "question": "What happens when lysosomes fuse with the phagosome?",
+          "correct": "Lysozymes digest the pathogen’s cell walls",
+          "options": [
+            "Phagocyte releases ATP",
+            "Lysozymes digest the pathogen’s cell walls",
+            "Pathogen multiplies",
+            "Phagocyte releases antibodies"
+          ]
+        },
+        {
+          "question": "What is absorbed into the phagocyte after digestion?",
+          "correct": "Soluble breakdown products of the pathogen",
+          "options": [
+            "Whole pathogen",
+            "DNA only",
+            "Soluble breakdown products of the pathogen",
+            "Water molecules"
+          ]
+        },
+        {
+          "question": "Phagocytosis is considered which line of defence?",
+          "correct": "Second line of defence after barriers",
+          "options": [
+            "First line of defence",
+            "Second line of defence after barriers",
+            "Third line of defence",
+            "Not a defence mechanism"
+          ]
+        }
+      ],
+      "1.5.3. - T-Lymphocytes and Cell-Mediated Immunity": [
+        {
+          "question": "What type of initial immune response is non-specific?",
+          "correct": "Phagocytosis",
+          "options": [
+            "Phagocytosis",
+            "T lymphocyte activation",
+            "Antibody production",
+            "Memory cell response"
+          ]
+        },
+        {
+          "question": "What is a primary immune response?",
+          "correct": "A slower, specific response that provides long-term immunity",
+          "options": [
+            "A quick, non-specific response",
+            "A slower, specific response that provides long-term immunity",
+            "Immediate destruction of pathogens by lysosomes",
+            "Passive immunity from antibodies"
+          ]
+        },
+        {
+          "question": "What is an antigen?",
+          "correct": "Any part of an organism or substance recognised as non-self, triggering an immune response",
+          "options": [
+            "A type of T lymphocyte",
+            "Any part of an organism or substance recognised as non-self, triggering an immune response",
+            "A lysosome enzyme",
+            "A carrier protein in membranes"
+          ]
+        },
+        {
+          "question": "Where are antigens usually found?",
+          "correct": "On cell-surface membranes or cell walls",
+          "options": [
+            "In cytoplasm only",
+            "On cell-surface membranes or cell walls",
+            "In the nucleus",
+            "In ribosomes"
+          ]
+        },
+        {
+          "question": "What cells produce specific immune responses?",
+          "correct": "Lymphocytes",
+          "options": [
+            "Phagocytes",
+            "Lymphocytes",
+            "Erythrocytes",
+            "Platelets"
+          ]
+        },
+        {
+          "question": "Where are B lymphocytes (B cells) matured?",
+          "correct": "Bone marrow",
+          "options": [
+            "Thymus gland",
+            "Bone marrow",
+            "Spleen",
+            "Lymph nodes"
+          ]
+        },
+        {
+          "question": "Where are T lymphocytes (T cells) matured?",
+          "correct": "Thymus gland",
+          "options": [
+            "Bone marrow",
+            "Thymus gland",
+            "Spleen",
+            "Lymph nodes"
+          ]
+        },
+        {
+          "question": "Which type of immunity do B cells provide?",
+          "correct": "Humoral immunity (antibodies in body fluids)",
+          "options": [
+            "Cell-mediated immunity",
+            "Humoral immunity (antibodies in body fluids)",
+            "Innate immunity",
+            "Passive immunity"
+          ]
+        },
+        {
+          "question": "Which type of immunity do T cells provide?",
+          "correct": "Cell-mediated immunity (acts on body cells)",
+          "options": [
+            "Humoral immunity",
+            "Cell-mediated immunity (acts on body cells)",
+            "Innate immunity",
+            "Passive immunity"
+          ]
+        },
+        {
+          "question": "What triggers T cells to respond?",
+          "correct": "Body cells displaying foreign antigens",
+          "options": [
+            "Free-floating antigens in blood",
+            "Body cells displaying foreign antigens",
+            "DNA mutations",
+            "Lipid molecules"
+          ]
+        },
+        {
+          "question": "What are antigen-presenting cells (APCs)?",
+          "correct": "Cells that display foreign antigens on their surface",
+          "options": [
+            "Cells that produce antibodies",
+            "Cells that destroy pathogens directly",
+            "Cells that display foreign antigens on their surface",
+            "Red blood cells"
+          ]
+        },
+        {
+          "question": "Why do T cells only respond to antigens on body cells?",
+          "correct": "Because T cells recognise antigens presented on cell surfaces, not free antigens",
+          "options": [
+            "Because free antigens are too small",
+            "Because T cells recognise antigens presented on cell surfaces, not free antigens",
+            "Because antigens are only found in blood",
+            "Because T cells only target bacteria"
+          ]
+        },
+        {
+          "question": "How does each T cell recognise a specific antigen?",
+          "correct": "Each T cell has receptors that bind to one specific antigen",
+          "options": [
+            "T cells use antibodies to recognise antigens",
+            "Each T cell has receptors that bind to one specific antigen",
+            "T cells randomly attack all cells",
+            "T cells recognise all antigens by shape"
+          ]
+        },
+        {
+          "question": "What happens after a T cell binds to its specific antigen?",
+          "correct": "It is activated to divide by mitosis and form a clone",
+          "options": [
+            "It immediately kills the cell",
+            "It is activated to divide by mitosis and form a clone",
+            "It produces antibodies",
+            "It becomes a phagocyte"
+          ]
+        },
+        {
+          "question": "Into which four functional groups can cloned T cells differentiate?",
+          "correct": "Memory cells, cells that stimulate phagocytes, cells that stimulate B cells, cytotoxic T cells",
+          "options": [
+            "Helper cells, red blood cells, B cells, platelets",
+            "Memory cells, cells that stimulate phagocytes, cells that stimulate B cells, cytotoxic T cells",
+            "Tissue cells, phagocytes, antibodies, memory cells",
+            "Stem cells, plasma cells, memory cells, B cells"
+          ]
+        },
+        {
+          "question": "What do cytotoxic T cells (Tc cells) produce to kill infected cells?",
+          "correct": "Perforin",
+          "options": [
+            "Lysozyme",
+            "Perforin",
+            "Antibodies",
+            "Histamines"
+          ]
+        },
+        {
+          "question": "How does perforin kill target cells?",
+          "correct": "By making holes in cell membranes, making them freely permeable",
+          "options": [
+            "By blocking DNA replication",
+            "By making holes in cell membranes, making them freely permeable",
+            "By stimulating antibodies",
+            "By producing toxins"
+          ]
+        },
+        {
+          "question": "Why is cell-mediated immunity effective against viruses?",
+          "correct": "Because it destroys infected host cells, preventing viral replication",
+          "options": [
+            "Because it produces antibodies to kill viruses",
+            "Because it destroys infected host cells, preventing viral replication",
+            "Because it engulfs viruses in phagosomes",
+            "Because it neutralises toxins"
+          ]
+        },
+        {
+          "question": "Which type of cells present abnormal antigens that T cells respond to?",
+          "correct": "Cancer cells",
+          "options": [
+            "Red blood cells",
+            "Cancer cells",
+            "Platelets",
+            "Muscle cells"
+          ]
+        },
+        {
+          "question": "Which type of cells present antigens after engulfing pathogens?",
+          "correct": "Phagocytes",
+          "options": [
+            "T cells",
+            "B cells",
+            "Phagocytes",
+            "Epithelial cells"
+          ]
+        }
+      ],
+      "1.5.4. - B-Lymphocytes and Humoral Immunity": [
+        {
+          "question": "What type of immunity do B cells provide?",
+          "correct": "Humoral immunity",
+          "options": [
+            "Humoral immunity",
+            "Cell-mediated immunity",
+            "Innate immunity",
+            "Passive immunity"
+          ]
+        },
+        {
+          "question": "What stimulates B cells to carry out humoral immunity?",
+          "correct": "Factors released by activated T cells",
+          "options": [
+            "Pathogens directly",
+            "Factors released by activated T cells",
+            "Cytotoxic T cells",
+            "Phagocytes"
+          ]
+        },
+        {
+          "question": "Where are antibodies involved in humoral immunity found?",
+          "correct": "Blood and tissue fluid",
+          "options": [
+            "Inside B cells only",
+            "Blood and tissue fluid",
+            "Inside T cells",
+            "Cell membranes of phagocytes"
+          ]
+        },
+        {
+          "question": "How many types of B cells exist in the body approximately?",
+          "correct": "Around ten million",
+          "options": [
+            "Hundreds",
+            "Thousands",
+            "Around ten million",
+            "Trillions"
+          ]
+        },
+        {
+          "question": "What feature of B cells allows them to recognise a specific antigen?",
+          "correct": "Surface antibodies complementary to the antigen",
+          "options": [
+            "Phagocytic vesicles",
+            "Surface antibodies complementary to the antigen",
+            "Receptor T cells",
+            "Perforin molecules"
+          ]
+        },
+        {
+          "question": "What is the first step in B cell activation?",
+          "correct": "A B cell with complementary surface antibody binds to a specific antigen",
+          "options": [
+            "Helper T cells divide",
+            "Phagocytes engulf the pathogen",
+            "A B cell with complementary surface antibody binds to a specific antigen",
+            "Plasma cells secrete antibodies"
+          ]
+        },
+        {
+          "question": "How does the B cell process the antigen after binding?",
+          "correct": "By endocytosis and displaying it on the B cell surface",
+          "options": [
+            "By secreting antibodies immediately",
+            "By endocytosis and displaying it on the B cell surface",
+            "By phagocytosis",
+            "By destroying the antigen internally"
+          ]
+        },
+        {
+          "question": "Which cells bind to processed antigen on B cells to activate them?",
+          "correct": "Activated helper T cells",
+          "options": [
+            "Cytotoxic T cells",
+            "Activated helper T cells",
+            "Plasma cells",
+            "Phagocytes"
+          ]
+        },
+        {
+          "question": "What happens after the B cell is activated by T cells?",
+          "correct": "It divides by mitosis to form a clone of identical B cells",
+          "options": [
+            "It produces antibodies immediately",
+            "It dies",
+            "It divides by mitosis to form a clone of identical B cells",
+            "It engulfs more antigens"
+          ]
+        },
+        {
+          "question": "What do B cell clones produce?",
+          "correct": "Monoclonal antibodies specific to the antigen",
+          "options": [
+            "Polyclonal antibodies",
+            "Monoclonal antibodies specific to the antigen",
+            "T cell receptors",
+            "Perforin"
+          ]
+        },
+        {
+          "question": "What are the two types of cells formed from B cell clones?",
+          "correct": "Plasma cells and memory cells",
+          "options": [
+            "Helper T cells and cytotoxic T cells",
+            "Plasma cells and memory cells",
+            "Phagocytes and dendritic cells",
+            "Stem cells and progenitor cells"
+          ]
+        },
+        {
+          "question": "What is the main function of plasma cells?",
+          "correct": "Produce large quantities of specific antibodies",
+          "options": [
+            "Present antigens to T cells",
+            "Produce large quantities of specific antibodies",
+            "Destroy infected cells",
+            "Form memory cells"
+          ]
+        },
+        {
+          "question": "Approximately how many antibodies can a plasma cell produce per second?",
+          "correct": "Around 2000",
+          "options": [
+            "200",
+            "2000",
+            "20,000",
+            "200,000"
+          ]
+        },
+        {
+          "question": "What characterizes the primary immune response?",
+          "correct": "Antibody levels rise slowly and in small amounts",
+          "options": [
+            "Antibody levels rise rapidly and in large amounts",
+            "Antibody levels rise slowly and in small amounts",
+            "No antibodies are produced",
+            "Memory cells act immediately"
+          ]
+        },
+        {
+          "question": "What is the role of memory cells?",
+          "correct": "Provide a rapid and stronger response on future exposure to the same antigen",
+          "options": [
+            "Engulf pathogens",
+            "Provide a rapid and stronger response on future exposure to the same antigen",
+            "Secrete enzymes",
+            "Stimulate phagocytes"
+          ]
+        },
+        {
+          "question": "Do memory cells produce antibodies immediately?",
+          "correct": "No, they do not initially produce antibodies",
+          "options": [
+            "Yes, immediately",
+            "No, they do not initially produce antibodies",
+            "Yes, but only a few",
+            "No, they secrete perforin instead"
+          ]
+        },
+        {
+          "question": "What happens to memory cells on secondary exposure to an antigen?",
+          "correct": "They rapidly divide into more plasma cells and memory cells",
+          "options": [
+            "They die",
+            "They rapidly divide into more plasma cells and memory cells",
+            "They release cytokines only",
+            "They differentiate into T cells"
+          ]
+        },
+        {
+          "question": "Which immune response is faster and stronger: primary or secondary?",
+          "correct": "Secondary immune response",
+          "options": [
+            "Primary immune response",
+            "Secondary immune response",
+            "Both are equally fast",
+            "Neither is effective"
+          ]
+        },
+        {
+          "question": "What is the final effect of plasma cells producing antibodies?",
+          "correct": "Antibodies attach to antigens and destroy the pathogen",
+          "options": [
+            "Antibodies attach to T cells",
+            "Antibodies attach to antigens and destroy the pathogen",
+            "Antibodies stimulate memory cells",
+            "Antibodies produce perforin"
+          ]
+        },
+        {
+          "question": "Which step summarizes the sequence: antigen uptake → processing → T cell activation → B cell cloning → antibody secretion?",
+          "correct": "B cell activation and clonal selection",
+          "options": [
+            "Cell-mediated immunity",
+            "B cell activation and clonal selection",
+            "Innate immunity",
+            "Cytotoxic response"
+          ]
+        }
+      ],
+      "1.5.5. - Antibodies": [
+        {
+          "question": "What type of molecule are antibodies?",
+          "correct": "Proteins",
+          "options": ["Proteins", "Carbohydrates", "Lipids", "Nucleic acids"]
+        },
+        {
+          "question": "How many antigen-binding sites does each antibody have?",
+          "correct": "Two identical sites",
+          "options": ["One site", "Two identical sites", "Four sites", "Variable number"]
+        },
+        {
+          "question": "What is the role of the variable region of an antibody?",
+          "correct": "Forms a specific 3D binding site for a particular antigen",
+          "options": [
+            "Forms a specific 3D binding site for a particular antigen",
+            "Binds to receptors on cells",
+            "Determines antibody class",
+            "Provides structural support"
+          ]
+        },
+        {
+          "question": "What is the role of the constant region of an antibody?",
+          "correct": "Binds to receptors on cells and is the same within an antibody class",
+          "options": [
+            "Forms the antigen-binding site",
+            "Binds to receptors on cells and is the same within an antibody class",
+            "Determines antigen specificity",
+            "Destroys pathogens directly"
+          ]
+        },
+        {
+          "question": "Do antibodies destroy pathogens directly?",
+          "correct": "No, they assist other mechanisms like phagocytosis",
+          "options": [
+            "Yes, always",
+            "No, they assist other mechanisms like phagocytosis",
+            "Yes, only against viruses",
+            "No, they only act as toxins"
+          ]
+        },
+        {
+          "question": "How does agglutination help the immune response?",
+          "correct": "Clumps pathogens together so phagocytes can locate and ingest them more easily",
+          "options": [
+            "Destroys pathogens directly",
+            "Clumps pathogens together so phagocytes can locate and ingest them more easily",
+            "Blocks antigen production",
+            "Produces more antibodies"
+          ]
+        },
+        {
+          "question": "How do antibodies act as markers?",
+          "correct": "By binding to pathogens and stimulating phagocytes to engulf them",
+          "options": [
+            "By destroying the pathogen directly",
+            "By binding to pathogens and stimulating phagocytes to engulf them",
+            "By producing more antigens",
+            "By activating T cells only"
+          ]
+        },
+        {
+          "question": "What are monoclonal antibodies?",
+          "correct": "Identical antibodies produced from a single B-cell clone, specific to one antigen",
+          "options": [
+            "Antibodies from multiple B-cell clones",
+            "Identical antibodies produced from a single B-cell clone, specific to one antigen",
+            "Antibodies from T cells",
+            "Non-specific antibodies"
+          ]
+        },
+        {
+          "question": "How are monoclonal antibodies produced?",
+          "correct": "Outside the body using a single B-cell clone",
+          "options": [
+            "By phagocytes",
+            "Inside the patient naturally",
+            "Outside the body using a single B-cell clone",
+            "By viruses"
+          ]
+        },
+        {
+          "question": "What is the principle behind direct monoclonal antibody therapy for cancer?",
+          "correct": "Antibodies bind to cancer cell receptors and block growth signals",
+          "options": [
+            "Antibodies destroy cancer DNA directly",
+            "Antibodies bind to cancer cell receptors and block growth signals",
+            "Antibodies produce toxins inside cancer cells",
+            "Antibodies stimulate T cells only"
+          ]
+        },
+        {
+          "question": "What is the advantage of monoclonal antibodies in cancer therapy?",
+          "correct": "Highly specific, non-toxic, fewer side effects",
+          "options": [
+            "Cheap and easy to produce",
+            "Highly specific, non-toxic, fewer side effects",
+            "Work against all pathogens",
+            "Eliminate the need for chemotherapy"
+          ]
+        },
+        {
+          "question": "What is indirect monoclonal antibody therapy?",
+          "correct": "A cytotoxic or radioactive drug is attached to the antibody to kill target cells",
+          "options": [
+            "Antibody is injected without a drug",
+            "A cytotoxic or radioactive drug is attached to the antibody to kill target cells",
+            "Antibody only marks pathogens",
+            "Antibody stimulates T cells"
+          ]
+        },
+        {
+          "question": "Why are indirect monoclonal antibodies called 'magic bullets'?",
+          "correct": "They target specific cells and deliver drugs directly, minimizing side effects",
+          "options": [
+            "They cure all diseases",
+            "They target specific cells and deliver drugs directly, minimizing side effects",
+            "They are inexpensive",
+            "They are derived from magic molecules"
+          ]
+        },
+        {
+          "question": "How are monoclonal antibodies used in medical diagnosis?",
+          "correct": "Detect specific antigens in infections or cancer screening",
+          "options": [
+            "To produce vaccines",
+            "Detect specific antigens in infections or cancer screening",
+            "To stimulate T cells",
+            "To destroy all pathogens directly"
+          ]
+        },
+        {
+          "question": "Which hormone is detected using monoclonal antibodies in pregnancy tests?",
+          "correct": "hCG",
+          "options": ["FSH", "LH", "hCG", "Progesterone"]
+        },
+        {
+          "question": "How do pregnancy test strips work using monoclonal antibodies?",
+          "correct": "Antibodies bind hCG, form complexes, and produce a coloured line when captured by a second antibody",
+          "options": [
+            "They measure urine volume",
+            "Antibodies bind hCG, form complexes, and produce a coloured line when captured by a second antibody",
+            "They detect glucose in urine",
+            "They stimulate B cells"
+          ]
+        },
+        {
+          "question": "What is one ethical issue in producing monoclonal antibodies?",
+          "correct": "Animal use, including mice and tumour induction",
+          "options": [
+            "Using human volunteers only",
+            "Animal use, including mice and tumour induction",
+            "Antibody inefficiency",
+            "High cost of therapy"
+          ]
+        },
+        {
+          "question": "Why is patient safety a concern in monoclonal antibody treatments?",
+          "correct": "Some treatments can cause severe immune reactions or death; informed consent is required",
+          "options": [
+            "Because antibodies do not work",
+            "Some treatments can cause severe immune reactions or death; informed consent is required",
+            "Because production is expensive",
+            "Because antibodies can turn into viruses"
+          ]
+        },
+        {
+          "question": "What lesson was learned from the TGN1412 drug trial in 2006?",
+          "correct": "Need for careful regulation and safety protocols due to risk of immune overactivation",
+          "options": [
+            "Monoclonal antibodies are always safe",
+            "Need for careful regulation and safety protocols due to risk of immune overactivation",
+            "All volunteers survive",
+            "Animal testing is unnecessary"
+          ]
+        }
+      ],
+      "1.5.6. - Vaccination": [
+        {
+          "question": "What is passive immunity?",
+          "correct": "Immunity provided by antibodies from an external source",
+          "options": [
+            "Immunity provided by antibodies from an external source",
+            "Immunity produced by the individual's own immune system",
+            "Immunity caused by a vaccine",
+            "Immunity that lasts for decades"
+          ]
+        },
+        {
+          "question": "Does passive immunity produce memory cells?",
+          "correct": "No",
+          "options": ["Yes", "No", "Sometimes", "Only in children"]
+        },
+        {
+          "question": "Give an example of passive immunity.",
+          "correct": "Maternal antibodies crossing the placenta",
+          "options": [
+            "Vaccination with live attenuated virus",
+            "Maternal antibodies crossing the placenta",
+            "Recovery from a natural infection",
+            "Artificial monoclonal antibodies therapy"
+          ]
+        },
+        {
+          "question": "What is active immunity?",
+          "correct": "Immunity produced by the individual's own immune system after exposure to antigen",
+          "options": [
+            "Immunity provided by antibodies from an external source",
+            "Immunity produced by the individual's own immune system after exposure to antigen",
+            "Immunity that lasts only a few hours",
+            "Immunity caused only by antibiotics"
+          ]
+        },
+        {
+          "question": "What is natural active immunity?",
+          "correct": "Develops after natural infection; long-term antibody production",
+          "options": [
+            "Develops after natural infection; long-term antibody production",
+            "Acquired from another person’s antibodies",
+            "Produced by monoclonal antibody therapy",
+            "Short-term immunity after vaccination"
+          ]
+        },
+        {
+          "question": "What is artificial active immunity?",
+          "correct": "Produced through vaccination",
+          "options": [
+            "Acquired by eating healthy food",
+            "Produced through vaccination",
+            "Gained from maternal antibodies",
+            "Produced naturally after infection"
+          ]
+        },
+        {
+          "question": "What is the main purpose of vaccination?",
+          "correct": "To stimulate an immune response and produce memory cells without causing disease",
+          "options": [
+            "To cure existing disease",
+            "To stimulate an immune response and produce memory cells without causing disease",
+            "To weaken pathogens permanently",
+            "To replace antibodies in the blood"
+          ]
+        },
+        {
+          "question": "What forms can vaccines take?",
+          "correct": "Inactivated pathogens, attenuated pathogens, or fragments of pathogens",
+          "options": [
+            "Only live viruses",
+            "Only bacterial toxins",
+            "Inactivated pathogens, attenuated pathogens, or fragments of pathogens",
+            "Only DNA sequences"
+          ]
+        },
+        {
+          "question": "Why is a small antigen amount used in vaccines?",
+          "correct": "To stimulate memory cell formation without causing disease",
+          "options": [
+            "Because larger amounts are toxic",
+            "To stimulate memory cell formation without causing disease",
+            "Because the immune system cannot detect large amounts",
+            "To prevent antibody production"
+          ]
+        },
+        {
+          "question": "Name one feature of a successful vaccination programme.",
+          "correct": "Vaccine must be economically available in sufficient quantities",
+          "options": [
+            "Vaccine must cure all existing infections",
+            "Vaccine must be economically available in sufficient quantities",
+            "Vaccine must be given only once",
+            "Vaccine must be completely artificial"
+          ]
+        },
+        {
+          "question": "What is herd immunity?",
+          "correct": "Protection of a population when a large proportion is immune, reducing pathogen spread",
+          "options": [
+            "Immunity in a single individual",
+            "Protection of a population when a large proportion is immune, reducing pathogen spread",
+            "Immunity only in vaccinated children",
+            "Immunity provided by antibiotics"
+          ]
+        },
+        {
+          "question": "Who benefits from herd immunity besides vaccinated individuals?",
+          "correct": "Those who cannot be vaccinated, e.g., babies or immunocompromised people",
+          "options": [
+            "Only vaccinated individuals",
+            "Those who cannot be vaccinated, e.g., babies or immunocompromised people",
+            "Animals in the same environment",
+            "People who refuse vaccination"
+          ]
+        },
+        {
+          "question": "Why might vaccination not eliminate a disease?",
+          "correct": "Some individuals fail to develop immunity, pathogen mutation, multiple strains, or refusal to vaccinate",
+          "options": [
+            "Vaccines always fail after 1 year",
+            "Some individuals fail to develop immunity, pathogen mutation, multiple strains, or refusal to vaccinate",
+            "Vaccines are destroyed by the immune system",
+            "All vaccinated people get sick"
+          ]
+        },
+        {
+          "question": "What is antigenic variability?",
+          "correct": "Mutations in pathogens that change antigens, making vaccines less effective",
+          "options": [
+            "Changes in human immune response",
+            "Mutations in pathogens that change antigens, making vaccines less effective",
+            "Production of memory cells",
+            "The process of developing antibodies"
+          ]
+        },
+        {
+          "question": "Give an example of a disease where antigenic variability limits vaccine effectiveness.",
+          "correct": "Influenza",
+          "options": ["Measles", "Influenza", "Polio", "Tetanus"]
+        },
+        {
+          "question": "List one ethical issue in vaccination programmes.",
+          "correct": "Use of animals in vaccine development and production",
+          "options": [
+            "Vaccines never work",
+            "Use of animals in vaccine development and production",
+            "Vaccines are too cheap",
+            "Vaccines cure all diseases immediately"
+          ]
+        },
+        {
+          "question": "What ethical question arises from vaccine testing?",
+          "correct": "Who should participate and how to minimize risk",
+          "options": [
+            "How to produce vaccines faster",
+            "Who should participate and how to minimize risk",
+            "How to avoid antibodies",
+            "How to make vaccines illegal"
+          ]
+        },
+        {
+          "question": "Should vaccination be compulsory?",
+          "correct": "Depends on balancing individual risk against public health benefits",
+          "options": [
+            "Yes, always",
+            "No, never",
+            "Depends on balancing individual risk against public health benefits",
+            "Only for children under 5"
+          ]
+        },
+        {
+          "question": "Why is resource allocation an ethical concern in vaccination programmes?",
+          "correct": "Whether expensive programmes should continue when disease is near eradication",
+          "options": [
+            "Because vaccines are easy to make",
+            "Whether expensive programmes should continue when disease is near eradication",
+            "Because all vaccines are free",
+            "Because vaccines harm all individuals"
+          ]
+        }
+      ],
+      "1.5.7. - Human Immunodeficiency Virus (HIV)": [
+        {
+          "question": "What type of virus is HIV?",
+          "correct": "Retrovirus",
+          "options": ["Retrovirus", "DNA virus", "Bacteriophage", "Influenza virus"]
+        },
+        {
+          "question": "What enzyme allows HIV to form DNA from RNA?",
+          "correct": "Reverse transcriptase",
+          "options": ["DNA polymerase", "Reverse transcriptase", "Ligase", "Helicase"]
+        },
+        {
+          "question": "Which cells does HIV primarily infect?",
+          "correct": "Helper T cells (CD4 cells)",
+          "options": [
+            "B cells",
+            "Cytotoxic T cells",
+            "Helper T cells (CD4 cells)",
+            "Red blood cells"
+          ]
+        },
+        {
+          "question": "What is the function of the HIV lipid envelope?",
+          "correct": "Contains attachment proteins to bind to host cells",
+          "options": [
+            "Protects the virus from antibodies",
+            "Contains attachment proteins to bind to host cells",
+            "Stores viral RNA",
+            "Makes the virus resistant to temperature changes"
+          ]
+        },
+        {
+          "question": "Outline the first step of HIV replication after entering the bloodstream.",
+          "correct": "HIV attachment protein binds to CD4 on helper T cells",
+          "options": [
+            "Viral RNA is transcribed to DNA",
+            "HIV attachment protein binds to CD4 on helper T cells",
+            "New HIV particles assemble",
+            "HIV causes T cell apoptosis immediately"
+          ]
+        },
+        {
+          "question": "What does reverse transcriptase do in HIV replication?",
+          "correct": "Converts viral RNA into DNA",
+          "options": [
+            "Converts viral DNA into RNA",
+            "Converts viral RNA into DNA",
+            "Assembles viral proteins",
+            "Breaks down host DNA"
+          ]
+        },
+        {
+          "question": "Why can HIV remain dormant for years?",
+          "correct": "Viral DNA is inserted into host DNA and may not be actively transcribed",
+          "options": [
+            "It only infects red blood cells",
+            "Viral DNA is inserted into host DNA and may not be actively transcribed",
+            "It lacks RNA",
+            "It cannot enter host cells"
+          ]
+        },
+        {
+          "question": "What helper T cell count indicates progression to AIDS?",
+          "correct": "~200 cells/mm³",
+          "options": ["~800 cells/mm³", "~200 cells/mm³", "~500 cells/mm³", "~1000 cells/mm³"]
+        },
+        {
+          "question": "Why does HIV lead to poor B cell activation?",
+          "correct": "Helper T cells are destroyed, reducing B cell stimulation",
+          "options": [
+            "HIV infects B cells directly",
+            "Helper T cells are destroyed, reducing B cell stimulation",
+            "B cells mutate",
+            "Antibodies attack B cells"
+          ]
+        },
+        {
+          "question": "How does HIV indirectly cause death?",
+          "correct": "By making the immune system ineffective, allowing secondary infections and cancers",
+          "options": [
+            "HIV directly kills the patient",
+            "By making the immune system ineffective, allowing secondary infections and cancers",
+            "By producing toxins",
+            "By destroying red blood cells"
+          ]
+        },
+        {
+          "question": "What is the purpose of the ELISA test?",
+          "correct": "Detects the presence and quantity of an antigen or antibody",
+          "options": [
+            "Kills viruses in a sample",
+            "Detects the presence and quantity of an antigen or antibody",
+            "Measures T cell count",
+            "Measures blood glucose levels"
+          ]
+        },
+        {
+          "question": "In ELISA, what is the role of the secondary antibody?",
+          "correct": "Carries an enzyme that produces a colour change when substrate is added",
+          "options": [
+            "Binds directly to the antigen",
+            "Carries an enzyme that produces a colour change when substrate is added",
+            "Destroys the primary antibody",
+            "Measures pH"
+          ]
+        },
+        {
+          "question": "Why are antibiotics ineffective against HIV?",
+          "correct": "Viruses have no cell wall, ribosomes, or metabolic pathways for antibiotics to target",
+          "options": [
+            "HIV multiplies too fast",
+            "Viruses have no cell wall, ribosomes, or metabolic pathways for antibiotics to target",
+            "HIV hides in the bloodstream",
+            "Antibiotics destroy DNA instead of RNA"
+          ]
+        },
+        {
+          "question": "Why can't antibiotics reach HIV when it is inside host cells?",
+          "correct": "Because antibiotics target bacterial structures, not viral machinery inside cells",
+          "options": [
+            "Because the virus is too small",
+            "Because antibiotics target bacterial structures, not viral machinery inside cells",
+            "Because host cells neutralize antibiotics",
+            "Because HIV mutates constantly"
+          ]
+        }
+      ]
+    },
+    "1.6. - Exchange": {
+      "1.6.1. - Exchange between Organisms and their Environment": [
+        {
+          "question": "What is the external environment of an organism?",
+          "correct": "The environment surrounding the organism",
+          "options": [
+            "The environment surrounding the organism",
+            "The environment inside the cells",
+            "The tissue fluid around cells",
+            "The circulatory system"
+          ]
+        },
+        {
+          "question": "What is the internal environment of an organism?",
+          "correct": "The environment within the organism and its cells",
+          "options": [
+            "The environment surrounding the organism",
+            "The environment within the organism and its cells",
+            "The atmosphere",
+            "The tissue fluid outside the cells"
+          ]
+        },
+        {
+          "question": "Why must multicellular organisms exchange materials between internal and external environments?",
+          "correct": "To survive, cells must obtain nutrients and remove waste",
+          "options": [
+            "To survive, cells must obtain nutrients and remove waste",
+            "To regulate body temperature only",
+            "To produce antibodies",
+            "To increase cell size"
+          ]
+        },
+        {
+          "question": "What surrounds most cells in multicellular organisms to aid exchange?",
+          "correct": "Tissue fluid",
+          "options": ["Tissue fluid", "Blood plasma", "Lymph", "Mucus"]
+        },
+        {
+          "question": "Why is a mass transport system needed in multicellular organisms?",
+          "correct": "To rapidly distribute materials to tissue fluid and maintain diffusion gradients",
+          "options": [
+            "To rapidly distribute materials to tissue fluid and maintain diffusion gradients",
+            "To protect cells from viruses",
+            "To produce antibodies",
+            "To store oxygen in tissues"
+          ]
+        },
+        {
+          "question": "Which factors affect the exchange requirements of an organism?",
+          "correct": "Size of the organism and metabolic rate",
+          "options": [
+            "Size of the organism and metabolic rate",
+            "Colour of the organism",
+            "Habitat temperature only",
+            "Number of predators"
+          ]
+        },
+        {
+          "question": "Name four materials commonly exchanged between organisms and their environment.",
+          "correct": "Oxygen, carbon dioxide, nutrients, excretory products",
+          "options": [
+            "Oxygen, carbon dioxide, nutrients, excretory products",
+            "Water, vitamins, enzymes, hormones",
+            "Heat, antibodies, blood, lymph",
+            "Fat, glucose, minerals, hormones"
+          ]
+        },
+        {
+          "question": "Which processes do not require metabolic energy?",
+          "correct": "Diffusion and osmosis",
+          "options": ["Diffusion and osmosis", "Active transport", "Facilitated diffusion", "Endocytosis"]
+        },
+        {
+          "question": "Which process requires ATP to move substances across membranes?",
+          "correct": "Active transport",
+          "options": ["Diffusion", "Osmosis", "Active transport", "Facilitated diffusion"]
+        },
+        {
+          "question": "Why is surface area to volume ratio important for exchange?",
+          "correct": "A large surface area relative to volume allows effective exchange",
+          "options": [
+            "A large surface area relative to volume allows effective exchange",
+            "A small surface area speeds up diffusion",
+            "Volume does not affect exchange",
+            "Only surface area matters, volume is irrelevant"
+          ]
+        },
+        {
+          "question": "How does increasing size of an organism affect its SA:V ratio?",
+          "correct": "Volume increases faster than surface area, reducing SA:V ratio",
+          "options": [
+            "Volume increases faster than surface area, reducing SA:V ratio",
+            "Surface area increases faster than volume",
+            "SA:V ratio remains constant",
+            "SA:V ratio increases"
+          ]
+        },
+        {
+          "question": "What happens if an organism has a low SA:V ratio?",
+          "correct": "Diffusion alone cannot meet metabolic demands",
+          "options": [
+            "Diffusion alone cannot meet metabolic demands",
+            "Exchange becomes more efficient",
+            "Organism needs less oxygen",
+            "Metabolic rate decreases automatically"
+          ]
+        },
+        {
+          "question": "Give two adaptations that increase exchange efficiency in organisms.",
+          "correct": "Flattened shape and specialised exchange surfaces",
+          "options": [
+            "Flattened shape and specialised exchange surfaces",
+            "Thick skin and small surface area",
+            "Large volume and low metabolic rate",
+            "Storing oxygen in muscles"
+          ]
+        },
+        {
+          "question": "Why are specialised exchange surfaces often internal?",
+          "correct": "To protect them from damage and dehydration",
+          "options": [
+            "To protect them from damage and dehydration",
+            "To increase metabolic rate",
+            "To increase body temperature",
+            "To reduce surface area"
+          ]
+        },
+        {
+          "question": "What additional features increase efficiency of specialised exchange surfaces?",
+          "correct": "Movement of external medium and transport of internal medium",
+          "options": [
+            "Movement of external medium and transport of internal medium",
+            "Colour of the surface and thickness of epidermis",
+            "Antibody production",
+            "Storing nutrients in tissues"
+          ]
+        }
+      ],
+      "1.6.6. - Structure of the Human Gas-Exchange System": [
+        {
+          "question": "Why do aerobic organisms require oxygen?",
+          "correct": "To release energy in the form of ATP during respiration",
+          "options": [
+            "To release energy in the form of ATP during respiration",
+            "To produce carbon dioxide",
+            "To maintain body temperature",
+            "To digest food"
+          ]
+        },
+        {
+          "question": "Why must carbon dioxide be removed from the body?",
+          "correct": "Because its accumulation is harmful",
+          "options": [
+            "Because its accumulation is harmful",
+            "Because it helps in oxygen transport",
+            "Because it stores energy",
+            "Because it increases pH"
+          ]
+        },
+        {
+          "question": "Why do mammals have a high demand for gas exchange?",
+          "correct": "They are large, have many cells, and maintain a high metabolic rate and body temperature",
+          "options": [
+            "They are large, have many cells, and maintain a high metabolic rate and body temperature",
+            "They live in water",
+            "They do not have lungs",
+            "They have low energy needs"
+          ]
+        },
+        {
+          "question": "What specialised gas-exchange surface have mammals evolved?",
+          "correct": "Lungs",
+          "options": ["Lungs", "Gills", "Skin", "Tracheoles"]
+        },
+        {
+          "question": "Why are mammalian lungs located inside the body?",
+          "correct": "To protect delicate structures and prevent dehydration",
+          "options": [
+            "To protect delicate structures and prevent dehydration",
+            "To allow more oxygen intake",
+            "To cool the body",
+            "To store carbon dioxide"
+          ]
+        },
+        {
+          "question": "How are lungs protected and ventilated?",
+          "correct": "Protected by the ribcage and ventilated by tidal flow of air using intercostal muscles",
+          "options": [
+            "Protected by the ribcage and ventilated by tidal flow of air using intercostal muscles",
+            "By skin and sweating",
+            "By mucus and cilia",
+            "By alveolar surfactant only"
+          ]
+        },
+        {
+          "question": "What structures make up the human gas-exchange system?",
+          "correct": "Highly branched airways ending in millions of alveoli",
+          "options": [
+            "Highly branched airways ending in millions of alveoli",
+            "Trachea only",
+            "Bronchioles only",
+            "Ribcage and diaphragm only"
+          ]
+        },
+        {
+          "question": "What is the function of cartilage rings in the trachea?",
+          "correct": "Prevent collapse and maintain an open airway",
+          "options": [
+            "Prevent collapse and maintain an open airway",
+            "Produce mucus",
+            "Contract to move air",
+            "Filter pathogens"
+          ]
+        },
+        {
+          "question": "What cells in the trachea trap dust and microorganisms?",
+          "correct": "Goblet cells",
+          "options": ["Goblet cells", "Ciliated cells", "Smooth muscle cells", "Alveolar cells"]
+        },
+        {
+          "question": "How do cilia in the trachea help protect the lungs?",
+          "correct": "They beat to move mucus toward the throat, preventing particles from entering lungs",
+          "options": [
+            "They beat to move mucus toward the throat, preventing particles from entering lungs",
+            "They produce antibodies",
+            "They secrete oxygen",
+            "They contract to pump air"
+          ]
+        },
+        {
+          "question": "What is the main function of the bronchi?",
+          "correct": "Carry air from the trachea into each lung",
+          "options": [
+            "Carry air from the trachea into each lung",
+            "Exchange gases with blood",
+            "Produce surfactant",
+            "Trap pathogens"
+          ]
+        },
+        {
+          "question": "How does the amount of cartilage change as bronchi become smaller?",
+          "correct": "It decreases",
+          "options": ["It decreases", "It increases", "It remains the same", "Cartilage disappears completely"]
+        },
+        {
+          "question": "What allows bronchioles to control airflow to alveoli?",
+          "correct": "Smooth muscle in their walls constricts or dilates",
+          "options": [
+            "Smooth muscle in their walls constricts or dilates",
+            "Cilia movement",
+            "Cartilage support",
+            "Goblet cells"
+          ]
+        },
+        {
+          "question": "What are alveoli and where are they located?",
+          "correct": "Tiny air sacs at the ends of bronchioles",
+          "options": [
+            "Tiny air sacs at the ends of bronchioles",
+            "Large airways leading to lungs",
+            "Cartilage rings in trachea",
+            "Smooth muscle around bronchi"
+          ]
+        },
+        {
+          "question": "Which fibres surround alveoli and what are their functions?",
+          "correct": "Collagen for strength, elastic fibres for stretch and recoil",
+          "options": [
+            "Collagen for strength, elastic fibres for stretch and recoil",
+            "Muscle fibres for contraction",
+            "Ciliary fibres for mucus movement",
+            "Goblet fibres for mucus secretion"
+          ]
+        },
+        {
+          "question": "Why is the alveolar epithelium thin?",
+          "correct": "To provide a short diffusion distance for gas exchange",
+          "options": [
+            "To provide a short diffusion distance for gas exchange",
+            "To prevent pathogens entering",
+            "To produce surfactant",
+            "To support alveolar shape"
+          ]
+        },
+        {
+          "question": "How does elastic recoil of alveoli aid exhalation?",
+          "correct": "It helps expel carbon dioxide-rich air",
+          "options": [
+            "It helps expel carbon dioxide-rich air",
+            "It increases oxygen intake",
+            "It prevents alveolar collapse",
+            "It produces surfactant"
+          ]
+        },
+        {
+          "question": "What forms the actual gas-exchange surface in the lungs?",
+          "correct": "The alveolar membrane",
+          "options": ["The alveolar membrane", "Bronchioles", "Trachea", "Ribcage"]
+        },
+        {
+          "question": "Which gases diffuse across the alveolar membrane?",
+          "correct": "Oxygen into blood, carbon dioxide out of blood",
+          "options": [
+            "Oxygen into blood, carbon dioxide out of blood",
+            "Carbon dioxide into blood, oxygen out",
+            "Nitrogen into blood, oxygen out",
+            "Oxygen and carbon dioxide both out of blood"
+          ]
+        }
+      ],
+      "1.6.7. - The Mechanism of Breathing": [
+        {
+          "question": "What is ventilation?",
+          "correct": "Movement of air into and out of the lungs to maintain diffusion of gases",
+          "options": [
+            "Movement of air into and out of the lungs to maintain diffusion of gases",
+            "Exchange of gases between blood and tissue fluid",
+            "Diffusion of oxygen across alveoli",
+            "Circulation of blood in lungs"
+          ]
+        },
+        {
+          "question": "Why does air move into the lungs during inspiration?",
+          "correct": "Because atmospheric pressure is greater than lung (pulmonary) pressure",
+          "options": [
+            "Because atmospheric pressure is greater than lung (pulmonary) pressure",
+            "Because lung pressure is greater than atmospheric pressure",
+            "Because oxygen is actively pumped into the lungs",
+            "Because CO2 leaves the lungs"
+          ]
+        },
+        {
+          "question": "Why does air move out of the lungs during expiration?",
+          "correct": "Because lung pressure is greater than atmospheric pressure",
+          "options": [
+            "Because lung pressure is greater than atmospheric pressure",
+            "Because atmospheric pressure is greater than lung pressure",
+            "Because the diaphragm actively pulls air out",
+            "Because oxygen diffuses into the blood"
+          ]
+        },
+        {
+          "question": "Which muscle separates the thorax from the abdomen?",
+          "correct": "Diaphragm",
+          "options": ["Diaphragm", "External intercostals", "Internal intercostals", "Abdominal muscles"]
+        },
+        {
+          "question": "What is the role of external intercostal muscles?",
+          "correct": "Contract to raise ribs during inspiration",
+          "options": [
+            "Contract to raise ribs during inspiration",
+            "Contract to lower ribs during expiration",
+            "Relax during inspiration",
+            "Relax during expiration"
+          ]
+        },
+        {
+          "question": "What is the role of internal intercostal muscles?",
+          "correct": "Contract during expiration to lower ribs",
+          "options": [
+            "Contract during expiration to lower ribs",
+            "Contract during inspiration to raise ribs",
+            "Relax during expiration",
+            "Relax during inspiration"
+          ]
+        },
+        {
+          "question": "Why is inspiration an active process?",
+          "correct": "It requires energy for muscle contraction",
+          "options": [
+            "It requires energy for muscle contraction",
+            "Air moves passively due to diffusion",
+            "It relies solely on elastic recoil",
+            "It does not require energy"
+          ]
+        },
+        {
+          "question": "What happens to thoracic volume during inspiration?",
+          "correct": "It increases",
+          "options": ["It increases", "It decreases", "It remains constant", "It fluctuates randomly"]
+        },
+        {
+          "question": "How does the diaphragm change during inspiration?",
+          "correct": "It contracts and flattens, increasing thoracic volume",
+          "options": [
+            "It contracts and flattens, increasing thoracic volume",
+            "It relaxes and moves upwards",
+            "It moves downwards passively",
+            "It does not change"
+          ]
+        },
+        {
+          "question": "What happens to thoracic volume during expiration?",
+          "correct": "It decreases",
+          "options": ["It decreases", "It increases", "It remains constant", "It fluctuates randomly"]
+        },
+        {
+          "question": "How does the diaphragm change during expiration?",
+          "correct": "It relaxes and is pushed upwards by abdominal contents",
+          "options": [
+            "It relaxes and is pushed upwards by abdominal contents",
+            "It contracts and flattens",
+            "It remains stationary",
+            "It is actively pulled down"
+          ]
+        },
+        {
+          "question": "What is the role of elastic recoil in normal quiet breathing?",
+          "correct": "Causes expiration by allowing lungs to return to resting size",
+          "options": [
+            "Causes expiration by allowing lungs to return to resting size",
+            "Raises thoracic volume during inspiration",
+            "Activates intercostal muscles",
+            "Prevents alveolar collapse"
+          ]
+        },
+        {
+          "question": "During exercise or forced breathing, what role do intercostal muscles play in expiration?",
+          "correct": "They actively contract to assist in forcing air out",
+          "options": [
+            "They actively contract to assist in forcing air out",
+            "They relax to allow passive expiration",
+            "They contract to increase inspiration",
+            "They do not play a role"
+          ]
+        }
       ]
     }
   },
