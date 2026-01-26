@@ -6785,13 +6785,2199 @@
       ]
     }
   },
-  "Chemistry": {
-    "Atoms and Bonding": {
-      "Ionic Bonds": [
+  "2 - Chemistry": {
+    "2.1. - Atomic Structure": {
+      "2.1.1. - Fundamental Particles": [
         {
-          "question": "What type of elements form ionic bonds?",
-          "correct": "Metal + Non-metal",
-          "options": ["Non-metal + Non-metal","Metal + Metal","Metal + Non-metal","Noble gases"]
+          "question": "What did ancient Greek philosophers believe all matter was made from?",
+          "correct": "A continuous substance forming earth, air, fire, and water",
+          "options": [
+            "A continuous substance forming earth, air, fire, and water",
+            "Tiny charged particles called atoms",
+            "Protons, neutrons, and electrons",
+            "Different combinations of metals"
+          ]
+        },
+        {
+          "question": "What was the ancient Greek idea of atoms?",
+          "correct": "That matter is made of indivisible particles",
+          "options": [
+            "That matter is made of indivisible particles",
+            "That atoms contain electrons",
+            "That atoms have nuclei",
+            "That atoms are radioactive"
+          ]
+        },
+        {
+          "question": "Why was the idea of atoms not widely accepted in ancient times?",
+          "correct": "It lacked experimental evidence for nearly 2000 years",
+          "options": [
+            "It lacked experimental evidence for nearly 2000 years",
+            "It contradicted nuclear theory",
+            "Electrons had not been discovered",
+            "It was disproved by alchemists"
+          ]
+        },
+        {
+          "question": "What was the main aim of medieval alchemists?",
+          "correct": "To transform base metals into gold",
+          "options": [
+            "To transform base metals into gold",
+            "To discover electrons",
+            "To define chemical elements",
+            "To split atoms"
+          ]
+        },
+        {
+          "question": "What contribution did alchemists make to modern chemistry?",
+          "correct": "They provided valuable experimental groundwork",
+          "options": [
+            "They provided valuable experimental groundwork",
+            "They discovered atoms",
+            "They developed nuclear theory",
+            "They identified sub-atomic particles"
+          ]
+        },
+        {
+          "question": "What did Robert Boyle propose in 1661?",
+          "correct": "That some substances cannot be broken down further and are elements",
+          "options": [
+            "That some substances cannot be broken down further and are elements",
+            "That atoms contain electrons",
+            "That atoms have nuclei",
+            "That atoms are indivisible"
+          ]
+        },
+        {
+          "question": "Why was Robert Boyle's work significant?",
+          "correct": "It defined the concept of a chemical element",
+          "options": [
+            "It defined the concept of a chemical element",
+            "It discovered radioactivity",
+            "It proved atoms are divisible",
+            "It explained electron shells"
+          ]
+        },
+        {
+          "question": "What did John Dalton propose in 1803?",
+          "correct": "That all matter is made of indivisible atoms",
+          "options": [
+            "That all matter is made of indivisible atoms",
+            "That atoms contain electrons",
+            "That atoms have nuclei",
+            "That atoms emit radiation"
+          ]
+        },
+        {
+          "question": "According to Dalton, how do atoms of the same element compare?",
+          "correct": "They have identical masses",
+          "options": [
+            "They have identical masses",
+            "They have different charges",
+            "They have different sizes",
+            "They contain different numbers of neutrons"
+          ]
+        },
+        {
+          "question": "According to Dalton, how do atoms of different elements differ?",
+          "correct": "They have different masses",
+          "options": [
+            "They have different masses",
+            "They have different charges",
+            "They contain electrons in the nucleus",
+            "They are all radioactive"
+          ]
+        },
+        {
+          "question": "What was the importance of Dalton's work?",
+          "correct": "It formed the first atomic theory",
+          "options": [
+            "It formed the first atomic theory",
+            "It discovered electrons",
+            "It explained nuclear forces",
+            "It identified isotopes"
+          ]
+        },
+        {
+          "question": "Who discovered radioactivity in 1896?",
+          "correct": "Henri Becquerel",
+          "options": [
+            "Henri Becquerel",
+            "J. J. Thomson",
+            "Ernest Rutherford",
+            "John Dalton"
+          ]
+        },
+        {
+          "question": "What did the discovery of radioactivity show?",
+          "correct": "That particles come from inside the atom",
+          "options": [
+            "That particles come from inside the atom",
+            "That atoms are solid spheres",
+            "That atoms are indivisible",
+            "That electrons orbit the nucleus"
+          ]
+        },
+        {
+          "question": "Why was Becquerel’s discovery important?",
+          "correct": "It proved the atom is not indivisible",
+          "options": [
+            "It proved the atom is not indivisible",
+            "It defined chemical elements",
+            "It explained electron shells",
+            "It confirmed Dalton’s model"
+          ]
+        },
+        {
+          "question": "Who discovered the electron in 1897?",
+          "correct": "J. J. Thomson",
+          "options": [
+            "J. J. Thomson",
+            "Ernest Rutherford",
+            "Henri Becquerel",
+            "Robert Boyle"
+          ]
+        },
+        {
+          "question": "What charge does an electron have?",
+          "correct": "Negative",
+          "options": [
+            "Negative",
+            "Positive",
+            "Neutral",
+            "Variable"
+          ]
+        },
+        {
+          "question": "What model of the atom did J. J. Thomson propose?",
+          "correct": "The plum pudding model",
+          "options": [
+            "The plum pudding model",
+            "The nuclear model",
+            "The planetary model",
+            "The electron shell model"
+          ]
+        },
+        {
+          "question": "What does the plum pudding model describe?",
+          "correct": "Electrons embedded in a sphere of positive charge",
+          "options": [
+            "Electrons embedded in a sphere of positive charge",
+            "Electrons orbiting a nucleus",
+            "A dense nucleus with empty space",
+            "Protons and neutrons mixed evenly"
+          ]
+        },
+        {
+          "question": "Why was Thomson’s discovery significant?",
+          "correct": "It identified the first sub-atomic particle",
+          "options": [
+            "It identified the first sub-atomic particle",
+            "It proved atoms are indivisible",
+            "It explained nuclear forces",
+            "It discovered the nucleus"
+          ]
+        },
+        {
+          "question": "Who proposed the nuclear model of the atom in 1911?",
+          "correct": "Ernest Rutherford",
+          "options": [
+            "Ernest Rutherford",
+            "J. J. Thomson",
+            "John Dalton",
+            "Henri Becquerel"
+          ]
+        },
+        {
+          "question": "What did Rutherford discover about the atom?",
+          "correct": "Most mass and all positive charge are concentrated in a tiny nucleus",
+          "options": [
+            "Most mass and all positive charge are concentrated in a tiny nucleus",
+            "Electrons are indivisible",
+            "Atoms are solid spheres",
+            "Charge is spread evenly"
+          ]
+        },
+        {
+          "question": "What is ongoing research at places such as CERN focused on?",
+          "correct": "Refining understanding of sub-atomic structure",
+          "options": [
+            "Refining understanding of sub-atomic structure",
+            "Turning metals into gold",
+            "Proving atoms are indivisible",
+            "Removing electrons from atoms"
+          ]
+        },
+        {
+          "question": "What three particles make up an atom?",
+          "correct": "Protons, neutrons, and electrons",
+          "options": [
+            "Protons, neutrons, and electrons",
+            "Protons, electrons, and ions",
+            "Neutrons, ions, and atoms",
+            "Electrons, nuclei, and shells"
+          ]
+        },
+        {
+          "question": "Where are protons and neutrons located in the atom?",
+          "correct": "In the nucleus",
+          "options": [
+            "In the nucleus",
+            "In energy levels",
+            "Around the atom",
+            "Outside the atom"
+          ]
+        },
+        {
+          "question": "What are protons and neutrons collectively called?",
+          "correct": "Nucleons",
+          "options": [
+            "Nucleons",
+            "Isotopes",
+            "Ions",
+            "Orbitals"
+          ]
+        },
+        {
+          "question": "Where are electrons found in an atom?",
+          "correct": "In energy levels around the nucleus",
+          "options": [
+            "In energy levels around the nucleus",
+            "Inside the nucleus",
+            "Between protons",
+            "Within neutrons"
+          ]
+        },
+        {
+          "question": "What is the relative charge of a proton?",
+          "correct": "+1",
+          "options": [
+            "+1",
+            "0",
+            "-1",
+            "+2"
+          ]
+        },
+        {
+          "question": "What is the relative charge of a neutron?",
+          "correct": "0",
+          "options": [
+            "0",
+            "+1",
+            "-1",
+            "+2"
+          ]
+        },
+        {
+          "question": "What is the relative charge of an electron?",
+          "correct": "-1",
+          "options": [
+            "-1",
+            "0",
+            "+1",
+            "-2"
+          ]
+        },
+        {
+          "question": "What is the relative mass of a proton?",
+          "correct": "1",
+          "options": [
+            "1",
+            "1/1840",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "question": "What is the relative mass of a neutron?",
+          "correct": "1",
+          "options": [
+            "1",
+            "1/1840",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "question": "What is the relative mass of an electron?",
+          "correct": "1/1840",
+          "options": [
+            "1/1840",
+            "1",
+            "0",
+            "1/2"
+          ]
+        },
+        {
+          "question": "Why is an atom electrically neutral?",
+          "correct": "It has equal numbers of protons and electrons",
+          "options": [
+            "It has equal numbers of protons and electrons",
+            "It contains neutrons only",
+            "Electrons have no charge",
+            "Protons cancel neutrons"
+          ]
+        },
+        {
+          "question": "What does the nucleus of an atom contain?",
+          "correct": "Protons and neutrons",
+          "options": [
+            "Protons and neutrons",
+            "Electrons only",
+            "Protons and electrons",
+            "Neutrons and electrons"
+          ]
+        },
+        {
+          "question": "What force holds protons and neutrons together in the nucleus?",
+          "correct": "The strong nuclear force",
+          "options": [
+            "The strong nuclear force",
+            "Electrostatic force",
+            "Gravitational force",
+            "Magnetic force"
+          ]
+        },
+        {
+          "question": "How does the strong nuclear force compare to electrostatic attraction?",
+          "correct": "It is much stronger",
+          "options": [
+            "It is much stronger",
+            "It is weaker",
+            "It is the same strength",
+            "It only affects electrons"
+          ]
+        },
+        {
+          "question": "Over what distance does the strong nuclear force act?",
+          "correct": "Very short distances within the nucleus",
+          "options": [
+            "Very short distances within the nucleus",
+            "Across the whole atom",
+            "Between atoms",
+            "Over long distances"
+          ]
+        },
+        {
+          "question": "Why is the strong nuclear force necessary in the nucleus?",
+          "correct": "It overcomes repulsion between positively charged protons",
+          "options": [
+            "It overcomes repulsion between positively charged protons",
+            "It attracts electrons",
+            "It creates energy levels",
+            "It causes radioactivity"
+          ]
+        },
+        {
+          "question": "How are electron shells arranged around the nucleus?",
+          "correct": "At increasing distances from the nucleus",
+          "options": [
+            "At increasing distances from the nucleus",
+            "All at the same distance",
+            "Inside the nucleus",
+            "Randomly distributed"
+          ]
+        },
+        {
+          "question": "Why is the electron shell model described as simplified?",
+          "correct": "More detailed subshells and orbitals exist",
+          "options": [
+            "More detailed subshells and orbitals exist",
+            "Electrons do not move",
+            "Shells are not real",
+            "Atoms contain no nucleus"
+          ]
+        }
+      ],
+      "2.1.2. - Mass Number, Atomic Number and Isotopes": [
+      [
+        {
+          "question": "What is the atomic number (Z) of an element?",
+          "correct": "The number of protons in the nucleus",
+          "options": [
+            "The number of protons in the nucleus",
+            "The total number of protons and neutrons",
+            "The number of electrons in the outer shell",
+            "The total mass of the atom"
+          ]
+        },
+        {
+          "question": "What does the atomic number determine?",
+          "correct": "The identity of the element",
+          "options": [
+            "The identity of the element",
+            "The mass of the atom",
+            "The number of neutrons",
+            "The isotope of the element"
+          ]
+        },
+        {
+          "question": "Why does each element have a unique atomic number?",
+          "correct": "Because each element has a unique number of protons",
+          "options": [
+            "Because each element has a unique number of protons",
+            "Because each element has a unique mass number",
+            "Because each element has a unique number of neutrons",
+            "Because each element has a unique electron mass"
+          ]
+        },
+        {
+          "question": "In a neutral atom, how do the numbers of protons and electrons compare?",
+          "correct": "They are equal",
+          "options": [
+            "They are equal",
+            "There are more electrons than protons",
+            "There are more protons than electrons",
+            "They are unrelated"
+          ]
+        },
+        {
+          "question": "Why does a neutral atom have no overall charge?",
+          "correct": "The positive charge of protons equals the negative charge of electrons",
+          "options": [
+            "The positive charge of protons equals the negative charge of electrons",
+            "Neutrons cancel the charge",
+            "Electrons have no charge",
+            "Protons lose their charge"
+          ]
+        },
+        {
+          "question": "What determines the chemical behaviour of an element?",
+          "correct": "The number of outer-shell electrons",
+          "options": [
+            "The number of outer-shell electrons",
+            "The number of neutrons",
+            "The mass number",
+            "The total atomic mass"
+          ]
+        },
+        {
+          "question": "What does the number of outer-shell electrons influence?",
+          "correct": "How the element reacts and whether it is a metal or non-metal",
+          "options": [
+            "How the element reacts and whether it is a metal or non-metal",
+            "The isotope of the element",
+            "The nuclear stability",
+            "The atomic mass"
+          ]
+        },
+        {
+          "question": "What is the mass number (A) of an atom?",
+          "correct": "The total number of protons and neutrons in the nucleus",
+          "options": [
+            "The total number of protons and neutrons in the nucleus",
+            "The number of protons only",
+            "The number of electrons only",
+            "The number of neutrons only"
+          ]
+        },
+        {
+          "question": "Which particles are counted in the mass number?",
+          "correct": "Protons and neutrons",
+          "options": [
+            "Protons and neutrons",
+            "Protons and electrons",
+            "Electrons and neutrons",
+            "Electrons only"
+          ]
+        },
+        {
+          "question": "What are protons and neutrons collectively called?",
+          "correct": "Nucleons",
+          "options": [
+            "Nucleons",
+            "Isotopes",
+            "Ions",
+            "Orbitals"
+          ]
+        },
+        {
+          "question": "Where is almost all of an atom’s mass located?",
+          "correct": "In the nucleus",
+          "options": [
+            "In the nucleus",
+            "In the electron shells",
+            "Evenly throughout the atom",
+            "Outside the atom"
+          ]
+        },
+        {
+          "question": "Why do electrons contribute very little to atomic mass?",
+          "correct": "Their mass is negligible compared to protons and neutrons",
+          "options": [
+            "Their mass is negligible compared to protons and neutrons",
+            "They have no mass",
+            "They are outside the atom",
+            "They are energy particles"
+          ]
+        },
+        {
+          "question": "How does the mass number usually compare to the atomic number?",
+          "correct": "It is usually about twice as large",
+          "options": [
+            "It is usually about twice as large",
+            "It is always the same",
+            "It is usually smaller",
+            "It is unrelated"
+          ]
+        },
+        {
+          "question": "Which atom is an exception where the mass number is not larger than the atomic number?",
+          "correct": "Hydrogen-1",
+          "options": [
+            "Hydrogen-1",
+            "Carbon-12",
+            "Oxygen-16",
+            "Helium-4"
+          ]
+        },
+        {
+          "question": "What are isotopes?",
+          "correct": "Atoms with the same atomic number but different mass numbers",
+          "options": [
+            "Atoms with the same atomic number but different mass numbers",
+            "Atoms with different numbers of protons",
+            "Atoms with the same mass number only",
+            "Atoms with different numbers of electrons"
+          ]
+        },
+        {
+          "question": "How do isotopes of the same element differ?",
+          "correct": "They have different numbers of neutrons",
+          "options": [
+            "They have different numbers of neutrons",
+            "They have different numbers of protons",
+            "They have different charges",
+            "They have different electron arrangements"
+          ]
+        },
+        {
+          "question": "Why do isotopes of the same element have the same chemical properties?",
+          "correct": "They have the same number of electrons and the same electron configuration",
+          "options": [
+            "They have the same number of electrons and the same electron configuration",
+            "They have the same number of neutrons",
+            "They have the same mass number",
+            "They are all stable"
+          ]
+        },
+        {
+          "question": "Why do isotopes have different physical properties?",
+          "correct": "They have different mass numbers due to different neutron numbers",
+          "options": [
+            "They have different mass numbers due to different neutron numbers",
+            "They have different electron arrangements",
+            "They have different charges",
+            "They have different proton numbers"
+          ]
+        },
+        {
+          "question": "How many protons does carbon have?",
+          "correct": "6",
+          "options": [
+            "6",
+            "12",
+            "13",
+            "14"
+          ]
+        },
+        {
+          "question": "How many neutrons are in carbon-12?",
+          "correct": "6",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "12"
+          ]
+        },
+        {
+          "question": "How many neutrons are in carbon-13?",
+          "correct": "7",
+          "options": [
+            "7",
+            "6",
+            "8",
+            "13"
+          ]
+        },
+        {
+          "question": "How many neutrons are in carbon-14?",
+          "correct": "8",
+          "options": [
+            "8",
+            "6",
+            "7",
+            "14"
+          ]
+        },
+        {
+          "question": "Which isotope of carbon is radioactive?",
+          "correct": "Carbon-14",
+          "options": [
+            "Carbon-14",
+            "Carbon-12",
+            "Carbon-13",
+            "All carbon isotopes"
+          ]
+        },
+        {
+          "question": "What does the superscript number in nuclide notation represent?",
+          "correct": "The mass number",
+          "options": [
+            "The mass number",
+            "The atomic number",
+            "The number of electrons",
+            "The charge"
+          ]
+        },
+        {
+          "question": "What does the subscript number in nuclide notation represent?",
+          "correct": "The atomic number",
+          "options": [
+            "The atomic number",
+            "The mass number",
+            "The neutron number",
+            "The charge"
+          ]
+        },
+        {
+          "question": "How is carbon-14 produced in the atmosphere?",
+          "correct": "When cosmic-ray neutrons collide with nitrogen atoms",
+          "options": [
+            "When cosmic-ray neutrons collide with nitrogen atoms",
+            "When carbon atoms absorb electrons",
+            "When oxygen decays",
+            "When nitrogen loses protons"
+          ]
+        },
+        {
+          "question": "What type of isotope is carbon-14?",
+          "correct": "A radioactive isotope of carbon",
+          "options": [
+            "A radioactive isotope of carbon",
+            "A stable isotope of carbon",
+            "A synthetic isotope",
+            "A non-carbon isotope"
+          ]
+        },
+        {
+          "question": "What is the approximate half-life of carbon-14?",
+          "correct": "About 5730 years",
+          "options": [
+            "About 5730 years",
+            "About 600 years",
+            "About 57,300 years",
+            "About 1,000 years"
+          ]
+        },
+        {
+          "question": "Why do living organisms contain a constant ratio of carbon-14 to carbon-12?",
+          "correct": "They continuously exchange carbon with the environment",
+          "options": [
+            "They continuously exchange carbon with the environment",
+            "Carbon-14 does not decay",
+            "They only absorb carbon-12",
+            "Carbon ratios change randomly"
+          ]
+        },
+        {
+          "question": "What happens to carbon-14 after an organism dies?",
+          "correct": "It decays and is no longer replenished",
+          "options": [
+            "It decays and is no longer replenished",
+            "It increases in amount",
+            "It stops decaying",
+            "It turns into carbon-12 immediately"
+          ]
+        },
+        {
+          "question": "What does radiocarbon dating measure?",
+          "correct": "How long ago an organism died",
+          "options": [
+            "How long ago an organism died",
+            "The age of rocks",
+            "The mass of carbon atoms",
+            "The number of protons"
+          ]
+        },
+        {
+          "question": "How much carbon-14 remains after one half-life?",
+          "correct": "One half of the original amount",
+          "options": [
+            "One half of the original amount",
+            "One quarter of the original amount",
+            "One eighth of the original amount",
+            "All of the original amount"
+          ]
+        },
+        {
+          "question": "How much carbon-14 remains after two half-lives?",
+          "correct": "One quarter of the original amount",
+          "options": [
+            "One quarter of the original amount",
+            "One half of the original amount",
+            "One eighth of the original amount",
+            "One sixteenth of the original amount"
+          ]
+        },
+        {
+          "question": "How much carbon-14 remains after four half-lives?",
+          "correct": "One sixteenth of the original amount",
+          "options": [
+            "One sixteenth of the original amount",
+            "One quarter of the original amount",
+            "One half of the original amount",
+            "None remains"
+          ]
+        },
+        {
+          "question": "Up to what age is radiocarbon dating effective?",
+          "correct": "Up to about 60,000 years",
+          "options": [
+            "Up to about 60,000 years",
+            "Up to about 6,000 years",
+            "Up to about 600 years",
+            "Up to about 600,000 years"
+          ]
+        },
+        {
+          "question": "For what time range is radiocarbon dating most accurate?",
+          "correct": "Up to about 2,000 years",
+          "options": [
+            "Up to about 2,000 years",
+            "Up to about 20,000 years",
+            "Up to about 60,000 years",
+            "Up to about 200 years"
+          ]
+        }
+      ],
+      "2.1.3. - The Arrangement of Electrons": [
+        {
+          "question": "Who proposed the Bohr model of the atom in 1913?",
+          "correct": "Niels Bohr",
+          "options": [
+            "Niels Bohr",
+            "Erwin Schrödinger",
+            "James Chadwick",
+            "John Dalton"
+          ]
+        },
+        {
+          "question": "What does the Bohr model state about electrons?",
+          "correct": "Electrons orbit a positive nucleus in fixed energy levels",
+          "options": [
+            "Electrons orbit a positive nucleus in fixed energy levels",
+            "Electrons move randomly around the nucleus",
+            "Electrons exist only as waves",
+            "Electrons are inside the nucleus"
+          ]
+        },
+        {
+          "question": "What do electron transitions between shells explain?",
+          "correct": "How atoms absorb or emit light",
+          "options": [
+            "How atoms absorb or emit light",
+            "Why atoms are radioactive",
+            "Why atoms form isotopes",
+            "Why atoms lose mass"
+          ]
+        },
+        {
+          "question": "Why was the Bohr model historically important?",
+          "correct": "It marked the beginning of quantum theory",
+          "options": [
+            "It marked the beginning of quantum theory",
+            "It proved atoms are indivisible",
+            "It discovered the neutron",
+            "It replaced all atomic models"
+          ]
+        },
+        {
+          "question": "Who developed wave equations for electrons in 1926?",
+          "correct": "Erwin Schrödinger",
+          "options": [
+            "Erwin Schrödinger",
+            "Niels Bohr",
+            "James Chadwick",
+            "Gilbert Lewis"
+          ]
+        },
+        {
+          "question": "What did Schrödinger show about electrons?",
+          "correct": "They have both wave-like and particle-like properties",
+          "options": [
+            "They have both wave-like and particle-like properties",
+            "They have no mass",
+            "They only behave as particles",
+            "They orbit in fixed circular paths"
+          ]
+        },
+        {
+          "question": "What field of science is based on Schrödinger’s work?",
+          "correct": "Quantum mechanics",
+          "options": [
+            "Quantum mechanics",
+            "Nuclear chemistry",
+            "Thermodynamics",
+            "Classical physics"
+          ]
+        },
+        {
+          "question": "Who discovered the neutron in 1932?",
+          "correct": "James Chadwick",
+          "options": [
+            "James Chadwick",
+            "Niels Bohr",
+            "Erwin Schrödinger",
+            "J. J. Thomson"
+          ]
+        },
+        {
+          "question": "Why was the discovery of the neutron important?",
+          "correct": "It completed the modern atomic model",
+          "options": [
+            "It completed the modern atomic model",
+            "It explained electron shells",
+            "It proved atoms are indivisible",
+            "It discovered isotopes"
+          ]
+        },
+        {
+          "question": "How can electrons behave according to quantum theory?",
+          "correct": "As particles, waves, or charge clouds",
+          "options": [
+            "As particles, waves, or charge clouds",
+            "Only as solid particles",
+            "Only as waves",
+            "Only as charges"
+          ]
+        },
+        {
+          "question": "What does quantum theory explain about electrons?",
+          "correct": "They occupy discrete energy levels and have probabilistic positions",
+          "options": [
+            "They occupy discrete energy levels and have probabilistic positions",
+            "They move in circular orbits only",
+            "Their positions are fixed",
+            "They exist only in the nucleus"
+          ]
+        },
+        {
+          "question": "Why can the exact position of an electron never be known?",
+          "correct": "Only the probability of finding it in a region can be predicted",
+          "options": [
+            "Only the probability of finding it in a region can be predicted",
+            "Electrons move too slowly",
+            "Electrons lose energy constantly",
+            "Electrons disappear randomly"
+          ]
+        },
+        {
+          "question": "What is the region where an electron is most likely to be found called?",
+          "correct": "An orbital",
+          "options": [
+            "An orbital",
+            "A shell",
+            "A nucleus",
+            "An energy band"
+          ]
+        },
+        {
+          "question": "What modern technologies rely on quantum mechanics?",
+          "correct": "Computers, phones, and semiconductors",
+          "options": [
+            "Computers, phones, and semiconductors",
+            "Steam engines",
+            "Combustion engines",
+            "Magnets only"
+          ]
+        },
+        {
+          "question": "Who proposed ideas explaining chemical bonding using electrons?",
+          "correct": "Gilbert Lewis",
+          "options": [
+            "Gilbert Lewis",
+            "Niels Bohr",
+            "James Chadwick",
+            "John Dalton"
+          ]
+        },
+        {
+          "question": "Why are noble gases unreactive according to Lewis?",
+          "correct": "They have full outer electron shells",
+          "options": [
+            "They have full outer electron shells",
+            "They have no electrons",
+            "They have very large nuclei",
+            "They are radioactive"
+          ]
+        },
+        {
+          "question": "How do ions form?",
+          "correct": "By gaining or losing electrons to achieve full shells",
+          "options": [
+            "By gaining or losing electrons to achieve full shells",
+            "By gaining protons",
+            "By losing neutrons",
+            "By splitting atoms"
+          ]
+        },
+        {
+          "question": "How do covalent bonds form?",
+          "correct": "By atoms sharing electrons to achieve full shells",
+          "options": [
+            "By atoms sharing electrons to achieve full shells",
+            "By atoms transferring protons",
+            "By atoms sharing neutrons",
+            "By atoms losing electrons"
+          ]
+        },
+        {
+          "question": "What configuration do atoms tend to achieve when bonding?",
+          "correct": "The stable electron configuration of the nearest noble gas",
+          "options": [
+            "The stable electron configuration of the nearest noble gas",
+            "The largest possible atom size",
+            "The smallest nucleus",
+            "The highest atomic number"
+          ]
+        },
+        {
+          "question": "How did Dalton describe atoms in his model?",
+          "correct": "As solid, indivisible spheres",
+          "options": [
+            "As solid, indivisible spheres",
+            "As having electron shells",
+            "As charge clouds",
+            "As containing neutrons"
+          ]
+        },
+        {
+          "question": "What is the main usefulness of Dalton’s model?",
+          "correct": "Explaining crystal structures",
+          "options": [
+            "Explaining crystal structures",
+            "Explaining bonding types",
+            "Explaining electron orbitals",
+            "Explaining isotopes"
+          ]
+        },
+        {
+          "question": "What is the main usefulness of the Bohr model?",
+          "correct": "Explaining ionic and covalent bonding models",
+          "options": [
+            "Explaining ionic and covalent bonding models",
+            "Explaining molecular shapes",
+            "Explaining radioactivity",
+            "Explaining neutron behaviour"
+          ]
+        },
+        {
+          "question": "What does the charge cloud model describe?",
+          "correct": "Electrons as diffuse clouds with probable positions",
+          "options": [
+            "Electrons as diffuse clouds with probable positions",
+            "Electrons in fixed circular orbits",
+            "Electrons inside the nucleus",
+            "Electrons as solid particles"
+          ]
+        },
+        {
+          "question": "What does the charge cloud model help explain?",
+          "correct": "Molecular shapes and advanced bonding",
+          "options": [
+            "Molecular shapes and advanced bonding",
+            "Crystal lattice structures",
+            "Atomic masses",
+            "Radioactive decay"
+          ]
+        },
+        {
+          "question": "Why are different atomic models still used today?",
+          "correct": "Different models are useful for different purposes",
+          "options": [
+            "Different models are useful for different purposes",
+            "Older models are more accurate",
+            "New models are incomplete",
+            "Models cannot be replaced"
+          ]
+        },
+        {
+          "question": "Where are electrons found in an atom?",
+          "correct": "In energy levels around the nucleus",
+          "options": [
+            "In energy levels around the nucleus",
+            "Inside the nucleus",
+            "Between protons",
+            "Outside the atom entirely"
+          ]
+        },
+        {
+          "question": "In what order do electron shells fill?",
+          "correct": "From lowest to highest energy",
+          "options": [
+            "From lowest to highest energy",
+            "From outer to inner",
+            "Randomly",
+            "From highest to lowest energy"
+          ]
+        },
+        {
+          "question": "What formula gives the maximum number of electrons in a shell?",
+          "correct": "2n²",
+          "options": [
+            "2n²",
+            "n²",
+            "2n",
+            "n + 2"
+          ]
+        },
+        {
+          "question": "What does n represent in the formula 2n²?",
+          "correct": "The shell number",
+          "options": [
+            "The shell number",
+            "The atomic number",
+            "The neutron number",
+            "The energy level mass"
+          ]
+        },
+        {
+          "question": "What is the maximum number of electrons in the first shell?",
+          "correct": "2",
+          "options": [
+            "2",
+            "8",
+            "18",
+            "32"
+          ]
+        },
+        {
+          "question": "What is the maximum number of electrons in the second shell?",
+          "correct": "8",
+          "options": [
+            "8",
+            "2",
+            "18",
+            "32"
+          ]
+        },
+        {
+          "question": "What is the maximum number of electrons in the third shell?",
+          "correct": "18",
+          "options": [
+            "18",
+            "8",
+            "2",
+            "32"
+          ]
+        },
+        {
+          "question": "What does the term valence electrons refer to?",
+          "correct": "Electrons in the outer shell",
+          "options": [
+            "Electrons in the outer shell",
+            "Electrons in the nucleus",
+            "All electrons in the atom",
+            "Electrons in the first shell"
+          ]
+        },
+        {
+          "question": "What determines an element’s chemical reactivity?",
+          "correct": "The number of outer-shell electrons",
+          "options": [
+            "The number of outer-shell electrons",
+            "The number of neutrons",
+            "The mass number",
+            "The number of shells"
+          ]
+        },
+        {
+          "question": "How are electrons filled in diagrams for neutral atoms?",
+          "correct": "From the inside shell outward",
+          "options": [
+            "From the inside shell outward",
+            "From the outer shell inward",
+            "Randomly",
+            "Based on atomic mass"
+          ]
+        },
+        {
+          "question": "How many electrons does carbon have?",
+          "correct": "6",
+          "options": [
+            "6",
+            "4",
+            "8",
+            "12"
+          ]
+        },
+        {
+          "question": "What is the electron configuration of carbon?",
+          "correct": "2,4",
+          "options": [
+            "2,4",
+            "2,6",
+            "2,8",
+            "1,5"
+          ]
+        },
+        {
+          "question": "How are the outer electrons drawn in a carbon electron diagram?",
+          "correct": "Evenly spaced around the shell",
+          "options": [
+            "Evenly spaced around the shell",
+            "All paired",
+            "All on one side",
+            "Inside the nucleus"
+          ]
+        },
+        {
+          "question": "What is the electron configuration of sulfur?",
+          "correct": "2,8,6",
+          "options": [
+            "2,8,6",
+            "2,6",
+            "2,8,8",
+            "2,8,4"
+          ]
+        },
+        {
+          "question": "How are sulfur’s outer electrons arranged in diagrams?",
+          "correct": "Four single electrons, then two paired",
+          "options": [
+            "Four single electrons, then two paired",
+            "All paired first",
+            "All single only",
+            "Randomly placed"
+          ]
+        },
+        {
+          "question": "How many protons does a sodium atom have?",
+          "correct": "11",
+          "options": [
+            "11",
+            "10",
+            "12",
+            "23"
+          ]
+        },
+        {
+          "question": "What is the electron configuration of a sodium atom?",
+          "correct": "2,8,1",
+          "options": [
+            "2,8,1",
+            "2,8",
+            "2,7,2",
+            "2,8,2"
+          ]
+        },
+        {
+          "question": "What happens when sodium forms a sodium ion (Na⁺)?",
+          "correct": "It loses one electron",
+          "options": [
+            "It loses one electron",
+            "It gains one electron",
+            "It loses one proton",
+            "It gains one neutron"
+          ]
+        },
+        {
+          "question": "What is the charge on a sodium ion?",
+          "correct": "+1",
+          "options": [
+            "+1",
+            "-1",
+            "+2",
+            "0"
+          ]
+        },
+        {
+          "question": "How many electrons does a sodium ion have?",
+          "correct": "10",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "9"
+          ]
+        },
+        {
+          "question": "What is the electron configuration of Na⁺?",
+          "correct": "2,8",
+          "options": [
+            "2,8",
+            "2,8,1",
+            "2,7",
+            "2,6"
+          ]
+        },
+        {
+          "question": "How many protons does an oxygen atom have?",
+          "correct": "8",
+          "options": [
+            "8",
+            "6",
+            "10",
+            "16"
+          ]
+        },
+        {
+          "question": "What is the electron configuration of an oxygen atom?",
+          "correct": "2,6",
+          "options": [
+            "2,6",
+            "2,8",
+            "2,4",
+            "2,7"
+          ]
+        },
+        {
+          "question": "How does an oxide ion (O²⁻) form?",
+          "correct": "By gaining two electrons",
+          "options": [
+            "By gaining two electrons",
+            "By losing two electrons",
+            "By gaining two protons",
+            "By losing two neutrons"
+          ]
+        },
+        {
+          "question": "What is the charge on an oxide ion?",
+          "correct": "-2",
+          "options": [
+            "-2",
+            "-1",
+            "+2",
+            "0"
+          ]
+        },
+        {
+          "question": "What is the electron configuration of an oxide ion?",
+          "correct": "2,8",
+          "options": [
+            "2,8",
+            "2,6",
+            "2,7",
+            "2,8,2"
+          ]
+        },
+        {
+          "question": "How is shorthand electron configuration written?",
+          "correct": "Numbers of electrons per shell separated by commas",
+          "options": [
+            "Numbers of electrons per shell separated by commas",
+            "Total electrons only",
+            "Shell names only",
+            "Electron symbols with charges"
+          ]
+        }
+      ],
+      "2.1.4. - The Mass Spectrometer": [
+        {
+          "question": "What is the main purpose of a mass spectrometer?",
+          "correct": "To accurately determine relative atomic masses and molecular masses",
+          "options": [
+            "To accurately determine relative atomic masses and molecular masses",
+            "To measure electron energy levels",
+            "To determine atomic number",
+            "To identify chemical bonding types"
+          ]
+        },
+        {
+          "question": "What quantities can be measured using a mass spectrometer?",
+          "correct": "Relative atomic mass (Ar) and relative molecular mass (Mr)",
+          "options": [
+            "Relative atomic mass (Ar) and relative molecular mass (Mr)",
+            "Atomic number and proton number",
+            "Electron configuration and charge",
+            "Bond energy and structure"
+          ]
+        },
+        {
+          "question": "Which isotope is used as the reference standard for atomic mass?",
+          "correct": "Carbon-12",
+          "options": [
+            "Carbon-12",
+            "Carbon-14",
+            "Hydrogen-1",
+            "Oxygen-16"
+          ]
+        },
+        {
+          "question": "What is the defined mass of a carbon-12 atom?",
+          "correct": "Exactly 12",
+          "options": [
+            "Exactly 12",
+            "Approximately 12",
+            "Exactly 1",
+            "Approximately 6"
+          ]
+        },
+        {
+          "question": "What is the definition of relative atomic mass (Ar)?",
+          "correct": "The average mass of one atom compared with 1/12 of the mass of a carbon-12 atom",
+          "options": [
+            "The average mass of one atom compared with 1/12 of the mass of a carbon-12 atom",
+            "The mass of one atom relative to hydrogen",
+            "The number of protons and neutrons in an atom",
+            "The mass of the most abundant isotope"
+          ]
+        },
+        {
+          "question": "What is the definition of relative molecular mass (Mr)?",
+          "correct": "The average mass of one molecule compared with 1/12 of the mass of a carbon-12 atom",
+          "options": [
+            "The average mass of one molecule compared with 1/12 of the mass of a carbon-12 atom",
+            "The mass of one molecule in grams",
+            "The sum of atomic numbers in a molecule",
+            "The mass of the largest isotope"
+          ]
+        },
+        {
+          "question": "Why do isotopes not have exact whole-number masses?",
+          "correct": "Protons and neutrons do not each have a mass of exactly 1 unit",
+          "options": [
+            "Protons and neutrons do not each have a mass of exactly 1 unit",
+            "Electrons add extra mass",
+            "Atoms lose mass over time",
+            "Neutrons have no mass"
+          ]
+        },
+        {
+          "question": "What does a mass spectrometer measure directly?",
+          "correct": "The mass-to-charge ratio (m/z) of ions",
+          "options": [
+            "The mass-to-charge ratio (m/z) of ions",
+            "The atomic number",
+            "The neutron number",
+            "The electron charge"
+          ]
+        },
+        {
+          "question": "Why must the mass spectrometer be kept under high vacuum?",
+          "correct": "To prevent ions colliding with air molecules",
+          "options": [
+            "To prevent ions colliding with air molecules",
+            "To increase ion charge",
+            "To cool the ions",
+            "To remove electrons"
+          ]
+        },
+        {
+          "question": "What is the first major step in operating a mass spectrometer?",
+          "correct": "Ionisation of the sample",
+          "options": [
+            "Ionisation of the sample",
+            "Detection of ions",
+            "Acceleration of ions",
+            "Data analysis"
+          ]
+        },
+        {
+          "question": "What is the purpose of ionisation in mass spectrometry?",
+          "correct": "To convert atoms or molecules into charged ions",
+          "options": [
+            "To convert atoms or molecules into charged ions",
+            "To split the nucleus",
+            "To increase atomic number",
+            "To change isotopes"
+          ]
+        },
+        {
+          "question": "What are the two main ionisation methods used?",
+          "correct": "Electrospray ionisation and electron impact ionisation",
+          "options": [
+            "Electrospray ionisation and electron impact ionisation",
+            "Thermal ionisation and nuclear ionisation",
+            "Laser ionisation and magnetic ionisation",
+            "Chemical ionisation and fusion"
+          ]
+        },
+        {
+          "question": "What happens during electrospray ionisation?",
+          "correct": "Positively charged droplets form as molecules gain a proton",
+          "options": [
+            "Positively charged droplets form as molecules gain a proton",
+            "Electrons are removed by collision",
+            "Molecules split into fragments",
+            "Neutrons are added to atoms"
+          ]
+        },
+        {
+          "question": "What ion is formed during electrospray ionisation?",
+          "correct": "A positively charged ion formed by gaining a proton (XH⁺)",
+          "options": [
+            "A positively charged ion formed by gaining a proton (XH⁺)",
+            "A negatively charged ion",
+            "A neutral atom",
+            "A doubly charged ion"
+          ]
+        },
+        {
+          "question": "What happens to the solvent in electrospray ionisation?",
+          "correct": "It evaporates causing droplets to shrink",
+          "options": [
+            "It evaporates causing droplets to shrink",
+            "It becomes solid",
+            "It ionises first",
+            "It increases the ion mass"
+          ]
+        },
+        {
+          "question": "What occurs during electron impact ionisation?",
+          "correct": "High-energy electrons knock one electron off each atom or molecule",
+          "options": [
+            "High-energy electrons knock one electron off each atom or molecule",
+            "Atoms gain electrons",
+            "Protons are removed",
+            "Neutrons are released"
+          ]
+        },
+        {
+          "question": "What type of ions are produced by electron impact ionisation?",
+          "correct": "1+ positive ions",
+          "options": [
+            "1+ positive ions",
+            "2+ ions only",
+            "Negative ions",
+            "Neutral atoms"
+          ]
+        },
+        {
+          "question": "What additional effect can occur in molecular samples during electron impact ionisation?",
+          "correct": "Fragmentation of molecules",
+          "options": [
+            "Fragmentation of molecules",
+            "Formation of neutrons",
+            "Loss of nuclei",
+            "Creation of isotopes"
+          ]
+        },
+        {
+          "question": "What happens during the acceleration stage?",
+          "correct": "Ions are attracted toward a negatively charged plate",
+          "options": [
+            "Ions are attracted toward a negatively charged plate",
+            "Ions lose their charge",
+            "Ions collide with gas molecules",
+            "Ions slow down"
+          ]
+        },
+        {
+          "question": "Which ions accelerate fastest in the mass spectrometer?",
+          "correct": "Lighter ions and ions with higher charge",
+          "options": [
+            "Lighter ions and ions with higher charge",
+            "Heavier ions only",
+            "Neutral particles",
+            "Ions with lower charge"
+          ]
+        },
+        {
+          "question": "What happens during ion drift?",
+          "correct": "Ions travel down the flight tube at speeds depending on m/z",
+          "options": [
+            "Ions travel down the flight tube at speeds depending on m/z",
+            "Ions are neutralised",
+            "Ions change isotope",
+            "Ions gain electrons"
+          ]
+        },
+        {
+          "question": "What forms when ions pass through the small hole into the flight tube?",
+          "correct": "A beam of ions",
+          "options": [
+            "A beam of ions",
+            "A cloud of electrons",
+            "A plasma",
+            "A magnetic field"
+          ]
+        },
+        {
+          "question": "What happens when ions reach the detector?",
+          "correct": "They pick up electrons causing a current to flow",
+          "options": [
+            "They pick up electrons causing a current to flow",
+            "They lose mass",
+            "They become neutral permanently",
+            "They stop moving instantly"
+          ]
+        },
+        {
+          "question": "Which ions reach the detector first?",
+          "correct": "Lighter ions",
+          "options": [
+            "Lighter ions",
+            "Heavier ions",
+            "Neutral atoms",
+            "Ions with lower charge only"
+          ]
+        },
+        {
+          "question": "What is measured in a time-of-flight mass spectrometer?",
+          "correct": "The time taken for ions to reach the detector",
+          "options": [
+            "The time taken for ions to reach the detector",
+            "The temperature of ions",
+            "The atomic number",
+            "The number of electrons"
+          ]
+        },
+        {
+          "question": "What is produced from the detector signal?",
+          "correct": "A mass spectrum",
+          "options": [
+            "A mass spectrum",
+            "An electron diagram",
+            "A bonding diagram",
+            "An isotope table"
+          ]
+        },
+        {
+          "question": "What does the x-axis of a mass spectrum represent?",
+          "correct": "Mass-to-charge ratio (m/z)",
+          "options": [
+            "Mass-to-charge ratio (m/z)",
+            "Relative abundance",
+            "Time",
+            "Atomic number"
+          ]
+        },
+        {
+          "question": "What does the y-axis of a mass spectrum represent?",
+          "correct": "Relative abundance",
+          "options": [
+            "Relative abundance",
+            "Atomic mass",
+            "Charge",
+            "Time of flight"
+          ]
+        },
+        {
+          "question": "What are low-resolution mass spectra mainly used for?",
+          "correct": "Finding isotopic composition",
+          "options": [
+            "Finding isotopic composition",
+            "Measuring exact atomic mass",
+            "Identifying bonding type",
+            "Determining electron configuration"
+          ]
+        },
+        {
+          "question": "What are high-resolution mass spectra used for?",
+          "correct": "Distinguishing between molecules with similar relative molecular masses",
+          "options": [
+            "Distinguishing between molecules with similar relative molecular masses",
+            "Finding isotopic ratios only",
+            "Determining atomic number",
+            "Measuring electron energy levels"
+          ]
+        },
+        {
+          "question": "To how many decimal places can high-resolution mass spectrometry measure atomic mass?",
+          "correct": "Up to five decimal places",
+          "options": [
+            "Up to five decimal places",
+            "One decimal place",
+            "Two decimal places",
+            "Ten decimal places"
+          ]
+        },
+        {
+          "question": "Which isotopes of neon are commonly found?",
+          "correct": "Neon-20 and Neon-22",
+          "options": [
+            "Neon-20 and Neon-22",
+            "Neon-21 and Neon-23",
+            "Neon-18 and Neon-20",
+            "Neon-22 and Neon-24"
+          ]
+        },
+        {
+          "question": "What are the approximate abundances of neon isotopes?",
+          "correct": "About 90% neon-20 and 10% neon-22",
+          "options": [
+            "About 90% neon-20 and 10% neon-22",
+            "50% each",
+            "75% neon-22 and 25% neon-20",
+            "100% neon-20"
+          ]
+        },
+        {
+          "question": "Why is neon’s relative atomic mass about 20.2?",
+          "correct": "It is a weighted average of its isotopes",
+          "options": [
+            "It is a weighted average of its isotopes",
+            "It is the mass of neon-20",
+            "It is rounded from 22",
+            "It is based on proton number"
+          ]
+        },
+        {
+          "question": "Which isotopes of chlorine exist naturally?",
+          "correct": "Chlorine-35 and chlorine-37",
+          "options": [
+            "Chlorine-35 and chlorine-37",
+            "Chlorine-36 and chlorine-38",
+            "Chlorine-34 and chlorine-36",
+            "Chlorine-35 only"
+          ]
+        },
+        {
+          "question": "What is the natural abundance ratio of chlorine isotopes?",
+          "correct": "3:1 for chlorine-35 to chlorine-37",
+          "options": [
+            "3:1 for chlorine-35 to chlorine-37",
+            "1:1",
+            "2:1",
+            "4:1"
+          ]
+        },
+        {
+          "question": "Why is chlorine’s relative atomic mass about 35.5?",
+          "correct": "It is the weighted average of chlorine-35 and chlorine-37",
+          "options": [
+            "It is the weighted average of chlorine-35 and chlorine-37",
+            "It is rounded from 36",
+            "It equals its atomic number",
+            "It comes from chlorine-35 only"
+          ]
+        },
+        {
+          "question": "How many main peaks appear in a chlorine mass spectrum for atomic ions?",
+          "correct": "Two peaks at m/z 35 and 37",
+          "options": [
+            "Two peaks at m/z 35 and 37",
+            "One peak at m/z 36",
+            "Three equal peaks",
+            "Four random peaks"
+          ]
+        },
+        {
+          "question": "What molecular ion peak corresponds to 35Cl–35Cl?",
+          "correct": "m/z 70",
+          "options": [
+            "m/z 70",
+            "m/z 72",
+            "m/z 74",
+            "m/z 35"
+          ]
+        },
+        {
+          "question": "What molecular ion peak corresponds to 35Cl–37Cl?",
+          "correct": "m/z 72",
+          "options": [
+            "m/z 72",
+            "m/z 70",
+            "m/z 74",
+            "m/z 37"
+          ]
+        },
+        {
+          "question": "What molecular ion peak corresponds to 37Cl–37Cl?",
+          "correct": "m/z 74",
+          "options": [
+            "m/z 74",
+            "m/z 70",
+            "m/z 72",
+            "m/z 37"
+          ]
+        },
+        {
+          "question": "What fraction of Cl₂ molecules give an m/z peak of 70?",
+          "correct": "9/16",
+          "options": [
+            "9/16",
+            "6/16",
+            "1/16",
+            "3/16"
+          ]
+        },
+        {
+          "question": "What fraction of Cl₂ molecules give an m/z peak of 72?",
+          "correct": "6/16",
+          "options": [
+            "6/16",
+            "9/16",
+            "1/16",
+            "3/16"
+          ]
+        },
+        {
+          "question": "What fraction of Cl₂ molecules give an m/z peak of 74?",
+          "correct": "1/16",
+          "options": [
+            "1/16",
+            "6/16",
+            "9/16",
+            "3/16"
+          ]
+        },
+        {
+          "question": "Why can elements be identified using mass spectrometry?",
+          "correct": "Each element has a unique isotopic pattern",
+          "options": [
+            "Each element has a unique isotopic pattern",
+            "Each element has the same charge",
+            "Each element has a fixed mass number",
+            "Each element has identical ions"
+          ]
+        },
+        {
+          "question": "Why are Ar and Mr described as weighted averages?",
+          "correct": "They depend on both isotopic masses and abundances",
+          "options": [
+            "They depend on both isotopic masses and abundances",
+            "They are simple means",
+            "They depend only on the most abundant isotope",
+            "They depend on atomic number"
+          ]
+        },
+        {
+          "question": "What key fact must be remembered about carbon-12?",
+          "correct": "Its mass is defined as exactly 12",
+          "options": [
+            "Its mass is defined as exactly 12",
+            "It is radioactive",
+            "It has the highest abundance",
+            "It has one neutron"
+          ]
+        },
+        {
+          "question": "What does a mass spectrometer separate ions based on?",
+          "correct": "Mass-to-charge ratio (m/z)",
+          "options": [
+            "Mass-to-charge ratio (m/z)",
+            "Atomic number",
+            "Electron number",
+            "Neutron number"
+          ]
+        },
+        {
+          "question": "How is time of flight related to mass-to-charge ratio?",
+          "correct": "Time of flight is proportional to the square root of mass-to-charge",
+          "options": [
+            "Time of flight is proportional to the square root of mass-to-charge",
+            "Time of flight increases linearly with charge",
+            "Time of flight depends only on mass",
+            "Time of flight is constant"
+          ]
+        }
+      ],
+      "2.1.5. - More about Electron Arrangements in Atoms": [
+        {
+          "question": "What did ancient Greek philosophers believe all matter was made from?",
+          "correct": "One continuous substance forming earth, air, fire, and water",
+          "options": [
+            "One continuous substance forming earth, air, fire, and water",
+            "Tiny solid particles called atoms",
+            "Positive and negative charges",
+            "Protons, neutrons, and electrons"
+          ]
+        },
+        {
+          "question": "What was the main aim of medieval alchemists?",
+          "correct": "To transform base metals into gold",
+          "options": [
+            "To discover sub-atomic particles",
+            "To transform base metals into gold",
+            "To measure atomic masses",
+            "To develop quantum theory"
+          ]
+        },
+        {
+          "question": "What important contribution did alchemists make to modern chemistry?",
+          "correct": "They provided experimental groundwork through early investigations",
+          "options": [
+            "They discovered electrons",
+            "They created atomic theory",
+            "They provided experimental groundwork through early investigations",
+            "They defined isotopes"
+          ]
+        },
+        {
+          "question": "Who first defined the concept of a chemical element?",
+          "correct": "Robert Boyle",
+          "options": [
+            "John Dalton",
+            "Robert Boyle",
+            "Ernest Rutherford",
+            "J. J. Thomson"
+          ]
+        },
+        {
+          "question": "What did John Dalton propose about atoms in 1803?",
+          "correct": "All matter is made of indivisible atoms with different masses for different elements",
+          "options": [
+            "Atoms contain electrons",
+            "Atoms have nuclei",
+            "All matter is made of indivisible atoms with different masses for different elements",
+            "Atoms emit radiation"
+          ]
+        },
+        {
+          "question": "Which discovery proved that atoms are not indivisible?",
+          "correct": "The discovery of radioactivity",
+          "options": [
+            "The discovery of isotopes",
+            "The discovery of radioactivity",
+            "The discovery of protons",
+            "The discovery of shells"
+          ]
+        },
+        {
+          "question": "Who discovered the electron?",
+          "correct": "J. J. Thomson",
+          "options": [
+            "Ernest Rutherford",
+            "James Chadwick",
+            "J. J. Thomson",
+            "Niels Bohr"
+          ]
+        },
+        {
+          "question": "What model of the atom did J. J. Thomson propose?",
+          "correct": "The plum pudding model",
+          "options": [
+            "The nuclear model",
+            "The Bohr model",
+            "The charge cloud model",
+            "The plum pudding model"
+          ]
+        },
+        {
+          "question": "What did Rutherford's experiment show about the atom?",
+          "correct": "Most mass and all positive charge are concentrated in a tiny nucleus",
+          "options": [
+            "Atoms are indivisible",
+            "Electrons orbit randomly",
+            "Most mass and all positive charge are concentrated in a tiny nucleus",
+            "Atoms contain only positive charge"
+          ]
+        },
+        {
+          "question": "Which particles are found in the nucleus?",
+          "correct": "Protons and neutrons",
+          "options": [
+            "Electrons only",
+            "Protons and electrons",
+            "Neutrons and electrons",
+            "Protons and neutrons"
+          ]
+        },
+        {
+          "question": "What are protons and neutrons collectively called?",
+          "correct": "Nucleons",
+          "options": [
+            "Isotopes",
+            "Ions",
+            "Nucleons",
+            "Orbitals"
+          ]
+        },
+        {
+          "question": "Where are electrons located in an atom?",
+          "correct": "In energy levels around the nucleus",
+          "options": [
+            "Inside the nucleus",
+            "In the neutron cloud",
+            "In energy levels around the nucleus",
+            "Between protons"
+          ]
+        },
+        {
+          "question": "What is the charge of a proton?",
+          "correct": "+1",
+          "options": [
+            "+1",
+            "0",
+            "-1",
+            "+2"
+          ]
+        },
+        {
+          "question": "What is the relative charge of an electron?",
+          "correct": "-1",
+          "options": [
+            "0",
+            "+1",
+            "-1",
+            "-2"
+          ]
+        },
+        {
+          "question": "Why is an atom neutral?",
+          "correct": "It has equal numbers of protons and electrons",
+          "options": [
+            "It has no neutrons",
+            "It has equal numbers of protons and electrons",
+            "Its electrons cancel each other",
+            "Its nucleus has no charge"
+          ]
+        },
+        {
+          "question": "What force holds the nucleus together?",
+          "correct": "The strong nuclear force",
+          "options": [
+            "Electrostatic force",
+            "Gravitational force",
+            "Magnetic force",
+            "The strong nuclear force"
+          ]
+        },
+        {
+          "question": "What is the atomic number (Z) defined as?",
+          "correct": "The number of protons in the nucleus",
+          "options": [
+            "The number of neutrons",
+            "The total mass of the atom",
+            "The number of protons in the nucleus",
+            "The number of electrons in the outer shell"
+          ]
+        },
+        {
+          "question": "What determines the identity of an element?",
+          "correct": "Its atomic number",
+          "options": [
+            "Its mass number",
+            "Its number of neutrons",
+            "Its atomic number",
+            "Its electron shells"
+          ]
+        },
+        {
+          "question": "What is the mass number (A)?",
+          "correct": "The total number of protons and neutrons",
+          "options": [
+            "The number of electrons",
+            "The total number of protons and neutrons",
+            "The total mass of electrons",
+            "The number of shells"
+          ]
+        },
+        {
+          "question": "Why does almost all atomic mass come from the nucleus?",
+          "correct": "Electrons have negligible mass",
+          "options": [
+            "Neutrons have no mass",
+            "Electrons have negligible mass",
+            "Protons are massless",
+            "Shells add mass"
+          ]
+        },
+        {
+          "question": "What are isotopes?",
+          "correct": "Atoms with the same atomic number but different mass numbers",
+          "options": [
+            "Atoms with different numbers of protons",
+            "Atoms with the same mass number",
+            "Atoms with the same atomic number but different mass numbers",
+            "Atoms with no neutrons"
+          ]
+        },
+        {
+          "question": "Why do isotopes have the same chemical properties?",
+          "correct": "They have the same number of electrons",
+          "options": [
+            "They have the same mass",
+            "They have the same number of neutrons",
+            "They have the same number of electrons",
+            "They are all radioactive"
+          ]
+        },
+        {
+          "question": "Why do isotopes have different physical properties?",
+          "correct": "They have different numbers of neutrons",
+          "options": [
+            "They have different numbers of protons",
+            "They have different electron arrangements",
+            "They have different numbers of neutrons",
+            "They have different charges"
+          ]
+        },
+        {
+          "question": "Which isotope of carbon is radioactive?",
+          "correct": "Carbon-14",
+          "options": [
+            "Carbon-12",
+            "Carbon-13",
+            "Carbon-14",
+            "Carbon-11"
+          ]
+        },
+        {
+          "question": "What does the superscript number in nuclear notation represent?",
+          "correct": "The mass number",
+          "options": [
+            "The atomic number",
+            "The charge",
+            "The number of electrons",
+            "The mass number"
+          ]
+        },
+        {
+          "question": "What does the subscript number in nuclear notation represent?",
+          "correct": "The atomic number",
+          "options": [
+            "The mass number",
+            "The atomic number",
+            "The number of neutrons",
+            "The isotope abundance"
+          ]
+        },
+        {
+          "question": "How is carbon-14 produced in the atmosphere?",
+          "correct": "Cosmic-ray neutrons collide with nitrogen atoms",
+          "options": [
+            "Carbon reacts with oxygen",
+            "Cosmic-ray neutrons collide with nitrogen atoms",
+            "Carbon decays naturally",
+            "Photosynthesis produces it"
+          ]
+        },
+        {
+          "question": "What is the half-life of carbon-14?",
+          "correct": "About 5730 years",
+          "options": [
+            "3000 years",
+            "5730 years",
+            "12,000 years",
+            "60,000 years"
+          ]
+        },
+        {
+          "question": "Why can carbon-14 be used to date organic remains?",
+          "correct": "Its radioactivity decreases at a known rate after death",
+          "options": [
+            "It is present only in dead organisms",
+            "It increases after death",
+            "Its radioactivity decreases at a known rate after death",
+            "It changes into oxygen"
+          ]
+        },
+        {
+          "question": "What is the maximum age range for radiocarbon dating?",
+          "correct": "Up to about 60,000 years",
+          "options": [
+            "Up to 2,000 years",
+            "Up to 10,000 years",
+            "Up to about 60,000 years",
+            "Unlimited"
+          ]
+        }
+      ],
+      "2.1.6. - Electron Arrangements and Ionisation Energy": [
+        {
+          "question": "What is the definition of ionisation energy (IE)?",
+          "correct": "The energy required to remove one mole of electrons from one mole of gaseous atoms to form one mole of gaseous positive ions",
+          "options": [
+            "The energy released when an atom gains an electron",
+            "The energy required to remove one mole of electrons from one mole of gaseous atoms to form one mole of gaseous positive ions",
+            "The energy needed to break a chemical bond",
+            "The energy required to move an electron within the same shell"
+          ]
+        },
+        {
+          "question": "What is the unit of ionisation energy?",
+          "correct": "kJ mol−1",
+          "options": [
+            "J",
+            "kJ mol−1",
+            "eV",
+            "kPa"
+          ]
+        },
+        {
+          "question": "Which equation represents the first ionisation energy of sodium?",
+          "correct": "Na(g) → Na+(g) + e−",
+          "options": [
+            "Na(g) + e− → Na−(g)",
+            "Na(g) → Na+(g) + e−",
+            "Na2+(g) → Na+(g) + e−",
+            "Na(g) → Na(g) + energy"
+          ]
+        },
+        {
+          "question": "Why does successive ionisation energy increase for each electron removed?",
+          "correct": "Remaining electrons are more strongly attracted to the increasingly positive ion",
+          "options": [
+            "Electrons are further from the nucleus",
+            "Remaining electrons are more strongly attracted to the increasingly positive ion",
+            "Nuclear charge decreases",
+            "Shielding decreases dramatically"
+          ]
+        },
+        {
+          "question": "What does a large jump in successive ionisation energies indicate?",
+          "correct": "An electron is being removed from a new inner main energy level",
+          "options": [
+            "Electrons are being removed from the same shell",
+            "The atom is gaining energy",
+            "An electron is being removed from a new inner main energy level",
+            "The atom is neutralized"
+          ]
+        },
+        {
+          "question": "How do successive ionisation energies provide evidence for energy levels?",
+          "correct": "The jumps in energy correspond to electrons being removed from different shells",
+          "options": [
+            "All electrons require the same energy to remove",
+            "The jumps in energy correspond to electrons being removed from different shells",
+            "Energy decreases for each successive electron",
+            "Electrons are randomly distributed"
+          ]
+        },
+        {
+          "question": "Why does first ionisation energy generally increase across a period?",
+          "correct": "Nuclear charge increases, atomic radius decreases, and shielding remains constant",
+          "options": [
+            "Nuclear charge decreases and atomic radius increases",
+            "Nuclear charge increases, atomic radius decreases, and shielding remains constant",
+            "Electrons are further from the nucleus",
+            "Number of protons decreases"
+          ]
+        },
+        {
+          "question": "Why is the first ionisation energy of aluminum lower than magnesium despite being to its right in the periodic table?",
+          "correct": "The outer 3p electron in Al is in a higher-energy orbital, slightly further from the nucleus",
+          "options": [
+            "Al has fewer protons than Mg",
+            "The outer 3p electron in Al is in a higher-energy orbital, slightly further from the nucleus",
+            "Mg has more shielding than Al",
+            "Electron-electron repulsion is lower in Al"
+          ]
+        },
+        {
+          "question": "Why is sulfur's first ionisation energy lower than phosphorus's?",
+          "correct": "Paired electrons in the same orbital repel, making it easier to remove one",
+          "options": [
+            "Sulfur has fewer protons than phosphorus",
+            "Paired electrons in the same orbital repel, making it easier to remove one",
+            "Phosphorus has higher shielding",
+            "Sulfur is smaller than phosphorus"
+          ]
+        },
+        {
+          "question": "What general trend is observed for ionisation energy down a group?",
+          "correct": "Ionisation energy decreases",
+          "options": [
+            "Ionisation energy increases",
+            "Ionisation energy stays the same",
+            "Ionisation energy decreases",
+            "Ionisation energy fluctuates randomly"
+          ]
+        },
+        {
+          "question": "Why does ionisation energy decrease down a group?",
+          "correct": "Outer electrons are further from the nucleus and shielding reduces effective nuclear attraction",
+          "options": [
+            "Nuclear charge decreases down a group",
+            "Electrons are closer to the nucleus",
+            "Outer electrons are further from the nucleus and shielding reduces effective nuclear attraction",
+            "Atoms become smaller"
+          ]
         }
       ]
     }
