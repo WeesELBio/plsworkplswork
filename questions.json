@@ -8979,6 +8979,3409 @@
           ]
         }
       ]
+    },
+    "2.2. - Amount of Substance": {
+      "2.2.1. - Relative Atomic and Molecular Masses, the Avogadro Constant, and the Mole": [
+        {
+          "question": "What is the definition of relative atomic mass (Ar)?",
+          "correct": "The weighted average mass of an atom of an element, taking into account its naturally occurring isotopes, relative to one-twelfth of the mass of a carbon-12 atom.",
+          "options": [
+            "The mass of a single isotope of an element.",
+            "The weighted average mass of an atom of an element, taking into account its naturally occurring isotopes, relative to one-twelfth of the mass of a carbon-12 atom.",
+            "The total number of atoms in one mole of a substance.",
+            "The mass of a molecule compared to the mass of a hydrogen atom."
+          ]
+        },
+        {
+          "question": "Which isotope is used as the standard reference for relative atomic mass?",
+          "correct": "Carbon-12",
+          "options": [
+            "Hydrogen-1",
+            "Carbon-12",
+            "Oxygen-16",
+            "Nitrogen-14"
+          ]
+        },
+        {
+          "question": "What is the formula to calculate relative atomic mass (Ar) using isotopes?",
+          "correct": "Ar = (mass1 × abundance1 + mass2 × abundance2 + ...) / total % abundance",
+          "options": [
+            "Ar = (mass1 + mass2 + ...) / number of isotopes",
+            "Ar = (mass1 × abundance1 + mass2 × abundance2 + ...) / total % abundance",
+            "Ar = total mass / 12",
+            "Ar = sum of atomic numbers of isotopes / number of isotopes"
+          ]
+        },
+        {
+          "question": "What does relative molecular mass (Mr) compare?",
+          "correct": "The mass of a molecule compared to one-twelfth of the Ar of a carbon-12 atom.",
+          "options": [
+            "The mass of a molecule compared to the mass of hydrogen.",
+            "The mass of a molecule compared to one-twelfth of the Ar of a carbon-12 atom.",
+            "The total number of molecules in a mole.",
+            "The mass of one atom of the molecule."
+          ]
+        },
+        {
+          "question": "How is relative molecular mass (Mr) calculated?",
+          "correct": "By adding up the relative atomic masses of all atoms in the molecular formula.",
+          "options": [
+            "By multiplying the masses of all atoms in the formula.",
+            "By adding up the relative atomic masses of all atoms in the molecular formula.",
+            "By dividing the mass of the molecule by 12.",
+            "By averaging the isotopic masses of atoms."
+          ]
+        },
+        {
+          "question": "What is relative formula mass used for?",
+          "correct": "For ionic compounds, which do not exist as molecules.",
+          "options": [
+            "For molecules only.",
+            "For atoms only.",
+            "For ionic compounds, which do not exist as molecules.",
+            "For calculating the number of moles."
+          ]
+        },
+        {
+          "question": "What is the definition of the Avogadro constant (Na)?",
+          "correct": "The number of atoms in 12 g of carbon-12, equal to 6.022 × 10^23 mol−1.",
+          "options": [
+            "The mass of one atom of carbon-12.",
+            "The number of atoms in 12 g of carbon-12, equal to 6.022 × 10^23 mol−1.",
+            "The relative atomic mass of an element.",
+            "The number of molecules in 1 g of substance."
+          ]
+        },
+        {
+          "question": "How many particles are there in 1 mole of any substance?",
+          "correct": "6.022 × 10^23",
+          "options": [
+            "1 × 10^23",
+            "6.022 × 10^23",
+            "12",
+            "Avogadro's number squared"
+          ]
+        },
+        {
+          "question": "What is the definition of a mole?",
+          "correct": "The amount of substance containing 6.022 × 10^23 entities (atoms, molecules, ions, electrons, etc.).",
+          "options": [
+            "The mass of a substance in grams.",
+            "The amount of substance containing 6.022 × 10^23 entities (atoms, molecules, ions, electrons, etc.).",
+            "The number of atoms in 1 g of hydrogen.",
+            "The relative atomic mass of an element."
+          ]
+        },
+        {
+          "question": "What is the relationship between the relative atomic/molecular/formula mass in grams and the mole?",
+          "correct": "The relative mass in grams corresponds to 1 mole of that substance.",
+          "options": [
+            "It corresponds to half a mole of the substance.",
+            "It corresponds to 1 mole of that substance.",
+            "It corresponds to 1 gram of that substance.",
+            "It is unrelated to the mole."
+          ]
+        },
+        {
+          "question": "What is an 'entity' in chemistry?",
+          "correct": "A general term for a particle — could be an atom, molecule, ion, or formula unit.",
+          "options": [
+            "A chemical reaction.",
+            "A general term for a particle — could be an atom, molecule, ion, or formula unit.",
+            "A type of molecule only.",
+            "A unit of molar mass."
+          ]
+        },
+        {
+          "question": "What is the definition of molar mass (M)?",
+          "correct": "The mass per mole of a substance, with units g mol−1, numerically equal to the relative mass (Mr).",
+          "options": [
+            "The mass of a single atom of an element.",
+            "The mass per mole of a substance, with units g mol−1, numerically equal to the relative mass (Mr).",
+            "The total number of atoms in a mole.",
+            "The mass of 12 g of carbon-12."
+          ]
+        },
+        {
+          "question": "What is the formula to calculate the number of moles (n)?",
+          "correct": "n = mass (g) / molar mass (g mol−1)",
+          "options": [
+            "n = mass × molar mass",
+            "n = mass (g) / molar mass (g mol−1)",
+            "n = molar mass / mass",
+            "n = number of particles / Avogadro's number"
+          ]
+        },
+        {
+          "question": "How can the formula for number of moles be rearranged to find mass?",
+          "correct": "Mass = n × M",
+          "options": [
+            "Mass = M / n",
+            "Mass = n × M",
+            "Mass = n + M",
+            "Mass = n ÷ M"
+          ]
+        },
+        {
+          "question": "How can the formula for number of moles be rearranged to find molar mass?",
+          "correct": "Molar mass = mass ÷ n",
+          "options": [
+            "Molar mass = n × mass",
+            "Molar mass = mass ÷ n",
+            "Molar mass = mass + n",
+            "Molar mass = mass − n"
+          ]
+        }
+      ],
+      "2.2.2. - Moles in Solutions": [
+        {
+          "question": "What is a solution in chemistry?",
+          "correct": "A solution consists of a solute dissolved in a solvent.",
+          "options": [
+            "A mixture of two immiscible liquids.",
+            "A solution consists of a solute dissolved in a solvent.",
+            "A pure substance in solid form.",
+            "A solvent without any solute."
+          ]
+        },
+        {
+          "question": "What is the solute in a solution?",
+          "correct": "The substance being dissolved.",
+          "options": [
+            "The liquid in which the solute dissolves.",
+            "The substance being dissolved.",
+            "The final solution volume.",
+            "The solvent with impurities."
+          ]
+        },
+        {
+          "question": "What is the solvent in a solution?",
+          "correct": "The liquid in which the solute dissolves.",
+          "options": [
+            "The substance being dissolved.",
+            "The liquid in which the solute dissolves.",
+            "The total solution mass.",
+            "The solute after evaporation."
+          ]
+        },
+        {
+          "question": "What does concentration of a solution tell us?",
+          "correct": "How much solute is present in a known volume of solution.",
+          "options": [
+            "The total mass of the solution.",
+            "The color intensity of the solution.",
+            "How much solute is present in a known volume of solution.",
+            "The temperature of the solution."
+          ]
+        },
+        {
+          "question": "What are the units of concentration?",
+          "correct": "mol dm−3",
+          "options": [
+            "g dm−3",
+            "mol dm−3",
+            "kg m−3",
+            "mol/L only"
+          ]
+        },
+        {
+          "question": "What does 1 mol dm−3 mean?",
+          "correct": "1 mole of solute per 1 dm3 of solution.",
+          "options": [
+            "1 mole of solute per 1000 dm3 of solution.",
+            "1 mole of solute per 1 dm3 of solution.",
+            "1 gram of solute per 1 dm3 of solution.",
+            "1 mole of solvent per 1 dm3 of solution."
+          ]
+        },
+        {
+          "question": "What is the formula to calculate concentration?",
+          "correct": "c = n / V",
+          "options": [
+            "c = n × V",
+            "c = n / V",
+            "c = V / n",
+            "c = mass / n"
+          ]
+        },
+        {
+          "question": "What does each symbol represent in c = n / V?",
+          "correct": "c = concentration (mol dm−3), n = number of moles (mol), V = volume of solution (dm3)",
+          "options": [
+            "c = mass, n = number of molecules, V = volume in litres",
+            "c = concentration (mol dm−3), n = number of moles (mol), V = volume of solution (dm3)",
+            "c = concentration in g/L, n = mass in grams, V = volume in cm3",
+            "c = chemical constant, n = Avogadro's number, V = volume in m3"
+          ]
+        },
+        {
+          "question": "How do you convert cm3 to dm3?",
+          "correct": "1 dm3 = 1000 cm3",
+          "options": [
+            "1 dm3 = 10 cm3",
+            "1 dm3 = 100 cm3",
+            "1 dm3 = 1000 cm3",
+            "1 dm3 = 0.1 cm3"
+          ]
+        },
+        {
+          "question": "If a solution has 2 mol dm−3 concentration, how many moles are in 1 dm3 of solution?",
+          "correct": "2 moles",
+          "options": [
+            "1 mole",
+            "2 moles",
+            "0.5 moles",
+            "4 moles"
+          ]
+        },
+        {
+          "question": "How do you calculate number of moles if volume is in cm3?",
+          "correct": "n = c × V / 1000",
+          "options": [
+            "n = c × V × 1000",
+            "n = c × V / 1000",
+            "n = V / c × 1000",
+            "n = c / V × 1000"
+          ]
+        },
+        {
+          "question": "When preparing a 1 mol dm−3 solution, what is important about the solvent volume?",
+          "correct": "Add solvent until the total volume equals 1 dm3, not to 1 dm3 of solvent.",
+          "options": [
+            "Add exactly 1 dm3 of solvent regardless of solute.",
+            "Add solvent until the total volume equals 1 dm3, not to 1 dm3 of solvent.",
+            "Add half the solvent volume first, then double it.",
+            "Add solvent equal to the mass of solute in grams."
+          ]
+        },
+        {
+          "question": "What does the small negative in 'mol dm−3' mean?",
+          "correct": "It means 'per', and it can also be written as 'mol/dm3'.",
+          "options": [
+            "It indicates a negative concentration.",
+            "It is a typo and has no meaning.",
+            "It means 'per', and it can also be written as 'mol/dm3'.",
+            "It shows the concentration is in mol/cm3."
+          ]
+        },
+        {
+          "question": "What is measurement uncertainty?",
+          "correct": "All measurements have uncertainty (error), calculated as 1⁄2 × smallest division of the measuring instrument.",
+          "options": [
+            "The maximum possible value of a measurement.",
+            "All measurements have uncertainty (error), calculated as 1⁄2 × smallest division of the measuring instrument.",
+            "The exact error of a chemical reaction.",
+            "The difference between mass and volume."
+          ]
+        },
+        {
+          "question": "What is the uncertainty of a 100 cm3 measuring cylinder with 1 cm3 divisions?",
+          "correct": "±0.5 cm3",
+          "options": [
+            "±1 cm3",
+            "±0.1 cm3",
+            "±0.5 cm3",
+            "±2 cm3"
+          ]
+        },
+        {
+          "question": "How do you calculate the percentage error of a measurement?",
+          "correct": "Percentage error = (uncertainty ÷ measured value) × 100",
+          "options": [
+            "Percentage error = measured value ÷ uncertainty × 100",
+            "Percentage error = (uncertainty ÷ measured value) × 100",
+            "Percentage error = uncertainty × measured value",
+            "Percentage error = measured value − uncertainty"
+          ]
+        }
+      ],
+      "2.2.3. - Ideal Gas Equation": [
+        {
+          "question": "What is the ideal gas equation?",
+          "correct": "PV = nRT",
+          "options": [
+            "P + V = nRT",
+            "PV = nRT",
+            "P / V = nRT",
+            "P × V × T = nR"
+          ]
+        },
+        {
+          "question": "What does 'R' represent in the ideal gas equation and its value?",
+          "correct": "Gas constant, 8.31 J K−1 mol−1",
+          "options": [
+            "Gas constant, 8.31 J K−1 mol−1",
+            "Universal constant, 6.022 × 10^23",
+            "Relative atomic mass constant, 12",
+            "Pressure constant, 101325 Pa"
+          ]
+        },
+        {
+          "question": "What SI units should be used for pressure (P) in the ideal gas equation?",
+          "correct": "Pa (N m−2)",
+          "options": [
+            "kPa",
+            "atm",
+            "Pa (N m−2)",
+            "mmHg"
+          ]
+        },
+        {
+          "question": "What SI units should be used for volume (V) in the ideal gas equation?",
+          "correct": "m3",
+          "options": [
+            "cm3",
+            "dm3",
+            "m3",
+            "L"
+          ]
+        },
+        {
+          "question": "How do you convert cm3 to m3?",
+          "correct": "1 cm3 = 1 × 10−6 m3",
+          "options": [
+            "1 cm3 = 1 × 10−3 m3",
+            "1 cm3 = 1 × 10−6 m3",
+            "1 cm3 = 1 × 10−9 m3",
+            "1 cm3 = 0.001 m3"
+          ]
+        },
+        {
+          "question": "How do you convert °C to K for use in the ideal gas equation?",
+          "correct": "Add 273 to the temperature in °C",
+          "options": [
+            "Subtract 273 from the temperature in °C",
+            "Add 100 to the temperature in °C",
+            "Add 273 to the temperature in °C",
+            "Multiply °C by 273"
+          ]
+        },
+        {
+          "question": "At room temperature and pressure (RTP), approximately what volume does 1 mole of gas occupy?",
+          "correct": "24 dm3 (24,000 cm3)",
+          "options": [
+            "22 dm3",
+            "24 dm3 (24,000 cm3)",
+            "1 dm3",
+            "1000 cm3"
+          ]
+        },
+        {
+          "question": "What is the formula to calculate the number of moles of gas using the ideal gas equation?",
+          "correct": "n = PV / RT",
+          "options": [
+            "n = P + V + R + T",
+            "n = PV / RT",
+            "n = PRT / V",
+            "n = V / P"
+          ]
+        },
+        {
+          "question": "What is an ideal gas?",
+          "correct": "A theoretical gas that obeys PV = nRT exactly.",
+          "options": [
+            "A real gas at high pressure.",
+            "A theoretical gas that obeys PV = nRT exactly.",
+            "Any gas at room temperature.",
+            "A gas that does not obey any gas laws."
+          ]
+        },
+        {
+          "question": "Why is PV = nRT preferred over using 24,000 cm3 per mole for calculations?",
+          "correct": "PV = nRT provides accuracy for any temperature and pressure, whereas 24,000 cm3 is only an approximation at RTP.",
+          "options": [
+            "PV = nRT is easier to memorize.",
+            "PV = nRT provides accuracy for any temperature and pressure, whereas 24,000 cm3 is only an approximation at RTP.",
+            "24,000 cm3 per mole is always exact.",
+            "PV = nRT ignores temperature effects."
+          ]
+        }
+      ],
+      "2.2.4. - Empirical and Molecular Formulae": [
+        {
+          "question": "What is an empirical formula?",
+          "correct": "The simplest whole-number ratio of atoms of each element in a compound.",
+          "options": [
+            "The actual number of atoms of each element in a molecule.",
+            "The simplest whole-number ratio of atoms of each element in a compound.",
+            "The molecular mass of a compound.",
+            "The total number of moles of a compound."
+          ]
+        },
+        {
+          "question": "What is a molecular formula?",
+          "correct": "The actual number of atoms of each element in one molecule of the compound.",
+          "options": [
+            "The simplest ratio of atoms of each element.",
+            "The actual number of atoms of each element in one molecule of the compound.",
+            "The relative atomic mass of a molecule.",
+            "The percentage composition of elements in a compound."
+          ]
+        },
+        {
+          "question": "How do you calculate the number of moles of an element for empirical formula determination?",
+          "correct": "Moles = mass ÷ Ar",
+          "options": [
+            "Moles = mass × Ar",
+            "Moles = mass ÷ Ar",
+            "Moles = mass + Ar",
+            "Moles = Ar ÷ mass"
+          ]
+        },
+        {
+          "question": "What is the next step after calculating moles for each element when finding an empirical formula?",
+          "correct": "Simplify the ratio of moles to the smallest whole numbers.",
+          "options": [
+            "Multiply all mole values by Ar.",
+            "Simplify the ratio of moles to the smallest whole numbers.",
+            "Add all moles together.",
+            "Divide each mole value by 100."
+          ]
+        },
+        {
+          "question": "What should you do if mole ratios aren’t whole numbers?",
+          "correct": "Multiply all ratios by a common factor to get whole numbers.",
+          "options": [
+            "Round all ratios to the nearest integer.",
+            "Multiply all ratios by a common factor to get whole numbers.",
+            "Use the ratios as decimals.",
+            "Divide all ratios by the largest number."
+          ]
+        },
+        {
+          "question": "How do you calculate the molecular formula from the empirical formula?",
+          "correct": "Multiply each subscript in the empirical formula by n, where n = Molecular Mr ÷ Empirical Mr.",
+          "options": [
+            "Divide each subscript by n, where n = Molecular Mr ÷ Empirical Mr.",
+            "Multiply each subscript in the empirical formula by n, where n = Molecular Mr ÷ Empirical Mr.",
+            "Add n to each subscript, where n = Molecular Mr × Empirical Mr.",
+            "Subtract n from each subscript, where n = Molecular Mr ÷ Empirical Mr."
+          ]
+        },
+        {
+          "question": "What is a common mistake when calculating empirical formulas?",
+          "correct": "Using atomic number instead of relative atomic mass.",
+          "options": [
+            "Using relative atomic mass instead of atomic number.",
+            "Using atomic number instead of relative atomic mass.",
+            "Rounding ratios to whole numbers too late.",
+            "Summing percentages to more than 100%."
+          ]
+        },
+        {
+          "question": "What is another common pitfall in empirical formula calculations?",
+          "correct": "Rounding mole ratios too early.",
+          "options": [
+            "Using mass instead of Ar.",
+            "Rounding mole ratios too early.",
+            "Ignoring the molecular formula.",
+            "Adding mole ratios instead of dividing."
+          ]
+        },
+        {
+          "question": "How do you find n when calculating molecular formula?",
+          "correct": "n = Molecular Mr ÷ Empirical Mr",
+          "options": [
+            "n = Empirical Mr ÷ Molecular Mr",
+            "n = Molecular Mr ÷ Empirical Mr",
+            "n = Molecular Mr × Empirical Mr",
+            "n = Empirical Mr − Molecular Mr"
+          ]
+        },
+      ],
+      "2.2.5. - Balanced Equations and Related Equations": [
+        {
+          "question": "What is a chemical equation?",
+          "correct": "A representation of what happens during a chemical reaction based on experimental evidence.",
+          "options": [
+            "A list of elements in the periodic table.",
+            "A representation of what happens during a chemical reaction based on experimental evidence.",
+            "A formula for calculating moles.",
+            "A diagram of molecular shapes."
+          ]
+        },
+        {
+          "question": "What does stoichiometry describe?",
+          "correct": "The ratio in which reactants combine and products form in a reaction.",
+          "options": [
+            "The energy changes in a reaction.",
+            "The ratio in which reactants combine and products form in a reaction.",
+            "The rate of a chemical reaction.",
+            "The solubility of compounds."
+          ]
+        },
+        {
+          "question": "What law must be followed when writing balanced chemical equations?",
+          "correct": "Law of Conservation of Mass: atoms are not created or destroyed.",
+          "options": [
+            "Law of Constant Composition.",
+            "Law of Conservation of Mass: atoms are not created or destroyed.",
+            "Avogadro's Law.",
+            "Charles' Law."
+          ]
+        },
+        {
+          "question": "What do the state symbols (s), (l), (g), and (aq) represent?",
+          "correct": "(s) solid, (l) liquid, (g) gas, (aq) aqueous solution",
+          "options": [
+            "(s) solution, (l) light, (g) gas, (aq) acid",
+            "(s) solid, (l) liquid, (g) gas, (aq) aqueous solution",
+            "(s) solid, (l) liquid, (g) gold, (aq) aqueous solution",
+            "(s) solvent, (l) liquid, (g) gas, (aq) alkali"
+          ]
+        },
+        {
+          "question": "When balancing chemical equations, what can you change to balance them?",
+          "correct": "Add coefficients in front of compounds; do not change the formula.",
+          "options": [
+            "Change the chemical formulas.",
+            "Add coefficients in front of compounds; do not change the formula.",
+            "Change the physical states.",
+            "Multiply molar masses."
+          ]
+        },
+        {
+          "question": "What are spectator ions?",
+          "correct": "Ions that do not change during the reaction and can be removed in ionic equations.",
+          "options": [
+            "Ions that form new compounds.",
+            "Ions that do not change during the reaction and can be removed in ionic equations.",
+            "Ions with a charge of zero.",
+            "Ions that react with water."
+          ]
+        },
+        {
+          "question": "How do you calculate the mass of a product from a balanced equation?",
+          "correct": "Mass = moles × molar mass",
+          "options": [
+            "Mass = moles ÷ molar mass",
+            "Mass = moles × molar mass",
+            "Mass = molar mass ÷ moles",
+            "Mass = moles + molar mass"
+          ]
+        },
+        {
+          "question": "In titrations, what is the purpose of the indicator?",
+          "correct": "To show the end point by changing colour.",
+          "options": [
+            "To neutralise the acid.",
+            "To react with the burette solution.",
+            "To show the end point by changing colour.",
+            "To measure the volume of solution."
+          ]
+        },
+        {
+          "question": "How do you calculate the concentration of an unknown solution from a titration?",
+          "correct": "Concentration = (moles of solute × 1000) ÷ volume of solution in cm3",
+          "options": [
+            "Concentration = moles × volume",
+            "Concentration = (moles of solute × 1000) ÷ volume of solution in cm3",
+            "Concentration = volume ÷ moles",
+            "Concentration = moles ÷ molar mass"
+          ]
+        },
+        {
+          "question": "What does 'concordant titres' mean in titration experiments?",
+          "correct": "Titres that agree within 0.10 cm3",
+          "options": [
+            "Titres that are exactly the same",
+            "Titres that agree within 0.10 cm3",
+            "Titres measured with different indicators",
+            "Titres that differ by more than 1 cm3"
+          ]
+        },
+        {
+          "question": "When reporting answers from calculations, how should significant figures be handled?",
+          "correct": "Round only at the end and match the least precise given data.",
+          "options": [
+            "Round at every step.",
+            "Round only at the end and match the least precise given data.",
+            "Always use 2 significant figures.",
+            "Use as many decimal places as possible."
+          ]
+        }
+      ],
+      "2.2.6. - Balanced equations, atom economies, and percentage yields": [
+        {
+          "question": "What is atom economy?",
+          "correct": "A measure of how efficiently atoms in the reactants are used to form the desired product.",
+          "options": [
+            "The actual yield compared to theoretical yield.",
+            "A measure of how efficiently atoms in the reactants are used to form the desired product.",
+            "The number of atoms in a balanced equation.",
+            "The percentage of products that are solid."
+          ]
+        },
+        {
+          "question": "What is the formula for atom economy?",
+          "correct": "Atom economy = (mass of desired product × 100) ÷ total mass of reactants",
+          "options": [
+            "Atom economy = (mass of reactants × 100) ÷ mass of products",
+            "Atom economy = (mass of desired product × 100) ÷ total mass of reactants",
+            "Atom economy = (actual yield × 100) ÷ theoretical yield",
+            "Atom economy = (mass of product × 100) ÷ moles of reactants"
+          ]
+        },
+        {
+          "question": "Why is high atom economy important?",
+          "correct": "It reduces waste, improves cost-effectiveness, and makes a process more sustainable.",
+          "options": [
+            "It increases reaction speed.",
+            "It reduces waste, improves cost-effectiveness, and makes a process more sustainable.",
+            "It ensures complete reactions.",
+            "It increases the number of moles produced."
+          ]
+        },
+        {
+          "question": "What is percentage yield?",
+          "correct": "A measure of practical efficiency of a process — how much product is actually obtained.",
+          "options": [
+            "A measure of theoretical efficiency.",
+            "A measure of practical efficiency of a process — how much product is actually obtained.",
+            "The ratio of reactants to products.",
+            "The efficiency of atom usage."
+          ]
+        },
+        {
+          "question": "What is the formula for percentage yield?",
+          "correct": "Percentage yield = (actual yield × 100) ÷ theoretical yield",
+          "options": [
+            "Percentage yield = (theoretical yield × 100) ÷ actual yield",
+            "Percentage yield = (actual yield × 100) ÷ theoretical yield",
+            "Percentage yield = (mass of reactants × 100) ÷ mass of products",
+            "Percentage yield = (moles of product × 100) ÷ moles of reactants"
+          ]
+        },
+        {
+          "question": "What are common reasons for low percentage yield?",
+          "correct": "Incomplete reactions, product lost during transfer/purification, and side reactions producing unwanted products.",
+          "options": [
+            "Using too much reactant.",
+            "Incomplete reactions, product lost during transfer/purification, and side reactions producing unwanted products.",
+            "High atom economy.",
+            "Balanced equations."
+          ]
+        },
+        {
+          "question": "In atom economy calculations, what is considered the 'desired product'?",
+          "correct": "The product that the process is intended to produce for use or sale.",
+          "options": [
+            "The by-products of the reaction.",
+            "The product that the process is intended to produce for use or sale.",
+            "All products combined.",
+            "The reactants remaining after reaction."
+          ]
+        },
+        {
+          "question": "What is the main distinction between atom economy and percentage yield?",
+          "correct": "Atom economy measures theoretical efficiency; percentage yield measures practical efficiency.",
+          "options": [
+            "Atom economy measures practical efficiency; percentage yield measures theoretical efficiency.",
+            "Atom economy measures theoretical efficiency; percentage yield measures practical efficiency.",
+            "Atom economy is for ionic reactions; percentage yield is for molecular reactions.",
+            "They are equivalent concepts."
+          ]
+        },
+        {
+          "question": "How is a balanced equation useful in these calculations?",
+          "correct": "It shows reacting amounts and conservation of atoms, providing the basis for calculations.",
+          "options": [
+            "It only shows the molecular formulae.",
+            "It shows reacting amounts and conservation of atoms, providing the basis for calculations.",
+            "It measures percentage yield directly.",
+            "It determines atom economy automatically."
+          ]
+        }
+      ]
+    },
+    "2.3. - Bonding": {
+      "2.3.1. - The Nature of Ionic Bonding": [
+        {
+          "question": "Why do atoms form chemical bonds?",
+          "correct": "To achieve a more stable electron arrangement, often a full outer shell like noble gases.",
+          "options": [
+            "To increase their mass.",
+            "To achieve a more stable electron arrangement, often a full outer shell like noble gases.",
+            "To decrease their atomic number.",
+            "To form molecules with noble gases only."
+          ]
+        },
+        {
+          "question": "What are the three main types of strong chemical bonds?",
+          "correct": "Ionic, covalent, and metallic.",
+          "options": [
+            "Hydrogen, ionic, covalent.",
+            "Ionic, covalent, and metallic.",
+            "Metallic, van der Waals, hydrogen.",
+            "Covalent, metallic, hydrogen."
+          ]
+        },
+        {
+          "question": "How do metals form ions?",
+          "correct": "Metals lose 1–3 outer electrons to achieve a noble gas configuration.",
+          "options": [
+            "Metals gain electrons to achieve a noble gas configuration.",
+            "Metals lose 1–3 outer electrons to achieve a noble gas configuration.",
+            "Metals share electrons with other metals.",
+            "Metals do not form ions."
+          ]
+        },
+        {
+          "question": "How do non-metals form ions?",
+          "correct": "Non-metals gain electrons to complete their outer shell and achieve stability.",
+          "options": [
+            "Non-metals lose electrons to complete their outer shell.",
+            "Non-metals gain electrons to complete their outer shell and achieve stability.",
+            "Non-metals share protons with metals.",
+            "Non-metals do not form ions."
+          ]
+        },
+        {
+          "question": "What occurs during ionic bonding?",
+          "correct": "Electrons are transferred from a metal to a non-metal, forming oppositely charged ions attracted electrostatically.",
+          "options": [
+            "Electrons are shared between two non-metals.",
+            "Electrons are transferred from a metal to a non-metal, forming oppositely charged ions attracted electrostatically.",
+            "Protons are transferred between atoms.",
+            "Atoms combine without electron movement."
+          ]
+        },
+        {
+          "question": "What type of lattice do ionic compounds form?",
+          "correct": "A giant ionic lattice with strong electrostatic forces in all directions.",
+          "options": [
+            "Simple molecular lattice with weak forces.",
+            "A giant ionic lattice with strong electrostatic forces in all directions.",
+            "Metallic lattice with delocalised electrons.",
+            "Covalent network lattice with shared electrons."
+          ]
+        },
+        {
+          "question": "In sodium chloride (NaCl), how are electrons transferred?",
+          "correct": "The 3s1 electron from sodium is transferred to chlorine’s 3p orbital.",
+          "options": [
+            "The 3p electron from chlorine is transferred to sodium’s 3s orbital.",
+            "The 3s1 electron from sodium is transferred to chlorine’s 3p orbital.",
+            "Electrons are shared equally between Na and Cl.",
+            "No electron transfer occurs; ions form spontaneously."
+          ]
+        },
+        {
+          "question": "What ions are formed in magnesium oxide (MgO)?",
+          "correct": "Mg2+ and O2−",
+          "options": [
+            "Mg+ and O−",
+            "Mg2+ and O2−",
+            "Mg− and O+",
+            "Mg+ and O2−"
+          ]
+        },
+        {
+          "question": "Why do ionic compounds have high melting and boiling points?",
+          "correct": "Because strong ionic bonds in the lattice require large amounts of energy to break.",
+          "options": [
+            "Because they are gases at room temperature.",
+            "Because weak van der Waals forces hold the lattice together.",
+            "Because strong ionic bonds in the lattice require large amounts of energy to break.",
+            "Because the ions are free to move at all temperatures."
+          ]
+        },
+        {
+          "question": "Why don’t solid ionic compounds conduct electricity?",
+          "correct": "Because the ions are fixed in the lattice and cannot move to carry charge.",
+          "options": [
+            "Because electrons are delocalised.",
+            "Because the ions are fixed in the lattice and cannot move to carry charge.",
+            "Because the ions are negatively charged only.",
+            "Because the lattice is metallic."
+          ]
+        },
+        {
+          "question": "When are ionic compounds able to conduct electricity?",
+          "correct": "When molten or in aqueous solution, because ions are free to move.",
+          "options": [
+            "Only in solid form.",
+            "When molten or in aqueous solution, because ions are free to move.",
+            "Only at absolute zero.",
+            "When cooled below their melting point."
+          ]
+        },
+        {
+          "question": "Why are ionic crystals brittle?",
+          "correct": "Because when layers shift, like charges align, causing repulsion and fracture.",
+          "options": [
+            "Because ionic bonds are weak.",
+            "Because of thermal expansion.",
+            "Because when layers shift, like charges align, causing repulsion and fracture.",
+            "Because the lattice is flexible."
+          ]
+        }
+      ],
+      "2.3.2. - Covalent Bonds": [
+        {
+          "question": "What is covalent bonding?",
+          "correct": "The sharing of electrons between non-metal atoms to achieve a full outer shell.",
+          "options": [
+            "The transfer of electrons from metals to non-metals.",
+            "The sharing of electrons between non-metal atoms to achieve a full outer shell.",
+            "The attraction between positive and negative ions in a lattice.",
+            "Delocalised electrons in a metal lattice."
+          ]
+        },
+        {
+          "question": "What is a covalent bond?",
+          "correct": "A shared pair of electrons between two atoms.",
+          "options": [
+            "A single electron from each atom.",
+            "A shared pair of electrons between two atoms.",
+            "A bond formed by delocalised electrons.",
+            "An ionic attraction between cations and anions."
+          ]
+        },
+        {
+          "question": "How is a chlorine molecule (Cl2) formed?",
+          "correct": "Each chlorine atom shares one electron, achieving a full outer shell.",
+          "options": [
+            "Each chlorine atom loses one electron to the other.",
+            "Each chlorine atom shares one electron, achieving a full outer shell.",
+            "Electrons are transferred to form Cl+ and Cl− ions.",
+            "One chlorine atom donates both electrons."
+          ]
+        },
+        {
+          "question": "In methane (CH4), how many covalent bonds does carbon form?",
+          "correct": "Four single covalent bonds with hydrogen atoms.",
+          "options": [
+            "Two double bonds with hydrogen atoms.",
+            "Four single covalent bonds with hydrogen atoms.",
+            "One single and three double bonds with hydrogen.",
+            "No bonds; electrons are transferred."
+          ]
+        },
+        {
+          "question": "What holds covalent bonds together?",
+          "correct": "Electrostatic attraction between the shared electrons and the positive nuclei of the bonded atoms.",
+          "options": [
+            "Magnetic forces between nuclei.",
+            "Electrostatic attraction between the shared electrons and the positive nuclei of the bonded atoms.",
+            "Van der Waals forces between atoms.",
+            "Ionic attraction between charged atoms."
+          ]
+        },
+        {
+          "question": "What is a double covalent bond?",
+          "correct": "A bond where two pairs of electrons (4 electrons) are shared between atoms.",
+          "options": [
+            "A bond where one pair of electrons is shared.",
+            "A bond formed between two ions.",
+            "A bond where two pairs of electrons (4 electrons) are shared between atoms.",
+            "A bond only found in ionic compounds."
+          ]
+        },
+        {
+          "question": "Why do molecular substances generally have low melting and boiling points?",
+          "correct": "Because while covalent bonds within molecules are strong, the intermolecular forces between molecules are weak.",
+          "options": [
+            "Because covalent bonds are weak.",
+            "Because the molecules are ions.",
+            "Because while covalent bonds within molecules are strong, the intermolecular forces between molecules are weak.",
+            "Because all molecules are gases."
+          ]
+        },
+        {
+          "question": "Why do molecular substances not conduct electricity?",
+          "correct": "Because the molecules are neutral with no free electrons or ions.",
+          "options": [
+            "Because covalent bonds break in water.",
+            "Because the molecules are neutral with no free electrons or ions.",
+            "Because they are always solids.",
+            "Because the nuclei are fixed."
+          ]
+        },
+        {
+          "question": "What is a co-ordinate (dative covalent) bond?",
+          "correct": "A covalent bond where one atom donates both electrons for the shared pair.",
+          "options": [
+            "A bond where electrons are transferred completely.",
+            "A covalent bond where one atom donates both electrons for the shared pair.",
+            "A double bond between two atoms.",
+            "A weak van der Waals interaction."
+          ]
+        },
+        {
+          "question": "In the ammonium ion (NH4+), which atom donates a lone pair to form the co-ordinate bond?",
+          "correct": "Nitrogen donates its lone pair to H+.",
+          "options": [
+            "Hydrogen donates an electron to nitrogen.",
+            "Nitrogen donates its lone pair to H+.",
+            "All hydrogen atoms share equally.",
+            "No electrons are shared in NH4+."
+          ]
+        },
+        {
+          "question": "Are co-ordinate bonds different in strength or length compared to normal covalent bonds?",
+          "correct": "No, they are the same strength and length as normal covalent bonds.",
+          "options": [
+            "Yes, they are weaker.",
+            "Yes, they are stronger.",
+            "No, they are the same strength and length as normal covalent bonds.",
+            "Yes, they are longer."
+          ]
+        }
+      ],
+      "2.3.3. - Metallic Bonding": [
+        {
+          "question": "What is metallic bonding?",
+          "correct": "The electrostatic attraction between positive metal ions and a sea of delocalised electrons.",
+          "options": [
+            "The sharing of electrons between non-metal atoms.",
+            "The transfer of electrons from metals to non-metals.",
+            "The electrostatic attraction between positive metal ions and a sea of delocalised electrons.",
+            "Van der Waals forces between metal atoms."
+          ]
+        },
+        {
+          "question": "Why do metals have delocalised electrons?",
+          "correct": "Because metal atoms lose their outer electrons which are not accepted by non-metals, allowing them to move freely throughout the lattice.",
+          "options": [
+            "Because electrons are transferred to non-metals.",
+            "Because electrons are tightly held by each atom.",
+            "Because metal atoms lose their outer electrons which are not accepted by non-metals, allowing them to move freely throughout the lattice.",
+            "Because metals have ionic bonds."
+          ]
+        },
+        {
+          "question": "What is the structure of metals?",
+          "correct": "A giant lattice of positive ions surrounded by a sea of delocalised electrons.",
+          "options": [
+            "A lattice of neutral atoms held by covalent bonds.",
+            "A lattice of positive ions surrounded by a sea of delocalised electrons.",
+            "Individual ions in a solution.",
+            "Small discrete molecules held by weak forces."
+          ]
+        },
+        {
+          "question": "Why are metals good conductors of electricity?",
+          "correct": "Because delocalised electrons can move freely through the lattice and carry charge.",
+          "options": [
+            "Because the metal ions are free to move.",
+            "Because delocalised electrons can move freely through the lattice and carry charge.",
+            "Because of weak intermolecular forces.",
+            "Because they contain ions like in ionic compounds."
+          ]
+        },
+        {
+          "question": "Why are metals good conductors of heat?",
+          "correct": "Delocalised electrons transfer kinetic energy and closely packed ions vibrate to pass on energy efficiently.",
+          "options": [
+            "Because metals are liquids at room temperature.",
+            "Because covalent bonds are strong.",
+            "Delocalised electrons transfer kinetic energy and closely packed ions vibrate to pass on energy efficiently.",
+            "Because metal ions are charged."
+          ]
+        },
+        {
+          "question": "What affects the strength of metallic bonding?",
+          "correct": "Charge of the metal ion (higher charge → stronger bonding) and size of the ion (smaller → stronger bonding).",
+          "options": [
+            "Only the size of the metal ions.",
+            "Only the number of neutrons in the nucleus.",
+            "Charge of the metal ion (higher charge → stronger bonding) and size of the ion (smaller → stronger bonding).",
+            "Type of covalent bonds present."
+          ]
+        },
+        {
+          "question": "Why are metals malleable and ductile?",
+          "correct": "Because a small shift in layers keeps ions in the same environment, so the structure does not break.",
+          "options": [
+            "Because metallic bonds are weak.",
+            "Because delocalised electrons form new covalent bonds.",
+            "Because a small shift in layers keeps ions in the same environment, so the structure does not break.",
+            "Because metals contain only small molecules."
+          ]
+        },
+        {
+          "question": "Why do metals have high melting and boiling points?",
+          "correct": "Because strong attraction between delocalised electrons and metal ions requires a large amount of energy to break.",
+          "options": [
+            "Because metals are gases at room temperature.",
+            "Because individual covalent bonds must be broken.",
+            "Because strong attraction between delocalised electrons and metal ions requires a large amount of energy to break.",
+            "Because metals are ionic compounds."
+          ]
+        },
+        {
+          "question": "What are delocalised electrons?",
+          "correct": "Electrons that are not tied to a particular atom and are free to move throughout the structure.",
+          "options": [
+            "Electrons that belong to a single atom only.",
+            "Electrons shared in a covalent bond.",
+            "Electrons that are not tied to a particular atom and are free to move throughout the structure.",
+            "Electrons that are transferred to non-metals."
+          ]
+        }
+      ],
+      "2.3.4. - Electronegativty and Bond Polarity": [
+        {
+          "question": "What is electronegativity?",
+          "correct": "The power of an atom to attract the electron density in a covalent bond towards itself.",
+          "options": [
+            "The ability of an atom to lose electrons.",
+            "The power of an atom to attract the electron density in a covalent bond towards itself.",
+            "The tendency of an atom to form ionic bonds.",
+            "The total number of electrons in an atom."
+          ]
+        },
+        {
+          "question": "Which scale is used to measure electronegativity?",
+          "correct": "Pauling scale, ranging from 0 to 4.",
+          "options": [
+            "Mohs scale, ranging from 1 to 10.",
+            "Pauling scale, ranging from 0 to 4.",
+            "pH scale, ranging from 0 to 14.",
+            "Celsius scale, ranging from -273 to 100."
+          ]
+        },
+        {
+          "question": "Why are noble gases not assigned electronegativity values?",
+          "correct": "Because they rarely form covalent bonds.",
+          "options": [
+            "Because they are metals.",
+            "Because they rarely form covalent bonds.",
+            "Because they have no electrons.",
+            "Because they are very small atoms."
+          ]
+        },
+        {
+          "question": "Which factors affect electronegativity?",
+          "correct": "Nuclear charge, distance between nucleus and bonding electrons, and shielding by inner-shell electrons.",
+          "options": [
+            "Number of neutrons, size of atom, and ionic charge.",
+            "Nuclear charge, distance between nucleus and bonding electrons, and shielding by inner-shell electrons.",
+            "Atomic mass, metallic character, and boiling point.",
+            "Number of isotopes, number of protons, and mass of electrons."
+          ]
+        },
+        {
+          "question": "How does electronegativity change down a group in the periodic table?",
+          "correct": "Electronegativity decreases due to larger atomic size and more shielding.",
+          "options": [
+            "Electronegativity increases due to more protons.",
+            "Electronegativity decreases due to larger atomic size and more shielding.",
+            "Electronegativity remains the same.",
+            "Electronegativity fluctuates randomly."
+          ]
+        },
+        {
+          "question": "How does electronegativity change across a period?",
+          "correct": "Electronegativity increases because nuclear charge increases and atomic radius decreases while shielding stays similar.",
+          "options": [
+            "Electronegativity decreases due to more shielding.",
+            "Electronegativity increases because nuclear charge increases and atomic radius decreases while shielding stays similar.",
+            "Electronegativity remains constant.",
+            "Electronegativity decreases due to smaller nuclear charge."
+          ]
+        },
+        {
+          "question": "Which element is the most electronegative?",
+          "correct": "Fluorine (F)",
+          "options": [
+            "Oxygen (O)",
+            "Nitrogen (N)",
+            "Fluorine (F)",
+            "Chlorine (Cl)"
+          ]
+        },
+        {
+          "question": "What determines if a covalent bond is polar or non-polar?",
+          "correct": "The difference in electronegativity between the bonded atoms.",
+          "options": [
+            "The total number of electrons in the molecule.",
+            "The size of the atoms.",
+            "The difference in electronegativity between the bonded atoms.",
+            "The melting point of the substance."
+          ]
+        },
+        {
+          "question": "What is the bond type when two identical atoms are bonded?",
+          "correct": "Non-polar covalent bond because electrons are shared equally.",
+          "options": [
+            "Ionic bond because electrons are transferred.",
+            "Non-polar covalent bond because electrons are shared equally.",
+            "Polar covalent bond because electrons are unequally shared.",
+            "Metallic bond because electrons are delocalised."
+          ]
+        },
+        {
+          "question": "In a polar covalent bond, which atom becomes δ−?",
+          "correct": "The atom gaining more electron density.",
+          "options": [
+            "The atom losing electrons.",
+            "The atom gaining more electron density.",
+            "The larger atom by mass.",
+            "The atom with fewer protons."
+          ]
+        },
+        {
+          "question": "What is the relationship between electronegativity difference and ionic character?",
+          "correct": "Greater electronegativity difference leads to a more polar bond and increased ionic character.",
+          "options": [
+            "Smaller electronegativity difference leads to more ionic character.",
+            "Electronegativity difference does not affect ionic character.",
+            "Greater electronegativity difference leads to a more polar bond and increased ionic character.",
+            "Only metals can have ionic character."
+          ]
+        }
+      ],
+      "2.3.5. - Intermolecular Forces": [
+        {
+          "question": "What holds atoms together in strong structures such as solids?",
+          "correct": "Strong bonds such as covalent, ionic, and metallic bonds.",
+          "options": [
+            "Hydrogen bonds",
+            "van der Waals forces",
+            "Dipole–dipole forces",
+            "Strong bonds such as covalent, ionic, and metallic bonds"
+          ]
+        },
+        {
+          "question": "Which forces hold molecules close enough to form liquids and solids?",
+          "correct": "Weaker intermolecular forces.",
+          "options": [
+            "Covalent bonds",
+            "Ionic bonds",
+            "Weaker intermolecular forces",
+            "Metallic bonds"
+          ]
+        },
+        {
+          "question": "Which is the weakest type of intermolecular force?",
+          "correct": "van der Waals forces",
+          "options": [
+            "Hydrogen bonding",
+            "Dipole–dipole forces",
+            "van der Waals forces",
+            "Covalent bonds"
+          ]
+        },
+        {
+          "question": "What determines whether a molecule has a dipole moment?",
+          "correct": "The polarity of each bond and the molecular shape.",
+          "options": [
+            "The number of electrons in the molecule",
+            "The polarity of each bond and the molecular shape",
+            "The molecular mass",
+            "The melting point"
+          ]
+        },
+        {
+          "question": "Why is CO2 non-polar despite having polar bonds?",
+          "correct": "The dipoles cancel out because of the linear shape.",
+          "options": [
+            "Because CO2 has no electrons",
+            "Because the dipoles cancel out because of the linear shape",
+            "Because CO2 contains only carbon and oxygen",
+            "Because CO2 has weak covalent bonds"
+          ]
+        },
+        {
+          "question": "How do dipole–dipole forces occur?",
+          "correct": "Molecules with permanent dipoles align so that δ+ and δ− ends attract each other.",
+          "options": [
+            "Temporary dipoles induce permanent dipoles",
+            "Molecules with permanent dipoles align so that δ+ and δ− ends attract each other",
+            "Hydrogen bonds form between all molecules",
+            "Atoms share electrons to form dipoles"
+          ]
+        },
+        {
+          "question": "How are van der Waals forces caused?",
+          "correct": "By temporary dipoles due to constantly changing electron distributions.",
+          "options": [
+            "By hydrogen atoms forming bonds with electronegative atoms",
+            "By permanent dipoles in polar molecules",
+            "By temporary dipoles due to constantly changing electron distributions",
+            "By covalent bonds between atoms"
+          ]
+        },
+        {
+          "question": "What factors increase the strength of van der Waals forces?",
+          "correct": "More electrons and higher molecular or atomic mass.",
+          "options": [
+            "Smaller atoms and fewer electrons",
+            "More electrons and higher molecular or atomic mass",
+            "Lower molecular mass",
+            "Number of hydrogen bonds"
+          ]
+        },
+        {
+          "question": "What is a hydrogen bond?",
+          "correct": "A strong intermolecular force where H is covalently bonded to O, N, or F and attracted to a lone pair on another molecule.",
+          "options": [
+            "A bond between two hydrogen atoms",
+            "A weak force between non-polar molecules",
+            "A strong intermolecular force where H is covalently bonded to O, N, or F and attracted to a lone pair on another molecule",
+            "A covalent bond between hydrogen and carbon"
+          ]
+        },
+        {
+          "question": "Which of the following molecules can form hydrogen bonds?",
+          "correct": "H2O, HF, NH3",
+          "options": [
+            "CH4, CO2, O2",
+            "H2O, HF, NH3",
+            "N2, Cl2, H2",
+            "CO2, CCl4, CH4"
+          ]
+        },
+        {
+          "question": "Why is ice less dense than liquid water?",
+          "correct": "Hydrogen bonds hold molecules in a fixed lattice, so they are less closely packed.",
+          "options": [
+            "Because water molecules have fewer electrons in ice",
+            "Because hydrogen bonds hold molecules in a fixed lattice, so they are less closely packed",
+            "Because ice contains air bubbles",
+            "Because covalent bonds break in ice"
+          ]
+        },
+        {
+          "question": "How do hydrogen bonds affect protein structure?",
+          "correct": "They hold specific shapes like helices and β-sheets; breaking H-bonds denatures proteins.",
+          "options": [
+            "They break covalent bonds to form new shapes",
+            "They hold specific shapes like helices and β-sheets; breaking H-bonds denatures proteins",
+            "They only stabilize ionic bonds",
+            "They have no effect on proteins"
+          ]
+        },
+        {
+          "question": "What role do hydrogen bonds play in DNA?",
+          "correct": "They join the two strands of the double helix and can break during replication without breaking the covalent backbone.",
+          "options": [
+            "They form the sugar-phosphate backbone",
+            "They join the two strands of the double helix and can break during replication without breaking the covalent backbone",
+            "They prevent DNA from denaturing",
+            "They provide covalent links between nucleotides"
+          ]
+        }
+      ],
+      "2.3.6. - Shapes of Molecules and Ions": [
+        {
+          "question": "What theory explains the shape of molecules based on electron pair repulsion?",
+          "correct": "Electron Pair Repulsion Theory",
+          "options": [
+            "VSEPR Theory",
+            "Electron Pair Repulsion Theory",
+            "Covalent Bonding Theory",
+            "Molecular Orbital Theory"
+          ]
+        },
+        {
+          "question": "According to electron pair repulsion theory, why do electron pairs arrange themselves as far apart as possible?",
+          "correct": "Because electron pairs repel each other",
+          "options": [
+            "Because electrons are attracted to the nucleus",
+            "Because electron pairs repel each other",
+            "To increase bond length",
+            "To minimize polarity"
+          ]
+        },
+        {
+          "question": "What are the two types of electron pairs that affect molecular shape?",
+          "correct": "Bonding pairs and lone pairs",
+          "options": [
+            "Single and double pairs",
+            "Core and valence pairs",
+            "Bonding pairs and lone pairs",
+            "Paired and unpaired electrons"
+          ]
+        },
+        {
+          "question": "What is the ideal bond angle of a Linear molecule with 2 electron domains and 0 lone pairs?",
+          "correct": "180",
+          "options": ["120", "109.5", "180", "104.5"]
+        },
+        {
+          "question": "How many lone pairs are present in a Linear molecule with 2 electron domains?",
+          "correct": "0",
+          "options": ["1", "0", "2", "3"]
+        },
+        {
+          "question": "How many electron domains does a Linear molecule with 2 bonded atoms have?",
+          "correct": "2",
+          "options": ["2", "3", "4", "5"]
+        },
+        {
+          "question": "What is the ideal bond angle of a Trigonal planar molecule with 3 bonded atoms and 0 lone pairs?",
+          "correct": "120",
+          "options": ["109.5", "120", "104.5", "90"]
+        },
+        {
+          "question": "How many lone pairs are present in a Trigonal planar molecule?",
+          "correct": "0",
+          "options": ["0", "1", "2", "3"]
+        },
+        {
+          "question": "How many electron domains does a Trigonal planar molecule have?",
+          "correct": "3",
+          "options": ["3", "4", "5", "6"]
+        },
+        {
+          "question": "What is the ideal bond angle of a Bent molecule with 2 bonded atoms and 1 lone pair?",
+          "correct": "119",
+          "options": ["104.5", "106.8", "119", "90"]
+        },
+        {
+          "question": "How many lone pairs are present in a Bent molecule with 3 electron domains?",
+          "correct": "1",
+          "options": ["1", "2", "3", "0"]
+        },
+        {
+          "question": "How many electron domains are present in a Bent molecule with 2 bonded atoms and 2 lone pairs?",
+          "correct": "4",
+          "options": ["2", "3", "4", "5"]
+        },
+        {
+          "question": "What is the shape of a molecule with 2 bonded atoms and 2 lone pairs?",
+          "correct": "Bent",
+          "options": ["Linear", "Trigonal planar", "Bent", "Tetrahedral"]
+        },
+        {
+          "question": "What is the ideal bond angle of a Bent molecule with 2 bonded atoms and 2 lone pairs?",
+          "correct": "104.5",
+          "options": ["104.5", "109.5", "120", "180"]
+        },
+        {
+          "question": "How many electron domains does a Bent molecule with 2 bonded atoms and 2 lone pairs have?",
+          "correct": "4",
+          "options": ["3", "4", "5", "6"]
+        },
+        {
+          "question": "How many lone pairs are present in a Bent molecule with 2 bonded atoms?",
+          "correct": "2",
+          "options": ["1", "2", "3", "0"]
+        },
+        {
+          "question": "What is the shape of a molecule with 5 bonded atoms and 0 lone pairs?",
+          "correct": "Trigonal bipyramidal",
+          "options": ["T-shaped", "Trigonal bipyramidal", "Seesaw", "Linear"]
+        },
+        {
+          "question": "What is the ideal bond angle of a Trigonal bipyramidal molecule with 5 bonded atoms and 0 lone pairs?",
+          "correct": "90, 120",
+          "options": ["90, 120", "180", "104.5", "109.5"]
+        },
+        {
+          "question": "How many electron domains does a Trigonal bipyramidal molecule have?",
+          "correct": "5",
+          "options": ["4", "5", "6", "3"]
+        },
+        {
+          "question": "How many lone pairs are present in a Trigonal bipyramidal molecule with 5 bonded atoms?",
+          "correct": "0",
+          "options": ["0", "1", "2", "3"]
+        },
+        {
+          "question": "What is the shape of a molecule with 4 bonded atoms and 1 lone pair?",
+          "correct": "Seesaw",
+          "options": ["Seesaw", "T-shaped", "Trigonal bipyramidal", "Linear"]
+        },
+        {
+          "question": "What is the ideal bond angle of a Seesaw molecule with 4 bonded atoms and 1 lone pair?",
+          "correct": "180, 120, 90",
+          "options": ["180, 120, 90", "109.5", "120", "90, 180"]
+        },
+        {
+          "question": "How many electron domains does a Seesaw molecule have?",
+          "correct": "5",
+          "options": ["4", "5", "6", "3"]
+        },
+        {
+          "question": "How many lone pairs are present in a Seesaw molecule with 4 bonded atoms?",
+          "correct": "1",
+          "options": ["0", "1", "2", "3"]
+        },
+        {
+          "question": "What is the shape of a molecule with 3 bonded atoms and 2 lone pairs?",
+          "correct": "T-shaped",
+          "options": ["T-shaped", "Seesaw", "Linear", "Trigonal planar"]
+        },
+        {
+          "question": "What is the ideal bond angle of a T-shaped molecule with 3 bonded atoms and 2 lone pairs?",
+          "correct": "90, 180",
+          "options": ["90, 180", "109.5", "104.5", "120"]
+        },
+        {
+          "question": "How many electron domains does a T-shaped molecule have?",
+          "correct": "5",
+          "options": ["4", "5", "6", "3"]
+        },
+        {
+          "question": "How many lone pairs are present in a T-shaped molecule with 3 bonded atoms?",
+          "correct": "2",
+          "options": ["1", "2", "3", "0"]
+        },
+        {
+          "question": "What is the shape of a molecule with 2 bonded atoms and 3 lone pairs?",
+          "correct": "Linear",
+          "options": ["Linear", "Bent", "T-shaped", "Trigonal planar"]
+        },
+        {
+          "question": "What is the ideal bond angle of a Linear molecule with 2 bonded atoms and 3 lone pairs?",
+          "correct": "180",
+          "options": ["180", "104.5", "109.5", "120"]
+        },
+        {
+          "question": "How many electron domains does a Linear molecule with 2 bonded atoms and 3 lone pairs have?",
+          "correct": "5",
+          "options": ["4", "5", "6", "3"]
+        },
+        {
+          "question": "How many lone pairs are present in a Linear molecule with 2 bonded atoms?",
+          "correct": "3",
+          "options": ["1", "2", "3", "0"]
+        },
+        {
+          "question": "What is the shape of a molecule with 6 bonded atoms and 0 lone pairs?",
+          "correct": "Octahedral",
+          "options": ["Octahedral", "Square pyramidal", "Square planar", "Tetrahedral"]
+        },
+        {
+          "question": "What is the ideal bond angle of an Octahedral molecule with 6 bonded atoms and 0 lone pairs?",
+          "correct": "90, 180",
+          "options": ["90, 180", "109.5", "104.5", "120"]
+        },
+        {
+          "question": "How many electron domains does an Octahedral molecule have?",
+          "correct": "6",
+          "options": ["4", "5", "6", "3"]
+        },
+        {
+          "question": "How many lone pairs are present in an Octahedral molecule with 6 bonded atoms?",
+          "correct": "0",
+          "options": ["0", "1", "2", "3"]
+        },
+        {
+          "question": "What is the shape of a molecule with 5 bonded atoms and 1 lone pair?",
+          "correct": "Square pyramidal",
+          "options": ["Octahedral", "Square pyramidal", "Square planar", "Trigonal bipyramidal"]
+        },
+        {
+          "question": "What is the ideal bond angle of a Square pyramidal molecule with 5 bonded atoms and 1 lone pair?",
+          "correct": "84.8",
+          "options": ["84.8", "90", "109.5", "120"]
+        },
+        {
+          "question": "How many electron domains does a Square pyramidal molecule have?",
+          "correct": "6",
+          "options": ["5", "6", "4", "3"]
+        },
+        {
+          "question": "How many lone pairs are present in a Square pyramidal molecule with 5 bonded atoms?",
+          "correct": "1",
+          "options": ["0", "1", "2", "3"]
+        },
+        {
+          "question": "What is the shape of a molecule with 4 bonded atoms and 2 lone pairs?",
+          "correct": "Square planar",
+          "options": ["Octahedral", "Square pyramidal", "Square planar", "Tetrahedral"]
+        },
+        {
+          "question": "What is the ideal bond angle of a Square planar molecule with 4 bonded atoms and 2 lone pairs?",
+          "correct": "90, 180",
+          "options": ["90, 180", "84.8", "109.5", "104.5"]
+        },
+        {
+          "question": "How many electron domains does a Square planar molecule have?",
+          "correct": "6",
+          "options": ["4", "5", "6", "3"]
+        },
+        {
+          "question": "How many lone pairs are present in a Square planar molecule with 4 bonded atoms?",
+          "correct": "2",
+          "options": ["0", "1", "2", "3"]
+        }  
+      ],
+      "2.3.7. - Bonding and Physical Properties": [
+        {
+          "question": "What is the arrangement of particles in a solid?",
+          "correct": "Regular; particles vibrate around fixed points; closely packed",
+          "options": [
+            "Random; particles move rapidly; far apart",
+            "Random; particles move/‘jostle’; close together",
+            "Regular; particles vibrate around fixed points; closely packed",
+            "Tightly packed but move freely"
+          ]
+        },
+        {
+          "question": "What happens to particles of a solid when it is heated?",
+          "correct": "Particles vibrate faster; solid expands",
+          "options": [
+            "Particles vibrate faster; solid expands",
+            "Particles move slower; solid contracts",
+            "Particles break free and flow immediately",
+            "Particles stop moving"
+          ]
+        },
+        {
+          "question": "What is the term for the energy required to melt a solid?",
+          "correct": "Enthalpy change of fusion (melting)",
+          "options": [
+            "Enthalpy change of vaporisation",
+            "Enthalpy change of fusion (melting)",
+            "Specific heat capacity",
+            "Activation energy"
+          ]
+        },
+        {
+          "question": "What happens during boiling of a liquid?",
+          "correct": "Energy breaks all intermolecular forces; temperature remains constant",
+          "options": [
+            "Temperature increases rapidly; intermolecular forces remain",
+            "Energy breaks all intermolecular forces; temperature remains constant",
+            "Liquid condenses into solid",
+            "Particles stop moving"
+          ]
+        },
+        {
+          "question": "How does particle arrangement differ in gases compared to solids and liquids?",
+          "correct": "Particles move rapidly and are far apart",
+          "options": [
+            "Particles vibrate around fixed points",
+            "Particles move/‘jostle’ closely together",
+            "Particles move rapidly and are far apart",
+            "Particles form a rigid lattice"
+          ]
+        },
+        {
+          "question": "Which type of crystal has high melting points, conducts when molten but not solid, and is held by electrostatic attraction?",
+          "correct": "Ionic",
+          "options": [
+            "Covalent (molecular)",
+            "Metallic",
+            "Ionic",
+            "Macromolecular"
+          ]
+        },
+        {
+          "question": "Which type of crystal is a lattice of positive ions in a sea of delocalised electrons?",
+          "correct": "Metallic",
+          "options": [
+            "Ionic",
+            "Covalent (molecular)",
+            "Metallic",
+            "Macromolecular"
+          ]
+        },
+        {
+          "question": "Which type of crystal is held together by intermolecular forces and has low melting points?",
+          "correct": "Molecular",
+          "options": [
+            "Ionic",
+            "Molecular",
+            "Metallic",
+            "Macromolecular"
+          ]
+        },
+        {
+          "question": "Which type of crystal has covalent bonds extending through the whole structure and a high melting point?",
+          "correct": "Macromolecular (Giant covalent)",
+          "options": [
+            "Molecular",
+            "Ionic",
+            "Metallic",
+            "Macromolecular (Giant covalent)"
+          ]
+        },
+        {
+          "question": "How many covalent bonds does each carbon form in diamond?",
+          "correct": "4 covalent bonds; tetrahedral shape",
+          "options": [
+            "3 covalent bonds; hexagonal layers",
+            "4 covalent bonds; tetrahedral shape",
+            "1 covalent bond; linear",
+            "6 covalent bonds; octahedral"
+          ]
+        },
+        {
+          "question": "Why is diamond an electrical insulator?",
+          "correct": "No free electrons to carry charge",
+          "options": [
+            "Electrons are delocalised",
+            "Ions are mobile",
+            "No free electrons to carry charge",
+            "It reacts with water"
+          ]
+        },
+        {
+          "question": "How is graphite structured?",
+          "correct": "Each carbon forms 3 covalent bonds in hexagonal layers with delocalised electrons between layers",
+          "options": [
+            "Tetrahedral lattice; no delocalised electrons",
+            "Hexagonal layers; delocalised electrons above/below layers",
+            "Molecular cubes; van der Waals forces only",
+            "Linear chains; ionic bonding"
+          ]
+        },
+        {
+          "question": "Why can graphite conduct electricity?",
+          "correct": "Delocalised electrons move along layers",
+          "options": [
+            "Free ions in the lattice",
+            "Electrons are tightly bound to atoms",
+            "Delocalised electrons move along layers",
+            "Hydrogen bonding between layers"
+          ]
+        },
+        {
+          "question": "What is the structure of buckminsterfullerene (C60)?",
+          "correct": "Molecular structure shaped like a football (spherical)",
+          "options": [
+            "Giant covalent lattice",
+            "Hexagonal layers like graphite",
+            "Molecular structure shaped like a football (spherical)",
+            "Linear chain of carbons"
+          ]
+        },
+        {
+          "question": "What type of bonding does a metallic substance have?",
+          "correct": "Delocalised electrons between metal atoms",
+          "options": [
+            "Shared electrons between non-metals",
+            "Delocalised electrons between metal atoms",
+            "Electron transfer from metal to non-metal",
+            "Hydrogen bonds between molecules"
+          ]
+        },
+        {
+          "question": "What type of bonding does an ionic substance have?",
+          "correct": "Electron transfer from metal to non-metal",
+          "options": [
+            "Shared electrons between non-metals",
+            "Delocalised electrons between metal atoms",
+            "Electron transfer from metal to non-metal",
+            "Van der Waals forces"
+          ]
+        },
+        {
+          "question": "What type of bonding does a covalent substance have?",
+          "correct": "Shared electrons between non-metals",
+          "options": [
+            "Electron transfer from metal to non-metal",
+            "Delocalised electrons between metal atoms",
+            "Shared electrons between non-metals",
+            "Ionic bonding"
+          ]
+        },
+        {
+          "question": "Which types of substances conduct electricity as solids?",
+          "correct": "Metals",
+          "options": [
+            "Metals",
+            "Ionic compounds",
+            "Covalent molecular compounds",
+            "Diamond"
+          ]
+        },
+        {
+          "question": "Which types of substances conduct electricity when molten or in aqueous solution?",
+          "correct": "Ionic compounds",
+          "options": [
+            "Metals",
+            "Ionic compounds",
+            "Covalent molecular compounds",
+            "Diamond"
+          ]
+        },
+        {
+          "question": "Why does electrical conductivity require free charged particles?",
+          "correct": "Because electrons or ions must move to carry charge",
+          "options": [
+            "Because atoms are always neutral",
+            "Because molecules are fixed in space",
+            "Because electrons or ions must move to carry charge",
+            "Because covalent bonds are weak"
+          ]
+        }
+      ]
+    },
+    "2.4. - Energetics": {
+      "2.4.1. - Exothermic and Endothermic Reactions": [
+        {
+          "question": "What is an exothermic reaction?",
+          "correct": "A reaction that gives out energy (usually heat) to the surroundings.",
+          "options": [
+            "A reaction that gives out energy (usually heat) to the surroundings.",
+            "A reaction that takes in energy from the surroundings.",
+            "A reaction that does not involve any energy change.",
+            "A reaction that only absorbs light energy."
+          ]
+        },
+        {
+          "question": "What happens to the temperature of the surroundings in an exothermic reaction?",
+          "correct": "It increases.",
+          "options": [
+            "It increases.",
+            "It decreases.",
+            "It remains the same.",
+            "It fluctuates randomly."
+          ]
+        },
+        {
+          "question": "What is an endothermic reaction?",
+          "correct": "A reaction that takes in energy (heat) from the surroundings.",
+          "options": [
+            "A reaction that takes in energy (heat) from the surroundings.",
+            "A reaction that gives out energy to the surroundings.",
+            "A reaction that produces no heat change.",
+            "A reaction that releases light only."
+          ]
+        },
+        {
+          "question": "What happens to the temperature of the surroundings in an endothermic reaction?",
+          "correct": "It decreases.",
+          "options": [
+            "It decreases.",
+            "It increases.",
+            "It stays constant.",
+            "It becomes unpredictable."
+          ]
+        },
+        {
+          "question": "What is the unit of energy commonly used in chemical reactions?",
+          "correct": "Joule (J), often expressed as kJ mol−1.",
+          "options": [
+            "Joule (J), often expressed as kJ mol−1.",
+            "Calorie (cal)",
+            "Watt (W)",
+            "Newton (N)"
+          ]
+        },
+        {
+          "question": "What does thermochemistry study?",
+          "correct": "The study of heat changes during chemical reactions.",
+          "options": [
+            "The study of heat changes during chemical reactions.",
+            "The study of reaction rates.",
+            "The study of chemical equilibrium.",
+            "The study of catalysts."
+          ]
+        },
+        {
+          "question": "During a chemical reaction, what occurs when bonds are broken?",
+          "correct": "Energy is required.",
+          "options": [
+            "Energy is required.",
+            "Energy is released.",
+            "No energy change occurs.",
+            "Energy is transformed into mass."
+          ]
+        },
+        {
+          "question": "During a chemical reaction, what occurs when new bonds form?",
+          "correct": "Energy is released.",
+          "options": [
+            "Energy is released.",
+            "Energy is absorbed.",
+            "No energy change occurs.",
+            "Energy is destroyed."
+          ]
+        },
+        {
+          "question": "Which of the following reactions is exothermic?",
+          "correct": "Neutralisation of an acid and an alkali.",
+          "options": [
+            "Neutralisation of an acid and an alkali.",
+            "Thermal decomposition of CaCO3.",
+            "Dehydration of hydrated copper sulfate.",
+            "Dissolving NH4NO3 in water."
+          ]
+        },
+        {
+          "question": "Which of the following reactions is endothermic?",
+          "correct": "Thermal decomposition of CaCO3 → CaO + CO2.",
+          "options": [
+            "Thermal decomposition of CaCO3 → CaO + CO2.",
+            "Combustion of methane.",
+            "Rehydration of copper sulfate.",
+            "Neutralisation of acid and alkali."
+          ]
+        },
+        {
+          "question": "What is the key concept regarding a reaction that is endothermic in one direction?",
+          "correct": "It is exothermic in the reverse direction.",
+          "options": [
+            "It is exothermic in the reverse direction.",
+            "It remains endothermic in the reverse direction.",
+            "It produces no energy in the reverse direction.",
+            "It cannot be reversed."
+          ]
+        },
+        {
+          "question": "What does the energy change of a reaction depend on?",
+          "correct": "The amount of reactants.",
+          "options": [
+            "The amount of reactants.",
+            "The type of container used.",
+            "The color of the reactants.",
+            "The type of thermometer used."
+          ]
+        },
+        {
+          "question": "What is the symbol for enthalpy change?",
+          "correct": "ΔH",
+          "options": [
+            "ΔH",
+            "ΔE",
+            "ΔG",
+            "ΔS"
+          ]
+        },
+        {
+          "question": "For an exothermic reaction, is ΔH positive or negative?",
+          "correct": "Negative",
+          "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Cannot be determined"
+          ]
+        },
+        {
+          "question": "For an endothermic reaction, is ΔH positive or negative?",
+          "correct": "Positive",
+          "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Cannot be determined"
+          ]
+        },
+        {
+          "question": "What does ΔH(c), enthalpy of combustion, measure?",
+          "correct": "Energy released per mole of fuel burned completely.",
+          "options": [
+            "Energy released per mole of fuel burned completely.",
+            "Energy absorbed per mole of fuel.",
+            "Energy density per gram of fuel.",
+            "Change in bond energy only."
+          ]
+        },
+        {
+          "question": "Which fuel has the highest energy per gram?",
+          "correct": "Hydrogen",
+          "options": [
+            "Hydrogen",
+            "Petrol",
+            "Ethanol",
+            "Methanol"
+          ]
+        },
+        {
+          "question": "Which fuel has the lowest energy density per gram?",
+          "correct": "Methanol",
+          "options": [
+            "Methanol",
+            "Hydrogen",
+            "Petrol",
+            "Ethanol"
+          ]
+        },
+        {
+          "question": "Why is petrol considered efficient for vehicles?",
+          "correct": "Because it has a high energy per gram.",
+          "options": [
+            "Because it has a high energy per gram.",
+            "Because it is renewable.",
+            "Because it is a gas at room temperature.",
+            "Because it absorbs heat from the surroundings."
+          ]
+        },
+        {
+          "question": "How does thermochemistry help in industry?",
+          "correct": "By calculating fuel efficiency, estimating energy needs, predicting reaction feasibility, and understanding bond energy changes.",
+          "options": [
+            "By calculating fuel efficiency, estimating energy needs, predicting reaction feasibility, and understanding bond energy changes.",
+            "By controlling reaction rates only.",
+            "By eliminating energy changes in reactions.",
+            "By storing chemical energy indefinitely."
+          ]
+        }
+      ],
+      "2.4.2. - Enthalpy": [
+        {
+          "question": "What is enthalpy (H)?",
+          "correct": "The heat content of a system at constant pressure.",
+          "options": [
+            "The heat content of a system at constant pressure.",
+            "The total mass of a system.",
+            "The pressure of a system at standard conditions.",
+            "The temperature change of a system."
+          ]
+        },
+        {
+          "question": "What is enthalpy change (ΔH)?",
+          "correct": "The amount of heat energy transferred to or from the surroundings during a reaction at constant pressure.",
+          "options": [
+            "The amount of heat energy transferred to or from the surroundings during a reaction at constant pressure.",
+            "The total energy of motion in a system.",
+            "The work done by a system only.",
+            "The change in pressure of a system."
+          ]
+        },
+        {
+          "question": "What are the units of enthalpy change (ΔH)?",
+          "correct": "kJ mol−1",
+          "options": [
+            "kJ mol−1",
+            "J kg−1",
+            "Pa",
+            "kPa"
+          ]
+        },
+        {
+          "question": "What are the standard conditions for measuring enthalpy change?",
+          "correct": "100 kPa pressure and 298 K temperature",
+          "options": [
+            "100 kPa pressure and 298 K temperature",
+            "1 atm pressure and 0°C temperature",
+            "101 kPa pressure and 273 K temperature",
+            "50 kPa pressure and 310 K temperature"
+          ]
+        },
+        {
+          "question": "What does ΔH°(298) represent?",
+          "correct": "Standard enthalpy change measured at 298 K and 100 kPa",
+          "options": [
+            "Standard enthalpy change measured at 298 K and 100 kPa",
+            "Change in pressure at standard temperature",
+            "Energy released when 1 gram of substance reacts",
+            "Change in volume during reaction"
+          ]
+        },
+        {
+          "question": "What is the standard state of an element?",
+          "correct": "Its physical state at 298 K and 100 kPa",
+          "options": [
+            "Its physical state at 298 K and 100 kPa",
+            "Its most reactive state",
+            "Its ionized state in solution",
+            "Its state at 0 K"
+          ]
+        },
+        {
+          "question": "For an exothermic reaction, how does the enthalpy of products compare to reactants?",
+          "correct": "Products have less enthalpy than reactants.",
+          "options": [
+            "Products have less enthalpy than reactants.",
+            "Products have more enthalpy than reactants.",
+            "Products have the same enthalpy as reactants.",
+            "Enthalpy is not relevant."
+          ]
+        },
+        {
+          "question": "For an endothermic reaction, how does the enthalpy of products compare to reactants?",
+          "correct": "Products have more enthalpy than reactants.",
+          "options": [
+            "Products have more enthalpy than reactants.",
+            "Products have less enthalpy than reactants.",
+            "Products have the same enthalpy as reactants.",
+            "Enthalpy does not change."
+          ]
+        },
+        {
+          "question": "What is the sign of ΔH for an exothermic reaction?",
+          "correct": "Negative",
+          "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Depends on pressure"
+          ]
+        },
+        {
+          "question": "What is the sign of ΔH for an endothermic reaction?",
+          "correct": "Positive",
+          "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on temperature"
+          ]
+        },
+        {
+          "question": "How does pressure affect enthalpy change when gases are produced?",
+          "correct": "Higher pressure requires more energy for expansion, so less energy is released as heat.",
+          "options": [
+            "Higher pressure requires more energy for expansion, so less energy is released as heat.",
+            "Pressure has no effect on enthalpy change.",
+            "Higher pressure always makes ΔH positive.",
+            "Lower pressure increases ΔH for exothermic reactions only."
+          ]
+        },
+        {
+          "question": "Why must physical states be included in enthalpy change equations?",
+          "correct": "Because enthalpy depends on the states of reactants and products.",
+          "options": [
+            "Because enthalpy depends on the states of reactants and products.",
+            "Because the states indicate the temperature.",
+            "Because states affect the mass of substances.",
+            "Because states determine pressure only."
+          ]
+        },
+        {
+          "question": "What does an enthalpy level diagram show?",
+          "correct": "Relative enthalpy levels of reactants and products.",
+          "options": [
+            "Relative enthalpy levels of reactants and products.",
+            "Pressure changes during a reaction.",
+            "Concentration of reactants over time.",
+            "The amount of gas produced."
+          ]
+        },
+        {
+          "question": "In an exothermic reaction diagram, how are products shown relative to reactants?",
+          "correct": "Products are lower than reactants.",
+          "options": [
+            "Products are lower than reactants.",
+            "Products are higher than reactants.",
+            "Products are at the same level as reactants.",
+            "Products fluctuate above and below reactants."
+          ]
+        },
+        {
+          "question": "In an endothermic reaction diagram, how are products shown relative to reactants?",
+          "correct": "Products are higher than reactants.",
+          "options": [
+            "Products are higher than reactants.",
+            "Products are lower than reactants.",
+            "Products are at the same level as reactants.",
+            "Products are unstable."
+          ]
+        },
+        {
+          "question": "What does ΔH° indicate?",
+          "correct": "Standard enthalpy change at 298 K and 100 kPa.",
+          "options": [
+            "Standard enthalpy change at 298 K and 100 kPa.",
+            "Total enthalpy of the system at any temperature.",
+            "The work done by the system.",
+            "Change in entropy at standard conditions."
+          ]
+        },
+        {
+          "question": "Why should physical states and conditions always be stated when giving ΔH values?",
+          "correct": "Because enthalpy change depends on both the physical states and experimental conditions.",
+          "options": [
+            "Because enthalpy change depends on both the physical states and experimental conditions.",
+            "Because ΔH values are independent of states and conditions.",
+            "Because it only matters for endothermic reactions.",
+            "Because it only affects the sign of ΔH."
+          ]
+        },
+        {
+          "question": "What is the relationship between heat and enthalpy?",
+          "correct": "Heat is a form of energy; enthalpy is the energy change at constant pressure.",
+          "options": [
+            "Heat is a form of energy; enthalpy is the energy change at constant pressure.",
+            "Heat and enthalpy are unrelated concepts.",
+            "Enthalpy is the pressure of a system, heat is temperature.",
+            "Heat is work, enthalpy is mass."
+          ]
+        }
+      ],
+      "2.4.3. - Measuring Enthalpy Changes": [
+        {
+          "question": "What is the standard molar enthalpy change of reaction (ΔrH°)?",
+          "correct": "Enthalpy change when the reaction occurs with the molar quantities in the balanced equation under standard conditions.",
+          "options": [
+            "Enthalpy change when the reaction occurs with the molar quantities in the balanced equation under standard conditions.",
+            "Enthalpy change when 1 mol of a substance is formed from its elements.",
+            "Enthalpy change when 1 mol of a substance is completely burned in oxygen.",
+            "Change in temperature of a substance per mole."
+          ]
+        },
+        {
+          "question": "What is the standard molar enthalpy of formation (ΔfH°)?",
+          "correct": "Enthalpy change when 1 mol of a substance is formed from its elements in their standard states under standard conditions.",
+          "options": [
+            "Enthalpy change when 1 mol of a substance is formed from its elements in their standard states under standard conditions.",
+            "Enthalpy change when the reaction occurs in solution.",
+            "Heat released when a substance reacts with oxygen.",
+            "Change in kinetic energy per mole."
+          ]
+        },
+        {
+          "question": "What is the standard molar enthalpy of combustion (ΔcH°)?",
+          "correct": "Enthalpy change when 1 mol of a substance is completely burned in oxygen under standard conditions.",
+          "options": [
+            "Enthalpy change when 1 mol of a substance is completely burned in oxygen under standard conditions.",
+            "Enthalpy change when 1 mol of a substance is formed from its elements.",
+            "Enthalpy change when acid reacts with alkali.",
+            "Heat absorbed by 1 g of substance."
+          ]
+        },
+        {
+          "question": "How does temperature differ from heat?",
+          "correct": "Temperature measures average kinetic energy of particles and is independent of amount, while heat measures total energy and depends on amount.",
+          "options": [
+            "Temperature measures average kinetic energy of particles and is independent of amount, while heat measures total energy and depends on amount.",
+            "Temperature measures total energy, heat measures kinetic energy only.",
+            "Temperature depends on mass, heat does not.",
+            "Temperature flows from high to low, heat does not."
+          ]
+        },
+        {
+          "question": "What is specific heat capacity?",
+          "correct": "The amount of heat needed to raise the temperature of 1 g of a substance by 1 K.",
+          "options": [
+            "The amount of heat needed to raise the temperature of 1 g of a substance by 1 K.",
+            "The total energy in a substance.",
+            "The heat released per mole during a reaction.",
+            "The temperature increase per mole of substance."
+          ]
+        },
+        {
+          "question": "What is the formula to calculate heat change (q)?",
+          "correct": "q = m c ΔT",
+          "options": [
+            "q = m c ΔT",
+            "q = ΔH / n",
+            "q = m g h",
+            "q = P V"
+          ]
+        },
+        {
+          "question": "In the formula q = m c ΔT, what does 'c' represent?",
+          "correct": "Specific heat capacity (J g−1 K−1)",
+          "options": [
+            "Specific heat capacity (J g−1 K−1)",
+            "Mass of substance (g)",
+            "Temperature change (K)",
+            "Enthalpy change (kJ mol−1)"
+          ]
+        },
+        {
+          "question": "What is a simple calorimeter?",
+          "correct": "A setup where fuel is burned under a beaker of water to measure temperature rise.",
+          "options": [
+            "A setup where fuel is burned under a beaker of water to measure temperature rise.",
+            "A copper spiral used to burn fuel in oxygen.",
+            "A thermometer to measure pressure changes.",
+            "A device for measuring specific heat capacity only."
+          ]
+        },
+        {
+          "question": "What improvements can increase the accuracy of a simple calorimeter?",
+          "correct": "Use a draught shield and insulating materials to minimise heat loss.",
+          "options": [
+            "Use a draught shield and insulating materials to minimise heat loss.",
+            "Use a larger flame to burn more fuel.",
+            "Reduce water volume to speed heating.",
+            "Mix solutions faster."
+          ]
+        },
+        {
+          "question": "How does a flame calorimeter improve accuracy?",
+          "correct": "It uses a copper spiral and enclosed flame to reduce heat loss and burn fuel in pure oxygen.",
+          "options": [
+            "It uses a copper spiral and enclosed flame to reduce heat loss and burn fuel in pure oxygen.",
+            "It only measures temperature without water.",
+            "It uses plastic instead of copper to insulate.",
+            "It burns fuel in air rather than oxygen."
+          ]
+        },
+        {
+          "question": "How is the enthalpy change per mole calculated from heat absorbed by water?",
+          "correct": "q (J) is divided by moles of substance reacted.",
+          "options": [
+            "q (J) is divided by moles of substance reacted.",
+            "q (J) is multiplied by temperature change.",
+            "q (J) is divided by mass of water.",
+            "q (J) is added to specific heat capacity."
+          ]
+        },
+        {
+          "question": "What assumption is made when measuring enthalpy change in solution calorimetry?",
+          "correct": "That the solution has the same specific heat capacity as water.",
+          "options": [
+            "That the solution has the same specific heat capacity as water.",
+            "That no heat is lost to surroundings.",
+            "That all reactions are endothermic.",
+            "That volume does not affect temperature change."
+          ]
+        },
+        {
+          "question": "What is the general enthalpy change process in neutralisation reactions?",
+          "correct": "Acid + alkali → salt + water, exothermic process.",
+          "options": [
+            "Acid + alkali → salt + water, exothermic process.",
+            "Acid + alkali → gas only, endothermic process.",
+            "Acid + alkali → salt + water, endothermic process.",
+            "Acid + metal → hydrogen, exothermic process."
+          ]
+        },
+        {
+          "question": "How can the heat change be scaled to per mole in neutralisation experiments?",
+          "correct": "Use moles from the balanced equation to divide the total heat change.",
+          "options": [
+            "Use moles from the balanced equation to divide the total heat change.",
+            "Divide by total mass of solution only.",
+            "Multiply by temperature change.",
+            "Divide by specific heat capacity only."
+          ]
+        },
+        {
+          "question": "What is the general principle of displacement reactions in enthalpy measurements?",
+          "correct": "A more reactive metal displaces a less reactive one from solution, often exothermic.",
+          "options": [
+            "A more reactive metal displaces a less reactive one from solution, often exothermic.",
+            "Less reactive metal displaces more reactive one, endothermic.",
+            "All displacement reactions are endothermic.",
+            "No energy change occurs in displacement reactions."
+          ]
+        },
+        {
+          "question": "How does the cooling curve method improve accuracy in enthalpy measurements?",
+          "correct": "By extrapolating temperature data back to mixing time to account for heat loss.",
+          "options": [
+            "By extrapolating temperature data back to mixing time to account for heat loss.",
+            "By using a thermometer with higher precision.",
+            "By reducing volume of solutions.",
+            "By increasing mass of solution."
+          ]
+        },
+        {
+          "question": "In the methanol combustion example, what is the ΔcH° per mole?",
+          "correct": "–340 kJ mol−1",
+          "options": [
+            "–340 kJ mol−1",
+            "+336 kJ mol−1",
+            "–3360 J",
+            "+2772 J"
+          ]
+        },
+        {
+          "question": "In the HCl + NaOH neutralisation example, what is the ΔH per mole?",
+          "correct": "–55 kJ mol−1",
+          "options": [
+            "–55 kJ mol−1",
+            "+55 kJ mol−1",
+            "–2772 J",
+            "+2772 J"
+          ]
+        },
+        {
+          "question": "In the Zn + CuSO4 displacement example, what is the ΔH per mole?",
+          "correct": "–210 kJ mol−1",
+          "options": [
+            "–210 kJ mol−1",
+            "+210 kJ mol−1",
+            "–1050 J",
+            "+1050 J"
+          ]
+        }
+      ]
+    },
+    "2.5. - Kinetics": {
+      "2.5.1. - Collision Theory": [
+        {
+          "question": "What is kinetics in chemistry?",
+          "correct": "The study of reaction rates and the factors that affect them.",
+          "options": [
+            "The study of reaction rates and the factors that affect them.",
+            "The study of energy changes in reactions.",
+            "The study of chemical equilibrium.",
+            "The study of reaction mechanisms only."
+          ]
+        },
+        {
+          "question": "Why do reaction rates vary between reactions?",
+          "correct": "Because different reactions require different conditions and have different activation energies.",
+          "options": [
+            "Because different reactions require different conditions and have different activation energies.",
+            "Because all reactions occur at the same speed.",
+            "Because only catalysts determine the rate.",
+            "Because endothermic reactions are always faster."
+          ]
+        },
+        {
+          "question": "According to collision theory, what is required for a reaction to occur?",
+          "correct": "Particles must collide with sufficient energy and correct orientation.",
+          "options": [
+            "Particles must collide with sufficient energy and correct orientation.",
+            "Particles must collide only with high speed.",
+            "Particles must collide regardless of energy.",
+            "Particles must collide with the same mass."
+          ]
+        },
+        {
+          "question": "Why do most collisions not result in reactions?",
+          "correct": "Because the energy is below activation energy or orientation is incorrect.",
+          "options": [
+            "Because the energy is below activation energy or orientation is incorrect.",
+            "Because particles move too fast.",
+            "Because the reaction is exothermic.",
+            "Because the catalyst absorbs energy."
+          ]
+        },
+        {
+          "question": "What factors increase reaction rate according to collision theory?",
+          "correct": "More collisions per second and higher particle kinetic energy.",
+          "options": [
+            "More collisions per second and higher particle kinetic energy.",
+            "Only the presence of catalysts.",
+            "Only increasing reactant mass.",
+            "Only changing physical states of reactants."
+          ]
+        },
+        {
+          "question": "How does temperature affect reaction rate?",
+          "correct": "Particles move faster, increasing collision frequency and proportion with energy ≥ activation energy.",
+          "options": [
+            "Particles move faster, increasing collision frequency and proportion with energy ≥ activation energy.",
+            "Particles slow down, decreasing collisions.",
+            "Temperature does not affect rate.",
+            "Temperature changes only affect catalysts."
+          ]
+        },
+        {
+          "question": "What is the effect of concentration on reaction rate for solutions?",
+          "correct": "Higher concentration increases collision frequency, so the rate increases.",
+          "options": [
+            "Higher concentration increases collision frequency, so the rate increases.",
+            "Higher concentration decreases collision frequency.",
+            "Concentration has no effect on rate.",
+            "Concentration affects only endothermic reactions."
+          ]
+        },
+        {
+          "question": "How does pressure affect reaction rate for gases?",
+          "correct": "Higher pressure brings particles closer together, increasing collision frequency and rate.",
+          "options": [
+            "Higher pressure brings particles closer together, increasing collision frequency and rate.",
+            "Higher pressure decreases collision frequency.",
+            "Pressure only affects the enthalpy change.",
+            "Pressure changes the activation energy directly."
+          ]
+        },
+        {
+          "question": "How does surface area of solids affect reaction rate?",
+          "correct": "Smaller particles give greater surface area, providing more sites for collisions, increasing rate.",
+          "options": [
+            "Smaller particles give greater surface area, providing more sites for collisions, increasing rate.",
+            "Surface area does not affect solid reactions.",
+            "Larger particles always react faster.",
+            "Only catalysts affect surface area impact."
+          ]
+        },
+        {
+          "question": "How do catalysts increase reaction rate?",
+          "correct": "By providing an alternative reaction pathway with lower activation energy without being used up.",
+          "options": [
+            "By providing an alternative reaction pathway with lower activation energy without being used up.",
+            "By increasing particle mass.",
+            "By raising temperature only.",
+            "By being consumed to release energy."
+          ]
+        },
+        {
+          "question": "What is activation energy (Ea)?",
+          "correct": "The minimum energy particles must have to start a reaction and break bonds.",
+          "options": [
+            "The minimum energy particles must have to start a reaction and break bonds.",
+            "The total energy released by a reaction.",
+            "The energy lost to the surroundings.",
+            "The energy required to cool reactants."
+          ]
+        },
+        {
+          "question": "What fraction of collisions have enough energy to overcome the activation energy barrier?",
+          "correct": "Only a small fraction.",
+          "options": [
+            "Only a small fraction.",
+            "All collisions have enough energy.",
+            "Half of the collisions.",
+            "It depends on the temperature alone."
+          ]
+        },
+        {
+          "question": "On an enthalpy profile diagram, what does Ea represent?",
+          "correct": "The energy difference between reactants and the transition state (top of the curve).",
+          "options": [
+            "The energy difference between reactants and the transition state (top of the curve).",
+            "The total energy released by products.",
+            "The energy difference between products and reactants.",
+            "The heat absorbed from surroundings."
+          ]
+        },
+        {
+          "question": "What is the transition state (activated complex)?",
+          "correct": "An unstable intermediate where some bonds are breaking and others forming, like a ball at the top of a hill.",
+          "options": [
+            "An unstable intermediate where some bonds are breaking and others forming, like a ball at the top of a hill.",
+            "The final product of a reaction.",
+            "The initial reactant state.",
+            "A state where energy is zero."
+          ]
+        },
+        {
+          "question": "How does activation energy affect exothermic reaction speed?",
+          "correct": "Large Ea → slow at room temperature, small Ea → fast reaction.",
+          "options": [
+            "Large Ea → slow at room temperature, small Ea → fast reaction.",
+            "Activation energy does not affect speed.",
+            "Large Ea → fast reaction, small Ea → slow reaction.",
+            "Only endothermic reactions depend on Ea."
+          ]
+        },
+        {
+          "question": "What analogy is used to describe activation energy for exothermic reactions?",
+          "correct": "Like a ball rolling over a hill: low hill → easy to start, high hill → needs more push.",
+          "options": [
+            "Like a ball rolling over a hill: low hill → easy to start, high hill → needs more push.",
+            "Like a car accelerating downhill.",
+            "Like a balloon inflating.",
+            "Like ice melting."
+          ]
+        },
+        {
+          "question": "For endothermic reactions, how is activation energy measured?",
+          "correct": "From reactants to the top of the curve (transition state).",
+          "options": [
+            "From reactants to the top of the curve (transition state).",
+            "From products to reactants.",
+            "From the transition state to products.",
+            "Endothermic reactions do not have activation energy."
+          ]
+        },
+        {
+          "question": "Why do endothermic reactions require energy input before products can form?",
+          "correct": "Because energy must be supplied to reach the transition state.",
+          "options": [
+            "Because energy must be supplied to reach the transition state.",
+            "Because the products release energy immediately.",
+            "Because reactants are unstable.",
+            "Because catalysts are consumed."
+          ]
+        }
+      ],
+      "2.5.2. - The Maxwell-Boltzmann Distribution": [
+        {
+          "question": "What does the Maxwell–Boltzmann distribution graph show?",
+          "correct": "How energy is distributed among particles in a sample.",
+          "options": [
+            "How energy is distributed among particles in a sample.",
+            "The total mass of particles in a gas.",
+            "The average speed of particles only.",
+            "The rate of chemical reactions."
+          ]
+        },
+        {
+          "question": "Do any particles have zero energy in the Maxwell–Boltzmann distribution?",
+          "correct": "No, no particles have zero energy.",
+          "options": [
+            "No, no particles have zero energy.",
+            "Yes, most particles have zero energy.",
+            "Some particles have zero energy only at high temperature.",
+            "All particles start with zero energy."
+          ]
+        },
+        {
+          "question": "Where on the Maxwell–Boltzmann curve are most particles found?",
+          "correct": "At intermediate energies, forming the peak of the curve.",
+          "options": [
+            "At intermediate energies, forming the peak of the curve.",
+            "At zero energy.",
+            "At the extreme high-energy tail.",
+            "At negative energy values."
+          ]
+        },
+        {
+          "question": "How does the average particle energy compare to the most probable energy?",
+          "correct": "The average energy is greater than the most probable energy.",
+          "options": [
+            "The average energy is greater than the most probable energy.",
+            "The average energy equals the most probable energy.",
+            "The average energy is less than the most probable energy.",
+            "There is no average energy."
+          ]
+        },
+        {
+          "question": "What does the area under the Maxwell–Boltzmann curve represent?",
+          "correct": "The total number of particles in the sample.",
+          "options": [
+            "The total number of particles in the sample.",
+            "The total energy of particles.",
+            "The activation energy of the reaction.",
+            "The reaction rate constant."
+          ]
+        },
+        {
+          "question": "How is activation energy (Ea) represented on the Maxwell–Boltzmann graph?",
+          "correct": "As a vertical line, with the area to the right showing particles with enough energy to react.",
+          "options": [
+            "As a vertical line, with the area to the right showing particles with enough energy to react.",
+            "As the peak of the curve.",
+            "As the area under the entire curve.",
+            "As a horizontal line at the bottom."
+          ]
+        },
+        {
+          "question": "Why do most collisions not result in a reaction?",
+          "correct": "Because most particles have energy below Ea or collide with incorrect orientation.",
+          "options": [
+            "Because most particles have energy below Ea or collide with incorrect orientation.",
+            "Because all particles exceed Ea.",
+            "Because temperature is always low.",
+            "Because pressure is too high."
+          ]
+        },
+        {
+          "question": "Why are fuels stable at room temperature according to the Maxwell–Boltzmann distribution?",
+          "correct": "Because very few particles have energy exceeding Ea.",
+          "options": [
+            "Because very few particles have energy exceeding Ea.",
+            "Because all particles move too fast.",
+            "Because activation energy is zero.",
+            "Because temperature is irrelevant to reaction rate."
+          ]
+        },
+        {
+          "question": "What effect does a spark or flame have on a reaction?",
+          "correct": "It provides energy to start the reaction by allowing some particles to reach Ea.",
+          "options": [
+            "It provides energy to start the reaction by allowing some particles to reach Ea.",
+            "It reduces the number of collisions.",
+            "It decreases the activation energy permanently.",
+            "It changes the number of particles."
+          ]
+        },
+        {
+          "question": "How does increasing temperature affect the Maxwell–Boltzmann curve?",
+          "correct": "The peak moves to the right, becomes lower and broader, and more particles have energy ≥ Ea.",
+          "options": [
+            "The peak moves to the right, becomes lower and broader, and more particles have energy ≥ Ea.",
+            "The peak moves left and becomes sharper.",
+            "The area under the curve increases.",
+            "All particles gain the same energy."
+          ]
+        },
+        {
+          "question": "Does the area under the Maxwell–Boltzmann curve change with temperature?",
+          "correct": "No, it remains constant because the total number of particles is constant.",
+          "options": [
+            "No, it remains constant because the total number of particles is constant.",
+            "Yes, it increases with temperature.",
+            "Yes, it decreases with temperature.",
+            "It depends on the reaction type."
+          ]
+        },
+        {
+          "question": "Why does increasing temperature increase reaction rate?",
+          "correct": "More particles have energy ≥ Ea, leading to more effective collisions.",
+          "options": [
+            "More particles have energy ≥ Ea, leading to more effective collisions.",
+            "Temperature does not affect reaction rate.",
+            "The total number of particles increases.",
+            "The activation energy decreases."
+          ]
+        },
+        {
+          "question": "Besides increasing energy, what other effect does higher temperature have on particles?",
+          "correct": "Particles move faster, increasing collision frequency, but this has a smaller effect than increasing energy above Ea.",
+          "options": [
+            "Particles move faster, increasing collision frequency, but this has a smaller effect than increasing energy above Ea.",
+            "Particles move slower, decreasing collisions.",
+            "Particles remain the same speed.",
+            "Particles become heavier."
+          ]
+        }
+      ],
+      "2.5.3. - Catalysts": [
+        {
+          "question": "What is a catalyst?",
+          "correct": "A substance that increases the rate of a chemical reaction without being chemically changed or used up.",
+          "options": [
+            "A substance that increases the rate of a chemical reaction without being chemically changed or used up.",
+            "A substance that is consumed to release energy in a reaction.",
+            "A substance that decreases the activation energy and is used up.",
+            "A substance that shifts the equilibrium of a reaction permanently."
+          ]
+        },
+        {
+          "question": "How do catalysts increase reaction rate?",
+          "correct": "By providing an alternative reaction pathway with a lower activation energy.",
+          "options": [
+            "By providing an alternative reaction pathway with a lower activation energy.",
+            "By increasing the enthalpy change (ΔH) of the reaction.",
+            "By changing the number of particles in the system.",
+            "By consuming one reactant completely."
+          ]
+        },
+        {
+          "question": "What does lowering activation energy (Ea) do?",
+          "correct": "Increases the proportion of particles with sufficient energy to react.",
+          "options": [
+            "Increases the proportion of particles with sufficient energy to react.",
+            "Decreases the fraction of particles with sufficient energy.",
+            "Changes the enthalpy of the reaction.",
+            "Prevents reverse reactions from occurring."
+          ]
+        },
+        {
+          "question": "Which of the following is NOT affected by a catalyst?",
+          "correct": "The enthalpy change (ΔH) and the position of equilibrium.",
+          "options": [
+            "The enthalpy change (ΔH) and the position of equilibrium.",
+            "The activation energy.",
+            "The rate of reaction.",
+            "The fraction of particles able to react."
+          ]
+        },
+        {
+          "question": "Example: For 2HI → H2 + I2, what happens to Ea with a platinum catalyst?",
+          "correct": "It decreases from 183 kJ mol−1 to 58 kJ mol−1.",
+          "options": [
+            "It decreases from 183 kJ mol−1 to 58 kJ mol−1.",
+            "It increases from 183 kJ mol−1 to 200 kJ mol−1.",
+            "It stays the same at 183 kJ mol−1.",
+            "It becomes zero."
+          ]
+        },
+        {
+          "question": "How does a catalyst affect the Maxwell–Boltzmann distribution graph?",
+          "correct": "Shifts the Ea line to the left, increasing the area beyond Ea so more particles can react.",
+          "options": [
+            "Shifts the Ea line to the left, increasing the area beyond Ea so more particles can react.",
+            "Shifts the peak of the curve to the right only.",
+            "Reduces the number of particles in the reaction.",
+            "Changes the total area under the curve."
+          ]
+        },
+        {
+          "question": "Why are catalysts important in industry?",
+          "correct": "They provide a cheaper and more energy-efficient alternative to high temperatures and pressures.",
+          "options": [
+            "They provide a cheaper and more energy-efficient alternative to high temperatures and pressures.",
+            "They always increase the enthalpy change.",
+            "They are consumed to produce energy.",
+            "They change the equilibrium position permanently."
+          ]
+        },
+        {
+          "question": "Which catalyst is used in the Haber process for ammonia production?",
+          "correct": "Iron",
+          "options": [
+            "Iron",
+            "Platinum & rhodium",
+            "Nickel",
+            "H3PO4 on silica"
+          ]
+        },
+        {
+          "question": "Which catalyst is used for hydrogenation of ethene to ethane?",
+          "correct": "Nickel",
+          "options": [
+            "Nickel",
+            "Platinum & rhodium",
+            "Iron",
+            "H+"
+          ]
+        },
+        {
+          "question": "What is the role of the ceramic honeycomb in a catalytic converter?",
+          "correct": "Provides a large surface area for gases to adsorb onto the platinum and rhodium.",
+          "options": [
+            "Provides a large surface area for gases to adsorb onto the platinum and rhodium.",
+            "Absorbs heat to increase reaction rate.",
+            "Supplies oxygen for combustion.",
+            "Shifts the equilibrium of reactions."
+          ]
+        },
+        {
+          "question": "What are the two main steps in catalytic converter reactions?",
+          "correct": "Adsorption (reactants bind to metal surface) and desorption (products released).",
+          "options": [
+            "Adsorption (reactants bind to metal surface) and desorption (products released).",
+            "Evaporation and condensation of gases.",
+            "Heating and cooling cycles.",
+            "Pressure increase and decrease."
+          ]
+        },
+        {
+          "question": "Why must bonds be neither too strong nor too weak in a catalyst?",
+          "correct": "Strong enough to hold reactants, weak enough to release products.",
+          "options": [
+            "Strong enough to hold reactants, weak enough to release products.",
+            "So that the catalyst is consumed.",
+            "So that the enthalpy change becomes negative.",
+            "So that activation energy increases."
+          ]
+        }
+      ]
+    },
+    "2.6. - Equilibria": {
+      "2.6.1. - The Idea of Equilibrium": [
+        {
+          "question": "What is a reversible reaction?",
+          "correct": "A reaction in which products can reform the reactants",
+          "options": [
+            "A reaction that only goes in one direction",
+            "A reaction that stops once products are formed",
+            "A reaction in which products can reform the reactants",
+            "A reaction that only occurs in open systems"
+          ]
+        },
+        {
+          "question": "Which symbol is used to represent a reversible reaction?",
+          "correct": "⇌",
+          "options": [
+            "→",
+            "⇌",
+            "←",
+            "="
+          ]
+        },
+        {
+          "question": "In the example of hydrated copper sulfate, what happens when water is removed by heating?",
+          "correct": "Blue hydrated crystals convert to white anhydrous copper sulfate",
+          "options": [
+            "White anhydrous copper sulfate converts to blue hydrated crystals",
+            "The reaction becomes irreversible",
+            "Blue hydrated crystals convert to white anhydrous copper sulfate",
+            "The reaction stops completely"
+          ]
+        },
+        {
+          "question": "What is an equilibrium mixture?",
+          "correct": "A mixture in which concentrations of all substances remain constant in a closed system",
+          "options": [
+            "A mixture that contains only reactants",
+            "A mixture in which concentrations of all substances remain constant in a closed system",
+            "A mixture with 50:50 ratio of reactants to products",
+            "A mixture that exists only in open systems"
+          ]
+        },
+        {
+          "question": "In a closed system, what happens to water molecules during dynamic equilibrium?",
+          "correct": "Evaporation and condensation occur at equal rates",
+          "options": [
+            "Only evaporation occurs",
+            "Only condensation occurs",
+            "Evaporation and condensation occur at equal rates",
+            "Water stops changing state completely"
+          ]
+        },
+        {
+          "question": "What is the definition of dynamic equilibrium?",
+          "correct": "A state in which forward and reverse reactions occur at the same rate with no net change in macroscopic properties",
+          "options": [
+            "A state where reactions stop completely",
+            "A state where only the forward reaction occurs",
+            "A state in which forward and reverse reactions occur at the same rate with no net change in macroscopic properties",
+            "A state where macroscopic properties continuously change"
+          ]
+        },
+        {
+          "question": "Which of the following is a key feature of dynamic equilibrium?",
+          "correct": "Observable properties such as colour, pressure, and concentration remain constant",
+          "options": [
+            "Reactions completely stop",
+            "Products always equal reactants in quantity",
+            "Observable properties such as colour, pressure, and concentration remain constant",
+            "Equilibrium can only be reached from the reactants side"
+          ]
+        },
+        {
+          "question": "Which condition is necessary for a system to reach equilibrium?",
+          "correct": "The system must be closed",
+          "options": [
+            "The system must be open",
+            "The system must be closed",
+            "Reactants must be completely consumed",
+            "Products must be in equal amounts to reactants"
+          ]
+        },
+        {
+          "question": "Can equilibrium be approached from either direction?",
+          "correct": "Yes, the final equilibrium position is the same whether starting from reactants or products",
+          "options": [
+            "No, equilibrium can only be reached from reactants",
+            "No, equilibrium can only be reached from products",
+            "Yes, the final equilibrium position is the same whether starting from reactants or products",
+            "Yes, but only if the reaction is irreversible"
+          ]
+        },
+        {
+          "question": "How are forward and reverse reaction rates related at chemical equilibrium?",
+          "correct": "Rate of forward reaction equals rate of reverse reaction",
+          "options": [
+            "Rate of forward reaction is zero",
+            "Rate of reverse reaction is zero",
+            "Rate of forward reaction equals rate of reverse reaction",
+            "Forward reaction rate is always greater than reverse"
+          ]
+        },
+        {
+          "question": "Does an equilibrium mixture always contain reactants and products in equal amounts?",
+          "correct": "No, the proportions depend on temperature, pressure, and concentration",
+          "options": [
+            "Yes, it is always 50:50",
+            "No, the proportions depend on temperature, pressure, and concentration",
+            "Yes, if the reaction is physical",
+            "Yes, if the system is closed"
+          ]
+        },
+        {
+          "question": "In the equilibrium of H2O(l)⇌H2O(g), what does the forward reaction represent?",
+          "correct": "Evaporation",
+          "options": [
+            "Condensation",
+            "Freezing",
+            "Evaporation",
+            "Sublimation"
+          ]
+        },
+        {
+          "question": "In the equilibrium of H2O(l)⇌H2O(g), what does the reverse reaction represent?",
+          "correct": "Condensation",
+          "options": [
+            "Evaporation",
+            "Melting",
+            "Condensation",
+            "Sublimation"
+          ]
+        },
+        {
+          "question": "What happens to the rates of the forward and reverse reactions as equilibrium is approached in a chemical reaction A + B ⇌ C + D?",
+          "correct": "Forward reaction slows while reverse reaction speeds up until rates are equal",
+          "options": [
+            "Both forward and reverse reactions stop",
+            "Forward reaction speeds up and reverse slows down",
+            "Forward reaction slows while reverse reaction speeds up until rates are equal",
+            "Only the forward reaction continues"
+          ]
+        }
+      ],
+      "2.6.2. - Changing the Conditions of Equilibrium": [
+        {
+          "question": "What does the position of equilibrium indicate in a reversible reaction?",
+          "correct": "Whether the mixture contains more reactants or products",
+          "options": [
+            "The reaction is complete",
+            "Whether the mixture contains more reactants or products",
+            "The reaction is irreversible",
+            "The reaction rate has stopped"
+          ]
+        },
+        {
+          "question": "What does it mean if equilibrium moves to the right?",
+          "correct": "More products are formed",
+          "options": [
+            "More reactants are formed",
+            "The reaction stops",
+            "More products are formed",
+            "The system becomes unstable"
+          ]
+        },
+        {
+          "question": "Which factors can shift the position of equilibrium?",
+          "correct": "Temperature, concentration, and pressure (for gases)",
+          "options": [
+            "Only temperature",
+            "Only concentration",
+            "Temperature, concentration, and pressure (for gases)",
+            "Catalysts only"
+          ]
+        },
+        {
+          "question": "What is Le Chatelier’s Principle?",
+          "correct": "If a system at equilibrium is disturbed, the equilibrium shifts to reduce the disturbance",
+          "options": [
+            "Equilibrium cannot be disturbed",
+            "A catalyst speeds up equilibrium",
+            "If a system at equilibrium is disturbed, the equilibrium shifts to reduce the disturbance",
+            "The equilibrium always shifts to the right"
+          ]
+        },
+        {
+          "question": "If the concentration of a reactant is increased, how does the equilibrium shift?",
+          "correct": "Shifts to the right, producing more products",
+          "options": [
+            "Shifts to the left, producing more reactants",
+            "Shifts to the right, producing more products",
+            "Does not shift",
+            "Reaction stops"
+          ]
+        },
+        {
+          "question": "What happens if a product is removed from a reaction at equilibrium?",
+          "correct": "Equilibrium shifts to replace the removed product",
+          "options": [
+            "Equilibrium shifts to produce more reactants",
+            "Equilibrium shifts to replace the removed product",
+            "Reaction stops",
+            "Equilibrium shifts randomly"
+          ]
+        },
+        {
+          "question": "For gaseous reactions, what effect does increasing pressure have on equilibrium?",
+          "correct": "Shifts to the side with fewer gas molecules",
+          "options": [
+            "Shifts to the side with more gas molecules",
+            "Shifts randomly",
+            "Shifts to the side with fewer gas molecules",
+            "No effect in any case"
+          ]
+        },
+        {
+          "question": "If both sides of a gaseous reaction have the same number of molecules, what is the effect of changing pressure?",
+          "correct": "No effect on the position of equilibrium",
+          "options": [
+            "Shifts to the right",
+            "Shifts to the left",
+            "No effect on the position of equilibrium",
+            "Reaction rate doubles"
+          ]
+        },
+        {
+          "question": "In the reaction N2O4 ⇌ 2NO2, what happens when pressure is increased?",
+          "correct": "Equilibrium shifts left, forming more N2O4",
+          "options": [
+            "Equilibrium shifts right, forming more NO2",
+            "Equilibrium shifts left, forming more N2O4",
+            "No shift occurs",
+            "Reaction stops"
+          ]
+        },
+        {
+          "question": "What is the general effect of increasing temperature on an equilibrium reaction?",
+          "correct": "Shifts in the endothermic direction (absorbs heat)",
+          "options": [
+            "Shifts in the exothermic direction (releases heat)",
+            "Shifts in the endothermic direction (absorbs heat)",
+            "No shift occurs",
+            "Reaction stops"
+          ]
+        },
+        {
+          "question": "For an exothermic reaction, what happens when the temperature is increased?",
+          "correct": "Equilibrium shifts left (toward reactants)",
+          "options": [
+            "Equilibrium shifts right (toward products)",
+            "Equilibrium shifts left (toward reactants)",
+            "No shift occurs",
+            "Reaction rate decreases only"
+          ]
+        },
+        {
+          "question": "For an endothermic reaction, what happens when the temperature is increased?",
+          "correct": "Equilibrium shifts right (toward products)",
+          "options": [
+            "Equilibrium shifts left (toward reactants)",
+            "Equilibrium shifts right (toward products)",
+            "No shift occurs",
+            "Reaction stops"
+          ]
+        },
+        {
+          "question": "What effect does a catalyst have on the position of equilibrium?",
+          "correct": "No effect on the position, only speeds up rate to reach equilibrium",
+          "options": [
+            "Shifts equilibrium to the right",
+            "Shifts equilibrium to the left",
+            "No effect on the position, only speeds up rate to reach equilibrium",
+            "Stops the reaction"
+          ]
+        },
+        {
+          "question": "Why are catalysts important in industrial processes involving equilibrium reactions?",
+          "correct": "They lower activation energy and allow equilibrium to be reached faster",
+          "options": [
+            "They increase product yield",
+            "They prevent reversible reactions",
+            "They lower activation energy and allow equilibrium to be reached faster",
+            "They change the reaction from endothermic to exothermic"
+          ]
+        }
+      ],
+      "2.6.3. - Equilibrium Reactions in Industry": [
+        {
+          "question": "Why are compromise conditions used in industrial equilibrium reactions?",
+          "correct": "To balance maximum yield, rate, and cost",
+          "options": [
+            "To always achieve maximum yield regardless of rate",
+            "To prevent reversible reactions",
+            "To balance maximum yield, rate, and cost",
+            "To avoid using catalysts"
+          ]
+        },
+        {
+          "question": "What is a drawback of using very low temperatures in exothermic industrial reactions?",
+          "correct": "Reaction rate becomes too slow",
+          "options": [
+            "Yield decreases",
+            "Reaction rate becomes too slow",
+            "Pressure increases too much",
+            "Catalyst becomes inactive"
+          ]
+        },
+        {
+          "question": "What is a drawback of using very high pressures in industrial reactions?",
+          "correct": "High construction and running costs, and possible side reactions",
+          "options": [
+            "Reaction stops",
+            "Low yield",
+            "High construction and running costs, and possible side reactions",
+            "Catalyst is deactivated"
+          ]
+        },
+        {
+          "question": "In the Haber process, which reaction takes place?",
+          "correct": "N2(g) + 3H2(g) ⇌ 2NH3(g) ΔH = -92 kJ mol−1",
+          "options": [
+            "N2(g) + 3H2(g) ⇌ 2NH3(g) ΔH = -92 kJ mol−1",
+            "CO(g) + 2H2(g) ⇌ CH3OH(g)",
+            "C2H4(g) + H2O(g) ⇌ C2H5OH(g)",
+            "CH4 + H2O → CO + 3H2"
+          ]
+        },
+        {
+          "question": "Why is a catalyst used in the Haber process?",
+          "correct": "To increase rate of reaction without changing equilibrium position",
+          "options": [
+            "To shift equilibrium to the right",
+            "To increase rate of reaction without changing equilibrium position",
+            "To change ΔH of the reaction",
+            "To increase pressure"
+          ]
+        },
+        {
+          "question": "What are the actual industrial conditions for the Haber process?",
+          "correct": "Temperature ≈ 620 K, Pressure ≈ 200 atm, Iron catalyst",
+          "options": [
+            "Temperature ≈ 500 K, Pressure ≈ 100 atm, Copper catalyst",
+            "Temperature ≈ 570 K, Pressure ≈ 65 atm, Phosphoric acid catalyst",
+            "Temperature ≈ 620 K, Pressure ≈ 200 atm, Iron catalyst",
+            "Temperature ≈ 600 K, Pressure ≈ 300 atm, Platinum catalyst"
+          ]
+        },
+        {
+          "question": "What is the atom economy of ammonia formation in the Haber process?",
+          "correct": "100%",
+          "options": [
+            "50%",
+            "75%",
+            "100%",
+            "92%"
+          ]
+        },
+        {
+          "question": "What is the main use of ammonia produced in the Haber process?",
+          "correct": "Fertilizers such as ammonium nitrate and urea",
+          "options": [
+            "Plastics",
+            "Fuels",
+            "Fertilizers such as ammonium nitrate and urea",
+            "Explosives only"
+          ]
+        },
+        {
+          "question": "Which reaction describes the industrial production of ethanol from ethene?",
+          "correct": "C2H4(g) + H2O(g) ⇌ C2H5OH(g) ΔH = -46 kJ mol−1",
+          "options": [
+            "N2(g) + 3H2(g) ⇌ 2NH3(g)",
+            "C2H4(g) + H2O(g) ⇌ C2H5OH(g) ΔH = -46 kJ mol−1",
+            "CO(g) + 2H2(g) ⇌ CH3OH(g)",
+            "CH4 + H2O → CO + 3H2"
+          ]
+        },
+        {
+          "question": "Why is high pressure a problem in the hydration of ethene?",
+          "correct": "Ethene can polymerize to poly(ethene) and costs increase",
+          "options": [
+            "Equilibrium shifts left",
+            "Catalyst deactivates",
+            "Ethene can polymerize to poly(ethene) and costs increase",
+            "Reaction becomes endothermic"
+          ]
+        },
+        {
+          "question": "What are the compromise conditions for industrial ethanol production?",
+          "correct": "Temperature ≈ 570 K, Pressure ≈ 6500 kPa, Phosphoric acid catalyst",
+          "options": [
+            "Temperature ≈ 620 K, Pressure ≈ 200 atm, Iron catalyst",
+            "Temperature ≈ 500 K, Pressure ≈ 10 000 kPa, Copper catalyst",
+            "Temperature ≈ 570 K, Pressure ≈ 6500 kPa, Phosphoric acid catalyst",
+            "Temperature ≈ 600 K, Pressure ≈ 5000 kPa, Platinum catalyst"
+          ]
+        },
+        {
+          "question": "Which reaction describes industrial methanol production?",
+          "correct": "CO(g) + 2H2(g) ⇌ CH3OH(g) ΔH = -91 kJ mol−1",
+          "options": [
+            "N2(g) + 3H2(g) ⇌ 2NH3(g)",
+            "C2H4(g) + H2O(g) ⇌ C2H5OH(g)",
+            "CO(g) + 2H2(g) ⇌ CH3OH(g) ΔH = -91 kJ mol−1",
+            "CH4 + H2O → CO + 3H2"
+          ]
+        },
+        {
+          "question": "What is the catalyst used in industrial methanol production?",
+          "correct": "Copper (Cu)",
+          "options": [
+            "Iron (Fe)",
+            "Phosphoric acid (H3PO4)",
+            "Copper (Cu)",
+            "Platinum (Pt)"
+          ]
+        },
+        {
+          "question": "Why is recycling unreacted gases important in industrial equilibrium processes?",
+          "correct": "It improves overall yield",
+          "options": [
+            "It increases reaction rate",
+            "It reduces pressure",
+            "It improves overall yield",
+            "It eliminates the need for a catalyst"
+          ]
+        },
+        {
+          "question": "What are some main uses of methanol?",
+          "correct": "Plastics, fuel, and methanal (formaldehyde) production",
+          "options": [
+            "Fertilizers only",
+            "Explosives only",
+            "Plastics, fuel, and methanal (formaldehyde) production",
+            "Dyes and drugs only"
+          ]
+        }
+      ],
+      "2.6.4. - Equilbrium Constant, Kc": [
+        {
+          "question": "What is a reversible reaction?",
+          "correct": "A reaction that can proceed in both forward and backward directions and can reach equilibrium",
+          "options": [
+            "A reaction that only occurs in one direction",
+            "A reaction that stops once products form",
+            "A reaction that can proceed in both forward and backward directions and can reach equilibrium",
+            "A reaction that does not involve reactants"
+          ]
+        },
+        {
+          "question": "What is chemical equilibrium?",
+          "correct": "A dynamic state in which the rate of the forward reaction equals the rate of the reverse reaction and concentrations remain constant",
+          "options": [
+            "A state where all reactants are converted to products",
+            "A state where reaction stops completely",
+            "A dynamic state in which the rate of the forward reaction equals the rate of the reverse reaction and concentrations remain constant",
+            "A state where only products are present"
+          ]
+        },
+        {
+          "question": "What does the equilibrium constant Kc express?",
+          "correct": "The ratio of product concentrations to reactant concentrations at equilibrium at a fixed temperature",
+          "options": [
+            "The reaction rate",
+            "The ratio of reactant concentrations to product concentrations",
+            "The ratio of product concentrations to reactant concentrations at equilibrium at a fixed temperature",
+            "The total number of molecules in the reaction"
+          ]
+        },
+        {
+          "question": "For the reaction aA + bB ⇌ xX + yY + zZ, what is the expression for Kc?",
+          "correct": "Kc = [X]^x [Y]^y [Z]^z / [A]^a [B]^b",
+          "options": [
+            "Kc = [A]^a [B]^b / [X]^x [Y]^y [Z]^z",
+            "Kc = [X]^x [Y]^y [Z]^z / [A]^a [B]^b",
+            "Kc = [X] + [Y] + [Z] / [A] + [B]",
+            "Kc = [A] + [B] / [X] + [Y] + [Z]"
+          ]
+        },
+        {
+          "question": "What do the square brackets [ ] in the Kc expression represent?",
+          "correct": "Concentration in mol dm−3",
+          "options": [
+            "Number of moles",
+            "Pressure in kPa",
+            "Concentration in mol dm−3",
+            "Volume in dm3"
+          ]
+        },
+        {
+          "question": "To which type of equilibria does Kc apply?",
+          "correct": "Homogeneous equilibria (all species in the same phase)",
+          "options": [
+            "Heterogeneous equilibria",
+            "Homogeneous equilibria (all species in the same phase)",
+            "Only gaseous reactions",
+            "Only aqueous reactions"
+          ]
+        },
+        {
+          "question": "What determines the value of Kc for a reaction?",
+          "correct": "Experimental measurement at a fixed temperature",
+          "options": [
+            "Calculating from ΔH",
+            "Using Le Chatelier’s principle",
+            "Experimental measurement at a fixed temperature",
+            "Using the catalyst type"
+          ]
+        },
+        {
+          "question": "How does temperature affect the value of Kc?",
+          "correct": "Kc is constant only at a fixed temperature; changing temperature changes Kc",
+          "options": [
+            "Kc is independent of temperature",
+            "Kc increases with pressure",
+            "Kc is constant only at a fixed temperature; changing temperature changes Kc",
+            "Kc depends on concentration changes"
+          ]
+        },
+        {
+          "question": "Do the units of Kc stay the same for all reactions?",
+          "correct": "No, units vary depending on the reaction and must be calculated",
+          "options": [
+            "Yes, Kc is always unitless",
+            "No, units vary depending on the reaction and must be calculated",
+            "Yes, Kc always has units mol dm−3",
+            "Units depend only on temperature"
+          ]
+        }
+      ],
+      "2.6.5. - The Effect of Changing Conditions on Equilibria": [
+        {
+          "question": "What does Le Chatelier’s Principle state about a system at equilibrium when disturbed?",
+          "correct": "Equilibrium shifts to oppose the change and restore balance",
+          "options": [
+            "The reaction stops immediately",
+            "Equilibrium shifts to oppose the change and restore balance",
+            "Equilibrium always shifts to the right",
+            "Equilibrium always shifts to the left"
+          ]
+        },
+        {
+          "question": "How does increasing temperature affect Kc for an exothermic reaction?",
+          "correct": "Kc decreases and equilibrium shifts left (towards reactants)",
+          "options": [
+            "Kc increases and equilibrium shifts right (towards products)",
+            "Kc decreases and equilibrium shifts left (towards reactants)",
+            "Kc remains constant",
+            "Equilibrium shifts randomly"
+          ]
+        },
+        {
+          "question": "How does decreasing temperature affect Kc for an exothermic reaction?",
+          "correct": "Kc increases and equilibrium shifts right (towards products)",
+          "options": [
+            "Kc decreases and equilibrium shifts left (towards reactants)",
+            "Kc increases and equilibrium shifts right (towards products)",
+            "Kc remains constant",
+            "Equilibrium shifts randomly"
+          ]
+        },
+        {
+          "question": "How does increasing temperature affect Kc for an endothermic reaction?",
+          "correct": "Kc increases and equilibrium shifts right (towards products)",
+          "options": [
+            "Kc decreases and equilibrium shifts left (towards reactants)",
+            "Kc increases and equilibrium shifts right (towards products)",
+            "Kc remains constant",
+            "Equilibrium shifts randomly"
+          ]
+        },
+        {
+          "question": "How does decreasing temperature affect Kc for an endothermic reaction?",
+          "correct": "Kc decreases and equilibrium shifts left (towards reactants)",
+          "options": [
+            "Kc decreases and equilibrium shifts left (towards reactants)",
+            "Kc increases and equilibrium shifts right (towards products)",
+            "Kc remains constant",
+            "Equilibrium shifts randomly"
+          ]
+        },
+        {
+          "question": "Does changing the concentration of reactants or products change Kc?",
+          "correct": "No, only temperature affects Kc",
+          "options": [
+            "Yes, increasing reactant concentration increases Kc",
+            "No, only temperature affects Kc",
+            "Yes, increasing product concentration increases Kc",
+            "Yes, catalysts change Kc"
+          ]
+        },
+        {
+          "question": "In the reaction C2H5OH + CH3CO2H ⇌ CH3CO2C2H5 + H2O, what happens if ethanol concentration is increased?",
+          "correct": "Equilibrium shifts right to reduce ethanol concentration, forming more ethyl ethanoate and water",
+          "options": [
+            "Equilibrium shifts left forming more reactants",
+            "Equilibrium stops",
+            "Equilibrium shifts right to reduce ethanol concentration, forming more ethyl ethanoate and water",
+            "Kc changes to a new value"
+          ]
+        },
+        {
+          "question": "What does a very large Kc (≫1) indicate about the equilibrium mixture?",
+          "correct": "Products predominate and the equilibrium lies far right",
+          "options": [
+            "Reactants predominate and the equilibrium lies far left",
+            "Products predominate and the equilibrium lies far right",
+            "Reaction is incomplete",
+            "Kc is invalid"
+          ]
+        },
+        {
+          "question": "What does a very small Kc (≪1) indicate about the equilibrium mixture?",
+          "correct": "Reactants predominate and the equilibrium lies far left",
+          "options": [
+            "Products predominate and the equilibrium lies far right",
+            "Reactants predominate and the equilibrium lies far left",
+            "Reaction goes to completion",
+            "Kc increases with concentration"
+          ]
+        },
+        {
+          "question": "Do catalysts affect Kc or the equilibrium position?",
+          "correct": "No, they only increase the rate at which equilibrium is reached",
+          "options": [
+            "Yes, they increase Kc",
+            "Yes, they shift equilibrium to the right",
+            "No, they only increase the rate at which equilibrium is reached",
+            "Yes, they shift equilibrium to the left"
+          ]
+        },
+        {
+          "question": "Why are catalysts important in industrial equilibrium reactions?",
+          "correct": "They lower activation energy and allow equilibrium to be reached faster",
+          "options": [
+            "They increase Kc",
+            "They change the equilibrium position",
+            "They lower activation energy and allow equilibrium to be reached faster",
+            "They increase the yield directly"
+          ]
+        },
+        {
+          "question": "How are concentrations expressed in gaseous equilibria?",
+          "correct": "Often using partial pressures instead of molar concentrations",
+          "options": [
+            "Always in mol dm−3",
+            "Using volume only",
+            "Often using partial pressures instead of molar concentrations",
+            "In moles per reaction"
+          ]
+        },
+        {
+          "question": "What symbol is used for gaseous equilibrium constants?",
+          "correct": "Kp",
+          "options": [
+            "Kc",
+            "Keq",
+            "Kp",
+            "ΔH"
+          ]
+        }
+      ]
     }
   }
 }
