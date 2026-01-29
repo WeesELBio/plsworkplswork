@@ -12177,6 +12177,2210 @@
           ]
         }
       ]
+    },
+    "2.8. - Periodicity": {
+      "2.8.1. - Structure of the Periodic Table": [
+        {
+          "question": "What is the definition of the periodic table?",
+          "correct": "A list of all elements arranged in order of increasing atomic number, used to predict properties and explain trends through electron configuration.",
+          "options": [
+            "A list of all elements arranged by atomic mass only",
+            "A table showing only metals and non-metals",
+            "A list of all elements arranged in order of increasing atomic number, used to predict properties and explain trends through electron configuration.",
+            "A chart showing electron shells without reference to element properties"
+          ]
+        },
+        {
+          "question": "Why is the periodic table useful?",
+          "correct": "It allows prediction of element properties based on their position.",
+          "options": [
+            "It shows which elements exist naturally",
+            "It allows prediction of element properties based on their position.",
+            "It shows atomic mass trends only",
+            "It explains nuclear stability"
+          ]
+        },
+        {
+          "question": "Where are metals located on the periodic table?",
+          "correct": "To the left of the staircase line.",
+          "options": [
+            "To the right of the staircase line",
+            "Directly below the transition metals",
+            "Along the staircase line only",
+            "To the left of the staircase line."
+          ]
+        },
+        {
+          "question": "Where are non-metals found on the periodic table?",
+          "correct": "To the right of the staircase line.",
+          "options": [
+            "To the left of the staircase line",
+            "Along the staircase line",
+            "To the right of the staircase line.",
+            "In the centre of the table"
+          ]
+        },
+        {
+          "question": "What are metalloids (semi-metals)?",
+          "correct": "Elements that touch the staircase line and show mixed properties of metals and non-metals.",
+          "options": [
+            "Elements that are radioactive",
+            "Elements found only in the f-block",
+            "Elements that touch the staircase line and show mixed properties of metals and non-metals.",
+            "Elements with no outer-shell electrons"
+          ]
+        },
+        {
+          "question": "Which scientist created the basis of the modern periodic table in 1869?",
+          "correct": "Dmitri Mendeleev",
+          "options": [
+            "Henry Moseley",
+            "John Newlands",
+            "Dmitri Mendeleev",
+            "Marie Curie"
+          ]
+        },
+        {
+          "question": "What was a key feature of Mendeleev’s periodic table?",
+          "correct": "He left gaps for undiscovered elements and predicted their properties accurately.",
+          "options": [
+            "He arranged elements by atomic number",
+            "He included only naturally occurring elements",
+            "He left gaps for undiscovered elements and predicted their properties accurately.",
+            "He discovered all noble gases"
+          ]
+        },
+        {
+          "question": "How are blocks of the periodic table defined?",
+          "correct": "By the type of orbital containing the highest-energy electrons.",
+          "options": [
+            "By atomic mass",
+            "By number of protons",
+            "By the type of orbital containing the highest-energy electrons.",
+            "By whether elements are metals or non-metals"
+          ]
+        },
+        {
+          "question": "What characterises s-block elements?",
+          "correct": "Their outer electrons are in s-orbitals.",
+          "options": [
+            "Their outer electrons are in d-orbitals",
+            "Their outer electrons are in f-orbitals",
+            "Their outer electrons are in p-orbitals",
+            "Their outer electrons are in s-orbitals."
+          ]
+        },
+        {
+          "question": "What characterises p-block elements?",
+          "correct": "Their outer electrons are in p-orbitals.",
+          "options": [
+            "Their outer electrons are in s-orbitals",
+            "Their outer electrons are in p-orbitals.",
+            "Their outer electrons are in d-orbitals",
+            "Their outer electrons are in f-orbitals"
+          ]
+        },
+        {
+          "question": "Where are most transition metals found?",
+          "correct": "In the d-block of the periodic table.",
+          "options": [
+            "In the s-block",
+            "In the p-block",
+            "In the f-block",
+            "In the d-block of the periodic table."
+          ]
+        },
+        {
+          "question": "Why are scandium and zinc not classed as transition metals?",
+          "correct": "They do not form compounds with partially-filled d-orbitals.",
+          "options": [
+            "They are not metals",
+            "They are found in the p-block",
+            "They do not form compounds with partially-filled d-orbitals.",
+            "They only form +1 ions"
+          ]
+        },
+        {
+          "question": "Which elements make up the f-block?",
+          "correct": "Lanthanides and actinides.",
+          "options": [
+            "Alkali metals and halogens",
+            "Transition metals only",
+            "Lanthanides and actinides.",
+            "Noble gases and metalloids"
+          ]
+        },
+        {
+          "question": "What do the letters s, p, d, and f originally come from?",
+          "correct": "Old descriptions of spectral lines: sharp, principal, diffuse, and fine.",
+          "options": [
+            "Names of scientists",
+            "Electron shell numbers",
+            "Old descriptions of spectral lines: sharp, principal, diffuse, and fine.",
+            "Types of chemical bonding"
+          ]
+        },
+        {
+          "question": "What do elements in the same group have in common?",
+          "correct": "They have the same number of outer-shell electrons and similar properties.",
+          "options": [
+            "They have the same atomic number",
+            "They have the same number of shells",
+            "They have the same number of neutrons",
+            "They have the same number of outer-shell electrons and similar properties."
+          ]
+        },
+        {
+          "question": "Which numbering system includes all elements from 1 to 18?",
+          "correct": "The full 1–18 group numbering system.",
+          "options": [
+            "Roman numerals I–VII only",
+            "Modern 1–7 only",
+            "The full 1–18 group numbering system.",
+            "The period numbering system"
+          ]
+        },
+        {
+          "question": "How does reactivity change down Group 1 (s-block metals)?",
+          "correct": "Reactivity increases down the group.",
+          "options": [
+            "Reactivity decreases down the group",
+            "Reactivity stays constant",
+            "Reactivity increases down the group.",
+            "Reactivity increases then decreases"
+          ]
+        },
+        {
+          "question": "How does reactivity change in p-block non-metals down a group?",
+          "correct": "Reactivity increases up the group.",
+          "options": [
+            "Reactivity increases down the group",
+            "Reactivity increases up the group.",
+            "Reactivity is constant",
+            "Reactivity is unpredictable"
+          ]
+        },
+        {
+          "question": "What is a general property of transition metals?",
+          "correct": "They are relatively unreactive but very useful.",
+          "options": [
+            "They are extremely reactive",
+            "They only form −1 ions",
+            "They are relatively unreactive but very useful.",
+            "They do not conduct electricity"
+          ]
+        },
+        {
+          "question": "What ion charge do lanthanides usually form?",
+          "correct": "+3",
+          "options": [
+            "+1",
+            "+2",
+            "+3",
+            "+4"
+          ]
+        },
+        {
+          "question": "Which actinides occur naturally in significant amounts?",
+          "correct": "Thorium and uranium.",
+          "options": [
+            "Plutonium and neptunium",
+            "Thorium and uranium.",
+            "Curium and americium",
+            "All actinides occur naturally"
+          ]
+        },
+        {
+          "question": "What does the period number represent?",
+          "correct": "The number of electron shells in the atoms of elements in that period.",
+          "options": [
+            "The number of outer electrons",
+            "The number of protons",
+            "The number of electron shells in the atoms of elements in that period.",
+            "The atomic mass"
+          ]
+        },
+        {
+          "question": "Why is hydrogen sometimes placed above Group 1?",
+          "correct": "Because it can form +1 ions.",
+          "options": [
+            "Because it is a metal",
+            "Because it has two outer electrons",
+            "Because it can form +1 ions.",
+            "Because it behaves like a noble gas"
+          ]
+        },
+        {
+          "question": "Why is hydrogen sometimes placed above Group 17?",
+          "correct": "Because it can gain an electron to form H− and forms covalent bonds.",
+          "options": [
+            "Because it always forms ionic bonds",
+            "Because it has seven outer electrons",
+            "Because it can gain an electron to form H− and forms covalent bonds.",
+            "Because it is a halogen"
+          ]
+        },
+        {
+          "question": "Why is hydrogen often placed separately on the periodic table?",
+          "correct": "Because it behaves differently from both Group 1 and Group 17 elements.",
+          "options": [
+            "Because it has no electrons",
+            "Because it is radioactive",
+            "Because it behaves differently from both Group 1 and Group 17 elements.",
+            "Because it is artificially made"
+          ]
+        },
+        {
+          "question": "Why is helium placed in Group 0?",
+          "correct": "Because it behaves chemically like a noble gas.",
+          "options": [
+            "Because it has two shells",
+            "Because it is reactive",
+            "Because it behaves chemically like a noble gas.",
+            "Because it forms ions easily"
+          ]
+        },
+        {
+          "question": "Why is helium technically an s-block element?",
+          "correct": "Because its electron configuration is 1s2.",
+          "options": [
+            "Because it has eight outer electrons",
+            "Because it forms covalent bonds",
+            "Because its electron configuration is 1s2.",
+            "Because it is placed in Group 1"
+          ]
+        }
+      ],
+      "2.8.2. - Periodicity of Group 3 Elements": [
+        {
+          "question": "What is meant by periodicity?",
+          "correct": "Recurring trends in physical and chemical properties across a period caused by electron configuration.",
+          "options": [
+            "Changes in properties down a group only",
+            "Recurring trends in physical and chemical properties across a period caused by electron configuration.",
+            "Random variation in element properties",
+            "Trends caused by atomic mass"
+          ]
+        },
+        {
+          "question": "What causes periodic trends across Period 3?",
+          "correct": "Changes in electron configuration across the period.",
+          "options": [
+            "Increasing atomic mass",
+            "Changes in neutron number",
+            "Changes in electron configuration across the period.",
+            "Decreasing number of protons"
+          ]
+        },
+        {
+          "question": "What type of structure do sodium, magnesium, and aluminium form?",
+          "correct": "Giant metallic structures.",
+          "options": [
+            "Simple molecular structures",
+            "Giant covalent structures",
+            "Ionic lattices",
+            "Giant metallic structures."
+          ]
+        },
+        {
+          "question": "How do Period 3 metals form ions?",
+          "correct": "By losing outer-shell electrons to form positive ions.",
+          "options": [
+            "By gaining electrons to form negative ions",
+            "By sharing electrons",
+            "By losing outer-shell electrons to form positive ions.",
+            "By forming covalent bonds only"
+          ]
+        },
+        {
+          "question": "Why do melting and boiling points increase from Na to Al?",
+          "correct": "Ion charge and number of delocalised electrons increase, strengthening metallic bonding.",
+          "options": [
+            "Atomic size increases",
+            "Metallic bonding becomes weaker",
+            "Ion charge and number of delocalised electrons increase, strengthening metallic bonding.",
+            "Intermolecular forces increase"
+          ]
+        },
+        {
+          "question": "What type of structure does silicon have?",
+          "correct": "A macromolecular (giant covalent) structure.",
+          "options": [
+            "Simple molecular structure",
+            "Giant ionic lattice",
+            "Macromolecular (giant covalent) structure.",
+            "Metallic lattice"
+          ]
+        },
+        {
+          "question": "Why does silicon have a very high melting and boiling point?",
+          "correct": "Each silicon atom forms four strong covalent bonds in a giant structure.",
+          "options": [
+            "Because of strong intermolecular forces",
+            "Because it has delocalised electrons",
+            "Because each silicon atom forms four strong covalent bonds in a giant structure.",
+            "Because it forms ions"
+          ]
+        },
+        {
+          "question": "Which Period 3 elements exist as simple molecules?",
+          "correct": "Phosphorus, sulfur, and chlorine.",
+          "options": [
+            "Sodium, magnesium, and aluminium",
+            "Silicon and phosphorus",
+            "Phosphorus, sulfur, and chlorine.",
+            "Argon and silicon"
+          ]
+        },
+        {
+          "question": "Which molecular forms do phosphorus, sulfur, and chlorine exist as?",
+          "correct": "P4, S8, and Cl2 respectively.",
+          "options": [
+            "P2, S2, and Cl",
+            "P4, S8, and Cl2 respectively.",
+            "P8, S4, and Cl2",
+            "P4, S6, and Cl"
+          ]
+        },
+        {
+          "question": "Why do simple molecular substances have low melting and boiling points?",
+          "correct": "Only weak van der Waals forces act between molecules.",
+          "options": [
+            "Because covalent bonds are weak",
+            "Because ionic bonds are absent",
+            "Because only weak van der Waals forces act between molecules.",
+            "Because metallic bonding is weak"
+          ]
+        },
+        {
+          "question": "Why does sulfur have a higher melting point than phosphorus and chlorine?",
+          "correct": "S8 molecules are larger and have more electrons, giving stronger van der Waals forces.",
+          "options": [
+            "Sulfur forms ionic bonds",
+            "Sulfur has stronger covalent bonds",
+            "S8 molecules are larger and have more electrons, giving stronger van der Waals forces.",
+            "Sulfur atoms are more electronegative"
+          ]
+        },
+        {
+          "question": "What is the structure of argon?",
+          "correct": "Monatomic atoms with very weak van der Waals forces.",
+          "options": [
+            "Diatomic molecules",
+            "Giant covalent lattice",
+            "Monatomic atoms with very weak van der Waals forces.",
+            "Metallic structure"
+          ]
+        },
+        {
+          "question": "Why does argon have very low melting and boiling points?",
+          "correct": "Only very weak van der Waals forces exist between monatomic atoms.",
+          "options": [
+            "Because it forms no bonds at all",
+            "Because it has weak covalent bonds",
+            "Because only very weak van der Waals forces exist between monatomic atoms.",
+            "Because it has a low atomic number"
+          ]
+        },
+        {
+          "question": "Which Period 3 elements have giant structures?",
+          "correct": "Sodium, magnesium, aluminium, and silicon.",
+          "options": [
+            "Phosphorus, sulfur, chlorine, and argon",
+            "Sodium, magnesium, aluminium, and silicon.",
+            "Magnesium, silicon, and phosphorus",
+            "Aluminium, silicon, and sulfur"
+          ]
+        },
+        {
+          "question": "Why do giant structures have high melting and boiling points?",
+          "correct": "Large amounts of energy are required to break strong metallic or covalent bonds.",
+          "options": [
+            "Because molecules are large",
+            "Because intermolecular forces are strong",
+            "Because large amounts of energy are required to break strong metallic or covalent bonds.",
+            "Because electrons are shared unequally"
+          ]
+        },
+        {
+          "question": "What is the correct melting point order for Period 3 non-metals?",
+          "correct": "S8 > P4 > Cl2 > Ar",
+          "options": [
+            "Cl2 > P4 > S8 > Ar",
+            "P4 > S8 > Ar > Cl2",
+            "S8 > P4 > Cl2 > Ar",
+            "Ar > Cl2 > P4 > S8"
+          ]
+        },
+        {
+          "question": "How does atomic radius change across Period 3?",
+          "correct": "It decreases from sodium to chlorine.",
+          "options": [
+            "It increases from sodium to chlorine",
+            "It stays constant",
+            "It decreases from sodium to chlorine.",
+            "It increases then decreases"
+          ]
+        },
+        {
+          "question": "Why does atomic radius decrease across Period 3?",
+          "correct": "Nuclear charge increases while electrons are added to the same shell, increasing attraction.",
+          "options": [
+            "Shielding increases significantly",
+            "Electrons move into higher shells",
+            "Nuclear charge increases while electrons are added to the same shell, increasing attraction.",
+            "Proton number decreases"
+          ]
+        },
+        {
+          "question": "How does atomic radius change down a group?",
+          "correct": "It increases due to additional electron shells and increased shielding.",
+          "options": [
+            "It decreases due to stronger attraction",
+            "It stays the same",
+            "It increases due to additional electron shells and increased shielding.",
+            "It changes randomly"
+          ]
+        },
+        {
+          "question": "What is the definition of first ionisation energy?",
+          "correct": "The energy required to remove one electron from each atom in one mole of gaseous atoms.",
+          "options": [
+            "The energy needed to remove all electrons from an atom",
+            "The energy required to add an electron to an atom",
+            "The energy required to remove one electron from each atom in one mole of gaseous atoms.",
+            "The energy released when an atom forms an ion"
+          ]
+        },
+        {
+          "question": "How does first ionisation energy change across Period 3?",
+          "correct": "It increases from sodium to argon.",
+          "options": [
+            "It decreases from sodium to argon",
+            "It stays constant",
+            "It increases from sodium to argon.",
+            "It increases then decreases"
+          ]
+        },
+        {
+          "question": "Why does first ionisation energy increase across Period 3?",
+          "correct": "Nuclear charge increases while shielding remains the same, so electrons are held more strongly.",
+          "options": [
+            "Atomic radius increases",
+            "Electrons enter higher shells",
+            "Nuclear charge increases while shielding remains the same, so electrons are held more strongly.",
+            "Electron-electron repulsion decreases"
+          ]
+        },
+        {
+          "question": "How does first ionisation energy change down a group?",
+          "correct": "It decreases due to increased shielding and greater distance from the nucleus.",
+          "options": [
+            "It increases due to higher nuclear charge",
+            "It stays constant",
+            "It decreases due to increased shielding and greater distance from the nucleus.",
+            "It changes unpredictably"
+          ]
+        },
+        {
+          "question": "Why is there a large drop in first ionisation energy from neon to sodium?",
+          "correct": "Sodium begins a new electron shell with greater shielding and a larger atomic radius.",
+          "options": [
+            "Nuclear charge decreases",
+            "Sodium has fewer protons",
+            "Sodium begins a new electron shell with greater shielding and a larger atomic radius.",
+            "Neon has weak covalent bonds"
+          ]
+        }
+      ],
+      "2.8.3. - A Closer Look at Ionisation Energies": [
+        {
+          "question": "What is the general trend in first ionisation energy across a period?",
+          "correct": "It increases due to increasing nuclear charge with electrons added to the same shell.",
+          "options": [
+            "It decreases due to increased shielding",
+            "It remains constant across the period",
+            "It increases due to increasing nuclear charge with electrons added to the same shell.",
+            "It increases because atomic radius increases"
+          ]
+        },
+        {
+          "question": "Why does first ionisation energy generally increase across a period?",
+          "correct": "Nuclear charge increases while shielding remains similar, so electrons are held more strongly.",
+          "options": [
+            "Electrons move into higher energy shells",
+            "Shielding increases significantly",
+            "Nuclear charge increases while shielding remains similar, so electrons are held more strongly.",
+            "Electron repulsion increases"
+          ]
+        },
+        {
+          "question": "Why is the trend in first ionisation energy across a period not smooth?",
+          "correct": "Because changes in subshell energy and electron pairing cause drops in ionisation energy.",
+          "options": [
+            "Because nuclear charge decreases",
+            "Because atomic mass changes irregularly",
+            "Because changes in subshell energy and electron pairing cause drops in ionisation energy.",
+            "Because electrons are added to new shells"
+          ]
+        },
+        {
+          "question": "How many notable drops in first ionisation energy occur across each period?",
+          "correct": "Two.",
+          "options": [
+            "One",
+            "Two.",
+            "Three",
+            "Four"
+          ]
+        },
+        {
+          "question": "Between which groups does the first major drop in ionisation energy occur?",
+          "correct": "Between Group 2 and Group 3.",
+          "options": [
+            "Between Group 1 and Group 2",
+            "Between Group 2 and Group 3.",
+            "Between Group 3 and Group 4",
+            "Between Group 4 and Group 5"
+          ]
+        },
+        {
+          "question": "Why does aluminium have a lower first ionisation energy than magnesium?",
+          "correct": "The electron removed from aluminium is in a higher-energy 3p orbital rather than a 3s orbital.",
+          "options": [
+            "Aluminium has a lower nuclear charge",
+            "The electron removed from aluminium is in a higher-energy 3p orbital rather than a 3s orbital.",
+            "Magnesium has more shielding",
+            "Aluminium has a smaller atomic radius"
+          ]
+        },
+        {
+          "question": "Which orbital is higher in energy in Period 3: 3s or 3p?",
+          "correct": "3p.",
+          "options": [
+            "3s",
+            "3p.",
+            "They are the same energy",
+            "It varies between elements"
+          ]
+        },
+        {
+          "question": "Between which groups does the second major drop in first ionisation energy occur?",
+          "correct": "Between Group 5 and Group 6.",
+          "options": [
+            "Between Group 3 and Group 4",
+            "Between Group 4 and Group 5",
+            "Between Group 5 and Group 6.",
+            "Between Group 6 and Group 7"
+          ]
+        },
+        {
+          "question": "Why does sulfur have a lower first ionisation energy than phosphorus?",
+          "correct": "Electron pairing in a 3p orbital causes repulsion, making an electron easier to remove.",
+          "options": [
+            "Sulfur has fewer protons",
+            "Sulfur has a larger atomic radius",
+            "Electron pairing in a 3p orbital causes repulsion, making an electron easier to remove.",
+            "Phosphorus has stronger shielding"
+          ]
+        },
+        {
+          "question": "What effect does electron pairing have on ionisation energy?",
+          "correct": "Repulsion between paired electrons lowers the energy needed to remove one.",
+          "options": [
+            "It increases nuclear attraction",
+            "It has no effect",
+            "Repulsion between paired electrons lowers the energy needed to remove one.",
+            "It makes electrons harder to remove"
+          ]
+        },
+        {
+          "question": "What is meant by successive ionisation energies?",
+          "correct": "The energies required to remove electrons one by one from the same atom.",
+          "options": [
+            "The energy needed to remove all electrons at once",
+            "The energy required to remove electrons from different atoms",
+            "The energies required to remove electrons one by one from the same atom.",
+            "The energy change during electron sharing"
+          ]
+        },
+        {
+          "question": "Why does each successive ionisation energy increase?",
+          "correct": "There is less electron–electron repulsion and greater attraction from the nucleus.",
+          "options": [
+            "Shielding increases",
+            "Atomic radius increases",
+            "There is less electron–electron repulsion and greater attraction from the nucleus.",
+            "Electrons move further from the nucleus"
+          ]
+        },
+        {
+          "question": "What causes a large jump in successive ionisation energies?",
+          "correct": "Removal of an electron from a lower energy shell closer to the nucleus.",
+          "options": [
+            "Removal of a paired electron",
+            "Removal of an electron from a higher shell",
+            "Removal of an electron from a lower energy shell closer to the nucleus.",
+            "A decrease in nuclear charge"
+          ]
+        },
+        {
+          "question": "What does a sharp increase in successive ionisation energy indicate?",
+          "correct": "That the next electron is being removed from a new, inner shell.",
+          "options": [
+            "That shielding has increased",
+            "That nuclear charge has decreased",
+            "That the next electron is being removed from a new, inner shell.",
+            "That the atom is unstable"
+          ]
+        },
+        {
+          "question": "In sodium, why is there a large jump after the first ionisation energy?",
+          "correct": "The first electron is removed from the outer shell, and the next electron is in an inner shell.",
+          "options": [
+            "The nucleus becomes unstable",
+            "The atomic radius increases",
+            "The first electron is removed from the outer shell, and the next electron is in an inner shell.",
+            "Electron repulsion increases greatly"
+          ]
+        },
+        {
+          "question": "What does the number of low successive ionisation energies correspond to?",
+          "correct": "The number of outer-shell electrons and therefore the group number.",
+          "options": [
+            "The period number",
+            "The atomic mass",
+            "The number of outer-shell electrons and therefore the group number.",
+            "The number of neutron shells"
+          ]
+        },
+        {
+          "question": "What does the successive ionisation energy pattern of aluminium show?",
+          "correct": "Three relatively low values followed by a large jump, indicating three outer-shell electrons.",
+          "options": [
+            "One low value followed by a jump",
+            "Two low values followed by a jump",
+            "Three relatively low values followed by a large jump, indicating three outer-shell electrons.",
+            "No sharp jump at all"
+          ]
+        },
+        {
+          "question": "Why are the first three ionisation energies of aluminium relatively low?",
+          "correct": "They involve removal of the three outer-shell electrons.",
+          "options": [
+            "They are removed from inner shells",
+            "They experience strong shielding",
+            "They involve removal of the three outer-shell electrons.",
+            "They are paired electrons"
+          ]
+        },
+        {
+          "question": "How can successive ionisation energies be used to determine group number?",
+          "correct": "By counting how many electrons are removed before a sharp increase occurs.",
+          "options": [
+            "By finding the highest ionisation energy",
+            "By counting the total number of electrons",
+            "By counting how many electrons are removed before a sharp increase occurs.",
+            "By identifying the period number"
+          ]
+        }
+      ]
+    },
+    "2.9. - Group 2 - The Alkaline Earth Metals": {
+      "2.9.1. - Group 2": [
+        {
+          "question": "What are Group 2 elements commonly known as?",
+          "correct": "The alkaline earth metals.",
+          "options": [
+            "The halogens",
+            "The alkali metals",
+            "The alkaline earth metals.",
+            "The transition metals"
+          ]
+        },
+        {
+          "question": "Why are Group 2 elements described as alkaline earth metals?",
+          "correct": "Their oxides and hydroxides are alkaline.",
+          "options": [
+            "They dissolve easily in water",
+            "They form acidic oxides",
+            "Their oxides and hydroxides are alkaline.",
+            "They react violently with water"
+          ]
+        },
+        {
+          "question": "Which block of the periodic table do Group 2 elements belong to?",
+          "correct": "The s-block.",
+          "options": [
+            "p-block",
+            "d-block",
+            "f-block",
+            "The s-block."
+          ]
+        },
+        {
+          "question": "How does the reactivity of Group 2 compare with Group 1?",
+          "correct": "Group 2 elements are less reactive than Group 1 elements.",
+          "options": [
+            "They are more reactive than Group 1",
+            "They have equal reactivity",
+            "They are less reactive than Group 1 elements.",
+            "They are completely unreactive"
+          ]
+        },
+        {
+          "question": "Why is beryllium considered atypical in Group 2?",
+          "correct": "It shows different properties and is often excluded from general Group 2 trends.",
+          "options": [
+            "It is radioactive",
+            "It has three outer electrons",
+            "It shows different properties and is often excluded from general Group 2 trends.",
+            "It is a transition metal"
+          ]
+        },
+        {
+          "question": "What is the general outer electron configuration of Group 2 elements?",
+          "correct": "ns2",
+          "options": [
+            "ns1",
+            "ns2",
+            "ns2 np1",
+            "ns2 np6"
+          ]
+        },
+        {
+          "question": "How many electrons do Group 2 elements have in their outer shell?",
+          "correct": "Two.",
+          "options": [
+            "One",
+            "Two.",
+            "Three",
+            "Eight"
+          ]
+        },
+        {
+          "question": "What happens to the outer electrons down Group 2?",
+          "correct": "They are further from the nucleus and more shielded by inner shells.",
+          "options": [
+            "They are closer to the nucleus",
+            "They experience stronger nuclear attraction",
+            "They are further from the nucleus and more shielded by inner shells.",
+            "They occupy higher-energy orbitals only"
+          ]
+        },
+        {
+          "question": "How does atomic (metallic) radius change down Group 2?",
+          "correct": "It increases from magnesium to barium.",
+          "options": [
+            "It decreases from magnesium to barium",
+            "It remains constant",
+            "It increases from magnesium to barium.",
+            "It increases then decreases"
+          ]
+        },
+        {
+          "question": "Why does atomic radius increase down Group 2?",
+          "correct": "Each element has an additional filled electron shell, increasing distance from the nucleus.",
+          "options": [
+            "Nuclear charge decreases",
+            "Shielding decreases",
+            "Each element has an additional filled electron shell, increasing distance from the nucleus.",
+            "Electrons are pulled closer"
+          ]
+        },
+        {
+          "question": "What charge do Group 2 ions typically form?",
+          "correct": "2+",
+          "options": [
+            "1+",
+            "2+",
+            "3+",
+            "2−"
+          ]
+        },
+        {
+          "question": "Why do Group 2 elements form M2+ ions?",
+          "correct": "They lose two outer-shell electrons.",
+          "options": [
+            "They gain two electrons",
+            "They share two electrons",
+            "They lose two outer-shell electrons.",
+            "They lose one inner-shell electron"
+          ]
+        },
+        {
+          "question": "What determines the total energy required to form a Group 2 ion?",
+          "correct": "The sum of the first and second ionisation energies.",
+          "options": [
+            "Only the first ionisation energy",
+            "Only the second ionisation energy",
+            "The sum of the first and second ionisation energies.",
+            "The third ionisation energy"
+          ]
+        },
+        {
+          "question": "How do first and second ionisation energies change down Group 2?",
+          "correct": "They both decrease down the group.",
+          "options": [
+            "They both increase down the group",
+            "They remain constant",
+            "They both decrease down the group.",
+            "Only the first decreases"
+          ]
+        },
+        {
+          "question": "Why do ionisation energies decrease down Group 2?",
+          "correct": "Outer electrons are further from the nucleus and more shielded, reducing attraction.",
+          "options": [
+            "Nuclear charge decreases",
+            "Electron repulsion decreases",
+            "Outer electrons are further from the nucleus and more shielded, reducing attraction.",
+            "Electrons occupy lower energy levels"
+          ]
+        },
+        {
+          "question": "Why do Group 2 metals have high melting points?",
+          "correct": "They have giant metallic structures with strong metallic bonding.",
+          "options": [
+            "They form ionic lattices",
+            "They have strong intermolecular forces",
+            "They have giant metallic structures with strong metallic bonding.",
+            "They contain covalent networks"
+          ]
+        },
+        {
+          "question": "How do melting points change down Group 2?",
+          "correct": "They decrease slightly from calcium to barium.",
+          "options": [
+            "They increase steadily",
+            "They remain constant",
+            "They decrease slightly from calcium to barium.",
+            "They decrease sharply"
+          ]
+        },
+        {
+          "question": "Why does metallic bonding weaken down Group 2?",
+          "correct": "Delocalised electrons are further from the positive metal ions.",
+          "options": [
+            "There are fewer delocalised electrons",
+            "Positive ion charge decreases",
+            "Delocalised electrons are further from the positive metal ions.",
+            "Electron density increases"
+          ]
+        },
+        {
+          "question": "Which Group 2 element does not follow the melting point trend?",
+          "correct": "Magnesium.",
+          "options": [
+            "Calcium",
+            "Strontium",
+            "Barium",
+            "Magnesium."
+          ]
+        },
+        {
+          "question": "How does reactivity change down Group 2?",
+          "correct": "Reactivity increases down the group.",
+          "options": [
+            "Reactivity decreases down the group",
+            "Reactivity remains constant",
+            "Reactivity increases down the group.",
+            "Reactivity changes unpredictably"
+          ]
+        },
+        {
+          "question": "Why does reactivity increase down Group 2?",
+          "correct": "Outer electrons are lost more easily due to lower ionisation energies.",
+          "options": [
+            "Nuclear charge decreases",
+            "Atomic radius decreases",
+            "Outer electrons are lost more easily due to lower ionisation energies.",
+            "Electrons become more strongly attracted"
+          ]
+        }
+      ],
+      "2.9.2. - Reactions of Group 2": [
+        {
+          "question": "What happens to Group 2 metals during reactions?",
+          "correct": "They are oxidised and their oxidation state changes from 0 to +2.",
+          "options": [
+            "They are reduced and form −2 ions",
+            "They are oxidised and their oxidation state changes from 0 to +2.",
+            "They remain unreacted",
+            "They gain two electrons"
+          ]
+        },
+        {
+          "question": "Why are reactions of Group 2 metals classified as redox reactions?",
+          "correct": "Because electrons are transferred and oxidation and reduction occur together.",
+          "options": [
+            "Because oxygen is always involved",
+            "Because hydrogen is produced",
+            "Because electrons are transferred and oxidation and reduction occur together.",
+            "Because the metals form hydroxides"
+          ]
+        },
+        {
+          "question": "What is the general oxidation state change for Group 2 metals in reactions?",
+          "correct": "0 to +2",
+          "options": [
+            "0 to +1",
+            "0 to +2",
+            "0 to −2",
+            "−2 to 0"
+          ]
+        },
+        {
+          "question": "What is the general equation for the reaction of Group 2 metals with water?",
+          "correct": "M(s) + 2H2O(l) → M(OH)2(aq) + H2(g)",
+          "options": [
+            "M(s) + H2O(l) → MO(s) + H2(g)",
+            "M(s) + 2H2O(l) → M(OH)2(aq) + H2(g)",
+            "M(s) + H2O(l) → M(OH)(aq) + H(g)",
+            "M(s) + O2(g) → MO(s)"
+          ]
+        },
+        {
+          "question": "How does reactivity with water change down Group 2?",
+          "correct": "Reactivity increases down the group.",
+          "options": [
+            "Reactivity decreases down the group",
+            "Reactivity remains constant",
+            "Reactivity increases down the group.",
+            "Reactivity becomes unpredictable"
+          ]
+        },
+        {
+          "question": "How does magnesium react with cold water?",
+          "correct": "It reacts very slowly.",
+          "options": [
+            "It reacts explosively",
+            "It reacts very slowly.",
+            "It does not react at all",
+            "It reacts immediately to form magnesium oxide"
+          ]
+        },
+        {
+          "question": "How does magnesium react with steam?",
+          "correct": "It reacts rapidly to form magnesium oxide and hydrogen.",
+          "options": [
+            "It forms magnesium hydroxide only",
+            "It reacts rapidly to form magnesium oxide and hydrogen.",
+            "It does not react",
+            "It forms magnesium chloride"
+          ]
+        },
+        {
+          "question": "What products are formed when magnesium reacts with steam?",
+          "correct": "Magnesium oxide and hydrogen.",
+          "options": [
+            "Magnesium hydroxide and hydrogen",
+            "Magnesium oxide and hydrogen.",
+            "Magnesium chloride and hydrogen",
+            "Magnesium carbonate and hydrogen"
+          ]
+        },
+        {
+          "question": "How does calcium react with cold water?",
+          "correct": "It reacts readily to form calcium hydroxide and hydrogen.",
+          "options": [
+            "It reacts very slowly",
+            "It does not react",
+            "It reacts readily to form calcium hydroxide and hydrogen.",
+            "It reacts only with steam"
+          ]
+        },
+        {
+          "question": "What is the common name for calcium hydroxide formed in reactions with water?",
+          "correct": "Slaked lime.",
+          "options": [
+            "Quicklime",
+            "Limestone",
+            "Slaked lime.",
+            "Chalk"
+          ]
+        },
+        {
+          "question": "How do strontium and barium react with water?",
+          "correct": "They react increasingly vigorously down the group.",
+          "options": [
+            "They do not react",
+            "They react slowly",
+            "They react increasingly vigorously down the group.",
+            "They react only with steam"
+          ]
+        },
+        {
+          "question": "What is magnesium hydroxide commonly known as?",
+          "correct": "Milk of magnesia.",
+          "options": [
+            "Quicklime",
+            "Slaked lime",
+            "Milk of magnesia.",
+            "Limewater"
+          ]
+        },
+        {
+          "question": "What is a use of magnesium hydroxide?",
+          "correct": "Neutralising excess stomach acid.",
+          "options": [
+            "Treating acidic soils",
+            "Making cement",
+            "Neutralising excess stomach acid.",
+            "Extracting metals"
+          ]
+        },
+        {
+          "question": "What is a use of calcium hydroxide?",
+          "correct": "Treating acidic soils.",
+          "options": [
+            "Neutralising stomach acid",
+            "Treating acidic soils.",
+            "Producing titanium",
+            "Removing carbon impurities"
+          ]
+        },
+        {
+          "question": "Why is titanium useful as a metal?",
+          "correct": "It has high strength, low density, and a high melting point.",
+          "options": [
+            "It is cheap and very reactive",
+            "It is soft and easy to shape",
+            "It has high strength, low density, and a high melting point.",
+            "It conducts electricity extremely well"
+          ]
+        },
+        {
+          "question": "In which industries is titanium commonly used?",
+          "correct": "Aerospace and medical implants.",
+          "options": [
+            "Construction and packaging",
+            "Electrical wiring and plumbing",
+            "Aerospace and medical implants.",
+            "Agriculture only"
+          ]
+        },
+        {
+          "question": "Why cannot titanium be extracted using carbon reduction?",
+          "correct": "Titanium reacts with carbon to form titanium carbide, which makes the metal brittle.",
+          "options": [
+            "Titanium oxide is insoluble",
+            "Carbon is not reactive enough",
+            "Titanium reacts with carbon to form titanium carbide, which makes the metal brittle.",
+            "Carbon forms carbon monoxide too easily"
+          ]
+        },
+        {
+          "question": "What compound forms when titanium reacts with carbon?",
+          "correct": "Titanium carbide (TiC).",
+          "options": [
+            "Titanium oxide",
+            "Titanium chloride",
+            "Titanium carbide (TiC).",
+            "Titanium sulfate"
+          ]
+        },
+        {
+          "question": "What is the first stage in the industrial extraction of titanium?",
+          "correct": "Conversion of titanium oxide into titanium(IV) chloride.",
+          "options": [
+            "Reduction with magnesium",
+            "Electrolysis of titanium oxide",
+            "Conversion of titanium oxide into titanium(IV) chloride.",
+            "Reaction with hydrogen"
+          ]
+        },
+        {
+          "question": "Which chemicals are used to convert titanium oxide into titanium chloride?",
+          "correct": "Chlorine and carbon (coke).",
+          "options": [
+            "Oxygen and hydrogen",
+            "Chlorine and carbon (coke).",
+            "Magnesium and chlorine",
+            "Carbon dioxide and carbon"
+          ]
+        },
+        {
+          "question": "What is produced alongside titanium(IV) chloride in the first extraction stage?",
+          "correct": "Carbon monoxide.",
+          "options": [
+            "Carbon dioxide",
+            "Carbon monoxide.",
+            "Hydrogen",
+            "Magnesium oxide"
+          ]
+        },
+        {
+          "question": "What is the second stage in titanium extraction?",
+          "correct": "Reduction of titanium(IV) chloride with magnesium.",
+          "options": [
+            "Electrolysis of molten titanium oxide",
+            "Reduction with carbon",
+            "Reduction of titanium(IV) chloride with magnesium.",
+            "Reaction with oxygen"
+          ]
+        },
+        {
+          "question": "Which substance acts as the reducing agent in titanium extraction?",
+          "correct": "Magnesium.",
+          "options": [
+            "Carbon",
+            "Chlorine",
+            "Magnesium.",
+            "Titanium(IV) chloride"
+          ]
+        },
+        {
+          "question": "Why is magnesium used in the extraction of titanium?",
+          "correct": "It reduces titanium chloride without contaminating the metal with carbon.",
+          "options": [
+            "It is cheaper than carbon",
+            "It increases the melting point",
+            "It reduces titanium chloride without contaminating the metal with carbon.",
+            "It forms titanium carbide"
+          ]
+        }
+      ],
+      "2.9.3. - Solubility": [
+        {
+          "question": "What is the general physical appearance of Group 2 hydroxides?",
+          "correct": "They are all white solids",
+          "options": [
+            "They are all white solids",
+            "They are all coloured solids",
+            "They are colourless liquids",
+            "They are crystalline gases"
+          ]
+        },
+        {
+          "question": "What is the solubility trend of Group 2 hydroxides down the group?",
+          "correct": "Solubility increases down the group",
+          "options": [
+            "Solubility increases down the group",
+            "Solubility decreases down the group",
+            "Solubility stays constant down the group",
+            "Solubility increases then decreases down the group"
+          ]
+        },
+        {
+          "question": "Which statement best describes magnesium hydroxide, Mg(OH)2?",
+          "correct": "It is almost insoluble in water",
+          "options": [
+            "It is almost insoluble in water",
+            "It is very soluble in water",
+            "It forms a strongly alkaline solution",
+            "It dissolves completely to form a clear solution"
+          ]
+        },
+        {
+          "question": "Why is magnesium hydroxide often used as a suspension known as milk of magnesia?",
+          "correct": "Because it is almost insoluble in water",
+          "options": [
+            "Because it is almost insoluble in water",
+            "Because it reacts violently with water",
+            "Because it is very soluble in water",
+            "Because it forms acidic solutions"
+          ]
+        },
+        {
+          "question": "How is calcium hydroxide best described in terms of solubility?",
+          "correct": "It is sparingly soluble in water",
+          "options": [
+            "It is sparingly soluble in water",
+            "It is almost insoluble in water",
+            "It is completely insoluble in water",
+            "It is very soluble in water"
+          ]
+        },
+        {
+          "question": "What is the name of the aqueous solution of calcium hydroxide?",
+          "correct": "Limewater",
+          "options": [
+            "Limewater",
+            "Milk of magnesia",
+            "Brine",
+            "Hard water"
+          ]
+        },
+        {
+          "question": "Which Group 2 hydroxide is more soluble than calcium hydroxide but less soluble than barium hydroxide?",
+          "correct": "Strontium hydroxide",
+          "options": [
+            "Strontium hydroxide",
+            "Magnesium hydroxide",
+            "Calcium hydroxide",
+            "Beryllium hydroxide"
+          ]
+        },
+        {
+          "question": "Which Group 2 hydroxide is very soluble in water?",
+          "correct": "Barium hydroxide",
+          "options": [
+            "Barium hydroxide",
+            "Magnesium hydroxide",
+            "Calcium hydroxide",
+            "Beryllium hydroxide"
+          ]
+        },
+        {
+          "question": "Why does barium hydroxide form a strongly alkaline solution?",
+          "correct": "Because it dissociates to produce a high concentration of hydroxide ions",
+          "options": [
+            "Because it dissociates to produce a high concentration of hydroxide ions",
+            "Because it produces hydrogen ions in solution",
+            "Because it reacts with acids only",
+            "Because it is only partially soluble"
+          ]
+        },
+        {
+          "question": "Which ionic equation represents the dissolution of barium hydroxide in water?",
+          "correct": "Ba(OH)2(s) → Ba2+(aq) + 2OH−(aq)",
+          "options": [
+            "Ba(OH)2(s) → Ba2+(aq) + 2OH−(aq)",
+            "Ba(OH)2(s) → Ba+(aq) + OH−(aq)",
+            "Ba(OH)2(aq) → BaSO4(s)",
+            "Ba2+(aq) + SO42−(aq) → BaSO4(s)"
+          ]
+        },
+        {
+          "question": "What is the solubility trend of Group 2 sulfates down the group?",
+          "correct": "Solubility decreases down the group",
+          "options": [
+            "Solubility decreases down the group",
+            "Solubility increases down the group",
+            "Solubility remains constant",
+            "Solubility increases then decreases"
+          ]
+        },
+        {
+          "question": "Which Group 2 sulfate is virtually insoluble in water?",
+          "correct": "Barium sulfate",
+          "options": [
+            "Barium sulfate",
+            "Magnesium sulfate",
+            "Calcium sulfate",
+            "Strontium sulfate"
+          ]
+        },
+        {
+          "question": "Why is barium sulfate safe to use in medical X-rays despite barium being toxic?",
+          "correct": "Because barium sulfate is virtually insoluble",
+          "options": [
+            "Because barium sulfate is virtually insoluble",
+            "Because it reacts harmlessly with water",
+            "Because it forms soluble barium ions",
+            "Because it decomposes inside the body"
+          ]
+        },
+        {
+          "question": "What is the first step in the test for sulfate ions?",
+          "correct": "Acidify the solution with dilute nitric acid or hydrochloric acid",
+          "options": [
+            "Acidify the solution with dilute nitric acid or hydrochloric acid",
+            "Add barium chloride solution immediately",
+            "Add sodium hydroxide solution",
+            "Heat the solution strongly"
+          ]
+        },
+        {
+          "question": "Why is the solution acidified before testing for sulfate ions?",
+          "correct": "To remove carbonate ions as carbon dioxide",
+          "options": [
+            "To remove carbonate ions as carbon dioxide",
+            "To increase the pH of the solution",
+            "To precipitate sulfate ions",
+            "To neutralise barium ions"
+          ]
+        },
+        {
+          "question": "Which reagent is added after acidification in the test for sulfate ions?",
+          "correct": "Barium chloride solution",
+          "options": [
+            "Barium chloride solution",
+            "Silver nitrate solution",
+            "Sodium sulfate solution",
+            "Calcium hydroxide solution"
+          ]
+        },
+        {
+          "question": "What observation indicates a positive test for sulfate ions?",
+          "correct": "Formation of a white precipitate",
+          "options": [
+            "Formation of a white precipitate",
+            "Formation of a blue solution",
+            "Effervescence",
+            "Colour change to pink"
+          ]
+        },
+        {
+          "question": "What is the white precipitate formed in the sulfate ion test?",
+          "correct": "Barium sulfate",
+          "options": [
+            "Barium sulfate",
+            "Barium chloride",
+            "Calcium sulfate",
+            "Magnesium sulfate"
+          ]
+        },
+        {
+          "question": "Which ionic equation represents the positive test for sulfate ions?",
+          "correct": "Ba2+(aq) + SO42−(aq) → BaSO4(s)",
+          "options": [
+            "Ba2+(aq) + SO42−(aq) → BaSO4(s)",
+            "Ba(OH)2(s) → Ba2+(aq) + 2OH−(aq)",
+            "Ca2+(aq) + CO32−(aq) → CaCO3(s)",
+            "Ag+(aq) + Cl−(aq) → AgCl(s)"
+          ]
+        }
+      ]
+    },
+    "2.10. - Group 7 - The Halogens": {
+      "2.10.1. - The Halogens": [
+        {
+          "question": "Where are the halogens located in the Periodic Table?",
+          "correct": "They are Group 7 (Group 17) elements on the right-hand side of the Periodic Table",
+          "options": [
+            "They are Group 7 (Group 17) elements on the right-hand side of the Periodic Table",
+            "They are Group 1 elements on the left-hand side of the Periodic Table",
+            "They are transition metals in the centre of the Periodic Table",
+            "They are noble gases in Group 0"
+          ]
+        },
+        {
+          "question": "What type of elements are the halogens?",
+          "correct": "They are non-metals",
+          "options": [
+            "They are non-metals",
+            "They are metals",
+            "They are metalloids",
+            "They are transition elements"
+          ]
+        },
+        {
+          "question": "In what form do halogens exist naturally?",
+          "correct": "As diatomic molecules",
+          "options": [
+            "As diatomic molecules",
+            "As single atoms",
+            "As giant covalent structures",
+            "As ionic lattices"
+          ]
+        },
+        {
+          "question": "Which list correctly shows the diatomic halogen molecules?",
+          "correct": "F2, Cl2, Br2, I2",
+          "options": [
+            "F2, Cl2, Br2, I2",
+            "F, Cl, Br, I",
+            "F2, Cl, Br2, I",
+            "F, Cl2, Br, I2"
+          ]
+        },
+        {
+          "question": "What does the term 'halogen' mean?",
+          "correct": "Salt former",
+          "options": [
+            "Salt former",
+            "Gas former",
+            "Metal former",
+            "Electron donor"
+          ]
+        },
+        {
+          "question": "Why are halogens described as 'salt formers'?",
+          "correct": "They readily react with metals to form ionic salts",
+          "options": [
+            "They readily react with metals to form ionic salts",
+            "They react only with non-metals",
+            "They form covalent networks",
+            "They do not form compounds"
+          ]
+        },
+        {
+          "question": "What is the physical state of fluorine at room temperature?",
+          "correct": "Pale yellow gas",
+          "options": [
+            "Pale yellow gas",
+            "Green gas",
+            "Red-brown liquid",
+            "Black solid"
+          ]
+        },
+        {
+          "question": "What is the physical state and colour of chlorine at room temperature?",
+          "correct": "Greenish gas",
+          "options": [
+            "Greenish gas",
+            "Pale yellow gas",
+            "Red-brown liquid",
+            "Black solid"
+          ]
+        },
+        {
+          "question": "What is the physical state and colour of bromine at room temperature?",
+          "correct": "Red-brown liquid",
+          "options": [
+            "Red-brown liquid",
+            "Greenish gas",
+            "Black solid",
+            "Colourless liquid"
+          ]
+        },
+        {
+          "question": "What is the physical state and appearance of iodine at room temperature?",
+          "correct": "Black solid",
+          "options": [
+            "Black solid",
+            "Red-brown liquid",
+            "Greenish gas",
+            "Pale yellow gas"
+          ]
+        },
+        {
+          "question": "How does colour change down Group 7?",
+          "correct": "The colour becomes darker",
+          "options": [
+            "The colour becomes darker",
+            "The colour becomes lighter",
+            "The colour remains the same",
+            "The colour becomes colourless"
+          ]
+        },
+        {
+          "question": "What happens to density down the halogen group?",
+          "correct": "Density increases down the group",
+          "options": [
+            "Density increases down the group",
+            "Density decreases down the group",
+            "Density stays constant",
+            "Density changes randomly"
+          ]
+        },
+        {
+          "question": "What characteristic smell do all halogens have?",
+          "correct": "A swimming-bath smell",
+          "options": [
+            "A swimming-bath smell",
+            "A fruity smell",
+            "No smell",
+            "A sulfur-like smell"
+          ]
+        },
+        {
+          "question": "Why does fluorine show unusual behaviour compared with other halogens?",
+          "correct": "Because the F–F bond is unexpectedly weak",
+          "options": [
+            "Because the F–F bond is unexpectedly weak",
+            "Because fluorine forms ionic molecules",
+            "Because fluorine has a very large atomic radius",
+            "Because fluorine has low electronegativity"
+          ]
+        },
+        {
+          "question": "Why is the F–F bond weak despite fluorine’s small atomic size?",
+          "correct": "Strong electron–electron repulsion between non-bonding electrons weakens the bond",
+          "options": [
+            "Strong electron–electron repulsion between non-bonding electrons weakens the bond",
+            "Fluorine atoms have too few electrons to bond",
+            "The nucleus has very low charge",
+            "Fluorine has no outer-shell electrons"
+          ]
+        },
+        {
+          "question": "What happens to atomic (covalent) radius down Group 7?",
+          "correct": "It increases down the group",
+          "options": [
+            "It increases down the group",
+            "It decreases down the group",
+            "It remains constant",
+            "It increases then decreases"
+          ]
+        },
+        {
+          "question": "Why does atomic radius increase down Group 7?",
+          "correct": "Additional electron shells increase shielding and distance from the nucleus",
+          "options": [
+            "Additional electron shells increase shielding and distance from the nucleus",
+            "Nuclear charge decreases down the group",
+            "Electrons are pulled closer to the nucleus",
+            "There are fewer inner electrons"
+          ]
+        },
+        {
+          "question": "What is the definition of electronegativity?",
+          "correct": "The ability of an atom to attract electron density towards itself in a covalent bond",
+          "options": [
+            "The ability of an atom to attract electron density towards itself in a covalent bond",
+            "The number of electrons in an atom",
+            "The energy needed to remove an electron",
+            "The attraction between ions in a lattice"
+          ]
+        },
+        {
+          "question": "How does electronegativity change down Group 7?",
+          "correct": "Electronegativity decreases down the group",
+          "options": [
+            "Electronegativity decreases down the group",
+            "Electronegativity increases down the group",
+            "Electronegativity remains constant",
+            "Electronegativity changes randomly"
+          ]
+        },
+        {
+          "question": "Why does electronegativity decrease down Group 7?",
+          "correct": "Increased atomic radius and shielding reduce attraction for bonding electrons",
+          "options": [
+            "Increased atomic radius and shielding reduce attraction for bonding electrons",
+            "Nuclear charge decreases down the group",
+            "There are fewer protons in the nucleus",
+            "Electrons are closer to the nucleus"
+          ]
+        },
+        {
+          "question": "Why does electronegativity decrease from HF to HI?",
+          "correct": "Bonding electrons are further from the halogen nucleus",
+          "options": [
+            "Bonding electrons are further from the halogen nucleus",
+            "Hydrogen becomes more electronegative",
+            "The halogen gains extra electrons",
+            "The bond becomes ionic"
+          ]
+        },
+        {
+          "question": "How do melting and boiling points change down Group 7?",
+          "correct": "They increase down the group",
+          "options": [
+            "They increase down the group",
+            "They decrease down the group",
+            "They remain constant",
+            "They decrease then increase"
+          ]
+        },
+        {
+          "question": "Why do melting and boiling points increase down Group 7?",
+          "correct": "Larger molecules have stronger van der Waals forces",
+          "options": [
+            "Larger molecules have stronger van der Waals forces",
+            "Covalent bonds become stronger",
+            "Ionic bonds are formed",
+            "Electron sharing increases"
+          ]
+        },
+        {
+          "question": "Which forces are overcome when halogens melt or boil?",
+          "correct": "Van der Waals forces between molecules",
+          "options": [
+            "Van der Waals forces between molecules",
+            "Covalent bonds within molecules",
+            "Ionic bonds in lattices",
+            "Metallic bonds"
+          ]
+        },
+        {
+          "question": "What happens to the covalent bonds within X2 molecules during melting and boiling?",
+          "correct": "They remain intact",
+          "options": [
+            "They remain intact",
+            "They are broken",
+            "They are weakened permanently",
+            "They turn into ionic bonds"
+          ]
+        },
+        {
+          "question": "What does volatility describe?",
+          "correct": "How easily a substance vaporises",
+          "options": [
+            "How easily a substance vaporises",
+            "How dense a substance is",
+            "How reactive a substance is",
+            "How toxic a substance is"
+          ]
+        },
+        {
+          "question": "How is volatility related to boiling point?",
+          "correct": "Lower boiling point means higher volatility",
+          "options": [
+            "Lower boiling point means higher volatility",
+            "Higher boiling point means higher volatility",
+            "Boiling point does not affect volatility",
+            "Volatility increases as boiling point increases"
+          ]
+        },
+        {
+          "question": "Which halogen is more volatile at room temperature?",
+          "correct": "Chlorine",
+          "options": [
+            "Chlorine",
+            "Iodine",
+            "Bromine",
+            "Astatine"
+          ]
+        }
+      ],
+      "2.10.2. - Reactions of Halide Ions": [
+        {
+          "question": "How do halide ions act as reducing agents?",
+          "correct": "They lose electrons and are oxidised to halogen molecules",
+          "options": [
+            "They lose electrons and are oxidised to halogen molecules",
+            "They gain electrons and are reduced to halide ions",
+            "They donate protons to acids",
+            "They accept electrons from halogens"
+          ]
+        },
+        {
+          "question": "What general equation represents the oxidation of halide ions?",
+          "correct": "2X− → X2 + 2e−",
+          "options": [
+            "2X− → X2 + 2e−",
+            "X2 + 2e− → 2X−",
+            "X− → X + e−",
+            "2X− + 2e− → X2"
+          ]
+        },
+        {
+          "question": "What is the trend in reducing ability of halide ions down Group 7?",
+          "correct": "Reducing power increases down the group",
+          "options": [
+            "Reducing power increases down the group",
+            "Reducing power decreases down the group",
+            "Reducing power remains constant",
+            "Reducing power is greatest for fluoride"
+          ]
+        },
+        {
+          "question": "Which order correctly shows increasing reducing power of halide ions?",
+          "correct": "F− < Cl− < Br− < I−",
+          "options": [
+            "F− < Cl− < Br− < I−",
+            "I− < Br− < Cl− < F−",
+            "Cl− < F− < Br− < I−",
+            "Br− < Cl− < I− < F−"
+          ]
+        },
+        {
+          "question": "Why does reducing power increase down Group 7?",
+          "correct": "The outer electron is further from the nucleus and more shielded",
+          "options": [
+            "The outer electron is further from the nucleus and more shielded",
+            "Nuclear charge decreases down the group",
+            "Halide ions gain extra electrons",
+            "The ions become less stable"
+          ]
+        },
+        {
+          "question": "Why are larger halide ions better reducing agents?",
+          "correct": "Their outer electrons are lost more easily due to weaker nuclear attraction",
+          "options": [
+            "Their outer electrons are lost more easily due to weaker nuclear attraction",
+            "They have higher electronegativity",
+            "They attract electrons more strongly",
+            "They have smaller ionic radii"
+          ]
+        },
+        {
+          "question": "What happens when solid sodium chloride reacts with concentrated sulfuric acid?",
+          "correct": "Steamy white fumes of hydrogen chloride are produced",
+          "options": [
+            "Steamy white fumes of hydrogen chloride are produced",
+            "Brown bromine vapour is produced",
+            "Black iodine forms",
+            "Sulfur dioxide gas is released"
+          ]
+        },
+        {
+          "question": "What type of reaction occurs between sodium chloride and concentrated sulfuric acid?",
+          "correct": "Acid–base reaction only",
+          "options": [
+            "Acid–base reaction only",
+            "Redox reaction only",
+            "Precipitation reaction",
+            "Disproportionation reaction"
+          ]
+        },
+        {
+          "question": "Why does no redox reaction occur when NaCl reacts with concentrated sulfuric acid?",
+          "correct": "Chloride ions are too weak to reduce sulfuric acid",
+          "options": [
+            "Chloride ions are too weak to reduce sulfuric acid",
+            "Sulfuric acid is not an oxidising agent",
+            "Chloride ions are oxidising agents",
+            "Hydrogen chloride prevents redox"
+          ]
+        },
+        {
+          "question": "What is the oxidation state of sulfur in sulfuric acid?",
+          "correct": "+6",
+          "options": [
+            "+6",
+            "+4",
+            "0",
+            "−2"
+          ]
+        },
+        {
+          "question": "What gas is produced when sodium fluoride reacts with concentrated sulfuric acid?",
+          "correct": "Hydrogen fluoride",
+          "options": [
+            "Hydrogen fluoride",
+            "Hydrogen chloride",
+            "Hydrogen bromide",
+            "Hydrogen iodide"
+          ]
+        },
+        {
+          "question": "Why is hydrogen fluoride particularly dangerous?",
+          "correct": "It is extremely corrosive and etches glass",
+          "options": [
+            "It is extremely corrosive and etches glass",
+            "It is radioactive",
+            "It forms explosive mixtures with air",
+            "It has a strong odour"
+          ]
+        },
+        {
+          "question": "What observations are seen when sodium bromide reacts with concentrated sulfuric acid?",
+          "correct": "Steamy HBr fumes, brown bromine vapour and sulfur dioxide",
+          "options": [
+            "Steamy HBr fumes, brown bromine vapour and sulfur dioxide",
+            "Only steamy white fumes",
+            "Black iodine and hydrogen sulfide smell",
+            "Yellow sulfur only"
+          ]
+        },
+        {
+          "question": "Why does a redox reaction occur with sodium bromide and sulfuric acid?",
+          "correct": "Bromide ions reduce sulfuric acid",
+          "options": [
+            "Bromide ions reduce sulfuric acid",
+            "Sulfuric acid reduces bromide ions",
+            "Bromide ions act as oxidising agents",
+            "No electrons are transferred"
+          ]
+        },
+        {
+          "question": "What oxidation state change does sulfur undergo in the bromide reaction?",
+          "correct": "+6 to +4",
+          "options": [
+            "+6 to +4",
+            "+4 to +6",
+            "0 to −2",
+            "+6 to 0"
+          ]
+        },
+        {
+          "question": "What oxidation state change does bromide undergo in the redox reaction?",
+          "correct": "−1 to 0",
+          "options": [
+            "−1 to 0",
+            "0 to −1",
+            "+1 to 0",
+            "−1 to −2"
+          ]
+        },
+        {
+          "question": "Why may bromine vapour be observed during the reaction with NaBr?",
+          "correct": "The reaction is exothermic and bromine vaporises",
+          "options": [
+            "The reaction is exothermic and bromine vaporises",
+            "Bromine has a low density",
+            "Bromine dissolves in sulfuric acid",
+            "Bromine reacts with air"
+          ]
+        },
+        {
+          "question": "What observations occur when sodium iodide reacts with concentrated sulfuric acid?",
+          "correct": "HI fumes, black iodine, hydrogen sulfide smell and possibly yellow sulfur",
+          "options": [
+            "HI fumes, black iodine, hydrogen sulfide smell and possibly yellow sulfur",
+            "Only steamy white fumes",
+            "Brown bromine vapour only",
+            "No visible reaction"
+          ]
+        },
+        {
+          "question": "Why are iodide ions able to reduce sulfuric acid further than bromide ions?",
+          "correct": "Iodide ions are much stronger reducing agents",
+          "options": [
+            "Iodide ions are much stronger reducing agents",
+            "Iodide ions are weaker reducing agents",
+            "Iodine has a smaller ionic radius",
+            "Sulfuric acid is weaker with iodide"
+          ]
+        },
+        {
+          "question": "Which oxidation states can sulfur reach when reacting with iodide ions?",
+          "correct": "+4, 0 and −2",
+          "options": [
+            "+4, 0 and −2",
+            "+6 only",
+            "+6 and +4 only",
+            "0 only"
+          ]
+        },
+        {
+          "question": "What key idea explains the variety of sulfur products in the iodide reaction?",
+          "correct": "Sulfur passes through multiple oxidation states during reduction",
+          "options": [
+            "Sulfur passes through multiple oxidation states during reduction",
+            "Sulfur does not undergo redox",
+            "Iodide is oxidised multiple times",
+            "Hydrogen ions control the reaction"
+          ]
+        },
+        {
+          "question": "What is the principle behind the silver nitrate test for halide ions?",
+          "correct": "Halide ions form insoluble silver halide precipitates with Ag+",
+          "options": [
+            "Halide ions form insoluble silver halide precipitates with Ag+",
+            "Halide ions form coloured solutions",
+            "Halide ions release gases",
+            "Halide ions change pH"
+          ]
+        },
+        {
+          "question": "Why does fluoride not form a precipitate with silver nitrate?",
+          "correct": "Silver fluoride is soluble",
+          "options": [
+            "Silver fluoride is soluble",
+            "Fluoride ions are not halides",
+            "Silver fluoride decomposes",
+            "Fluoride ions are oxidised"
+          ]
+        },
+        {
+          "question": "Why is dilute nitric acid added before silver nitrate?",
+          "correct": "To remove carbonate and hydroxide ions that would form unwanted precipitates",
+          "options": [
+            "To remove carbonate and hydroxide ions that would form unwanted precipitates",
+            "To neutralise halide ions",
+            "To produce silver ions",
+            "To oxidise the halide ions"
+          ]
+        },
+        {
+          "question": "Why is nitric acid used instead of hydrochloric or sulfuric acid?",
+          "correct": "HCl and H2SO4 would form precipitates that invalidate the test",
+          "options": [
+            "HCl and H2SO4 would form precipitates that invalidate the test",
+            "Nitric acid is stronger",
+            "Nitric acid is cheaper",
+            "Nitric acid acts as a catalyst"
+          ]
+        },
+        {
+          "question": "What colour precipitate forms with chloride ions in the silver nitrate test?",
+          "correct": "White",
+          "options": [
+            "White",
+            "Cream",
+            "Pale yellow",
+            "No precipitate"
+          ]
+        },
+        {
+          "question": "What colour precipitate indicates bromide ions?",
+          "correct": "Cream",
+          "options": [
+            "Cream",
+            "White",
+            "Pale yellow",
+            "Brown"
+          ]
+        },
+        {
+          "question": "What colour precipitate indicates iodide ions?",
+          "correct": "Pale yellow",
+          "options": [
+            "Pale yellow",
+            "White",
+            "Cream",
+            "Green"
+          ]
+        },
+        {
+          "question": "What happens to silver chloride when dilute ammonia is added?",
+          "correct": "It dissolves",
+          "options": [
+            "It dissolves",
+            "It remains insoluble",
+            "It turns yellow",
+            "It decomposes"
+          ]
+        },
+        {
+          "question": "How does silver bromide behave in ammonia solution?",
+          "correct": "It dissolves in concentrated ammonia only",
+          "options": [
+            "It dissolves in concentrated ammonia only",
+            "It dissolves in dilute ammonia",
+            "It does not dissolve in ammonia",
+            "It reacts violently"
+          ]
+        },
+        {
+          "question": "How does silver iodide behave in ammonia solution?",
+          "correct": "It is insoluble even in concentrated ammonia",
+          "options": [
+            "It is insoluble even in concentrated ammonia",
+            "It dissolves in dilute ammonia",
+            "It dissolves in concentrated ammonia",
+            "It reacts to form iodine"
+          ]
+        }
+      ],
+      "2.10.3. - Uses of Chlorine": [
+        {
+          "question": "Why can chlorine be used in water treatment despite being a toxic gas?",
+          "correct": "It is soluble in water, allowing controlled use for disinfection",
+          "options": [
+            "It is soluble in water, allowing controlled use for disinfection",
+            "It becomes non-toxic in water",
+            "It reacts only with metals",
+            "It forms insoluble compounds in water"
+          ]
+        },
+        {
+          "question": "What is the equation for the reaction of chlorine with water?",
+          "correct": "Cl2 + H2O ⇌ HClO + HCl",
+          "options": [
+            "Cl2 + H2O ⇌ HClO + HCl",
+            "Cl2 + 2H2O → 2HCl + O2",
+            "Cl2 + H2O → 2HClO",
+            "Cl2 + H2 → 2HCl"
+          ]
+        },
+        {
+          "question": "Which acids are formed when chlorine reacts with water?",
+          "correct": "Chloric(I) acid and hydrochloric acid",
+          "options": [
+            "Chloric(I) acid and hydrochloric acid",
+            "Chloric(V) acid and hydrochloric acid",
+            "Hypochlorous acid and sulfuric acid",
+            "Chlorous acid only"
+          ]
+        },
+        {
+          "question": "What type of reaction occurs when chlorine reacts with water?",
+          "correct": "Disproportionation",
+          "options": [
+            "Disproportionation",
+            "Neutralisation",
+            "Combination",
+            "Decomposition"
+          ]
+        },
+        {
+          "question": "What oxidation states does chlorine form in the reaction with water?",
+          "correct": "+1 and −1",
+          "options": [
+            "+1 and −1",
+            "0 and +1",
+            "+1 and +3",
+            "−1 and −3"
+          ]
+        },
+        {
+          "question": "Why is the reaction between chlorine and water classified as disproportionation?",
+          "correct": "Chlorine is both oxidised and reduced in the same reaction",
+          "options": [
+            "Chlorine is both oxidised and reduced in the same reaction",
+            "Chlorine reacts with oxygen only",
+            "Electrons are transferred to hydrogen only",
+            "The reaction occurs in steps"
+          ]
+        },
+        {
+          "question": "What is the main purpose of chloric(I) acid in water treatment?",
+          "correct": "It kills bacteria by oxidation",
+          "options": [
+            "It kills bacteria by oxidation",
+            "It neutralises acids",
+            "It precipitates metal ions",
+            "It increases water hardness"
+          ]
+        },
+        {
+          "question": "Why is chloric(I) acid an effective disinfectant?",
+          "correct": "It is a strong oxidising agent",
+          "options": [
+            "It is a strong oxidising agent",
+            "It is a strong reducing agent",
+            "It forms insoluble salts",
+            "It reacts slowly with water"
+          ]
+        },
+        {
+          "question": "What additional property allows chloric(I) acid to act as a bleaching agent?",
+          "correct": "Its ability to oxidise coloured substances",
+          "options": [
+            "Its ability to oxidise coloured substances",
+            "Its high acidity",
+            "Its low solubility",
+            "Its ability to form precipitates"
+          ]
+        },
+        {
+          "question": "How does the reaction of halogens with water change down Group 7?",
+          "correct": "The reaction becomes slower down the group",
+          "options": [
+            "The reaction becomes slower down the group",
+            "The reaction becomes faster down the group",
+            "The reaction stops completely",
+            "The reaction becomes explosive"
+          ]
+        },
+        {
+          "question": "What happens to chlorinated water when exposed to sunlight?",
+          "correct": "Chlorine is converted into hydrochloric acid and oxygen",
+          "options": [
+            "Chlorine is converted into hydrochloric acid and oxygen",
+            "Chlorine becomes more concentrated",
+            "Chloric(I) acid increases",
+            "Chlorine reacts with nitrogen"
+          ]
+        },
+        {
+          "question": "What is the equation for the photochemical reaction of chlorine in sunlight?",
+          "correct": "2Cl2 + 2H2O → 4HCl + O2",
+          "options": [
+            "2Cl2 + 2H2O → 4HCl + O2",
+            "Cl2 + H2O ⇌ HClO + HCl",
+            "2Cl2 → 4Cl− + O2",
+            "Cl2 + O2 → 2ClO"
+          ]
+        },
+        {
+          "question": "Why do outdoor swimming pools require frequent re-chlorination?",
+          "correct": "Sunlight removes chlorine through a photochemical reaction",
+          "options": [
+            "Sunlight removes chlorine through a photochemical reaction",
+            "Chlorine evaporates rapidly",
+            "Water dilutes the chlorine",
+            "Chlorine reacts with pool tiles"
+          ]
+        },
+        {
+          "question": "Why are sodium or calcium chlorate(I) used instead of chlorine gas in pools?",
+          "correct": "They safely produce chloric(I) acid when dissolved in water",
+          "options": [
+            "They safely produce chloric(I) acid when dissolved in water",
+            "They neutralise bacteria directly",
+            "They prevent oxygen formation",
+            "They reduce water acidity"
+          ]
+        },
+        {
+          "question": "What substance is responsible for disinfection when chlorate(I) compounds dissolve in water?",
+          "correct": "Chloric(I) acid",
+          "options": [
+            "Chloric(I) acid",
+            "Chloride ions",
+            "Sodium ions",
+            "Hydroxide ions"
+          ]
+        },
+        {
+          "question": "What equilibrium is established when sodium chlorate(I) dissolves in water?",
+          "correct": "NaClO + H2O ⇌ Na+ + OH− + HClO",
+          "options": [
+            "NaClO + H2O ⇌ Na+ + OH− + HClO",
+            "NaClO → Na+ + Cl− + O2",
+            "NaClO + HCl → NaCl + HClO",
+            "NaClO + H2O → NaOH + HCl"
+          ]
+        },
+        {
+          "question": "How does alkaline pH affect chlorinated pool water?",
+          "correct": "It reduces the amount of chloric(I) acid present",
+          "options": [
+            "It reduces the amount of chloric(I) acid present",
+            "It increases disinfecting power",
+            "It produces more chlorine gas",
+            "It forms hydrochloric acid"
+          ]
+        },
+        {
+          "question": "Why does alkaline solution reduce disinfecting ability?",
+          "correct": "HClO is converted into ClO− ions",
+          "options": [
+            "HClO is converted into ClO− ions",
+            "Chlorine is oxidised to Cl2",
+            "Hydrogen ions are removed",
+            "Chloride ions form precipitates"
+          ]
+        },
+        {
+          "question": "Why are swimming pools kept slightly acidic?",
+          "correct": "To maximise disinfecting ability while preventing corrosion and harm",
+          "options": [
+            "To maximise disinfecting ability while preventing corrosion and harm",
+            "To neutralise chlorine completely",
+            "To increase hydroxide concentration",
+            "To prevent oxygen formation"
+          ]
+        },
+        {
+          "question": "What happens when chlorine reacts with cold, dilute sodium hydroxide?",
+          "correct": "Sodium chlorate(I), sodium chloride and water are formed",
+          "options": [
+            "Sodium chlorate(I), sodium chloride and water are formed",
+            "Sodium chlorate(V) is formed",
+            "Only sodium chloride is produced",
+            "Chlorine gas is released"
+          ]
+        },
+        {
+          "question": "What is the equation for chlorine reacting with cold, dilute sodium hydroxide?",
+          "correct": "Cl2 + 2NaOH → NaClO + NaCl + H2O",
+          "options": [
+            "Cl2 + 2NaOH → NaClO + NaCl + H2O",
+            "Cl2 + NaOH → NaCl + H2O",
+            "Cl2 + 2NaOH → NaClO3 + NaCl",
+            "Cl2 + H2O → HCl + HClO"
+          ]
+        },
+        {
+          "question": "Why is the reaction between chlorine and sodium hydroxide a disproportionation reaction?",
+          "correct": "Chlorine is oxidised to +1 and reduced to −1",
+          "options": [
+            "Chlorine is oxidised to +1 and reduced to −1",
+            "Chlorine only gains electrons",
+            "Chlorine only loses electrons",
+            "Chlorine does not change oxidation state"
+          ]
+        },
+        {
+          "question": "What is the oxidation state of chlorine in chlorate(I) ions?",
+          "correct": "+1",
+          "options": [
+            "+1",
+            "−1",
+            "+5",
+            "0"
+          ]
+        },
+        {
+          "question": "What is the main use of sodium chlorate(I)?",
+          "correct": "As an oxidising agent in household bleach",
+          "options": [
+            "As an oxidising agent in household bleach",
+            "As a fertiliser",
+            "As a reducing agent",
+            "As a drying agent"
+          ]
+        },
+        {
+          "question": "How does the reactivity of halogens with alkalis change down the group?",
+          "correct": "Reactivity decreases down the group",
+          "options": [
+            "Reactivity decreases down the group",
+            "Reactivity increases down the group",
+            "Reactivity remains constant",
+            "Reactivity becomes unpredictable"
+          ]
+        }
+      ]
     }
   }
 }
